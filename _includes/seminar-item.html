@@ -1,0 +1,8 @@
+<li>
+    <p class="h5">{{ include.seminar.title }}</p>
+    <p class="lead">
+        <i data-feather="mic"></i>{{ include.seminar.speacker }}
+        <i data-feather="map-pin"></i>{{ include.seminar.location }}
+        <i data-feather="clock"></i><time datetime="{{ include.seminar.date }}">{{ include.seminar.date | date: "%a, %b %d, %y, %I:%M %p %Z" }}</time>
+    </p>
+</li>

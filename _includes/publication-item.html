@@ -1,0 +1,37 @@
+<li>
+    <p class="lead">
+        {% for name in include.bib.author %}
+            {% if nmae.literal %}
+                {{- name.literal -}},
+            {% else %}
+                {{ name.given }} {{ name.family }},
+            {% endif %}
+        {% endfor %}
+
+        "{{ include.bib.title }}"
+
+        {%- if include.bib.publisher -%}
+            , {{ include.bib.publisher }}
+        {%- endif -%}
+
+        {%- if include.bib.container-title -%}
+            , {{ include.bib.container-title }}
+        {%- endif -%}
+
+        {%- if include.bib.volume -%}
+            , Vol.{{ include.bib.volume }}
+        {%- endif -%}
+
+        {%- if include.bib.issue -%}
+            , Issue {{ include.bib.issue }}
+        {%- endif -%}
+
+        , {{ include.bib.issued.date-parts[0][0] }}
+
+        {%- if include.bib.page -%}
+            , pp.{{ include.bib.page }}
+        {%- endif -%}
+        
+        .
+    </p>
+</li>

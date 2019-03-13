@@ -1,0 +1,105 @@
+---
+layout: default
+---
+<div id="page-home">
+
+    <header id="header" class="min-vh-100 no-user-select snap-holder">
+        <div class="overlay"></div>
+        <video autoplay="autoplay" muted="muted" loop="loop" src="/assets/videos/server_room.mp4">
+        </video>
+    </header>
+
+    <main id="main" class="min-vh-100 snap-holder">
+        <div class="content container">
+            {{ content }}
+        </div>
+    </main>
+
+    <div id="main-name" class="container no-user-select">
+        <div class="h-100 text-center align-items-center">
+            <div class="w-100 text-while">
+                <h1 class="display-1">D & C<br>L A B</h1>
+                <p class="lead">Distributed & Cloud Computing Lab</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<script>
+    $(function () {
+        var $trg = $('html, body');
+        var $mainName = $('#main-name');
+        var $window = $(window);
+        var lastScrollTop = $window.scrollTop();
+        var bp = $window.height();
+        var cw = $window.width();
+        var BP_SM = 576;
+        var isEnabled = true;
+        var isInProgress = false;
+
+        if (cw < BP_SM) {
+            isEnabled = false;
+        } else if ($window.scrollTop() >= $('#header').height()) {
+            $mainName.addClass("active");
+        }
+
+        $window.on('resize', function () {
+            cw = $window.width();
+            if (cw < BP_SM) {
+                $mainName.removeClass("active");
+                isEnabled = false;
+            } else if (!isEnabled) {
+                isEnabled = true;
+            }
+        })
+
+        function done() {
+            setTimeout(function () {
+                $window.stop().clearQueue();
+                lastScrollTop = $window.scrollTop();
+                isInProgress = false;
+            }, 100);
+        }
+
+        function goUp(st) {
+            if (st > bp) {
+                done();
+                return;
+            }
+            $mainName.removeClass("active");
+            $trg.stop().animate({ scrollTop: 0 }, 500, done);
+        }
+
+        function goDown(st) {
+            if (st > bp) {
+                done();
+                return
+            }
+            $mainName.addClass("active");
+            $trg.stop().animate({ scrollTop: bp }, 500, done);
+
+        }
+
+        $window.scroll(function (e) {
+            if (isInProgress) {
+                e.preventDefault();
+                return;
+            }
+
+            if (!isEnabled) {
+                return;
+            }
+
+            isInProgress = true;
+            var st = $window.scrollTop();
+            if (st <= lastScrollTop) {
+                goUp(st);
+            } else {
+                goDown(st);
+            }
+        });
+    });
+</script>
+
+{% include footer.html %}

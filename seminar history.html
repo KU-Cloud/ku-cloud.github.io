@@ -1,0 +1,25 @@
+---
+layout: page
+permalink: /seminar/history
+---
+
+<div class="content container">
+    {% assign seminars = site.data.seminars | reverse %}
+    {% assign year = seminars[0].date | date: "%Y" %}
+    <h6>{{ year }}</h6>
+    <ul class="list-unstyled">
+        {% for seminar in seminars %}
+            {% assign y = seminar.date | date: "%Y" %}
+            {% if y == year %}
+                {% include seminar-item.html seminar=seminar %}
+            {% else %}
+                {% assign year = y %}
+    </ul>
+    
+    <h6>{{ year }}</h6>
+    <ul class="list-unstyled">
+                {% include seminar-item.html seminar=seminar %}
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>

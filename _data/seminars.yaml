@@ -1,0 +1,545 @@
+---
+- title: A Multi-Objective Optimization Scheduling Method Based on the Ant Colony Algorithm in Cloud Computing
+  speacker: 문영주
+  date: 2014-01-01T19:00:00.000+0900
+  location: 라이시움 408호
+- title: VOCL - An Optimized Environment for Transparent Virtualization of Graphics Processing Units
+  speacker: 강지훈
+  date: 2014-03-28T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Exploiting Joint WifiBluetooth Trace to Predict People Movement
+  speacker: 송성진
+  date: 2014-04-04T19:00:00.000+0900
+  location: 라이시움 408호
+- title: The Weighted Byzantine Agreement Problem
+  speacker: 임종범
+  date: 2014-04-11T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Server consolidation with migration control for virtualized data centers
+  speacker: 최희석
+  date: 2014-04-18T19:00:00.000+0900
+  location: 라이시움 408호
+- title: A Virtualized Separation Kernel for Mixed Criticality Systems
+  speacker: 유태묵
+  date: 2014-05-02T19:00:00.000+0900
+  location: 라이시움 408호
+- title: 'KMA: A Dynamic Memory Manager for OpenCL'
+  speacker: 강지훈
+  date: 2014-05-09T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Applicability of GPGPU Computing to Real Time AI Solutions in Games
+  speacker: 송성진
+  date: 2014-05-16T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Order-Preserving Renaming in Synchronous Systems with Byzantine Faults
+  speacker: 임종범
+  date: 2014-05-30T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Scientific Workflow Applications on Amazon EC2
+  speacker: 정대용
+  date: 2014-06-20T19:00:00.000+0900
+  location: 라이시움 408호
+- title: A multi-objective ant colony system algorithm for virtual machine placement in cloud computing
+  speacker: 최희석
+  date: 2014-06-23T19:00:00.000+0900
+  location: 라이시움 408호
+- title: RT-Xen Towards Real-time Hypervisor Scheduling in Xen
+  speacker: 유태묵
+  date: 2014-07-04T19:00:00.000+0900
+  location: 라이시움 408호
+- title: An Improved Xen Credit Scheduler for IO Latency-Sensitive Applications on Multicores
+  speacker: 강지훈
+  date: 2014-07-11T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Optimation of Xen scheduler for multitasking
+  speacker: 송성진
+  date: 2014-07-18T19:00:00.000+0900
+  location: 라이시움 408호
+- title: A Survey on Cloud Computing
+  speacker: 명노영
+  date: 2014-08-22T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Optimized Hypervisor Scheduler for Parallel Discrete Event Simulations on Virtual Machine Platforms
+  speacker: 문영주
+  date: 2014-08-29T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Energy-aware Load Balancing Policies for the Cloud Ecosystem
+  speacker: 최희석
+  date: 2014-09-12T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Scheduling para-virtualized virtual machines based on events
+  speacker: 유태묵
+  date: 2014-09-26T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Prioritizing Local Inter-Domain Communication in Xen
+  speacker: 강지훈
+  date: 2014-10-10T19:00:00.000+0900
+  location: 라이시움 408호
+- title: 'VGRIS: virtualized GPU resource isolation and scheduling in cloud gaming'
+  speacker: 송성진
+  date: 2014-10-31T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Workflow Clustering Method Based on Process Similarity
+  speacker: 명노영
+  date: 2014-11-07T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Energy-credit scheduler; An energy-aware virtual machine scheduler for cloud systems
+  speacker: 문영주
+  date: 2014-11-14T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Scheduling overcommitted VM Behavior monitoring and dynamic switching frequency scaling
+  speacker: 유태묵
+  date: 2014-11-21T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Energy-efficiency enhanced virtual machine scheduling policy for mixed workloads in cloud environments
+  speacker: 최희석
+  date: 2014-12-05T19:00:00.000+0900
+  location: 라이시움 408호
+- title: A Full GPU Virtualization Solution with Mediated Pass-Through
+  speacker: 강지훈
+  date: 2014-12-12T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Workload-Aware Credit Scheduler for Improving Network IO Performance in Virtualization Environment
+  speacker: 송성진
+  date: 2015-01-09T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Using Imbalance Metrics to Optimize Task Clustering in Scientific Workflow Execution
+  speacker: 명노영
+  date: 2015-03-06T19:00:00.000+0900
+  location: 라이시움 408호
+- title: VUPIC - Virtual Machine Usage Based Placement in IaaS Cloud
+  speacker: 문영주
+  date: 2015-03-13T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Dynamic Virtual Machine Migration Algorithms Using Enhanced Energy Consumption Model for Green Cloud Data Centers
+  speacker: 최희석
+  date: 2015-03-20T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Towards Fair and Efficient SMP Virtual Machine Scheduling
+  speacker: 유태묵
+  date: 2015-03-27T19:00:00.000+0900
+  location: 라이시움 408호
+- title: 'iTune: Engineering the Performance of Xen Hypervisor via Autonomous'
+  speacker: 강지훈
+  date: 2015-04-03T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Improving the Time of Live Migration Virtual Machine by Optimized Algorithm Scheduler Credit
+  speacker: 송성진
+  date: 2015-04-10T19:00:00.000+0900
+  location: 라이시움 408호
+- title: A survey on resource allocation in high performance distributed computing systems
+  speacker: 명노영
+  date: 2015-04-17T19:00:00.000+0900
+  location: 라이시움 408호
+- title: A design space for dynamic service level agreements in OpenStack
+  speacker: 문영주
+  date: 2015-05-01T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Towards Efficient Work-stealing in Virtualized Environments
+  speacker: 유태묵
+  date: 2015-05-29T19:00:00.000+0900
+  location: 라이시움 408호
+- title: 'v Slicer: latency-aware virtual machine scheduling via differentiated-frequency CPU slicing'
+  speacker: 강지훈
+  date: 2015-06-05T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Poris - A Scheduler for Parallel Soft Real-Time Applications in Virtualized Environments
+  speacker: 송성진
+  date: 2015-06-19T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Automated Synthesis and Deployment of Cloud Applications
+  speacker: 명노영
+  date: 2015-06-26T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Performance-to-Power Ratio Aware Virtual Machine (VM) Allocation in Energy-Efficient Clouds
+  speacker: 최희석
+  date: 2015-08-07T19:00:00.000+0900
+  location: 라이시움 408호
+- title: A Decentralized Multi-agent Approach to Job Scheduling in Cloud Environment
+  speacker: 문영주
+  date: 2015-08-21T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Real-Time Multi-Core Virtual Machine Scheduling in Xen
+  speacker: 유태묵
+  date: 2015-08-28T19:00:00.000+0900
+  location: 라이시움 408호
+- title: IO Paravirtualization at the Device File Boundary
+  speacker: 강지훈
+  date: 2015-09-04T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Tool support for automated workload model creation from web server logs
+  speacker: 명노영
+  date: 2015-09-11T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Job Scheduling for Cloud Computing Integrated with Wireless Sensor Network
+  speacker: 문영주
+  date: 2015-09-25T19:00:00.000+0900
+  location: 라이시움 408호
+- title: OpenMP task scheduling strategies for multicore NUMA systems
+  speacker: 송충건
+  date: 2015-10-16T19:00:00.000+0900
+  location: 라이시움 408호
+- title: An Adaptive IO Prefetching Approach for Virtualized Data Centers
+  speacker: 송성진
+  date: 2015-11-06T19:00:00.000+0900
+  location: 라이시움 408호
+- title: 'aDock: A Cloud Infrastructure Experimentation Environment based on OpenStack and Docker'
+  speacker: 최성민
+  date: 2015-11-13T19:00:00.000+0900
+  location: 라이시움 408호
+- title: A solution of dynamic VMs placement problem for energy consumption optimization based on evolutionary game theory
+  speacker: 최희석
+  date: 2015-11-20T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Optimizing Soft Real-Time Scheduling Performance for Virtual Machines with SRT-Xen
+  speacker: 유태묵
+  date: 2015-11-27T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Boosting GPU Virtualization Performance with Hybrid Shadow Page Tables
+  speacker: 강지훈
+  date: 2015-12-04T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Activity recogntion on streaming sensor data
+  speacker: 명노영
+  date: 2016-01-08T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Dynamic Scheduling and Pricing in Wireless Cloud Computing
+  speacker: 문영주
+  date: 2016-01-15T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Analysis of the Impact of CPU Virtualization on Parallel Applications in Xen
+  speacker: 송충건
+  date: 2016-01-22T19:00:00.000+0900
+  location: 라이시움 408호
+- title: REST Service Framework for Fine-Grained Resource Management in Container-Based Cloud
+  speacker: 최성민
+  date: 2016-02-05T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Resource preprocessing and optimal task scheduling in cloud computing environments
+  speacker: 문영주
+  date: 2016-03-04T19:00:00.000+0900
+  location: 라이시움 408호
+- title: 'GPUvm: Why Not Virtualizing GPUs at the Hypervisor'
+  speacker: 강지훈
+  date: 2016-03-11T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Optimization of virtual resource management for cloud applications to cope with traffic burst
+  speacker: 최희석
+  date: 2016-03-18T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Scheduling parallel jobs with tentative runs and consolidation in the cloud
+  speacker: 송충건
+  date: 2016-04-01T19:00:00.000+0900
+  location: 라이시움 408호
+- title: DocLite- A Docker-Based Lightweight Cloud Benchmarking Tool
+  speacker: 최성민
+  date: 2016-04-08T19:00:00.000+0900
+  location: 라이시움 408호
+- title: GPUswap - Enabling Oversubscription of GPU Memory through Transparent Swapping
+  speacker: 강지훈
+  date: 2016-04-15T19:00:00.000+0900
+  location: 라이시움 408호
+- title: A Priority-Based Scheduling Heuristic to Maximize Parallelism of Ready Tasks for DAG Applications
+  speacker: 문영주
+  date: 2016-05-27T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Fast and reliable restoration method of virtual resources on OpenStack
+  speacker: 최희석
+  date: 2016-06-03T19:00:00.000+0900
+  location: 라이시움 408호
+- title: A Hybrid Approach To Processing Big Data Graphs on Memory-Restricted Systems
+  speacker: 명노영
+  date: 2016-06-17T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Service Clustering for Autonomic Clouds Using Random Forest
+  speacker: 송충건
+  date: 2016-06-24T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Contiguity and Locality in Backfilling Scheduling
+  speacker: 최성민
+  date: 2016-07-08T19:00:00.000+0900
+  location: 라이시움 408호
+- title: MVAPICH2 over OpenStack with SR-IOV An Efficient Approach to Build HPC Clouds
+  speacker: 최희석
+  date: 2016-07-15T19:00:00.000+0900
+  location: 라이시움 408호
+- title: gScale - Scaling up GPU Virtualization with Dynamic Sharing of Graphics Memory Space
+  speacker: 강지훈
+  date: 2016-08-05T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Automating Model Search for Large Scale Machine Learning
+  speacker: 명노영
+  date: 2016-08-12T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Improved auto control ant colony optimization using lazy ant approach for grid scheduling problem
+  speacker: 문영주
+  date: 2016-08-19T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Prediction mechanisms for monitoring state of cloud resources using Markov chain model
+  speacker: 송충건
+  date: 2016-08-26T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Toward Locality-aware Scheduling for Containerized Cloud Services
+  speacker: 최성민
+  date: 2016-09-02T19:00:00.000+0900
+  location: 라이시움 408호
+- title: A Preemptive Execution System for GPGPU Computing
+  speacker: 강지훈
+  date: 2016-09-23T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Faster Jobs in Distributed Data Processing using Multi-Task Learning​
+  speacker: 명노영
+  date: 2016-10-07T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Controlling the deployment of virtual machines on clusters and clouds for scientific computing in CBRAIN
+  speacker: 송충건
+  date: 2016-10-14T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Service Level and Performance Aware Dynamic Resource Allocation in Overbooked Data Centers
+  speacker: 최성민
+  date: 2016-11-11T19:00:00.000+0900
+  location: 라이시움 408호
+- title: 'AutoElastic: Automatic Resource Elasticity for High Performance Applications in the Cloud'
+  speacker: 최희석
+  date: 2016-11-18T19:00:00.000+0900
+  location: 라이시움 408호
+- title: PriDyn - Enabling Differentiated IO Services in Cloud Using Dynamic Priorities
+  speacker: 강지훈
+  date: 2016-12-02T19:00:00.000+0900
+  location: 라이시움 408호
+- title: u-root. A Go-based. Firmware Embeddable Root File System with On-Demand Compilation
+  speacker: 이슬기
+  date: 2016-12-09T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Mobile Big Data Analytics Using Deep Learning and Apache Spark
+  speacker: 명노영
+  date: 2016-12-23T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Rich feature hierarchies for accurate object detection and semantic segmentation
+  speacker: 문영주
+  date: 2017-01-13T19:00:00.000+0900
+  location: 라이시움 408호
+- title: 'vProbe: Scheduling Virtual Machines on NUMA Systems'
+  speacker: 송충건
+  date: 2017-01-20T19:00:00.000+0900
+  location: 라이시움 408호
+- title: 'FemtoClouds: Leveraging Mobile Devices to Provide Cloud Service at the Edge'
+  speacker: 박봉우
+  date: 2017-02-03T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Resource-aware hybrid scheduling algorithm in heterogeneous distributed computing
+  speacker: 최희석
+  date: 2017-02-10T19:00:00.000+0900
+  location: 라이시움 408호
+- title: A user mode CPU–GPU scheduling framework for hybrid workloads
+  speacker: 강지훈
+  date: 2017-02-17T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Spark versus Flink Understanding Performance in Big Data Analytics Frameworks
+  speacker: 명노영
+  date: 2017-03-03T19:00:00.000+0900
+  location: 라이시움 408호
+- title: 'vScale: Automatic and Efficient Processor Scaling for SMP Virtual Machines'
+  speacker: 송충건
+  date: 2017-03-10T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Analysis, Modeling, and Simulation of Hadoop YARN MapReduce
+  speacker: 박봉우
+  date: 2017-03-17T19:00:00.000+0900
+  location: 라이시움 408호
+- title: A lightweight plug-and-play elasticity service for self-organizing resource provisioning on parallel applications
+  speacker: 최희석
+  date: 2017-03-24T19:00:00.000+0900
+  location: 라이시움 408호
+- title: A Cloud Gaming System Based on User-Level Virtualization and Its Resource Scheduling
+  speacker: 강지훈
+  date: 2017-04-07T19:00:00.000+0900
+  location: 라이시움 408호
+- title: 'CHOPPER: Optimizing Data Partitioning for In-Memory Data Analytics Frameworks'
+  speacker: 명노영
+  date: 2017-04-14T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Decentralised workflow scheduling in volunteer computing systems
+  speacker: 송충건
+  date: 2017-04-21T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Boosting gLite with cloud augmented volunteer computing
+  speacker: 박봉우
+  date: 2017-05-19T19:00:00.000+0900
+  location: 라이시움 408호
+- title: KeystoneML Optimizing Pipelines for Large Scale Advanced Analytics
+  speacker: 명노영
+  date: 2017-05-26T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Use of Reactive and Proactive Elasticity to Adjust Resources Provisioning in the Cloud Provider
+  speacker: 최희석
+  date: 2017-06-09T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Application-specific quantum for multi-core platform scheduler
+  speacker: 최희석
+  date: 2017-06-16T19:00:00.000+0900
+  location: 라이시움 408호
+- title: 'CloudTalk: Enabling Distributed Application Optimisations in Public Clouds'
+  speacker: 송충건
+  date: 2017-06-30T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Distributed volunteer computing for solving ensemble learning problems
+  speacker: 박봉우
+  date: 2017-07-07T19:00:00.000+0900
+  location: 라이시움 408호
+- title: 'LoGA: Low-overhead GPU accounting using events'
+  speacker: 강지훈
+  date: 2017-07-21T19:00:00.000+0900
+  location: 라이시움 408호
+- title: 'Ernest: Efficient Performance Prediction for Large-Scale Advanced Analytics'
+  speacker: 명노영
+  date: 2017-07-28T19:00:00.000+0900
+  location: 라이시움 408호
+- title: A Reliable Volunteer Computing System with Credibility-based Voting
+  speacker: 송충건
+  date: 2017-08-04T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Representing Job Scheduling for Volunteer Grid Environment using Online Container Stowage
+  speacker: 박봉우
+  date: 2017-08-11T19:00:00.000+0900
+  location: 라이시움 408호
+- title: 'CtrlCloud: Performance-Aware Adaptive Control for Shared Resources in Clouds'
+  speacker: 송충건
+  date: 2017-10-20T19:00:00.000+0900
+  location: 라이시움 408호
+- title: A framework to address inconstant user requirements in cloud SLAs management
+  speacker: 이재혁
+  date: 2017-11-10T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Matrix Computations and Optimization in Apache Spark
+  date: 2017-11-24T19:00:00.000+0900
+  location: 라이시움 408호
+  speacker: 명노영
+- title: Cloud Resource Management With Turnaround Time Driven Auto-Scaling
+  date: 2018-01-05T19:00:00.000+0900
+  speacker: 최희석
+  location: 라이시움 408호
+- title: Efficient consolidation-aware VCPU scheduling on multicore virtualization platform
+  date: 2018-01-12T19:00:00.000+0900
+  speacker: 박봉우
+  location: 라이시움 408호
+- title: SLA-Based Resource Scheduling for Big Data Analytics as a Service in Cloud Computing Environements
+  date: 2018-01-19T19:00:00.000+0900
+  speacker: 이재혁
+  location: 라이시움 408호
+- title: Raccoon
+  date: 2018-01-26T19:00:00.000+0900
+  speacker: 이재학
+  location: 라이시움 408호
+- title: 'EAERS: An Enhanced Version of Autonomic and Elastic Resource Scheduling Framework for Cloud Applications'
+  date: 2018-02-02T19:00:00.000+0900
+  speacker: 최희석
+  location: 라이시움 408호
+- title: Doris, An Adaptive Soft Real-Time Scheduler in Virtualized Environments
+  date: 2018-02-09T19:00:00.000+0900
+  speacker: 강지훈
+  location: 라이시움 408호
+- title: TensorFlow A system for large-scale machine learning
+  date: 2018-04-06T19:00:00.000+0900
+  speacker: 명노영
+  location: 라이시움 408호
+- title: 'ppXen: A hypervisor CPU scheduler for mitigating performance variability in virtualized clouds'
+  date: 2018-04-13T19:00:00.000+0900
+  speacker: 박봉우
+  location: 라이시움 408호
+- title: 'RTVirt: Enabling Time-sensitive Computing on Virtualized Systems through Cross-layer CPU Scheduling'
+  date: 2018-05-04T19:00:00.000+0900
+  speacker: 이재학
+  location: 라이시움 408호
+- title: Resource-aware virtual machine migration in IoT cloud
+  date: 2018-05-18T19:00:00.000+0900
+  speacker: 최희석
+  location: 라이시움 408호
+- title: 'FairGV: Fair and Fast GPU Virtualization'
+  date: 2018-05-25T19:00:00.000+0900
+  speacker: 강지훈
+  location: 라이시움 408호
+- title: I/O Congestion-Aware Computing Resource Assignment and Scheduling in Virtualized Cloud Environments
+  date: 2018-06-08T19:00:00.000+0900
+  speacker: 박봉우
+  location: 라이시움 408호
+- title: Tableau
+  date: 2018-07-06T19:00:00.000+0900
+  speacker: 이재학
+  location: 라이시움 408호
+- title: A load-aware resource allocation and task scheduling for the emerging cloudlet system
+  date: 2018-07-13T19:00:00.000+0900
+  speacker: 이재학
+  location: 라이시움 408호
+- title: Efficient Service Handoff Across Edge Servers via Docker Container Migration
+  date: 2018-07-27T19:00:00.000+0900
+  speacker: 장준범
+  location: 라이시움 408호
+- title: Learning-Based Memory Allocation Optimization for Delay-Sensitive Big Data Processing
+  date: 2018-08-03T19:00:00.000+0900
+  speacker: 명노영
+  location: 라이시움 408호
+- title: Deploying High Throughput Scientific Workflows on Container Schedulers with Makeflow and Mesos
+  date: 2018-08-10T19:00:00.000+0900
+  speacker: 권민수
+  location: 라이시움 408호
+- title: Large-scale cluster management at Google with Borg
+  date: 2018-08-17T19:00:00.000+0900
+  speacker: 황승현
+  location: 라이시움 408호
+- title: Enhancing performance of IoT applications with load prediction and cloud elasticity
+  date: 2018-08-24T19:00:00.000+0900
+  speacker: 최희석
+  location: 라이시움 408호
+- title: Efficient Sharing and Fine-Grained Scheduling of Virtualized GPU Resources
+  date: 2018-08-31T19:00:00.000+0900
+  speacker: 강지훈
+  location: 라이시움 408호
+- title: Re-optimizing Data-Parallel Computing
+  date: 2018-09-07T19:00:00.000+0900
+  speacker: 명노영
+  location: 라이시움 408호
+- title: Smart VM co-scheduling with the precise prediction of performance characteristics
+  date: 2018-09-14T19:00:00.000+0900
+  speacker: 박봉우
+  location: 라이시움 408호
+- title: An accurate resource scheduling system for virtual machines based on CPU load monitoring and assessment
+  date: 2018-09-28T19:00:00.000+0900
+  speacker: 이재학
+  location: 라이시움 408호
+- title: Container-Based Cloud Platform for Mobile Computation Offloading
+  date: 2018-10-12T19:00:00.000+0900
+  speacker: 장준범
+  location: 라이시움 408호
+- title: 'DMPO: Dynamic mobility-aware partial offloading in mobile edge computing'
+  date: 2018-12-14T19:00:00.000+0900
+  speacker: 최희석
+  location: 라이시움 408호
+- title: A Virtual Multi-Channel GPU Fair Scheduling Method for Virtual Machines
+  date: 2019-01-04T19:00:00.000+0900
+  speacker: 강지훈
+  location: 라이시움 408호
+- title: Riffle Optimized Shuffle Service for Large-Scale Data Analytics
+  date: 2019-01-11T19:00:00.000+0900
+  speacker: 명노영
+  location: 라이시움 408호
+- title: Dynamic Control of CPU Usage in a Lambda Platform
+  speacker: 이재학
+  date: 2019-01-18T19:00:00.000+0900
+  location: 라이시움 408호
+- title: Recovery for overloaded mobile edge computing
+  date: 2019-01-25T19:00:00.000+0900
+  speacker: 장준범
+  location: 라이시움 408호
+- title: 'Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains'
+  date: 2019-02-15T19:00:00.000+0900
+  speacker: 권민수
+  location: 라이시움 408호
+- title: 'SOCK: Rapid Task Provisioning with Serverless-Optimized Containers'
+  date: 2019-02-15T19:00:00.000+0900
+  speacker: 황승현
+  location: 라이시움 408호
+- title: 'A scheduling algorithm for autonomous driving tasks on mobile edge computing servers'
+  date: 2019-03-15T19:00:00.000+0900
+  speacker: 최희석
+  location: 라이시움 408호

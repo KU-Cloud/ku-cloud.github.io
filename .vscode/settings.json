@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "node_modules": true,
+        ".sass-cache": true
+    },
+    "scss.validate": false
+}

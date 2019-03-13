@@ -1,0 +1,1413 @@
+[
+  {
+    "author": [
+      {
+        "given": "Jinho",
+        "family": "Ahn"
+      },
+      {
+        "given": "Sung-Gi",
+        "family": "Min"
+      },
+      {
+        "given": "Chong-Sun",
+        "family": "Hwang"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "title": "Efficient Garbage Collection Schemes for Causal Message Logging with Independent Checkpointing",
+    "container-title": "The Journal of Supercomputing",
+    "volume": "22",
+    "issue": "2",
+    "page": "175-196",
+    "ISSN": "1573-0484",
+    "DOI": "10.1023/A:1014978702504",
+    "URL": "https://doi.org/10.1023/A:1014978702504",
+    "type": "article-journal",
+    "citation-label": "ahn2002efficient",
+    "id": "ahn2002efficient",
+    "year-suffix": "efficient",
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          6,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "MaengSoon",
+        "family": "BAIK"
+      },
+      {
+        "given": "SungJin",
+        "family": "CHOI"
+      },
+      {
+        "given": "ChongSun",
+        "family": "HWANG"
+      },
+      {
+        "given": "JoonMin",
+        "family": "GIL"
+      },
+      {
+        "given": "ChanYeol",
+        "family": "PARK"
+      },
+      {
+        "given": "HeonChang",
+        "family": "YOO"
+      }
+    ],
+    "title": "Ω Line Problem in Optimistic Log-Based Rollback Recovery Protocol",
+    "container-title": "IEICE transactions on information and systems",
+    "ISSN": "09168532",
+    "publisher": "The Institute of Electronics, Information and Communication Engineers",
+    "volume": "87",
+    "issue": "7",
+    "page": "1834-1842",
+    "URL": "https://ci.nii.ac.jp/naid/110003214068/en/",
+    "DOI": "",
+    "type": "article-journal",
+    "citation-label": "baik2004line",
+    "id": "baik2004line",
+    "year-suffix": "line",
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "SungHo",
+        "family": "Chin"
+      },
+      {
+        "given": "Taeweon",
+        "family": "Suh"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "page": "1-6",
+    "title": "Genetic Algorithm Based Scheduling Method for Efficiency and Reliability in Mobile Grid",
+    "container-title": "Proceedings of the 4th International Conference on Ubiquitous Information Technologies and Applications, ICUT 2009",
+    "DOI": "10.1109/ICUT.2009.5405741",
+    "type": "article-journal",
+    "citation-label": "chin2009genetic",
+    "id": "chin2009genetic",
+    "year-suffix": "genetic",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "Sung Ho",
+        "family": "Chin"
+      },
+      {
+        "given": "Taeweon",
+        "family": "Suh"
+      },
+      {
+        "given": "Heon Chang",
+        "family": "Yu"
+      }
+    ],
+    "title": "Adaptive Service Scheduling for Workflow Applications in Service-Oriented Grid",
+    "container-title": "J. Supercomput.",
+    "volume": "52",
+    "issue": "3",
+    "ISSN": "0920-8542",
+    "page": "253-283",
+    "number-of-pages": "31",
+    "URL": "http://dx.doi.org/10.1007/s11227-009-0290-9",
+    "DOI": "10.1007/s11227-009-0290-9",
+    "publisher": "Kluwer Academic Publishers",
+    "publisher-place": "Hingham, MA, USA",
+    "type": "article-journal",
+    "citation-label": "chin2010adaptive",
+    "id": "chin2010adaptive",
+    "year-suffix": "adaptive",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "SungJin",
+        "family": "Choi"
+      },
+      {
+        "given": "MaengSoon",
+        "family": "Baik"
+      },
+      {
+        "given": "ChongSun",
+        "family": "Hwang"
+      },
+      {
+        "given": "JoonMin",
+        "family": "Gil"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      }
+    ],
+    "title": "Mobile Agent Based Adaptive Scheduling Mechanism in Peer to Peer Grid Computing",
+    "container-title": "Proceedings of the 2005 International Conference on Computational Science and Its Applications - Volume Part IV",
+    "collection-title": "ICCSA'05",
+    "ISBN": "3-540-25863-9, 978-3-540-25863-6",
+    "publisher-place": "Berlin, Heidelberg",
+    "page": "936-947",
+    "number-of-pages": "12",
+    "URL": "http://dx.doi.org/10.1007/11424925_98",
+    "DOI": "10.1007/11424925_98",
+    "publisher": "Springer-Verlag",
+    "type": "paper-conference",
+    "citation-label": "choi2005mobile",
+    "id": "choi2005mobile",
+    "year-suffix": "mobile",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "SookKyong",
+        "family": "Choi"
+      },
+      {
+        "given": "JongHyuk",
+        "family": "Lee"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      },
+      {
+        "given": "Hwamin",
+        "family": "Lee"
+      }
+    ],
+    "editor": [
+      {
+        "given": "Tai-hoon",
+        "family": "Kim"
+      },
+      {
+        "given": "Hojjat",
+        "family": "Adeli"
+      },
+      {
+        "given": "Hyun-seob",
+        "family": "Cho"
+      },
+      {
+        "given": "Osvaldo",
+        "family": "Gervasi"
+      },
+      {
+        "given": "Stephen S.",
+        "family": "Yau"
+      },
+      {
+        "given": "Byeong-Ho",
+        "family": "Kang"
+      },
+      {
+        "given": "Javier García",
+        "family": "Villalba"
+      }
+    ],
+    "title": "Replication and Checkpoint Schemes for Task-Fault Tolerance in Campus-Wide Mobile Grid",
+    "container-title": "Grid and Distributed Computing",
+    "publisher": "Springer Berlin Heidelberg",
+    "publisher-place": "Berlin, Heidelberg",
+    "page": "455-467",
+    "ISBN": "978-3-642-27180-9",
+    "type": "paper-conference",
+    "citation-label": "choi2011replication",
+    "id": "choi2011replication",
+    "year-suffix": "replication",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Fault tolerance technique using replication and checkpoint in mobile grid",
+    "author": [
+      {
+        "given": "SookKyong",
+        "family": "Choi"
+      },
+      {
+        "given": "JongHyuk",
+        "family": "Lee"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+      {
+        "given": "HwaMin",
+        "family": "Lee"
+      }
+    ],
+    "language": "English",
+    "volume": "16",
+    "page": "2325-2333",
+    "container-title": "Information (Japan)",
+    "ISSN": "1343-4500",
+    "publisher": "International Information Institute",
+    "issue": "3 B",
+    "type": "article-journal",
+    "citation-label": "choi2013fault",
+    "id": "choi2013fault",
+    "year-suffix": "fault",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          3,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "SookKyong",
+        "family": "Choi"
+      },
+      {
+        "given": "KwangSik",
+        "family": "Chung"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "title": "Fault tolerance and QoS scheduling using CAN in mobile social cloud computing",
+    "container-title": "Cluster Computing",
+    "volume": "17",
+    "issue": "3",
+    "page": "911-926",
+    "ISSN": "1573-7543",
+    "DOI": "10.1007/s10586-013-0286-3",
+    "URL": "https://doi.org/10.1007/s10586-013-0286-3",
+    "type": "article-journal",
+    "citation-label": "choi2014fault",
+    "id": "choi2014fault",
+    "year-suffix": "fault",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          9,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Task classification based energy-aware consolidation in clouds",
+    "author": [
+      {
+        "given": "HeeSeok",
+        "family": "Choi"
+      },
+      {
+        "given": "JongBeom",
+        "family": "Lim"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+      {
+        "given": "EunYoung",
+        "family": "Lee"
+      }
+    ],
+    "container-title": "Scientific Programming",
+    "volume": "2016",
+    "publisher": "Hindawi",
+    "DOI": "10.1155/2016/6208358",
+    "type": "article-journal",
+    "citation-label": "choi2016task",
+    "id": "choi2016task",
+    "year-suffix": "task",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "Kwang-Sik",
+        "family": "Chung"
+      },
+      {
+        "given": "Young-Jun",
+        "family": "Lee"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+      {
+        "given": "Wongyu",
+        "family": "Lee"
+      }
+    ],
+    "page": "379-390",
+    "title": "Management of Fault Tolerance Information for Coordinated Checkpointing Protocol without Sympathetic Rollbacks.",
+    "volume": "20",
+    "container-title": "J. Inf. Sci. Eng.",
+    "type": "article-journal",
+    "citation-label": "chung2004management",
+    "id": "chung2004management",
+    "year-suffix": "management",
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "Kwang Sik",
+        "family": "Chung"
+      },
+      {
+        "given": "Heon-Chang",
+        "family": "Yu"
+      },
+      {
+        "given": "Seongbin",
+        "family": "Park"
+      }
+    ],
+    "editor": [
+      {
+        "given": "Laurence T.",
+        "family": "Yang"
+      },
+      {
+        "given": "Omer F.",
+        "family": "Rana"
+      },
+      {
+        "given": "Beniamino",
+        "family": "Di Martino"
+      },
+      {
+        "given": "Jack",
+        "family": "Dongarra"
+      }
+    ],
+    "title": "Garbage Collection in a Causal Message Logging Protocol",
+    "container-title": "High Performance Computing and Communications",
+    "publisher": "Springer Berlin Heidelberg",
+    "publisher-place": "Berlin, Heidelberg",
+    "page": "123-132",
+    "ISBN": "978-3-540-32079-1",
+    "type": "paper-conference",
+    "citation-label": "chung2005garbage",
+    "id": "chung2005garbage",
+    "year-suffix": "garbage",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "Joon-Min",
+        "family": "Gil"
+      },
+      {
+        "given": "Ui-Sung",
+        "family": "Song"
+      },
+      {
+        "given": "Heon-Chang",
+        "family": "Yu"
+      }
+    ],
+    "editor": [
+      {
+        "given": "Nabil",
+        "family": "Abdennadher"
+      },
+      {
+        "given": "Dana",
+        "family": "Petcu"
+      }
+    ],
+    "title": "Performance Evaluation of Scheduling Mechanism with Checkpoint Sharing and Task Duplication in P2P-Based PC Grid Computing",
+    "container-title": "Advances in Grid and Pervasive Computing",
+    "publisher": "Springer Berlin Heidelberg",
+    "publisher-place": "Berlin, Heidelberg",
+    "page": "459-470",
+    "ISBN": "978-3-642-01671-4",
+    "type": "paper-conference",
+    "citation-label": "gil2009performance",
+    "id": "gil2009performance",
+    "year-suffix": "performance",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "Daeyong",
+        "family": "Jung"
+      },
+      {
+        "given": "SungHo",
+        "family": "Chin"
+      },
+      {
+        "given": "KwangSik",
+        "family": "Chung"
+      },
+      {
+        "given": "Taeweon",
+        "family": "Suh"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      },
+      {
+        "given": "JoonMin",
+        "family": "Gil"
+      }
+    ],
+    "title": "An Effective Job Replication Technique Based on Reliability and Performance in Mobile Grids",
+    "container-title": "Proceedings of the 5th International Conference on Advances in Grid and Pervasive Computing",
+    "collection-title": "GPC'10",
+    "ISBN": "3-642-13066-6, 978-3-642-13066-3",
+    "publisher-place": "Berlin, Heidelberg",
+    "page": "47-58",
+    "number-of-pages": "12",
+    "URL": "http://dx.doi.org/10.1007/978-3-642-13067-0_9",
+    "DOI": "10.1007/978-3-642-13067-0_9",
+    "publisher": "Springer-Verlag",
+    "type": "paper-conference",
+    "citation-label": "jung2010proceedings",
+    "id": "jung2010proceedings",
+    "year-suffix": "proceedings",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "Daeyong",
+        "family": "Jung"
+      },
+      {
+        "given": "SungHo",
+        "family": "Chin"
+      },
+      {
+        "given": "KwangSik",
+        "family": "Chung"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      },
+      {
+        "given": "JoonMin",
+        "family": "Gil"
+      }
+    ],
+    "editor": [
+      {
+        "given": "Erik",
+        "family": "Altman"
+      },
+      {
+        "given": "Weisong",
+        "family": "Shi"
+      }
+    ],
+    "title": "An Efficient Checkpointing Scheme Using Price History of Spot Instances in Cloud Computing Environment",
+    "container-title": "Network and Parallel Computing",
+    "publisher": "Springer Berlin Heidelberg",
+    "publisher-place": "Berlin, Heidelberg",
+    "page": "185-200",
+    "ISBN": "978-3-642-24403-2",
+    "type": "paper-conference",
+    "citation-label": "jung2011efficient",
+    "id": "jung2011efficient",
+    "year-suffix": "efficient",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Estimated interval-based checkpointing (EIC) on spot instances in cloud computing",
+    "author": [
+      {
+        "given": "Daeyong",
+        "family": "Jung"
+      },
+      {
+        "given": "JongBeom",
+        "family": "Lim"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+      {
+        "given": "Taeweon",
+        "family": "Suh"
+      }
+    ],
+    "container-title": "Journal of Applied Mathematics",
+    "volume": "2014",
+    "publisher": "Hindawi",
+    "DOI": "10.1155/2014/217547",
+    "type": "article-journal",
+    "citation-label": "jung2014estimated",
+    "id": "jung2014estimated",
+    "year-suffix": "estimated",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Task balanced workflow scheduling technique considering task processing rate in spot market",
+    "author": [
+      {
+        "given": "Daeyong",
+        "family": "Jung"
+      },
+      {
+        "given": "JongBeom",
+        "family": "Lim"
+      },
+      {
+        "given": "JoonMin",
+        "family": "Gil"
+      },
+      {
+        "given": "Eunyoung",
+        "family": "Lee"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "container-title": "Journal of Applied Mathematics",
+    "volume": "2014",
+    "publisher": "Hindawi",
+    "DOI": "10.1155/2014/237960",
+    "type": "article-journal",
+    "citation-label": "jung2014task",
+    "id": "jung2014task",
+    "year-suffix": "task",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "title": "A Workflow Scheduling Technique Using Genetic Algorithm in Spot Instance-Based Cloud.",
+    "author": [
+      {
+        "given": "Daeyong",
+        "family": "Jung"
+      },
+      {
+        "given": "Taeweon",
+        "family": "Suh"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+      {
+        "given": "JoonMin",
+        "family": "Gil"
+      }
+    ],
+    "container-title": "KSII Transactions on Internet & Information Systems",
+    "volume": "8",
+    "issue": "9",
+    "DOI": "10.3837/tiis.2014.09.010",
+    "type": "article-journal",
+    "citation-label": "jung2014workflow",
+    "id": "jung2014workflow",
+    "year-suffix": "workflow",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Mitigation technique for performance degradation of virtual machine owing to GPU pass-through in fog computing",
+    "author": [
+      {
+        "given": "Jihun",
+        "family": "Kang"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "DOI": "10.1109/JCN.2018.000038",
+    "language": "English",
+    "volume": "20",
+    "page": "257-265",
+    "container-title": "Journal of Communications and Networks",
+    "ISSN": "1229-2370",
+    "publisher": "Korean Institute of Communication Sciences",
+    "issue": "3",
+    "type": "article-journal",
+    "citation-label": "kang2018mitigation",
+    "id": "kang2018mitigation",
+    "year-suffix": "mitigation",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          6,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Optimistic scheduling algorithm for mobile transactions based on reordering",
+    "author": [
+      {
+        "given": "SungSuk",
+        "family": "Kim"
+      },
+      {
+        "given": "ChongSun",
+        "family": "Hwang"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+      {
+        "given": "Sang-Geun",
+        "family": "Lee"
+      }
+    ],
+    "language": "English",
+    "ISBN": "3540414541",
+    "volume": "1987",
+    "collection-title": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "publisher": "Springer Verlag",
+    "page": "105-117",
+    "container-title": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "type": "paper-conference",
+    "citation-label": "kim2001optimistic",
+    "id": "kim2001optimistic",
+    "year-suffix": "optimistic",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "HongSoo",
+        "family": "Kim"
+      },
+      {
+        "given": "SungJin",
+        "family": "Choi"
+      },
+      {
+        "given": "MaengSoon",
+        "family": "Baik"
+      },
+      {
+        "given": "KwonWoo",
+        "family": "Yang"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      },
+      {
+        "given": "Chong-Sun",
+        "family": "Hwang"
+      }
+    ],
+    "title": "Group-Based Scheduling Scheme for Result Checking in Global Computing Systems",
+    "container-title": "Proceedings of the 2005 International Conference on Computational Science and Its Applications - Volume Part III",
+    "collection-title": "ICCSA'05",
+    "ISBN": "3-540-25862-0, 978-3-540-25862-9",
+    "publisher-place": "Berlin, Heidelberg",
+    "page": "89-98",
+    "number-of-pages": "10",
+    "URL": "http://dx.doi.org/10.1007/11424857_10",
+    "DOI": "10.1007/11424857_10",
+    "publisher": "Springer-Verlag",
+    "type": "paper-conference",
+    "citation-label": "kim2005group",
+    "id": "kim2005group",
+    "year-suffix": "group",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "HongSoo",
+        "family": "Kim"
+      },
+      {
+        "given": "JoonMin",
+        "family": "Gil"
+      },
+      {
+        "given": "ChongSun",
+        "family": "Hwang"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      },
+      {
+        "given": "SoonYoung",
+        "family": "Joung"
+      }
+    ],
+    "editor": [
+      {
+        "given": "Samuel R. H.",
+        "family": "Joseph"
+      },
+      {
+        "given": "Zoran",
+        "family": "Despotovic"
+      },
+      {
+        "given": "Gianluca",
+        "family": "Moro"
+      },
+      {
+        "given": "Sonia",
+        "family": "Bergamaschi"
+      }
+    ],
+    "title": "Agent-Based Autonomous Result Verification Mechanism in Desktop Grid Systems",
+    "container-title": "Agents and Peer-to-Peer Computing",
+    "publisher": "Springer Berlin Heidelberg",
+    "publisher-place": "Berlin, Heidelberg",
+    "page": "72-84",
+    "ISBN": "978-3-642-11368-0",
+    "type": "paper-conference",
+    "citation-label": "kim2010agent",
+    "id": "kim2010agent",
+    "year-suffix": "agent",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Enhancing digital fluency through a training program for creative problem solving using computer programming",
+    "author": [
+      {
+        "given": "Sughee",
+        "family": "Kim"
+      },
+      {
+        "given": "Kwangsik",
+        "family": "Chung"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "DOI": "10.1002/jocb.30",
+    "language": "English",
+    "volume": "47",
+    "page": "171-199",
+    "container-title": "Journal of Creative Behavior",
+    "ISSN": "0022-0175",
+    "publisher": "Creative Education Foudation",
+    "issue": "3",
+    "type": "article-journal",
+    "citation-label": "kim2013enhancing",
+    "id": "kim2013enhancing",
+    "year-suffix": "enhancing",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "Hanyee",
+        "family": "Kim"
+      },
+      {
+        "given": "Younghwan",
+        "family": "Kim"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+      {
+        "given": "Taeweon",
+        "family": "Suh"
+      }
+    ],
+    "title": "Performance evaluation of many-core systems: case study with TILEPro64",
+    "container-title": "IET Computers & Digital Techniques",
+    "volume": "7",
+    "issue": "4",
+    "page": "143-154",
+    "URL": "https://doi.org/10.1049/iet-cdt.2012.0101",
+    "DOI": "10.1049/iet-cdt.2012.0101",
+    "type": "article-journal",
+    "citation-label": "kim2013performance",
+    "id": "kim2013performance",
+    "year-suffix": "performance",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Revisiting transaction management in multidatabase systems",
+    "author": [
+      {
+        "given": "Sang-Geun",
+        "family": "Lee"
+      },
+      {
+        "literal": "Hwang, Chong S."
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "DOI": "10.1023/A:1026557023984",
+    "language": "English",
+    "volume": "9",
+    "page": "39-65",
+    "container-title": "Distributed and Parallel Databases",
+    "ISSN": "0926-8782",
+    "publisher": "Springer Netherlands",
+    "issue": "1",
+    "type": "article-journal",
+    "citation-label": "lee2001revisiting",
+    "id": "lee2001revisiting",
+    "year-suffix": "revisiting",
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "Hwa-Min",
+        "family": "Lee"
+      },
+      {
+        "given": "Kwang-Sik",
+        "family": "Chung"
+      },
+      {
+        "given": "Sang-Chul",
+        "family": "Shin"
+      },
+      {
+        "given": "Dae-Won",
+        "family": "Lee"
+      },
+      {
+        "given": "Won-Gyu",
+        "family": "Lee"
+      },
+      {
+        "given": "Heon-Chang",
+        "family": "Yu"
+      }
+    ],
+    "editor": [
+      {
+        "given": "Farhad",
+        "family": "Arbab"
+      },
+      {
+        "given": "Carolyn",
+        "family": "Talcott"
+      }
+    ],
+    "title": "A Recovery Technique Using Multi-agent in Distributed Computing Systems",
+    "container-title": "Coordination Models and Languages",
+    "publisher": "Springer Berlin Heidelberg",
+    "publisher-place": "Berlin, Heidelberg",
+    "page": "236-249",
+    "ISBN": "978-3-540-46000-8",
+    "type": "paper-conference",
+    "citation-label": "lee2002recovery",
+    "id": "lee2002recovery",
+    "year-suffix": "recovery",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "Hwa Min",
+        "family": "Lee"
+      },
+      {
+        "given": "Kwang",
+        "family": "Sik Chung"
+      },
+      {
+        "given": "Sung Ho",
+        "family": "Jin"
+      },
+      {
+        "given": "Dae-Won",
+        "family": "Lee"
+      },
+      {
+        "given": "Won Gyu",
+        "family": "Lee"
+      },
+      {
+        "given": "Soon Young",
+        "family": "Jung"
+      },
+      {
+        "given": "Heon Chang",
+        "family": "Yu"
+      }
+    ],
+    "editor": [
+      {
+        "given": "Peter M. A.",
+        "family": "Sloot"
+      },
+      {
+        "given": "David",
+        "family": "Abramson"
+      },
+      {
+        "given": "Alexander V.",
+        "family": "Bogdanov"
+      },
+      {
+        "given": "Yuriy E.",
+        "family": "Gorbachev"
+      },
+      {
+        "given": "Jack J.",
+        "family": "Dongarra"
+      },
+      {
+        "given": "Albert Y.",
+        "family": "Zomaya"
+      }
+    ],
+    "title": "A Fault Tolerance Service for QoS in Grid Computing",
+    "container-title": "Computational Science — ICCS 2003",
+    "publisher": "Springer Berlin Heidelberg",
+    "publisher-place": "Berlin, Heidelberg",
+    "page": "286-296",
+    "ISBN": "978-3-540-44863-1",
+    "type": "paper-conference",
+    "citation-label": "lee2003fault",
+    "id": "lee2003fault",
+    "year-suffix": "fault",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "Dae Won",
+        "family": "Lee"
+      },
+      {
+        "given": "Kwang Sik",
+        "family": "Chung"
+      },
+      {
+        "given": "Hwa Min",
+        "family": "Lee"
+      },
+      {
+        "given": "Sungbin",
+        "family": "Park"
+      },
+      {
+        "given": "Young Jun",
+        "family": "Lee"
+      },
+      {
+        "given": "Heon Chang",
+        "family": "Yu"
+      },
+      {
+        "given": "Won Gyu",
+        "family": "Lee"
+      }
+    ],
+    "editor": [
+      {
+        "given": "Jiming",
+        "family": "Liu"
+      },
+      {
+        "given": "Yiu-ming",
+        "family": "Cheung"
+      },
+      {
+        "given": "Hujun",
+        "family": "Yin"
+      }
+    ],
+    "title": "Managing Fault Tolerance Information in Multi-agents Based Distributed Systems",
+    "container-title": "Intelligent Data Engineering and Automated Learning",
+    "publisher": "Springer Berlin Heidelberg",
+    "publisher-place": "Berlin, Heidelberg",
+    "page": "104-108",
+    "ISBN": "978-3-540-45080-1",
+    "type": "paper-conference",
+    "citation-label": "lee2003managing",
+    "id": "lee2003managing",
+    "year-suffix": "managing",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    }
+  },
+  {
+    "title": "A resource management and fault tolerance services in grid computing",
+    "author": [
+      {
+        "given": "HwaMin",
+        "family": "Lee"
+      },
+      {
+        "given": "KwangSik",
+        "family": "Chung"
+      },
+      {
+        "given": "SungSo",
+        "family": "Chin"
+      },
+      {
+        "given": "JongHyuk",
+        "family": "Lee"
+      },
+      {
+        "given": "DaeWon",
+        "family": "Lee"
+      },
+      {
+        "given": "Seongbin",
+        "family": "Park"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "DOI": "10.1016/j.jpdc.2005.05.026",
+    "language": "English",
+    "volume": "65",
+    "page": "1305-1317",
+    "container-title": "Journal of Parallel and Distributed Computing",
+    "ISSN": "0743-7315",
+    "publisher": "Academic Press Inc.",
+    "issue": "11",
+    "type": "article-journal",
+    "citation-label": "lee2005resource",
+    "id": "lee2005resource",
+    "year-suffix": "resource",
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          11,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "Dae Won",
+        "family": "Lee"
+      },
+      {
+        "given": "Kwang Sik",
+        "family": "Jung"
+      },
+      {
+        "given": "Sung-Ju",
+        "family": "Roh"
+      },
+      {
+        "given": "KwangHee",
+        "family": "Choi"
+      },
+      {
+        "given": "Heon Chang",
+        "family": "Yu"
+      }
+    ],
+    "editor": [
+      {
+        "given": "Yeh-Ching",
+        "family": "Chung"
+      },
+      {
+        "given": "José E.",
+        "family": "Moreira"
+      }
+    ],
+    "title": "Reducing Binding Updates in High Speed Movement Environment Based on HMIPv6",
+    "container-title": "Advances in Grid and Pervasive Computing",
+    "publisher": "Springer Berlin Heidelberg",
+    "publisher-place": "Berlin, Heidelberg",
+    "page": "587-596",
+    "ISBN": "978-3-540-33810-9",
+    "type": "paper-conference",
+    "citation-label": "lee2006reducing",
+    "id": "lee2006reducing",
+    "year-suffix": "reducing",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "JongHyuk",
+        "family": "Lee"
+      },
+      {
+        "given": "SungHo",
+        "family": "Chin"
+      },
+      {
+        "given": "HwaMin",
+        "family": "Lee"
+      },
+      {
+        "given": "TaeMyoung",
+        "family": "Yoon"
+      },
+      {
+        "given": "KwangSik",
+        "family": "Chung"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      }
+    ],
+    "title": "Adaptive Workflow Scheduling Strategy in Service-based Grids",
+    "container-title": "Proceedings of the 2Nd International Conference on Advances in Grid and Pervasive Computing",
+    "collection-title": "GPC'07",
+    "ISBN": "978-3-540-72359-2",
+    "publisher-place": "Berlin, Heidelberg",
+    "page": "298-309",
+    "number-of-pages": "12",
+    "URL": "http://dl.acm.org/citation.cfm?id=1759868.1759894",
+    "publisher": "Springer-Verlag",
+    "type": "paper-conference",
+    "citation-label": "lee2007adaptive",
+    "id": "lee2007adaptive",
+    "year-suffix": "adaptive",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    }
+  },
+  {
+    "title": "FRAsystem: Fault tolerant system using agents in distributed computing systems",
+    "author": [
+      {
+        "given": "HwaMin",
+        "family": "Lee"
+      },
+      {
+        "given": "DooSoon",
+        "family": "Park"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+      {
+        "given": "Giyeol",
+        "family": "Lee"
+      }
+    ],
+    "DOI": "10.1007/s10586-009-0095-x",
+    "language": "English",
+    "volume": "14",
+    "page": "15-25",
+    "container-title": "Cluster Computing",
+    "ISSN": "1386-7857",
+    "publisher": "Kluwer Academic Publishers",
+    "issue": "1",
+    "type": "article-journal",
+    "citation-label": "lee2011frasystem",
+    "id": "lee2011frasystem",
+    "year-suffix": "frasystem",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          1,
+          1
+        ]
+      ]
+    }
+  }
+]

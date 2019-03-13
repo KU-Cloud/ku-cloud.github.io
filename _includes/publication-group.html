@@ -1,0 +1,18 @@
+{% assign bibs = include.bibs %}
+{% assign year = bibs[0].issued.date-parts[0][0] %}
+<h6>{{ year }}</h6>
+<ul class="list-unstyled">
+    {% for bib in bibs %}
+        {% assign y = bib.issued.date-parts[0][0] %}
+        {% if y == year %}
+            {% include publication-item.html bib=bib %}
+        {% else %}
+        {% assign year = y %}
+</ul>
+
+<h6>{{ year }}</h6>
+<ul class="list-unstyled">
+        {% include publication-item.html bib=bib %}
+        {% endif %}
+    {% endfor %}
+</ul>

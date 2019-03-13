@@ -1,0 +1,85 @@
+@import "vendor/bootstrap-4.3.1/bootstrap";
+
+#page-home {
+    #header {
+      position: relative;
+      width: 100%;
+      overflow: hidden;
+      z-index: -1;
+  
+      video {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        min-width: 100%;
+        min-height: 100%;
+        width: auto;
+        height: auto;
+        z-index: 0;
+        -ms-transform: translateX(-50%) translateY(-50%);
+        -moz-transform: translateX(-50%) translateY(-50%);
+        -webkit-transform: translateX(-50%) translateY(-50%);
+        transform: translateX(-50%) translateY(-50%);
+      }
+  
+      .container {
+        position: relative;
+        z-index: 2;
+      }
+  
+      .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        background-color: black;
+        opacity: 0.6;
+        z-index: 1;
+      }
+  
+      @media (pointer: coarse) and (hover: none) {
+        background: url("/assets/videos/server_room.mp4") black no-repeat center center scroll;
+  
+        video {
+          display: none;
+        }
+      }
+    }
+  
+    #main {
+      background-color: $body-bg;
+      -webkit-box-shadow: 0px -2rem 25rem 4rem rgba(247, 247, 248, 0.8);
+      -moz-box-shadow: 0px -2rem 25rem 4rem rgba(247, 247, 248, 0.8);
+      box-shadow: 0px -2rem 25rem 4rem rgba(247, 247, 248, 0.8);
+  
+      padding-top: $spacer;
+  
+      @include media-breakpoint-up(sm) {
+        padding-top: 24rem;
+      }
+    }
+  
+    #main-name {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 30%;
+  
+      font-family: "Lucida Console", "Monaco", monospace;
+      color: #f4f4f4;
+  
+      transition: all 0.8s ease-in-out;
+  
+      &.active {
+        top: 110%;
+  
+        color: $gray-900;
+      }
+  
+      p {
+        color: #666666;
+      }
+    }
+  }
+  

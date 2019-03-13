@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div class="min-vh-100">
+    <div class="py-5"></div>
+
+    <div class="page-title container mb-3 pt-5 pt-md-0">
+        {% assign pageName = page.name | remove: ".html" | split: " " %}
+        {% capture pageTitle %} {% for word in pageName %} {{ word | capitalize }} {% endfor %} {% endcapture %}
+        <h1 class="display-4">{{ pageTitle }}</h1>
+    </div>
+
+    <main id="main">
+        {{ content }}
+    </main>
+</div>
+
+{% include footer.html %}
+
+<script>
+    // Some pages required element replacement because of static nature of Jekyll.
+    // Showing to fully rendered page to user, the #main is not displayed first according to saaa/_root.scss and
+    // each of pages executes script than the #main is diplayed.
+    // See projects.html for example.
+    $(function(){
+        $('#main').show(0)
+    })
+</script>

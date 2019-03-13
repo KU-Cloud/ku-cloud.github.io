@@ -1,0 +1,45 @@
+---
+layout: page
+---
+
+<link rel="stylesheet" href="/assets/css/page-members.css">
+
+{% include title-container.html title="Ph.D Students" %}
+{% include member-group.html members=site.data.members.phd %}
+
+{% include title-container.html title="Master Students" %}
+{% include member-group.html members=site.data.members.master %}
+
+{% include title-container.html title="Ungraduate Students" %}
+{% include member-group.html members=site.data.members.intern %}
+
+{% include title-container.html title="Alumni" %}
+{% assign alumni = site.data.members.alumniPhd | concat: site.data.members.alumniMaster %}
+{% include member-group.html members=alumni %}
+
+<script>
+    $(function () {
+        var trgClass = 'active'
+        var $memCards = $('.member');
+        var $window = $(window);
+
+        function reset() {
+            $memCards.removeClass(trgClass);
+        }
+
+        $window.click(function () {
+            reset()
+        });
+        $memCards.click(function (e) {
+            e.stopPropagation();
+            var $self = $(this);
+            if($self.hasClass(trgClass)) return;
+            reset();
+            $(this).addClass(trgClass);
+        })
+        $('[data-dismiss]', $memCards).click(function (e) {
+            e.stopPropagation();
+            reset();
+        });
+    })
+</script>

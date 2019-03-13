@@ -1,0 +1,71 @@
+---
+layout: page
+---
+
+<script>
+$(function(){
+    $onGoing = $('#onGoing>ul')
+    $past = $('#past>ul');
+    
+    // replace outdated project
+    $($onGoing.children().get().reverse()).each(function(){
+        $self = $(this);
+        if(new Date($self.data('end')) > Date.now()) return;
+        $past.prepend($self);
+    });
+    
+    // pull up `rep` project to top
+    $onGoing.children().each(function(){
+        $self = $(this);
+        if($self.data('role') != 'rep') return;
+        $onGoing.prepend($self)
+    });
+});
+</script>
+
+{% comment %}
+Note that jekyll is static site builder.
+You cant not resolve current user time.
+{% endcomment %}
+
+
+{% comment %}
+Ruby uses both Date and Time class.
+To resolve this, I converted all time relrated value to unix time.
+e.g. `site.time` to `build_date` and `project.end` to `pdate`
+{% endcomment %}
+
+{% assign build_date = site.time | date: '%s' | plus: 0 %}
+{% assign sorted = site.data.projects | sort: 'start' | reverse %}
+
+{% include title-container.html title="On Going Projects" %}
+<div id="onGoing" class="content container">
+    <ul class="list-unstyled">
+        {% for project in sorted %}
+            {% assign pdate = project.end | date: '%s' | plus: 0 %}
+
+            {% if pdate > build_date  %}
+                {% include project-item.html project=project%}
+            {% else %}
+                {% break %}
+            {% endif %}
+        {% endfor %}    
+    </ul>
+</div>
+
+
+{% include title-container.html title="Past Projects" %}
+<div id="past" class="content container">
+    <ul class="list-unstyled">
+        {% for project in sorted %}
+
+            {% assign pdate = project.end | date: '%s' | plus: 0 %}
+
+            {% if pdate > build_date  %}
+            {% else %}
+                {% include project-item.html project=project %}
+            {% endif %}
+
+        {% endfor %}
+    </ul>
+</div>

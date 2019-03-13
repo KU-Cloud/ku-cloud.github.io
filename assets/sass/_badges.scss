@@ -1,0 +1,6 @@
+@each $color, $value in $theme-colors {
+    .badge-empty-#{$color} {
+        border: 1px solid $value;
+        color: $value;
+    }
+}

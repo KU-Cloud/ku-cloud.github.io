@@ -1,0 +1,13 @@
+@InProceedings{chung2005garbage,
+author="Chung, Kwang Sik and Yu, Heon-Chang and Park, Seongbin",
+editor="Yang, Laurence T. and Rana, Omer F. and Di Martino, Beniamino and Dongarra, Jack",
+title="Garbage Collection in a Causal Message Logging Protocol",
+booktitle="High Performance Computing and Communications",
+year="2005",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="123--132",
+abstract="This paper presents a garbage collection protocol for message content logs and message determinant logs which are saved on a stable storage. Previous works of garbage collections in a causal message logging protocol try to solve the garbage collection of message determinant log and force additional checkpoints[5,6,7]. In order to avoid the sympathetic rollback, we classify the fault tolerance information into message determinants logs and message contents logs. Then we propose new definitions for garbage collections conditions for message determinant logs and message content logs and present a garbage collection algorithm. To represent determinants of messages, a data structure called MAG (Modified Antecedence Graph) is proposed. MAG is an extension of Antecedence Graph of Manetho system [7] and it is used for garbage collections conditions of message determinant logs and message content logs. Unlike Manetho system that needs additional messages for garbage collection of message content logs, our algorithm does not need additional messages. The proposed garbage collection algorithm makes 'the lazy garbage collection effect' because it relies on the piggybacked checkpoint information in send/receive message. `The lazy garbage collection effect' provides the whole system with an efficient and simple recovery protocol.",
+isbn="978-3-540-32079-1"
+}
+

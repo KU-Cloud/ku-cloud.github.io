@@ -1,0 +1,20 @@
+<li data-end="{{ project.end }}" data-role="{{ project.role }}">
+    <p class="h5">{{ project.title }}</p>
+    <p class="lead">
+        {{ project.sponsor.full }}, ({{ project.start | date: "%Y.%m"}}-{{ project.end | date: "%Y.%m"}})
+
+        {% if project.role == 'rep' %}
+        <span class="badge badge-empty-primary">
+            책임
+        </span>
+        {% elsif project.role == 'corep' %}
+        <span class="badge badge-empty-info">
+            공동
+        </span>
+        {% else %}
+        <span class="badge badge-empty-secondary">
+            {{ project.role }}
+        </span>
+        {% endif %}
+    </p>
+</li>

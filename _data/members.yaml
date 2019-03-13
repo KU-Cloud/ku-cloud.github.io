@@ -1,0 +1,135 @@
+# name        - name of a member.
+# mail        - email address of a member.
+# workAt      - work name of a member. this field will be ignored for non-alumni member.
+# cover       - path of a profile image. if this field is not provided, it will resolve by `name`.
+#               if resolved file is not exists, it will show default image.
+#               e.g.) assets/images/members/{name}.png
+
+phd:
+  - name: Heeseok Choi
+    mail: hsrangken@korea.ac.kr
+    research: 
+      - "Energe-aware VM Management"
+  - name: Dongjeong Kim
+    mail: jikimi@korea.ac.kr
+    research:
+      - "e-Learning"
+  - name: Jihun Kang
+    mail: k2j23h@korea.ac.kr
+    research:
+      - "Parallel Programming Using GPGPU"
+  - name: Rohyoung Myung
+    mail: mry1811@korea.ac.kr
+    research:
+      - "Distributed Processing Model"
+      - "Cluster Computing"
+  - name: Chunggeon Song
+    mail: security0730@korea.ac.kr
+    research:
+      - "Virtualization"
+      - "Volunteer Computing"
+
+master:
+  - name: Jaehak Lee
+    mail: smreodmlvl@korea.ac.kr
+    research:
+      - "Virtualization"
+      - "Volunteer Computing"
+  - name: Junebeom Jang
+    mail: jjb0726@gmail.com
+  - name: Minsu Kwon
+    mail: minsuft19@gmail.com
+  - name: Seunghyun Hwang
+    mail: somnus@korea.ac.kr
+    research:
+      - "Container"
+      - "Serverless Architecture"
+
+intern:
+  - name: Jaewon Choe
+    mail: buzri1905@naver.com
+  - name: Yonghyeon Jang
+    mail: wkd3475@gmail.com
+
+alumniPhd:
+  - name: Hwamin Lee
+    mail: leehm@sch.ac.kr
+    work:
+      - "Soonchunhyang University (Associate professor)"
+  - name: Daewon Lee
+    mail: daelee@skuniv.ac.kr
+    work:
+      - "Seokyeong University (Associate professor)"
+  - name: Sungho Chin
+    mail: sunghochin@gmail.com
+    work:
+      - "LG Electronics (Senior Researcher)"
+  - name: Jonghyuk Lee
+    mail: jhryu2k@gmail.com
+    work:
+      - "Samsung Electronics (Senior Researcher)"
+  - name: Sookyung Choi
+    mail: csukyong@korea.ac.kr
+    work:
+      - "Creative Informatics & Computing Institute (Research Professor)"
+  - name: Jisu Park
+    mail: jisu.park@ds.korea.ac.kr
+    work:
+      - "Kyonggi University (Assistant Professor)"
+  - name: Sughee Kim
+    mail: riemann@korea.ac.kr
+    work:
+      - "Hoam Elementary School (Teacher)"
+      - "Creative Informatics & Computing Institute (Research Professor)"
+  - name: Jongbeom Lim
+    mail: thejbli@gmail.com
+    work:
+      - "Korea Polytechnic University, Dept. of Game & Multimedia Engineering (Assistant Professor)"
+  - name: Daeyong Jung
+    mail: karat@korea.ac.kr
+    work:
+      - "Korea Institute of Science and Technology Information (Researcher)"
+  - name: Junweon Yoon
+    mail: internet@korea.ac.kr
+    work:
+      - "Korea Institute of Science and Technology Information"
+  - name: Taemook Lyoo
+    mail: lyoo12@korea.ac.kr
+    research:
+      - Hypervisor
+      - Virtualzation
+  - name: Sungjin Song
+    mail: imagessj@korea.ac.kr
+    research:
+      - Cloud Computing
+      - Distributed Computing
+
+alumniMaster:
+  - name: Sangchul Shin
+    work:
+      - "Oversea employment in US (State of New Jersey)"
+  - name: Janghun Kim
+    mail: khun25@paran.com
+    research:
+      - Telcoware
+  - name: Inseock Cho
+  - name: Suyeon Wi
+    mail: sy.wi@cj.net
+    work:
+      - "CJ OLIVENETWORKS (Researcher)"
+  - name: Jungha Lee
+    mail: jungha07@gmail.com
+    work:
+      - "Cray Korea"
+  - name: Youngju Moon
+    mail: moonyj@korea.ac.kr
+    work:
+      - "WISEnut"
+  - name: Sungmin Choi
+    mail: jungha07@gmail.com
+    work:
+      - "SK C&C"
+  - name: Bongwoo Bak
+    mail: bongwoo@korea.ac.kr
+    work:
+      - "TmaxSoft"
