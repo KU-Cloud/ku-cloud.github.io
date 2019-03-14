@@ -37,8 +37,12 @@ master:
       - "Volunteer Computing"
   - name: Junebeom Jang
     mail: jjb0726@gmail.com
+    research:
+      - "Fault Tolerance"
   - name: Minsu Kwon
     mail: minsuft19@gmail.com
+    research:
+      - "Blockchain"
   - name: Seunghyun Hwang
     mail: somnus@korea.ac.kr
     research:
