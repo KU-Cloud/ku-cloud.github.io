@@ -1,4 +1,4 @@
-Quick Menu for Update Data
+Quick Menu for Updating Data
 =========================
  
 - [Seminar](/_data/seminars.yaml)
@@ -15,7 +15,7 @@ For Maintainers
 
 Table of Contents
 =================
-- [Quick Menu for Update Data](#quick-menu-for-update-data)
+- [Quick Menu for Updating Data](#quick-menu-for-updating-data)
 - [For Maintainers](#for-maintainers)
 - [Table of Contents](#table-of-contents)
 - [Getting Started](#getting-started)
@@ -29,7 +29,7 @@ Table of Contents
   - [Seminar (seminars.yaml)](#seminar-seminarsyaml)
   - [Publication (publications-*.yaml)](#publication-publications-yaml)
 - [How to Build Publications](#how-to-build-publications)
-- [Update Examples](#update-examples)
+- [Examples of Updating Data](#examples-of-updating-data)
   - [Seminar](#seminar)
   - [Member](#member)
   - [Project](#project)
@@ -43,11 +43,11 @@ Member, Project, 또는 Seminar 정보 수정은 GitHub에서 웹 인터페이�
 데이터 스키마를 [여기](#data-schema)서 참고하고 나서 GitHub에서 직접 수정하는 방법을 [여기](https://help.github.com/en/articles/editing-files-in-your-repository)서 참고.
 Publication 정보도 GitHub에서 직접 수정가능하나, Forward Compability를 위해 추천하지 않음.
 
-**홈페이지 디자인 수정은 업데이트 전 수정하고자 하는 바가 옳바르게 적용됐는지 확인하기 위해 직접 수정을 하지말고 아래 설명을 반드시 읽어보길 바람.**
+**홈페이지 디자인 수정은 업데이트 전 수정하고자 하는 바가 올바르게 적용되었는지 확인하기 위해 직접 수정을 하지 말고 아래 설명을 반드시 읽어보길 바람.**
 
 ## Prerequisition
 
-Essencials
+Essentials
 - [Jekyll](https://jekyllrb.com/) >= 3.7.4 (see [GitHub Pages dependency list](https://pages.github.com/versions/))
   - [Ruby](https://www.ruby-lang.org/en/) >= 2.5.1 ()
 - [Git](https://git-scm.com/) >= 2.17.1
@@ -58,7 +58,7 @@ Optionals
 - [jq](https://stedolan.github.io/jq/) >= 1.5-1
 - [Visual Studio Code](https://code.visualstudio.com/) >= 1.32.2
 
-`Jekyll`은 정적 페이지 생성기로, HTTP Serving기능을 내장하고 있음. 홈페이지 디자인 수정 전 로컬에서 확인하기 위해 필요함. `Ruby`는 `Jekyll`을 실행하기 위해 필요함.
+`Jekyll`은 정적 페이지 생성기로, HTTP Serving 기능을 내장하고 있음. 홈페이지 디자인 수정 전 로컬에서 확인하기 위해 필요함. `Ruby`는 `Jekyll`을 실행하기 위해 필요함.
 
 `Git`은 홈페이지 Source의 버전관리와 GitHub에 업데이트된 버전을 업로드하기 위해 필요함.
 
@@ -86,7 +86,7 @@ jekyll serve
 
 ## Directory Structure
 
-본 섹션에서는 프로젝트 루트디렉터리, 그러니까 좀 전에 `git clone`으로 다운로드 받은 폴더 `/path/to/ku-cloud.gitbut.io`폴더에 존재하는 파일과 폴더에 대해서 설명한다.
+본 섹션에서는 프로젝트 루트 디렉터리, 그러니까 좀 전에 `git clone`으로 다운로드 받은 폴더 `/path/to/ku-cloud.gitbut.io`폴더에 존재하는 파일과 폴더에 대해서 설명한다.
 참고로 파일 또는 폴더 이름이 '_' 문자로 시작하는 것은 `Jekyll`이 Serving하지 않는다.
 
 `*.html`
@@ -238,8 +238,8 @@ npm install
 > bib 파일에 문제가 있다면 스크립트 실행중 "Uncaught..."가 출력된다.
 > 새로 추가한 파일에 문법 문제가 있을것이므로 확인바람.
 
-Update Examples
-===============
+Examples of Updating Data
+=========================
 
 ## Seminar
 ```yaml
@@ -262,7 +262,7 @@ master:
     research:
       - 축지법
       - 분신술
-# Indentaion 유의
+# Indentation 유의
 ```
 
 ## Project
@@ -276,7 +276,7 @@ master:
   start: 2019-03-01
   end: 2024-02-31
   role: rep
-# Indentaion 유의
+# Indentation 유의
 ```
 
 ## Publication
@@ -317,7 +317,7 @@ master:
       ]
     }
   },
-# Indentaion 상관 없음
+# Indentation 상관 없음
 # 괄호, 쉼표, 따옴표 유의
   {
     {
@@ -343,8 +343,8 @@ master:
         "family": "유헌창"
       }
     ],
-    "title": "The title looks complicated",
-    "publisher": "Journal of Parallel and Distributed Computing",
+    "title": "복잡해 보이는 제목",
+    "publisher": "2019 춘계 정보처리학회",
     "volume": "42",
     "issue": "13",
     "page": "69-74",
@@ -354,7 +354,7 @@ master:
       ]
     }
   },
-# Indentaion 상관 없음
+# Indentation 상관 없음
 # 괄호, 쉼표, 따옴표 유의
   {
     {
