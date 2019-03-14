@@ -1409,5 +1409,928 @@
         ]
       ]
     }
+  },
+  {
+    "author": [
+      {
+        "given": "JongHyuk",
+        "family": "Lee"
+      },
+      {
+        "given": "SungJin",
+        "family": "Choi"
+      },
+      {
+        "given": "Taeweon",
+        "family": "Suh"
+      },
+      {
+        "given": "JoonMin",
+        "family": "Gil"
+      },
+      {
+        "given": "Weidong",
+        "family": "Shi"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      }
+    ],
+    "editor": [
+      {
+        "given": "James J. (Jong Hyuk)",
+        "family": "Park"
+      },
+      {
+        "given": "Young-Sik",
+        "family": "Jeong"
+      },
+      {
+        "given": "Sang Oh",
+        "family": "Park"
+      },
+      {
+        "given": "Hsing-Chung",
+        "family": "Chen"
+      }
+    ],
+    "title": "A Mobile Device Group Based Fault Tolerance Scheduling Algorithm in Mobile Grid",
+    "container-title": "Embedded and Multimedia Computing Technology and Service",
+    "publisher": "Springer Netherlands",
+    "publisher-place": "Dordrecht",
+    "page": "485-492",
+    "ISBN": "978-94-007-5076-0",
+    "type": "paper-conference",
+    "citation-label": "lee2012mobile",
+    "id": "lee2012mobile",
+    "year-suffix": "mobile",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "Jong Hyuk",
+        "family": "Lee"
+      },
+      {
+        "given": "Seung Eun",
+        "family": "Lee"
+      },
+      {
+        "given": "Heon Chang",
+        "family": "Yu"
+      },
+      {
+        "given": "Taeweon",
+        "family": "Suh"
+      }
+    ],
+    "title": "Pipelined CPU Design With FPGA in Teaching Computer Architecture",
+    "container-title": "IEEE Trans. on Educ.",
+    "volume": "55",
+    "issue": "3",
+    "ISSN": "0018-9359",
+    "page": "341-348",
+    "number-of-pages": "8",
+    "URL": "https://doi.org/10.1109/TE.2011.2175227",
+    "DOI": "10.1109/TE.2011.2175227",
+    "publisher": "IEEE Press",
+    "publisher-place": "Piscataway, NJ, USA",
+    "type": "article-journal",
+    "citation-label": "lee2012pipelined",
+    "id": "lee2012pipelined",
+    "year-suffix": "pipelined",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Mobility-aware balanced scheduling algorithm in mobile grid based on mobile agent",
+    "author": [
+      {
+        "given": "Jonghyuk",
+        "family": "Lee"
+      },
+      {
+        "given": "Sungjin",
+        "family": "Choi"
+      },
+      {
+        "given": "Taeweon",
+        "family": "Suh"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "container-title": "The knowledge engineering review",
+    "volume": "29",
+    "issue": "4",
+    "page": "409-432",
+    "publisher": "Cambridge University Press",
+    "DOI": "10.1017/S0269888914000149",
+    "type": "article-journal",
+    "citation-label": "lee2014mobility",
+    "id": "lee2014mobility",
+    "year-suffix": "mobility",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "JongHyuk",
+        "family": "Lee"
+      },
+      {
+        "given": "SungJin",
+        "family": "Choi"
+      },
+      {
+        "given": "JoonMin",
+        "family": "Gil"
+      },
+      {
+        "given": "Taeweon",
+        "family": "Suh"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      }
+    ],
+    "title": "A scheduling algorithm with dynamic properties in mobile grid",
+    "container-title": "Frontiers of Computer Science",
+    "volume": "8",
+    "issue": "5",
+    "page": "847-857",
+    "ISSN": "2095-2236",
+    "DOI": "10.1007/s11704-014-3223-6",
+    "URL": "https://doi.org/10.1007/s11704-014-3223-6",
+    "type": "article-journal",
+    "citation-label": "lee2014scheduling",
+    "id": "lee2014scheduling",
+    "year-suffix": "scheduling",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          10,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "Heui Seok",
+        "family": "Lim"
+      },
+      {
+        "given": "Won Kyu Hoon",
+        "family": "Lee"
+      },
+      {
+        "given": "Hyeon Chul",
+        "family": "Kim"
+      },
+      {
+        "given": "Soon Young",
+        "family": "Jeong"
+      },
+      {
+        "given": "Heon Chang",
+        "family": "Yu"
+      }
+    ],
+    "editor": [
+      {
+        "given": "Gary Geunbae",
+        "family": "Lee"
+      },
+      {
+        "given": "Akio",
+        "family": "Yamada"
+      },
+      {
+        "given": "Helen",
+        "family": "Meng"
+      },
+      {
+        "given": "Sung Hyon",
+        "family": "Myaeng"
+      }
+    ],
+    "title": "An Automatic Code Classification System by Using Memory-Based Learning and Information Retrieval Technique",
+    "container-title": "Information Retrieval Technology",
+    "publisher": "Springer Berlin Heidelberg",
+    "publisher-place": "Berlin, Heidelberg",
+    "page": "577-582",
+    "ISBN": "978-3-540-32001-2",
+    "type": "paper-conference",
+    "citation-label": "lim2005automatic",
+    "id": "lim2005automatic",
+    "year-suffix": "automatic",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "JongBeom",
+        "family": "Lim"
+      },
+      {
+        "given": "Kwang-Sik",
+        "family": "Chung"
+      },
+      {
+        "given": "Sung-Ho",
+        "family": "Chin"
+      },
+      {
+        "given": "Heon-Chang",
+        "family": "Yu"
+      }
+    ],
+    "title": "A Gossip-based Mutual Exclusion Algorithm for Cloud Environments",
+    "container-title": "Proceedings of the 7th International Conference on Advances in Grid and Pervasive Computing",
+    "collection-title": "GPC'12",
+    "ISBN": "978-3-642-30766-9",
+    "publisher-place": "Berlin, Heidelberg",
+    "page": "31-45",
+    "number-of-pages": "15",
+    "URL": "http://dx.doi.org/10.1007/978-3-642-30767-6_3",
+    "DOI": "10.1007/978-3-642-30767-6_3",
+    "publisher": "Springer-Verlag",
+    "type": "paper-conference",
+    "citation-label": "lim2012gossip",
+    "id": "lim2012gossip",
+    "year-suffix": "gossip",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "JongBeom",
+        "family": "Lim"
+      },
+      {
+        "given": "Kwang-Sik",
+        "family": "Chung"
+      },
+      {
+        "given": "Heon-Chang",
+        "family": "Yu"
+      }
+    ],
+    "editor": [
+      {
+        "given": "James J.",
+        "family": "Park"
+      },
+      {
+        "given": "Albert",
+        "family": "Zomaya"
+      },
+      {
+        "given": "Sang-Soo",
+        "family": "Yeo"
+      },
+      {
+        "given": "Sartaj",
+        "family": "Sahni"
+      }
+    ],
+    "title": "A Termination Detection Technique Using Gossip in Cloud Computing Environments",
+    "container-title": "Network and Parallel Computing",
+    "publisher": "Springer Berlin Heidelberg",
+    "publisher-place": "Berlin, Heidelberg",
+    "page": "429-436",
+    "ISBN": "978-3-642-35606-3",
+    "type": "paper-conference",
+    "citation-label": "lim2012termination",
+    "id": "lim2012termination",
+    "year-suffix": "termination",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "Heuiseok",
+        "family": "Lim"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+      {
+        "given": "Taeweon",
+        "family": "Suh"
+      }
+    ],
+    "page": "346 - 355",
+    "title": "Using virtual platform embedded system education",
+    "volume": "20",
+    "container-title": "Computer Applications in Engineering Education",
+    "DOI": "10.1002/cae.20401",
+    "type": "article-journal",
+    "citation-label": "lim2012using",
+    "id": "lim2012using",
+    "year-suffix": "using",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "title": "A deadlock detection algorithm using gossip in cloud computing environments",
+    "author": [
+      {
+        "given": "JongBeom",
+        "family": "Lim"
+      },
+      {
+        "given": "Taeweon",
+        "family": "Suh"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "DOI": "10.1007/978-94-007-5857-5_84",
+    "language": "English",
+    "ISBN": "9789400758568",
+    "volume": "214 LNEE",
+    "collection-title": "Lecture Notes in Electrical Engineering",
+    "page": "781-789",
+    "container-title": "Lecture Notes in Electrical Engineering",
+    "type": "paper-conference",
+    "citation-label": "lim2013deadlock",
+    "id": "lim2013deadlock",
+    "year-suffix": "deadlock",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "JongBeom",
+        "family": "Lim"
+      },
+      {
+        "given": "Taeweon",
+        "family": "Suh"
+      },
+      {
+        "given": "JoonMin",
+        "family": "Gil"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "title": "Scalable and leaderless Byzantine consensus in cloud computing environments",
+    "container-title": "Information Systems Frontiers",
+    "volume": "16",
+    "issue": "1",
+    "page": "19-34",
+    "ISSN": "1572-9419",
+    "DOI": "10.1007/s10796-013-9460-7",
+    "URL": "https://doi.org/10.1007/s10796-013-9460-7",
+    "type": "article-journal",
+    "citation-label": "lim2014information",
+    "id": "lim2014information",
+    "year-suffix": "information",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Unstructured deadlock detection technique with scalability and complexity-efficiency in clouds",
+    "author": [
+      {
+        "given": "JongBeom",
+        "family": "Lim"
+      },
+      {
+        "given": "Taeweon",
+        "family": "Suh"
+      },
+      {
+        "given": "Heon-Chang",
+        "family": "Yu"
+      }
+    ],
+    "container-title": "Int. J. Communication Systems",
+    "volume": "27",
+    "page": "852-870",
+    "DOI": "10.1002/dac.2638",
+    "type": "article-journal",
+    "citation-label": "lim2014unstructured",
+    "id": "lim2014unstructured",
+    "year-suffix": "unstructured",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "JongBeom",
+        "family": "Lim"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      },
+      {
+        "given": "Joon‐Min",
+        "family": "Gil"
+      }
+    ],
+    "title": "Detecting Sybil Attacks in Cloud Computing  Environments Based on Fail‐Stop Signature",
+    "container-title": "Symmetry",
+    "volume": "9",
+    "issue": "3",
+    "URL": "http://www.mdpi.com/2073-8994/9/3/35",
+    "ISSN": "2073-8994",
+    "DOI": "10.3390/sym9030035",
+    "type": "article-journal",
+    "citation-label": "lim2017detecting",
+    "id": "lim2017detecting",
+    "year-suffix": "detecting",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "JongBeom",
+        "family": "Lim"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      },
+      {
+        "given": "Joon-Min",
+        "family": "Gil"
+      }
+    ],
+    "title": "An Efficient and Energy-Aware Cloud Consolidation Algorithm for Multimedia Big Data Applications",
+    "container-title": "Symmetry",
+    "volume": "9",
+    "issue": "9",
+    "URL": "http://www.mdpi.com/2073-8994/9/9/184",
+    "ISSN": "2073-8994",
+    "DOI": "10.3390/sym9090184",
+    "type": "article-journal",
+    "citation-label": "lim2017efficient",
+    "id": "lim2017efficient",
+    "year-suffix": "efficient",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "JongBeom",
+        "family": "Lim"
+      },
+      {
+        "given": "Kwang-Sik",
+        "family": "Chung"
+      },
+      {
+        "given": "HwaMin",
+        "family": "Lee"
+      },
+      {
+        "given": "Kangbin",
+        "family": "Yim"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "title": "Byzantine-resilient dual gossip membership management in clouds",
+    "container-title": "Soft Computing",
+    "volume": "22",
+    "issue": "9",
+    "page": "3011-3022",
+    "ISSN": "1433-7479",
+    "DOI": "10.1007/s00500-017-2553-3",
+    "URL": "https://doi.org/10.1007/s00500-017-2553-3",
+    "type": "article-journal",
+    "citation-label": "lim2018byzantine",
+    "id": "lim2018byzantine",
+    "year-suffix": "byzantine",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "JongBeom",
+        "family": "Lim"
+      },
+      {
+        "given": "Joon-Min",
+        "family": "Gil"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      }
+    ],
+    "title": "A Distributed Snapshot Protocol for Efficient Artificial Intelligence Computation in Cloud Computing Environments",
+    "container-title": "Symmetry",
+    "volume": "10",
+    "issue": "1",
+    "URL": "http://www.mdpi.com/2073-8994/10/1/30",
+    "ISSN": "2073-8994",
+    "DOI": "10.3390/sym10010030",
+    "type": "article-journal",
+    "citation-label": "lim2018distributed",
+    "id": "lim2018distributed",
+    "year-suffix": "distributed",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    }
+  },
+  {
+    "title": "An Intelligent Residual Resource Monitoring Scheme in Cloud Computing Environments.",
+    "author": [
+      {
+        "given": "JongBeom",
+        "family": "Lim"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      },
+      {
+        "given": "Joon-Min",
+        "family": "Gil"
+      }
+    ],
+    "container-title": "Journal of Information Processing Systems",
+    "volume": "14",
+    "issue": "6",
+    "page": "1480-1493",
+    "type": "article-journal",
+    "citation-label": "lim2018intelligent",
+    "id": "lim2018intelligent",
+    "year-suffix": "intelligent",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "YoungJu",
+        "family": "Moon"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      },
+      {
+        "given": "Joon-Min",
+        "family": "Gil"
+      },
+      {
+        "given": "JongBeom",
+        "family": "Lim"
+      }
+    ],
+    "title": "A slave ants based ant colony optimization algorithm for task scheduling in cloud computing environments",
+    "container-title": "Human-centric Computing and Information Sciences",
+    "volume": "7",
+    "issue": "1",
+    "page": "28",
+    "ISSN": "2192-1962",
+    "DOI": "10.1186/s13673-017-0109-2",
+    "URL": "https://doi.org/10.1186/s13673-017-0109-2",
+    "type": "article-journal",
+    "citation-label": "moon2017slave",
+    "id": "moon2017slave",
+    "year-suffix": "slave",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "JiSu",
+        "family": "Park"
+      },
+      {
+        "given": "KwangSik",
+        "family": "Chung"
+      },
+      {
+        "given": "EunYoung",
+        "family": "Lee"
+      },
+      {
+        "given": "YoungSik",
+        "family": "Jeong"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      }
+    ],
+    "title": "Monitoring Service Using Markov Chain Model in Mobile Grid Environment",
+    "container-title": "Proceedings of the 5th International Conference on Advances in Grid and Pervasive Computing",
+    "collection-title": "GPC'10",
+    "ISBN": "3-642-13066-6, 978-3-642-13066-3",
+    "publisher-place": "Berlin, Heidelberg",
+    "page": "193-203",
+    "number-of-pages": "11",
+    "URL": "http://dx.doi.org/10.1007/978-3-642-13067-0_23",
+    "DOI": "10.1007/978-3-642-13067-0_23",
+    "publisher": "Springer-Verlag",
+    "type": "paper-conference",
+    "citation-label": "park2010monitoring",
+    "id": "park2010monitoring",
+    "year-suffix": "monitoring",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Fault tolerance technique based on monitoring and pattern for reliable resource management in mobile cloud computing",
+    "author": [
+      {
+        "given": "Jisu",
+        "family": "Park"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+      {
+        "given": "Eunyoung",
+        "family": "Lee"
+      }
+    ],
+    "DOI": "10.6138/JIT.2013.14.6.14",
+    "language": "English",
+    "volume": "14",
+    "page": "997-1005",
+    "container-title": "Journal of Internet Technology",
+    "ISSN": "1607-9264",
+    "publisher": "Taiwan Academic Network Management Committee",
+    "issue": "6",
+    "type": "article-journal",
+    "citation-label": "park2013fault",
+    "id": "park2013fault",
+    "year-suffix": "fault",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          12,
+          19
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Resource provision technique with entropy-based mobility grouping for fault tolerance in mobile cloud computing",
+    "author": [
+      {
+        "given": "Jisu",
+        "family": "Park"
+      },
+      {
+        "given": "Byoungwook",
+        "family": "Kim"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+      {
+        "given": "Hyongsoon",
+        "family": "Kim"
+      },
+      {
+        "given": "Eunyoung",
+        "family": "Lee"
+      }
+    ],
+    "language": "English",
+    "volume": "16",
+    "page": "5229-5243",
+    "container-title": "Information (Japan)",
+    "ISSN": "1343-4500",
+    "publisher": "International Information Institute",
+    "issue": "7 B",
+    "type": "article-journal",
+    "citation-label": "park2013resource",
+    "id": "park2013resource",
+    "year-suffix": "resource",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          7,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "JiSu",
+        "family": "Park"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      },
+      {
+        "given": "Hyongsoon",
+        "family": "Kim"
+      },
+      {
+        "given": "Eunyoung",
+        "family": "Lee"
+      }
+    ],
+    "title": "Dynamic Group-based Fault Tolerance Technique for Reliable Resource Management in Mobile Cloud Computing",
+    "container-title": "Concurr. Comput. : Pract. Exper.",
+    "volume": "28",
+    "issue": "10",
+    "ISSN": "1532-0626",
+    "page": "2756-2769",
+    "number-of-pages": "14",
+    "URL": "https://doi.org/10.1002/cpe.3205",
+    "DOI": "10.1002/cpe.3205",
+    "publisher": "John Wiley and Sons Ltd.",
+    "publisher-place": "Chichester, UK",
+    "type": "article-journal",
+    "citation-label": "park2016dynamic",
+    "id": "park2016dynamic",
+    "year-suffix": "dynamic",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "JunWeon",
+        "family": "Yoon"
+      },
+      {
+        "given": "TaeYoung",
+        "family": "Hong"
+      },
+      {
+        "given": "JangWon",
+        "family": "Choi"
+      },
+      {
+        "given": "ChanYeol",
+        "family": "Park"
+      },
+      {
+        "given": "KiBong",
+        "family": "Kim"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      }
+    ],
+    "title": "Evaluation of P2P and cloud computing as platform for exhaustive key search on block ciphers",
+    "container-title": "Peer-to-Peer Networking and Applications",
+    "volume": "11",
+    "issue": "6",
+    "page": "1206-1216",
+    "ISSN": "1936-6450",
+    "DOI": "10.1007/s12083-018-0641-5",
+    "URL": "https://doi.org/10.1007/s12083-018-0641-5",
+    "type": "article-journal",
+    "citation-label": "yoon2018evaluation",
+    "id": "yoon2018evaluation",
+    "year-suffix": "evaluation",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          1
+        ]
+      ]
+    }
   }
 ]
