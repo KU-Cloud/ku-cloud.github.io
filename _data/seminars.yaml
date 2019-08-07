@@ -579,12 +579,15 @@
   date: 2019-06-28T19:00:00.000+0900
   speacker: 명노영
   location: 라이시움 408호
-- title: ' vSimilar: A high-adaptive VM scheduler based on the CPU pool mechanism'
+- title: 'vSimilar: A high-adaptive VM scheduler based on the CPU pool mechanism'
   date: 2019-07-05T19:00:00.000+0900
   speacker: 이재학
   location: 라이시움 408호
-- title: ' An empirical study on real-time data analytics for connected cars : Sensor-based applications for smart cars'
+- title: 'An empirical study on real-time data analytics for connected cars : Sensor-based applications for smart cars'
   date: 2019-07-19T19:00:00.000+0900
   speacker: 장준범
   location: 라이시움 408호
-
+- title: 'Data-Driven Serverless Functions for Object Storage'
+  date: 2019-08-9T19:00:00.000+0900
+  speacker: 황승현
+  location: 라이시움 408호
