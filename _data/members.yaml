@@ -54,6 +54,8 @@ intern:
     mail: buzri1905@naver.com
   - name: Yonghyeon Jang
     mail: wkd3475@gmail.com
+  - name: Yonghyeon Jang
+    mail: wkd3475@gmail.com
 
 alumniPhd:
   - name: Hwamin Lee
@@ -124,7 +126,7 @@ alumniMaster:
   - name: Jungha Lee
     mail: jungha07@gmail.com
     work:
-      - "Cray Korea"
+      - "NHN"
   - name: Youngju Moon
     mail: moonyj@korea.ac.kr
     work:

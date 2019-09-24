@@ -38,4 +38,4 @@ exclude:
 #   - jekyll-feed
 #   - jekyll-sitemap
 
-defaultCover: assets/images/members/default.png
+defaultCover: assets/images/members/default.webp
