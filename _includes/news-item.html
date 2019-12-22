@@ -1,0 +1,17 @@
+{% assign news=include.news %}
+
+<div class="card">
+    {% if news.cover.src %}
+    <img class="card-img-top" src="{{ news.cover.src }}" {% if news.cover.alt %} alt="{{ news.cover.alt }}" {% endif %}>
+    {% endif %}
+    <div class="card-body">
+        <h5 class="card-title">{{ news.title }}</h5>
+        <div class="card-text text-justify">
+            {{ news.excerpt }}
+        </div>
+    </div>
+    <div class="card-footer text-muted text-right">
+        <small><time datetime="{{ news.date }}">{{ news.date | date: "%b %d, %y" }}</time></small>
+    </div>
+    <a class="stretched-link" href="{{ news.url }}"></a>
+</div>

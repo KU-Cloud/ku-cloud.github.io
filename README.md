@@ -20,13 +20,14 @@ Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Getting Started](#getting-started)
   - [Prerequisition](#prerequisition)
-  - [Serve on Localhost using `Jekyll`](#serve-on-localhost-using-jekyll)
+  - [Serve on Localhost using Jekyll](#serve-on-localhost-using-jekyll)
   - [Directory Structure](#directory-structure)
   - [Liquid](#liquid)
 - [Data Schema](#data-schema)
   - [Member (member.yaml)](#member-memberyaml)
   - [Project (projects.yaml)](#project-projectsyaml)
   - [Seminar (seminars.yaml)](#seminar-seminarsyaml)
+  - [Posts (under /_posts)](#posts-under-posts)
   - [Publication (publications-*.yaml)](#publication-publications-yaml)
 - [How to Build Publications](#how-to-build-publications)
 - [Examples of Updating Data](#examples-of-updating-data)
@@ -211,6 +212,23 @@ seminar
 > `seminar.date`는 Asia/Seoul 시간대를 기준으로 작성하며 +0900 Offset 반드시 명시.
 
 > View에서 시간순으로 정렬하지 않으므로 반드시 시간순으로 기입. (최신 정보가 파일의 아래에)
+
+## Posts (under /_posts)
+
+News는 `.yaml`이 아닌 마크다운(`.md`) 또는 HTML로 작성되어야한다. [Front Matter](https://jekyllrb.com/docs/front-matter/)의 scheme은 다음과 같다.
+
+layout: news
+title: `string` News 제목
+categories: `string`[]
+cover:
+    src: `string` 커버 이미지 주소
+    alt: `string` 커버 이미지 설명
+
+파일 제목은 YYYY-MM-DD-Title.[.md|.html]의 형식이며, 자세한 사항은 [여기](https://jekyllrb.com/docs/posts/) 참고.
+
+Post에 사용되는 Resourc(이미지, 첨부파일 등)은 가능하면 외부 링크를 자제하고 `/assets/posts/{카테고리 이름}/{파일 제목}` 폴더에 저장하길 바람.
+
+> News는 category 이름으로 "news"를 사용한다.
 
 ## Publication (publications-*.yaml)
 

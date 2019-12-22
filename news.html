@@ -1,0 +1,12 @@
+---
+layout: page
+---
+
+<div class="container px-0">
+    <div class="card-columns">
+        {% assign posts = site.categories.news %}
+        {% for post in posts limit:9 %}
+        {% include news-item.html news=post %}
+        {% endfor %}
+    </div>
+</div>

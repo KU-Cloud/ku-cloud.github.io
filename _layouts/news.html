@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+{% assign cover = page.cover %}
+{% assign isCovered = cover.src %}
+
+<div class="min-vh-100 pb-5">
+    {% unless isCovered %}
+    <div class="py-5"></div>
+    {% endunless %}
+
+    {% if isCovered %}
+    <div class="vh-75 post-cover-img" style="background-image: url({{cover.src}});">
+        <div class="h-100 d-flex align-items-end post-cover-body">
+            {% endif %}
+            <div class="container">
+                <div class="page-title container mb-1 pt-5 pt-md-0">
+                    <h1 class="display-4">
+                        {{ page.title }}
+                    </h1>
+                </div>
+                <div class="text-muted text-right mb-3">
+                    <small><time>{{ page.date | date: "%a, %b %d, %Y" }}</time></small>
+                </div>
+            </div>
+            {% if isCovered %}
+        </div>
+    </div>
+    {% endif %}
+
+    <main id="main" class="post">
+        <div class="container text-justify {% if isCovered %} my-5 {% endif %}">
+            {{ content }}
+        </div>
+    </main>
+</div>
+
+
+{% include footer.html %}

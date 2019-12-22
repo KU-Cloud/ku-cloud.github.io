@@ -5,6 +5,7 @@
 @each $prop, $abbrev in (width: w, height: h) {
   @each $size, $length in $sizes {
     .#{$abbrev}-#{$size} { #{$prop}: $length !important; }
+    .v#{$abbrev}-#{$size} { #{$prop}: #{$size}v#{$abbrev} !important; }
   }
 }
 
@@ -16,5 +17,5 @@
 .min-vw-100 { min-width: 100vw !important; }
 .min-vh-100 { min-height: 100vh !important; }
 
-.vw-100 { width: 100vw !important; }
-.vh-100 { height: 100vh !important; }
+// .vw-100 { width: 100vw !important; }
+// .vh-100 { height: 100vh !important; }

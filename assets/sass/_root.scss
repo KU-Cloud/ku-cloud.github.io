@@ -10,6 +10,19 @@ body {
   min-height: 100%;
 }
 
+@media print {
+  html,
+  body,
+  .content.container {
+    background-color: #ffffff !important;
+  }
+
+  #footer {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+  }
+}
+
 .title.container,
 .page-title.container {
   @extend .border-bottom;
@@ -41,8 +54,14 @@ main {
     background-color: #f0f0f0;
 
     @include media-breakpoint-up(sm) {
-      padding: $spacer * 3;
+      padding: $spacer * 2;
     }
+  }
+}
+
+main.post {
+  img {
+    @include img-fluid
   }
 }
 
@@ -187,3 +206,4 @@ article footer {
 }
 
 @import "page-home";
+@import "_layout_post";
