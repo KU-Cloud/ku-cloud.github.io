@@ -129,6 +129,35 @@
     }
   },
   {
+    "title": "PRC 기반 GPU 가상화 환경에서 GPU 메모리의 초과 사용 시 발생하는 가상머신 사이의 성능 불균형 문제 분석",
+    "author": [
+      {
+        "family": "강지훈"
+      },
+      {
+        "family": "이재학"
+      },
+      {
+        "family": "길준민"
+      }
+    ],
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "volume": "26",
+    "issue": "2",
+    "page": "113-114",
+    "type": "paper-conference",
+    "citation-label": "강2019PRC",
+    "id": "강2019PRC",
+    "year-suffix": "PRC",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  {
     "title": "예외처리를 피하는 정의되지 않은 명령에 의한 하드웨어 트로이 목마의 구현 및 대응책 연구",
     "author": [
       {
@@ -219,6 +248,66 @@
       "date-parts": [
         [
           2018
+        ]
+      ]
+    }
+  },
+  {
+    "title": "하이퍼레저 패브릭의 실행과 순서화 단계에 대한 성능 분석",
+    "author": [
+      {
+        "family": "권민수"
+      },
+      {
+        "family": "명노영"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
+    "volume": "26",
+    "issue": "1",
+    "page": "62-64",
+    "type": "paper-conference",
+    "citation-label": "권2019하이퍼레저",
+    "id": "권2019하이퍼레저",
+    "year-suffix": "하이퍼레저",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  {
+    "title": "하이퍼레저 패브릭에서 채널을 이용한 보증 단계의 성능 최적화에 대한 연구",
+    "author": [
+      {
+        "family": "권민수"
+      },
+      {
+        "family": "장준범"
+      },
+      {
+        "family": "이재학"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "volume": "26",
+    "issue": "2",
+    "page": "110-112",
+    "type": "paper-conference",
+    "citation-label": "권2019하이퍼레저2",
+    "id": "권2019하이퍼레저2",
+    "issued": {
+      "date-parts": [
+        [
+          2019
         ]
       ]
     }
@@ -2721,6 +2810,35 @@
     }
   },
   {
+    "title": "모바일 엣지 환경에서 커넥티드카 실시간성 저해의 상관 관계 분석",
+    "author": [
+      {
+        "family": "장준범"
+      },
+      {
+        "family": "최희석"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
+    "volume": "26",
+    "issue": "1",
+    "page": "118-120",
+    "type": "paper-conference",
+    "citation-label": "장2019모바일엣지",
+    "id": "장2019모바일엣지",
+    "year-suffix": "모바일엣지",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  {
     "title": "웹 기반 네트워크 구성 시뮬레이터 설계 및 구현",
     "author": [
       {
@@ -3407,6 +3525,38 @@
     }
   },
   {
+    "title": "크레딧-스케줄러의 불공평적 IO 작업 분배에 관한 연구",
+    "author": [
+      {
+        "family": "최재원"
+      },
+      {
+        "family": "이재학"
+      },
+      {
+        "family": "유헌창"
+      },
+      {
+        "family": "이은영"
+      }
+    ],
+    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
+    "volume": "26",
+    "issue": "1",
+    "page": "68-71",
+    "type": "paper-conference",
+    "citation-label": "최2019크레딧",
+    "id": "최2019크레딧",
+    "year-suffix": "크레딧",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  {
     "title": "온톨로지 기반 창의적 역사학습시스템",
     "author": [
       {
@@ -3605,6 +3755,70 @@
       "date-parts": [
         [
           2018
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Serverless 기반 워크플로 실행에서 Cold Start 완화를 위한 런타임 인터페이스에 관한 연구",
+    "author": [
+      {
+        "family": "황승현"
+      },
+      {
+        "family": "강지훈"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "volume": "26",
+    "issue": "2",
+    "page": "649-652",
+    "type": "paper-conference",
+    "citation-label": "장2019모바일엣지",
+    "id": "장2019모바일엣지",
+    "year-suffix": "모바일엣지",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Tepid Start: 유휴 Serverless 컨테이너의 관리 전략과 구현",
+    "author": [
+      {
+        "family": "황승현"
+      },
+      {
+        "family": "강지훈"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "유헌창"
+      },
+      {
+        "family": "길준민"
+      }
+    ],
+    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
+    "volume": "26",
+    "issue": "1",
+    "page": "15-18",
+    "type": "paper-conference",
+    "citation-label": "황2019Tepid",
+    "id": "황2019Tepid",
+    "year-suffix": "Tepid",
+    "issued": {
+      "date-parts": [
+        [
+          2019
         ]
       ]
     }
