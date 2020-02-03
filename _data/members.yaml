@@ -35,27 +35,14 @@ master:
     research:
       - "Virtualization"
       - "Volunteer Computing"
-  - name: Junebeom Jang
-    mail: jjb0726@gmail.com
-    research:
-      - "Fault Tolerance"
-  - name: Minsu Kwon
-    mail: minsuft19@gmail.com
-    research:
-      - "Blockchain"
-  - name: Seunghyun Hwang
-    mail: somnus@korea.ac.kr
-    research:
-      - "Container"
-      - "Serverless Architecture"
-
-intern:
-  - name: Jaewon Choe
-    mail: buzri1905@naver.com
   - name: Yonghyeon Jang
     mail: wkd3475@gmail.com
   - name: Jinwon Jeong
     mail: jin4812@korea.ac.kr
+  
+intern:
+  - name: Jaewon Choe
+    mail: buzri1905@naver.com
 
 alumniPhd:
   - name: Hwamin Lee
@@ -139,3 +126,15 @@ alumniMaster:
     mail: bongwoo@korea.ac.kr
     work:
       - "TmaxSoft"
+  - name: Junebeom Jang
+    mail: jjb0726@gmail.com
+    work:
+      - "UBIVELOX"
+  - name: Minsu Kwon
+    mail: minsuft19@gmail.com
+    work:
+      - "Hewlett-Packard Company"
+  - name: Seunghyun Hwang
+    mail: somnus@korea.ac.kr
+    work:
+      - "ThorDrive"
