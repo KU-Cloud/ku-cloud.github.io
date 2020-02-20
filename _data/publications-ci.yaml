@@ -754,6 +754,72 @@
     }
   },
   {
+    "title": "Efficient State Maintenance in Serverless-based Workflow Using Host Storage",
+    "author": [
+      {
+        "given": "Seunghyun",
+        "family": "Hwang"
+      },
+      {
+        "given": "Kwangsik",
+        "family": "Chung"
+      },
+      {
+        "given": "Joonmin",
+        "family": "Gil"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+      {
+        "given": "Eunyoung",
+        "family": "Lee"
+      }
+    ],
+    "publisher": "International Conference on Interdisciplinary research on Computer science, Psychology, and Education (ICICPE 2019)",
+    "type": "paper-conference",
+    "citation-label": "hwang2019efficient",
+    "id": "hwang2019efficient",
+    "year-suffix": "efficient",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Implementation of Low-latency Message Delivery for Serverless based Workflow",
+    "author": [
+      {
+        "given": "Seunghyun",
+        "family": "Hwang"
+      },
+      {
+        "given": "Heeseok",
+        "family": "Choi"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "publisher": "IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2019)",
+    "type": "paper-conference",
+    "citation-label": "hwang2019implementation",
+    "id": "hwang2019implementation",
+    "year-suffix": "implementation",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  {
     "author": [
       {
         "given": "Daeyong",
@@ -1126,6 +1192,31 @@
     }
   },
   {
+    "title": "Performance Improvement of Ordering and Endorsement Phase in Hyperledger Fabric",
+    "author": [
+      {
+        "given": "Minsu",
+        "family": "Kwon"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "publisher": "International Symposium on Blockchain Computing and Application (BCCA 2019)",
+    "type": "paper-conference",
+    "citation-label": "kwon2019performance",
+    "id": "kwon2019performance",
+    "year-suffix": "performance",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  {
     "title": "Caching and Concurrency Control in Mobile Client/Server Database Systems",
     "author": [
       {
@@ -1475,6 +1566,35 @@
       "date-parts": [
         [
           2013
+        ]
+      ]
+    }
+  },
+  {
+    "title": "NIOECM: A Network I/O Event Control Mechanism To Provide Fairness of Network Performance among VMs with Same Resource Configuration in Virtualized Environment",
+    "author": [
+      {
+        "given": "Jaehark",
+        "family": "Lee"
+      },
+      {
+        "given": "Jihun",
+        "family": "Kang"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "publisher": "International Conference on Internet and Distributed Computing Systems (IDCS 2019)",
+    "type": "paper-conference",
+    "citation-label": "lee2019nioecm",
+    "id": "lee2019nioecm",
+    "year-suffix": "nioecm",
+    "issued": {
+      "date-parts": [
+        [
+          2019
         ]
       ]
     }

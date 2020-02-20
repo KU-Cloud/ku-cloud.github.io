@@ -387,6 +387,42 @@
     }
   },
   {
+    "title": "Latency-Classification-Based Deadline-Aware Task Offloading Algorithm in Mobile Edge Computing Environments",
+    "author": [
+      {
+        "given": "HeeSeok",
+        "family": "Choi"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+      {
+        "given": "Eunyoung",
+        "family": "Lee"
+      }
+    ],
+    "DOI": "10.3390/app9214696",
+    "language": "English",
+    "volume": "9",
+    "issue": "21",
+    "container-title": "MDPI, Applied Science-Basel",
+    "ISSN": "2076-3417",
+    "type": "article-journal",
+    "citation-label": "choi2019latency",
+    "id": "choi2019latency",
+    "year-suffix": "latency",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          11,
+          1
+        ]
+      ]
+    }
+  },
+  {
     "author": [
       {
         "given": "Kwang-Sik",
@@ -2068,6 +2104,46 @@
       "date-parts": [
         [
           2018
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Intelligent Resource Management Schemes for Systems, Services, and Applications of Cloud Computing Based on Artificial Intelligence",
+    "author": [
+      {
+        "given": "JongBeom",
+        "family": "Lim"
+      },
+      {
+        "given": "DaeWon",
+        "family": "Lee"
+      },
+      {
+        "given": "Kwang-Sik",
+        "family": "Chung"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "DOI": "10.3745/JIPS.04.0139",
+    "language": "English",
+    "volume": "15",
+    "page": "1192-1200",
+    "container-title": "Journal of Information Processing Systems",
+    "ISSN": "1976-913X",
+    "issue": "5",
+    "type": "article-journal",
+    "citation-label": "lim2019intelligent",
+    "id": "lim2019intelligent",
+    "year-suffix": "intelligent",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          10
         ]
       ]
     }

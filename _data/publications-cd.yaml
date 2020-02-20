@@ -831,6 +831,32 @@
     }
   },
   {
+    "title": "스토리지 동적 데이터 중복제거를 통한 예측기법",
+    "author": [
+      {
+        "family": "김태영"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "publisher": "한국정보과학회 2019 한국컴퓨터종합학술대회 (KCC 2019)",
+    "volume": "46",
+    "issue": "1",
+    "page": "1513-1515",
+    "type": "paper-conference",
+    "citation-label": "김2019스토리지",
+    "id": "김2019스토리지",
+    "year-suffix": "스토리지",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  {
     "title": "시스템 메신저 및 커뮤니케이션 모바일 앱을 위한 필터링 시스템",
     "author": [
       {
@@ -1689,6 +1715,32 @@
       "date-parts": [
         [
           2018
+        ]
+      ]
+    }
+  },
+  {
+    "title": "특징 최소화와 데이터선별을 활용한 영화관객수 예측",
+    "author": [
+      {
+        "family": "양영보"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
+    "volume": "26",
+    "issue": "1",
+    "page": "443-446",
+    "type": "paper-conference",
+    "citation-label": "양2019특징최소화",
+    "id": "양2019특징최소화",
+    "year-suffix": "특징최소화",
+    "issued": {
+      "date-parts": [
+        [
+          2019
         ]
       ]
     }
@@ -3520,6 +3572,38 @@
       "date-parts": [
         [
           2018
+        ]
+      ]
+    }
+  },
+  {
+    "title": "러닝 상태의 세분화를 통한 클라우드 유휴자원 활용 기법",
+    "author": [
+      {
+        "family": "최재원"
+      },
+      {
+        "family": "임세윤"
+      },
+      {
+        "family": "이재학"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "publisher": "한국컴퓨터교육학회 동계학술발표대회 논문집",
+    "volume": "24",
+    "issue": "1",
+    "page": "127-130",
+    "type": "paper-conference",
+    "citation-label": "최2019러닝상태",
+    "id": "최2019러닝상태",
+    "year-suffix": "러닝상태",
+    "issued": {
+      "date-parts": [
+        [
+          2019
         ]
       ]
     }
