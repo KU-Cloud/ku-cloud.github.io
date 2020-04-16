@@ -417,7 +417,7 @@
         [
           2019,
           11,
-          1
+          4
         ]
       ]
     }
@@ -2405,6 +2405,50 @@
           2018,
           11,
           1
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Log Analysis-Based Resource and Execution Time Improvement in HPC: A Case Study",
+    "author": [
+      {
+        "given": "JunWeon",
+        "family": "Yoon"
+      },
+      {
+        "given": "TaeYoung",
+        "family": "Hong"
+      },
+      {
+        "given": "ChanYeol",
+        "family": "Park"
+      },
+      {
+        "given": "Seo-Young",
+        "family": "Noh"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      }
+    ],
+    "DOI": "10.3390/app10072634",
+    "language": "English",
+    "volume": "10",
+    "issue": "7",
+    "container-title": "MDPI, Applied Sciences",
+    "ISSN": "2076-3417",
+    "type": "article-journal",
+    "citation-label": "yoon2020log",
+    "id": "yoon2020log",
+    "year-suffix": "log",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          10
         ]
       ]
     }
