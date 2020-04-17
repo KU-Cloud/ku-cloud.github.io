@@ -799,6 +799,41 @@
     }
   },
   {
+    "title": "Partial migration technique for GPGPU tasks to Prevent GPU Memory Starvation in RPC-based GPU Virtualization",
+    "author": [
+      {
+        "given": "JiHun",
+        "family": "Kang"
+      },
+      {
+        "given": "JongBeom",
+        "family": "Lim"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      }
+    ],
+    "DOI": "10.1002/spe.2801",
+    "language": "English",
+    "container-title": "Software - Practice and Experience",
+    "ISSN": "0038-0644",
+    "publisher": "John Wiley and Sons Ltd",
+    "type": "article-journal",
+    "citation-label": "kang2020partial",
+    "id": "kang2020partial",
+    "year-suffix": "partial",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  {
     "title": "Optimistic scheduling algorithm for mobile transactions based on reordering",
     "author": [
       {
