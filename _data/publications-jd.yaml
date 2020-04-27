@@ -70,38 +70,34 @@
     "title": "Checkpoint-based Job Migration Technique in Mobile Grids",
     "author": [
       {
-        "given": "Inseock",
-        "family": "Cho"
+        "given": "DaeYong",
+        "family": "Jung"
       },
       {
-        "given": "Daewon",
-        "family": "Lee"
+        "given": "TaeWeon",
+        "family": "Suh"
       },
       {
-        "given": "Hwamin",
-        "family": "Lee"
-      },
-      {
-        "given": "Joonmin",
-        "family": "Gil"
+        "given": "KwangSik",
+        "family": "Chung"
       },
       {
         "given": "Heonchang",
         "family": "Yu"
       }
     ],
-    "volume": "11",
-    "issue": "5",
+    "volume": "12",
+    "issue": "4",
     "container-title": "The Journal of Korean Association of Computer Education",
-    "page": "67-76",
+    "page": "47-55",
     "type": "article-journal",
-    "citation-label": "cho2008checkpoint",
-    "id": "cho2008checkpoint",
+    "citation-label": "Jung2008checkpoint",
+    "id": "Jung2008checkpoint",
     "year-suffix": "checkpoint",
     "issued": {
       "date-parts": [
         [
-          2008,
+          2009,
           7
         ]
       ]
@@ -731,6 +727,52 @@
     }
   },
   {
+    "title": "Design and Implementation of Service based Virtual Screening System in Grids",
+    "author": [
+      {
+        "given": "Hwamin",
+        "family": "Lee"
+      },
+      {
+        "given": "Sungho",
+        "family": "Chin"
+      },
+      {
+        "given": "Jong-Hyuk",
+        "family": "Lee"
+      },
+      {
+        "given": "Dae",
+        "non-dropping-particle": "won",
+        "family": "Lee"
+      },
+      {
+        "given": "Seongbin",
+        "family": "Park"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "volume": "35",
+    "issue": "6",
+    "container-title": "Journal of KIISE:Computer Systems and Theory",
+    "page": "237-247",
+    "type": "article-journal",
+    "citation-label": "lee2008design",
+    "id": "lee2008design",
+    "year-suffix": "design",
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          6
+        ]
+      ]
+    }
+  },
+  {
     "title": "Performance evaluation and analysis of TILE-Gx36 many-core processor with PARSEC benchmark",
     "author": [
       {
@@ -763,39 +805,6 @@
         [
           2014,
           1
-        ]
-      ]
-    }
-  },
-  {
-    "title": "Design and Implementation of Service based Virtual Screening System in Grids",
-    "author": [
-      {
-        "given": "Jongbeom",
-        "family": "Lim"
-      },
-      {
-        "given": "Heeseok",
-        "family": "Choi"
-      },
-      {
-        "given": "Heonchang",
-        "family": "Yu"
-      }
-    ],
-    "volume": "35",
-    "issue": "6",
-    "container-title": "Journal of Korea Information Science Society: Computer Systems and Theory",
-    "page": "668-678",
-    "type": "article-journal",
-    "citation-label": "lim2008design",
-    "id": "lim2008design",
-    "year-suffix": "design",
-    "issued": {
-      "date-parts": [
-        [
-          2008,
-          6
         ]
       ]
     }
