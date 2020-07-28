@@ -2908,9 +2908,9 @@
     "issue": "1",
     "page": "20-23",
     "type": "paper-conference",
-    "citation-label": "정2020Docker",
-    "id": "정2020Docker",
-    "year-suffix": "Docker",
+    "citation-label": "장2020KVM",
+    "id": "장2020KVM",
+    "year-suffix": "KVM",
     "issued": {
       "date-parts": [
         [
@@ -3246,6 +3246,32 @@
       "date-parts": [
         [
           2018
+        ]
+      ]
+    }
+  },
+  {
+    "title": "여행 수요 파악 및 항공 노선 전략 연구 : 웹 크롤링 기반 분석 기법",
+    "author": [
+      {
+        "family": "조창현"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
+    "volume": "27",
+    "issue": "1",
+    "page": "378-381",
+    "type": "paper-conference",
+    "citation-label": "조2020여행",
+    "id": "조2020여행",
+    "year-suffix": "여행",
+    "issued": {
+      "date-parts": [
+        [
+          2020
         ]
       ]
     }

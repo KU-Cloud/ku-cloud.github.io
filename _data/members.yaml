@@ -6,18 +6,10 @@
 #               e.g.) assets/images/members/{name}.png
 
 phd:
-  - name: Heeseok Choi
-    mail: hsrangken@korea.ac.kr
-    research: 
-      - "Energe-aware VM Management"
   - name: Dongjeong Kim
     mail: jikimi@korea.ac.kr
     research:
       - "e-Learning"
-  - name: Jihun Kang
-    mail: k2j23h@korea.ac.kr
-    research:
-      - "Parallel Programming Using GPGPU"
   - name: Rohyoung Myung
     mail: mry1811@korea.ac.kr
     research:
@@ -28,21 +20,23 @@ phd:
     research:
       - "Virtualization"
       - "Volunteer Computing"
-
-master:
   - name: Jaehak Lee
     mail: smreodmlvl@korea.ac.kr
     research:
       - "Virtualization"
       - "Volunteer Computing"
+
+master:
   - name: Yonghyeon Jang
     mail: wkd3475@gmail.com
   - name: Jinwon Jeong
     mail: jin4812@korea.ac.kr
-  
-intern:
   - name: Sejin Kim
     mail: sejjj120@gmail.com
+  
+intern:
+  - name: 
+    mail: 
 
 alumniPhd:
   - name: Hwamin Lee
@@ -68,7 +62,7 @@ alumniPhd:
   - name: Jisu Park
     mail: jisu.park@ds.korea.ac.kr
     work:
-      - "Dongguk University (Assistant Professor)"
+      - "Jeonju University (Assistant Professor)"
   - name: Sughee Kim
     mail: riemann@korea.ac.kr
     work:
@@ -96,6 +90,14 @@ alumniPhd:
     research:
       - Cloud Computing
       - Distributed Computing
+  - name: Heeseok Choi
+    mail: hsrangken@korea.ac.kr
+    work: 
+      - " "
+  - name: Jihun Kang
+    mail: k2j23h@korea.ac.kr
+    work: 
+      - " "
 
 alumniMaster:
   - name: Sangchul Shin
@@ -138,3 +140,4 @@ alumniMaster:
     mail: somnus@korea.ac.kr
     work:
       - "ThorDrive"
+
