@@ -2920,6 +2920,35 @@
     }
   },
   {
+    "title": "차량 고장 및 사고 탐지 서비스의 지연 시간 단축을 위한 모니터링 모듈 개발",
+    "author": [
+      {
+        "family": "장용현"
+      },
+      {
+        "family": "이재학"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "publisher": "한국차세대컴퓨팅학회 하계학술발표대회",
+    "type": "paper-conference",
+    "citation-label": "장2020차량",
+    "id": "장2020차량",
+    "year-suffix": "차량",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    }
+  },
+  {
     "title": "웹 기반 네트워크 구성 시뮬레이터 설계 및 구현",
     "author": [
       {
@@ -3114,6 +3143,35 @@
     "citation-label": "정2020Docker",
     "id": "정2020Docker",
     "year-suffix": "Docker",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    }
+  },
+  {
+    "title": "RSU내 컨테이너를 이용한 워크로드 처리기법",
+    "author": [
+      {
+        "family": "정진원"
+      },
+      {
+        "family": "이재학"
+      },
+      {
+        "family": "길준민"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "publisher": "한국차세대컴퓨팅학회 하계학술발표대회",
+    "type": "paper-conference",
+    "citation-label": "정2020RSU",
+    "id": "정2020RSU",
+    "year-suffix": "RSU",
     "issued": {
       "date-parts": [
         [
