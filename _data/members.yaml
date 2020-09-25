@@ -32,11 +32,11 @@ master:
   - name: Jinwon Jeong
     mail: jin4812@korea.ac.kr
   - name: Sejin Kim
-    mail: sejjj120@gmail.com
-  
+    mail: sejjj120@korea.ac.kr
+
 intern:
-  - name: 
-    mail: 
+  - name:
+    mail:
 
 alumniPhd:
   - name: Hwamin Lee
@@ -92,11 +92,11 @@ alumniPhd:
       - Distributed Computing
   - name: Heeseok Choi
     mail: hsrangken@korea.ac.kr
-    work: 
+    work:
       - " "
   - name: Jihun Kang
     mail: k2j23h@korea.ac.kr
-    work: 
+    work:
       - " "
 
 alumniMaster:
@@ -140,4 +140,3 @@ alumniMaster:
     mail: somnus@korea.ac.kr
     work:
       - "ThorDrive"
-
