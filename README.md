@@ -1,6 +1,5 @@
-Quick Menu for Updating Data
-=========================
- 
+# Quick Menu for Updating Data
+
 - [Seminar](/_data/seminars.yaml)
 - [Member](/_data/members.yaml)
 - [Project](/_data/projects.yaml)
@@ -9,12 +8,12 @@ Quick Menu for Updating Data
 - [Pub-Domestic-Journal](/_data/publications-jd.yaml)
 - [Pub-Domestic-Conference](/_data/publications-cd.yaml)
 
-For Maintainers
-===============
+# For Maintainers
+
 홈페이지를 유지보수하는 메인테이너를 위한 안내서.
 
-Table of Contents
-=================
+# Table of Contents
+
 - [Quick Menu for Updating Data](#quick-menu-for-updating-data)
 - [For Maintainers](#for-maintainers)
 - [Table of Contents](#table-of-contents)
@@ -27,8 +26,8 @@ Table of Contents
   - [Member (member.yaml)](#member-memberyaml)
   - [Project (projects.yaml)](#project-projectsyaml)
   - [Seminar (seminars.yaml)](#seminar-seminarsyaml)
-  - [Posts (under /_posts)](#posts-under-posts)
-  - [Publication (publications-*.yaml)](#publication-publications-yaml)
+  - [Posts (under /\_posts)](#posts-under-posts)
+  - [Publication (publications-\*.yaml)](#publication-publications-yaml)
 - [How to Build Publications](#how-to-build-publications)
 - [Examples of Updating Data](#examples-of-updating-data)
   - [Seminar](#seminar)
@@ -37,9 +36,8 @@ Table of Contents
   - [Publication](#publication)
 - [If You Make a Huge Mistake](#if-you-make-a-huge-mistake)
 
+# Getting Started
 
-Getting Started
-===============
 Member, Project, 또는 Seminar 정보 수정은 GitHub에서 웹 인터페이스로 직접 수정가능.
 데이터 스키마를 [여기](#data-schema)서 참고하고 나서 GitHub에서 직접 수정하는 방법을 [여기](https://help.github.com/en/articles/editing-files-in-your-repository)서 참고.
 Publication 정보도 GitHub에서 직접 수정가능하나, Forward Compability를 위해 추천하지 않음.
@@ -49,11 +47,13 @@ Publication 정보도 GitHub에서 직접 수정가능하나, Forward Compabilit
 ## Prerequisition
 
 Essentials
+
 - [Jekyll](https://jekyllrb.com/) >= 3.7.4 (see [GitHub Pages dependency list](https://pages.github.com/versions/))
   - [Ruby](https://www.ruby-lang.org/en/) >= 2.5.1 ()
 - [Git](https://git-scm.com/) >= 2.17.1
 
 Optionals
+
 - [Node.js](https://nodejs.org/ko/) >= 8.12.1
   - npm >= 6.4.1 (Node.js 설치시 함께 설치됨)
 - [jq](https://stedolan.github.io/jq/) >= 1.5-1
@@ -70,7 +70,7 @@ Optionals
 `Visual Studio Code`(`vscode`)는 텍스트 에디터로 개발의 편의를 위해 필요함.
 본 안내서에서 `Git`에 관한 내용을 다루지 않는다.
 `vscode`는 `Git` 인터페이스가 내장되어 있다.
-따라서 `git` CLI에 익숙하지 않다면 설치하자. 
+따라서 `git` CLI에 익숙하지 않다면 설치하자.
 
 ## Serve on Localhost using `Jekyll`
 
@@ -81,6 +81,7 @@ cd ku-cloud.github.io
 # Jekyll 서버 실행
 jekyll serve
 ```
+
 정적 페이지가 생성된 후 `http://localhost:4000`으로 접속하면 로컬에서 Serving되는 웹 페이지에 접근할 수 있다.
 
 서버를 종료하지 않고 `Jekyll` Workspace의 파일이 수정되면 자동으로 업데이트 된다. 해당 기능을 끄기 위해서는 `jekyll serve --no-watch`로 서버를 켜면된다.
@@ -88,7 +89,7 @@ jekyll serve
 ## Directory Structure
 
 본 섹션에서는 프로젝트 루트 디렉터리, 그러니까 좀 전에 `git clone`으로 다운로드 받은 폴더 `/path/to/ku-cloud.gitbut.io`폴더에 존재하는 파일과 폴더에 대해서 설명한다.
-참고로 파일 또는 폴더 이름이 '_' 문자로 시작하는 것은 `Jekyll`이 Serving하지 않는다.
+참고로 파일 또는 폴더 이름이 '\_' 문자로 시작하는 것은 `Jekyll`이 Serving하지 않는다.
 
 `*.html`
 
@@ -103,7 +104,7 @@ jekyll serve
 
 `_config.yaml`
 
->`Jekyll`의 설정파일이다. 자세한 정보는 [여기](https://jekyllrb.com/docs/configuration/options/)를 참고.
+> `Jekyll`의 설정파일이다. 자세한 정보는 [여기](https://jekyllrb.com/docs/configuration/options/)를 참고.
 
 `package.json`, `package-lock.json`
 
@@ -148,8 +149,7 @@ jekyll serve
 자세한 정보는 [여기](https://shopify.github.io/liquid/)를 참고.
 `Jejyll`은 Liquid에서 기본적으로 제공하는 것 이외에 몇가지 Fiter와 Tag를 추가로 제공한다. 자세한 정보는 [여기](https://jekyllrb.com/docs/liquid/)를 참고.
 
-Data Schema
-===========
+# Data Schema
 
 ## Member ([member.yaml](/_data/members.yaml))
 
@@ -162,16 +162,15 @@ member
 ├ work `string[]` 직장  
 └ research `string[]` 연구 분야
 
-
- 최상위 수준은 `member[]`를 값으로 하며 `phd`, `master`, `alumniPhd`, 그리고 `alumniMaster`를 key로 하는 `object`이다.
- 각각 박사, 석사, 박사 졸업생, 그리고 석사 졸업생을 의미한다.
+최상위 수준은 `member[]`를 값으로 하며 `phd`, `master`, `alumniPhd`, 그리고 `alumniMaster`를 key로 하는 `object`이다.
+각각 박사, 석사, 박사 졸업생, 그리고 석사 졸업생을 의미한다.
 
 > `member.cover` 필드가 비어있으면 "/assets/images/members/\{member.name\}.jpg"를 사용한다.
 
 > `member.cover`에 명시된 파일이 존재하지 않으면 "/assets/images/members/default.png"를 사용한다.
 
-> `member.work` 필드가 존재하면 `member.research` 필드는 무시된다. [/_includes/member-item.html](/_includes/member-item.html) 참고.
-> 
+> `member.work` 필드가 존재하면 `member.research` 필드는 무시된다. [/\_includes/member-item.html](/_includes/member-item.html) 참고.
+>
 > View에서 Item 순서로 출력됨.
 
 ## Project ([projects.yaml](/_data/projects.yaml))
@@ -193,9 +192,8 @@ sponsor
 
 > `sponsor.short` 필드의 값은 화면이 작으면(모바일) 출력된다.
 > 값이 없으면 `sponsor.full`이 출력된다.
-> [/_include/project-item.html](/_include/project-item.html) 참고.
+> [/\_include/project-item.html](/_include/project-item.html) 참고.
 > (TODO: 구현되지 않음)
-
 
 > View에서 시간순으로 정렬하므로 기입 순서 상관 없음.
 
@@ -213,7 +211,7 @@ seminar
 
 > View에서 시간순으로 정렬하지 않으므로 반드시 시간순으로 기입. (최신 정보가 파일의 아래에)
 
-## Posts (under /_posts)
+## Posts (under /\_posts)
 
 News는 `.yaml`이 아닌 마크다운(`.md`) 또는 HTML로 작성되어야한다. [Front Matter](https://jekyllrb.com/docs/front-matter/)의 scheme은 다음과 같다.
 
@@ -221,8 +219,8 @@ layout: news
 title: `string` News 제목
 categories: `string`[]
 cover:
-    src: `string` 커버 이미지 주소
-    alt: `string` 커버 이미지 설명
+src: `string` 커버 이미지 주소
+alt: `string` 커버 이미지 설명
 
 파일 제목은 YYYY-MM-DD-Title.[.md|.html]의 형식이며, 자세한 사항은 [여기](https://jekyllrb.com/docs/posts/) 참고.
 
@@ -230,38 +228,37 @@ Post에 사용되는 Resourc(이미지, 첨부파일 등)은 가능하면 외부
 
 > News는 category 이름으로 "news"를 사용한다.
 
-## Publication (publications-*.yaml)
+## Publication (publications-\*.yaml)
 
 해당 파일은 유틸리티를 이용해 자동 생성된 파일임.
 직접 수정시 JSON 포맷에 유의하여 알아서 잘 수정해주길 바람...
 
-**업데이트한 정보는 Forward Compability를 위해 반드시 해당하는 bib 파일을 "/_publications/.../" 폴더에 넣어주길 바람.
+**업데이트한 정보는 Forward Compability를 위해 반드시 해당하는 bib 파일을 "/\_publications/.../" 폴더에 넣어주길 바람.
 bib 파일이 존재하지않으면 향후 자동 생성시 정보가 누락됨.**
 
 자동 생성하는 방법은 여기를 참고.
 
+# How to Build Publications
 
-How to Build Publications
-=========================
-
-빌드 스크립트는 "/_publication/build.sh"이다. 빌드하기 위해선 `Node.js`와 `jq`가 반드시 필요하다. 두가지를 설치했으면 프로젝트 루트 디렉터리에서 다음 명령어를 실행해서 필요한 유틸리지를 설치하자.
+빌드 스크립트는 "/\_publication/build.sh"이다. 빌드하기 위해선 `Node.js`와 `jq`가 반드시 필요하다. 두가지를 설치했으면 프로젝트 루트 디렉터리에서 다음 명령어를 실행해서 필요한 유틸리지를 설치하자.
 
 ```sh
 # 프로젝트 루트 디렉터리에서 (즉, package.json 파일이 위치한 디렉터리에서)
 npm install
 ```
 
-"/_publication/build.sh"을 보면 파일 하단에 5줄씩 각주가 되어 있다. 빌드가 필요한 부분에 각주를 지우고 실행하자. (당연히 해당 폴더에 업데이트할 bib 파일이 넣어주고나서 실행해야한다.)
+"/\_publication/build.sh"을 보면 파일 하단에 5줄씩 각주가 되어 있다. 빌드가 필요한 부분에 각주를 지우고 실행하자. (당연히 해당 폴더에 업데이트할 bib 파일이 넣어주고나서 실행해야한다.)
 
 > bib 파일에 문제가 있다면 스크립트 실행중 "Uncaught..."가 출력된다.
 > 새로 추가한 파일에 문법 문제가 있을것이므로 확인바람.
 
-Examples of Updating Data
-=========================
+# Examples of Updating Data
 
 ## Seminar
+
 ```yaml
-...
+
+---
 # 파일의 끝에 추가
 - title: 오늘의 곰국
   speaker: 홍길동
@@ -270,6 +267,7 @@ Examples of Updating Data
 ```
 
 ## Member
+
 ```yaml
 # 석사 신입생의 경우
 master:
@@ -284,8 +282,10 @@ master:
 ```
 
 ## Project
+
 ```yaml
-...
+
+---
 # 파일의 끝에 추가
 - title: 난해한 제목의 과제
   sponsor:
@@ -304,9 +304,9 @@ master:
 > 국제 저널: `/_publications/journal/international/`  
 > 국내 저널: `/_publications/journal/domestic/`  
 > 국제 컨퍼런스: `/_publications/conference/international/`  
-> 국내 컨퍼런스: `/_publications/conference/domestic/`  
+> 국내 컨퍼런스: `/_publications/conference/domestic/`
 
-``` yaml
+```yaml
 # 국제 저널의 경우
 [
   ...
@@ -343,8 +343,7 @@ master:
 ]
 ```
 
-
-``` yaml
+```yaml
 # 국내 컨퍼런스의 경우
 [
   ...
@@ -380,7 +379,6 @@ master:
 ]
 ```
 
-If You Make a Huge Mistake
-==========================
+# If You Make a Huge Mistake
 
 당황하지 말고 `Git`으로 변경내용을 취소하거나, 이미 커밋했다면 롤백하자.
