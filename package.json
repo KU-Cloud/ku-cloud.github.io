@@ -1,7 +1,7 @@
 {
   "name": "ku-cloud.github.io",
   "version": "1.0.0",
-  "description": "",
+  "description": "GitHub Page",
   "main": "index.js",
   "dependencies": {
     "stylelint-config-recommended": "^2.1.0"
