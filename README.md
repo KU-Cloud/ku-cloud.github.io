@@ -257,7 +257,6 @@ npm install
 ## Seminar
 
 ```yaml
-
 ---
 # 파일의 끝에 추가
 - title: 오늘의 곰국
@@ -284,7 +283,6 @@ master:
 ## Project
 
 ```yaml
-
 ---
 # 파일의 끝에 추가
 - title: 난해한 제목의 과제
