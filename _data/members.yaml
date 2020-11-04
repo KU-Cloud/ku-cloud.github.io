@@ -6,6 +6,11 @@
 #               e.g.) assets/images/members/{name}.png
 
 phd:
+  - name: Jaehak Lee
+    mail: smreodmlvl@korea.ac.kr
+    research:
+      - "Virtualization"
+      - "Volunteer Computing"
   - name: Dongjeong Kim
     mail: jikimi@korea.ac.kr
     research:
@@ -20,11 +25,7 @@ phd:
     research:
       - "Virtualization"
       - "Volunteer Computing"
-  - name: Jaehak Lee
-    mail: smreodmlvl@korea.ac.kr
-    research:
-      - "Virtualization"
-      - "Volunteer Computing"
+
 
 master:
   - name: Yonghyeon Jang
