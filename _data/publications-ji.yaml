@@ -1673,6 +1673,36 @@
   {
     "author": [
       {
+        "given": "Jaehak",
+        "family": "Lee"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      }
+    ],
+    "title": "I/O Strength-Aware Credit Scheduler for Virtualized Environments",
+    "container-title": "Electronics",
+    "ISSN": "2079-9292",
+    "DOI": "10.3390/electronics9122107",
+    "URL": "https://doi.org/10.3390/electronics9122107",
+    "type": "article-journal",
+    "citation-label": "lee2020io",
+    "id": "lee2020io",
+    "year-suffix": "io",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
         "given": "Heui Seok",
         "family": "Lim"
       },
@@ -2220,6 +2250,36 @@
           2017,
           10,
           9
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "given": "Rohyoung",
+        "family": "Myung"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      }
+    ],
+    "title": "Performance Prediction for convolutional Neural Network on Spark Cluster",
+    "container-title": "Electronics",
+    "ISSN": "2079-9292",
+    "DOI": "10.3390/electronics9091340",
+    "URL": "https://doi.org/10.3390/electronics9091340",
+    "type": "article-journal",
+    "citation-label": "myung2020performance",
+    "id": "myung2020performance",
+    "year-suffix": "performance",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          19
         ]
       ]
     }
