@@ -659,3 +659,7 @@
   date: 2020-12-18T19:00:00.000+0900
   speacker: 송충건
   location: ZOOM 온라인 화상회의
+- title: 'Effectively Mitigting I/O Inactiveiy in vCPU Scheduling'
+  date: 2021-01-08T19:00:00.000+0900
+  speacker: 이재학
+  location: ZOOM 온라인 화상회의
