@@ -663,3 +663,7 @@
   date: 2021-01-08T19:00:00.000+0900
   speacker: 이재학
   location: ZOOM 온라인 화상회의
+- title: 'MARBLE: A Multi-GPU Aware Job Scheduler for Deep Learning on HPC Systems'
+  date: 2021-01-15T19:00:00.000+0900
+  speacker: 정진원
+  location: ZOOM 온라인 화상회의
