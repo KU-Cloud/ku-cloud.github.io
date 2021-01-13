@@ -39,7 +39,7 @@ function mkjson {
 # =====================================
 # process conference/international...
 # ====================================="
-# mv $(mkjson "./conference/international/*.bib") ../_data/publications-ci.yaml
+#mv $(mkjson "./conference/international/*.bib") ../_data/publications-ci.yaml
 
 # echo "
 # =====================================
@@ -51,6 +51,6 @@ function mkjson {
 # =====================================
 # process conference/domestic...
 # ====================================="
-# mv $(mkjson "./conference/domestic/*.bib") ../_data/publications-cd.yaml
+#mv $(mkjson "./conference/domestic/*.bib") ../_data/publications-cd.yaml
 
 
