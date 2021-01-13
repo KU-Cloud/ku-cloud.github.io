@@ -33,7 +33,7 @@ function mkjson {
 # =====================================
 # process journal/international...
 # ====================================="
-# mv $(mkjson "./journal/international/*.bib") ../_data/publications-ji.yaml
+mv $(mkjson "./journal/international/*.bib") ../_data/publications-ji.yaml
 
 # echo "
 # =====================================
