@@ -683,3 +683,7 @@
   date: 2021-03-26T19:00:00.000+0900
   speacker: 송충건
   location: ZOOM 온라인 화상회의
+- title: 'Fine-grained Autoscaling with In-VM Containers and VM Introspection'
+  date: 2021-04-02T19:00:00.000+0900
+  speacker: 이재학
+  location: ZOOM 온라인 화상회의
