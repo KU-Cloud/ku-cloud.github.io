@@ -2287,6 +2287,37 @@
   {
     "author": [
       {
+        "given": "Rohyoung",
+        "family": "Myung"
+      },
+      {
+        "given": "Sukyong",
+        "family": "Choi"
+      }
+    ],
+    "title": "Machine-Learning Based Memory Prediction Model for Data Parallel Workloads in Apache Spark",
+    "container-title": "Symmetry",
+    "volume": "13",
+    "ISSN": "2073-8994",
+    "DOI": "10.3390/sym13040697",
+    "URL": "https://doi.org/10.3390/sym13040697",
+    "type": "article-journal",
+    "citation-label": "myung2020machine",
+    "id": "myung2020machine",
+    "year-suffix": "machine",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
         "given": "JiSu",
         "family": "Park"
       },

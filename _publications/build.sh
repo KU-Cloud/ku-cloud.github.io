@@ -33,11 +33,7 @@ function mkjson {
 # =====================================
 # process journal/international...
 # ====================================="
-<<<<<<< HEAD
 #mv $(mkjson "./journal/international/*.bib") ../_data/publications-ji.yaml
-=======
-# mv $(mkjson "./journal/international/*.bib") ../_data/publications-ji.yaml
->>>>>>> parent of 8cf4f78... update publications-ji
 
 # echo "
 # =====================================
