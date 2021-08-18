@@ -4135,6 +4135,59 @@
     }
   },
   {
+    "title": "영어 성취 그룹별 인공지능 챗봇의 개별화 학습 도움 효과 분석 - AI 펭톡을 중심으로",
+    "author": [
+      {
+        "family": "윤형준"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "publisher": "한국컴퓨터교육학회 하계학술발표대회",
+    "volume": "25",
+    "issue": "2",
+    "type": "paper-conference",
+    "citation-label": "윤2021영어",
+    "id": "윤2021영어",
+    "year-suffix": "영어",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    }
+  },
+  {
+    "title": "배터리 기반 융합인재교육 개발 및 효과 연구",
+    "author": [
+      {
+        "family": "이지영"
+      },
+      {
+        "family": "김석희"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "publisher": "한국컴퓨터교육학회 하계학술발표대회",
+    "volume": "25",
+    "issue": "2",
+    "type": "paper-conference",
+    "citation-label": "이2021배터리",
+    "id": "이2021배터리",
+    "year-suffix": "배터리",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    }
+  },
+  {
     "title": "쿠버네티스 클러스터 환경에서 kube-proxy 모드 별 네트워크 라우팅 성능 분석",
     "author": [
       {
