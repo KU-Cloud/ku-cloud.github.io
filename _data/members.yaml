@@ -15,11 +15,6 @@ phd:
     mail: jikimi@korea.ac.kr
     research:
       - "e-Learning"
-  - name: Rohyoung Myung
-    mail: mry1811@korea.ac.kr
-    research:
-      - "Distributed Processing Model"
-      - "Cluster Computing"
   - name: Chunggeon Song
     mail: security0730@korea.ac.kr
     research:
@@ -109,6 +104,11 @@ alumniPhd:
     mail: k2j23h@korea.ac.kr
     work:
       - " "
+  - name: Rohyoung Myung
+    mail: mry1811@korea.ac.kr
+    research:
+      - "Distributed Processing Model"
+      - "Cluster Computing"
 
 alumniMaster:
   - name: Sangchul Shin
