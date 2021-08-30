@@ -107,9 +107,8 @@ alumniPhd:
       - " "
   - name: Rohyoung Myung
     mail: mry1811@korea.ac.kr
-    research:
-      - "Distributed Processing Model"
-      - "Cluster Computing"
+    work:
+      - "Samsung Advanced Institute of Technology(SAIT)"
 
 alumniMaster:
   - name: Sangchul Shin
