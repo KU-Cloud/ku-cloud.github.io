@@ -1,0 +1,47 @@
+{% assign announcements=include.announcements | reverse %}
+
+<div id="modal-wrapper">
+
+    {% if announcements[0].show %}
+    <div class="modal" id="announcement-modal" tabindex="-1" aria-labelledby="announcement-modal-label" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="announcement-modal-label">
+                        📢&nbsp;&nbsp;{{ announcements[0].title }}
+                    </h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+
+                <div class="modal-body">
+                    {{ announcements[0].contents | markdownify }}
+
+                    {% if announcements[0].files.size > 0 %}
+                        <hr>
+                        <b>첨부파일</b>
+                        <br>
+
+                        <ul>
+                        {% for file in announcements[0].files %}
+                            <li>
+                                <a href="{{ file.url }}" target="_blank">{{ file.name }}</a>
+                            </li>
+                        {% endfor %}
+                        </ul>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+</div>
+
+<script>
+    $(function() {
+        var $annModal = $('#announcement-modal');
+        $(window).on('load', function() {
+            $annModal.modal('show');
+        });
+    })
+</script>
