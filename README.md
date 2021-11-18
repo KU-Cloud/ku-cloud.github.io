@@ -29,7 +29,7 @@
   - [Seminar (seminars.yaml)](#seminar-seminarsyaml)
   - [Posts (under /\_posts)](#posts-under-posts)
   - [Publication (publications-\*.yaml)](#publication-publications-yaml)
-  - [Announcement (announcements.yaml)](#announcement-announcements-yaml)
+  - [Announcement (announcements.yaml)](#announcement-announcementsyaml)
 - [How to Build Publications](#how-to-build-publications)
 - [Examples of Updating Data](#examples-of-updating-data)
   - [Seminar](#seminar)
