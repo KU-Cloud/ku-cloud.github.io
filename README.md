@@ -7,6 +7,7 @@
 - [Pub-International-Conference](/_data/publications-ci.yaml)
 - [Pub-Domestic-Journal](/_data/publications-jd.yaml)
 - [Pub-Domestic-Conference](/_data/publications-cd.yaml)
+- [Announcement](/_data/announcements.yaml)
 
 # For Maintainers
 
@@ -28,12 +29,14 @@
   - [Seminar (seminars.yaml)](#seminar-seminarsyaml)
   - [Posts (under /\_posts)](#posts-under-posts)
   - [Publication (publications-\*.yaml)](#publication-publications-yaml)
+  - [Announcement (announcements.yaml)](#announcement-announcements-yaml)
 - [How to Build Publications](#how-to-build-publications)
 - [Examples of Updating Data](#examples-of-updating-data)
   - [Seminar](#seminar)
   - [Member](#member)
   - [Project](#project)
   - [Publication](#publication)
+  - [Announcement](#announcement)
 - [If You Make a Huge Mistake](#if-you-make-a-huge-mistake)
 
 # Getting Started
@@ -224,7 +227,7 @@ alt: `string` 커버 이미지 설명
 
 파일 제목은 YYYY-MM-DD-Title.[.md|.html]의 형식이며, 자세한 사항은 [여기](https://jekyllrb.com/docs/posts/) 참고.
 
-Post에 사용되는 Resourc(이미지, 첨부파일 등)은 가능하면 외부 링크를 자제하고 `/assets/posts/{카테고리 이름}/{파일 제목}` 폴더에 저장하길 바람.
+Post에 사용되는 Resource(이미지, 첨부파일 등)은 가능하면 외부 링크를 자제하고 `/assets/posts/{카테고리 이름}/{파일 제목}` 폴더에 저장하길 바람.
 
 > News는 category 이름으로 "news"를 사용한다.
 
@@ -236,7 +239,16 @@ Post에 사용되는 Resourc(이미지, 첨부파일 등)은 가능하면 외부
 **업데이트한 정보는 Forward Compability를 위해 반드시 해당하는 bib 파일을 "/\_publications/.../" 폴더에 넣어주길 바람.
 bib 파일이 존재하지않으면 향후 자동 생성시 정보가 누락됨.**
 
-자동 생성하는 방법은 여기를 참고.
+자동 생성하는 방법은 [여기](#how-to-build-publications)를 참고.
+
+## Announcement ([announcements.yaml](/_data/announcements.yaml))
+
+(@freckie 추가 기능)
+홈페이지 메인 화면에 modal로 표시되는 공지사항에 관련된 내용이다.
+
+`_data/announcements.yaml` 파일의 하단에 [여기](#announcement)를 참고하여 새로운 항목을 추가한다.
+
+해당 파일의 announcement 항목들은 역순으로 순회하여 `show: true`로 설정된 항목만 표시한다.
 
 # How to Build Publications
 
@@ -375,6 +387,25 @@ master:
     {
   ...
 ]
+```
+
+## Announcement
+
+```yaml
+---
+# 파일의 끝에 추가 (기존 항목 삭제해도 됨)
+- title: 공지 제목
+  show: true
+  contents: >
+    ##### 소제목
+    - 공지 내용
+    - 내용은 마크다운으로
+  files:
+  - name: 공지에 표시될 첨부파일 이름
+    url: 파일의 다운로드 링크 (클릭 시 새 창에서 열림)
+  - name: 두번째 첨부파일 이름
+    url: 파일의 다운로드 링크
+# Indentation 유의
 ```
 
 # If You Make a Huge Mistake
