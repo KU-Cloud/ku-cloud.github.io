@@ -15,7 +15,7 @@ baseurl: ""
 timezone: Asia/Seoul
 
 # Markdown settings
-# markdown: kramdown
+markdown: kramdown
 
 # Sass settings
 sass:
