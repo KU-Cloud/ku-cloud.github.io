@@ -834,6 +834,38 @@
     }
   },
   {
+    "author": [
+      {
+        "given": "JiHun",
+        "family": "Kang"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      }
+    ],
+    "title": "GPGPU Task Scheduling Technique for Reducing the Performance Deviation of Multiple GPGPU Tasks in RPC-Based GPU Virtualization Environments",
+    "container-title": "Symmetry-Basel",
+    "volume": "13",
+    "issue": "3",
+    "ISSN": "2073-8994",
+    "DOI": "10.3390/sym13030508",
+    "URL": "https://doi.org/10.3390/sym13030508",
+    "type": "article-journal",
+    "citation-label": "kang2021gpgpu",
+    "id": "kang2021gpgpu",
+    "year-suffix": "gpgpu",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          20
+        ]
+      ]
+    }
+  },
+  {
     "title": "Optimistic scheduling algorithm for mobile transactions based on reordering",
     "author": [
       {

@@ -306,6 +306,40 @@
     }
   },
   {
+    "title": "Reinforcement Learning-based Pod Autoscaling Technique Using the Queueing Model",
+    "author": [
+      {
+        "given": "Yonghyeon",
+        "family": "Jang"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+      {
+        "given": "Eunyoung",
+        "family": "Lee"
+      }
+    ],
+    "volume": "49",
+    "issue": "2",
+    "container-title": "Journal of Korean Institute of Information Scientists and Enginners (KIISE)",
+    "ISSN": "2383-6296",
+    "page": "106-119",
+    "type": "article-journal",
+    "citation-label": "jang2022reinforcement",
+    "id": "jang2022reinforcement",
+    "year-suffix": "reinforcement",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          1
+        ]
+      ]
+    }
+  },
+  {
     "title": "Resource Management Scheme in Proxy-Based Mobile Grid",
     "author": [
       {
