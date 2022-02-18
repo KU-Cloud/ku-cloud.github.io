@@ -26,10 +26,6 @@ phd:
 master:
   - name: Hyungjoon Yoon
     mail: hjyoon@korea.ac.kr
-  - name: Yonghyeon Jang
-    mail: wkd3475@gmail.com
-  - name: Jinwon Jeong
-    mail: jin4812@korea.ac.kr
   - name: Sejin Kim
     mail: sejjj120@korea.ac.kr
   - name: Moonsang Yhu
@@ -151,3 +147,9 @@ alumniMaster:
     mail: somnus@korea.ac.kr
     work:
       - "ThorDrive"
+  - name: Yonghyeon Jang
+    mail: wkd3475@gmail.com
+    work:
+      - "Hyperconnect"
+  - name: Jinwon Jeong
+    mail: jin4812@korea.ac.kr
