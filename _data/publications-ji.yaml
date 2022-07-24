@@ -1,5 +1,7 @@
 [
   {
+    "container-title": "The Journal of Supercomputing",
+    "abstract": "This paper presents three garbage collection schemes for causal message logging with independent checkpointing. The first scheme allows each process to autonomously remove useless log information in its volatile storage by piggybacking only some additional information without requiring any extra message and forced checkpoint. Additionally, it supports faster output commit than traditional schemes. The second scheme enables each process to remove a part of log information in the storage if more empty space is required. It reduces the number of processes participating in the garbage collection by using the size of the log information of each process. The third scheme is a hybrid scheme having the advantages of the two proposed schemes. Simulation results show that the third scheme significantly reduces the garbage collection overhead compared with the traditional schemes regardless of specific communication patterns of distributed applications.",
     "author": [
       {
         "given": "Jinho",
@@ -18,29 +20,27 @@
         "family": "Yu"
       }
     ],
-    "title": "Efficient Garbage Collection Schemes for Causal Message Logging with Independent Checkpointing",
-    "container-title": "The Journal of Supercomputing",
-    "volume": "22",
-    "issue": "2",
-    "page": "175-196",
-    "ISSN": "1573-0484",
     "DOI": "10.1023/A:1014978702504",
-    "URL": "https://doi.org/10.1023/A:1014978702504",
     "type": "article-journal",
-    "citation-label": "ahn2002efficient",
     "id": "ahn2002efficient",
-    "year-suffix": "efficient",
+    "citation-key": "ahn2002efficient",
+    "ISSN": "1573-0484",
+    "issue": "2",
     "issued": {
       "date-parts": [
         [
           2002,
-          6,
-          1
+          6
         ]
       ]
-    }
+    },
+    "page": "175-196",
+    "title": "Efficient Garbage Collection Schemes for Causal Message Logging with Independent Checkpointing",
+    "URL": "https://doi.org/10.1023/A:1014978702504",
+    "volume": "22"
   },
   {
+    "container-title": "IEICE transactions on information and systems",
     "author": [
       {
         "given": "MaengSoon",
@@ -67,19 +67,11 @@
         "family": "YOO"
       }
     ],
-    "title": "Ω Line Problem in Optimistic Log-Based Rollback Recovery Protocol",
-    "container-title": "IEICE transactions on information and systems",
-    "ISSN": "09168532",
-    "publisher": "The Institute of Electronics, Information and Communication Engineers",
-    "volume": "87",
-    "issue": "7",
-    "page": "1834-1842",
-    "URL": "https://ci.nii.ac.jp/naid/110003214068/en/",
-    "DOI": "",
     "type": "article-journal",
-    "citation-label": "baik2004line",
     "id": "baik2004line",
-    "year-suffix": "line",
+    "citation-key": "baik2004line",
+    "ISSN": "09168532",
+    "issue": "7",
     "issued": {
       "date-parts": [
         [
@@ -87,9 +79,15 @@
           7
         ]
       ]
-    }
+    },
+    "page": "1834-1842",
+    "publisher": "The Institute of Electronics, Information",
+    "title": "Ω Line Problem in Optimistic Log-Based Rollback Recovery Protocol",
+    "URL": "https://ci.nii.ac.jp/naid/110003214068/en/",
+    "volume": "87"
   },
   {
+    "container-title": "Proceedings of the 4th International Conference on Ubiquitous Information Technologies and Applications, ICUT 2009",
     "author": [
       {
         "given": "SungHo",
@@ -104,14 +102,10 @@
         "family": "Yu"
       }
     ],
-    "page": "1-6",
-    "title": "Genetic Algorithm Based Scheduling Method for Efficiency and Reliability in Mobile Grid",
-    "container-title": "Proceedings of the 4th International Conference on Ubiquitous Information Technologies and Applications, ICUT 2009",
     "DOI": "10.1109/ICUT.2009.5405741",
     "type": "article-journal",
-    "citation-label": "chin2009genetic",
     "id": "chin2009genetic",
-    "year-suffix": "genetic",
+    "citation-key": "chin2009genetic",
     "issued": {
       "date-parts": [
         [
@@ -119,9 +113,14 @@
           12
         ]
       ]
-    }
+    },
+    "page": "1-6",
+    "title": "Genetic Algorithm Based Scheduling Method for Efficiency and Reliability in Mobile Grid"
   },
   {
+    "publisher-place": "Hingham, MA, USA",
+    "container-title": "J. Supercomput.",
+    "number-of-pages": "31",
     "author": [
       {
         "given": "Sung Ho",
@@ -136,21 +135,12 @@
         "family": "Yu"
       }
     ],
-    "title": "Adaptive Service Scheduling for Workflow Applications in Service-Oriented Grid",
-    "container-title": "J. Supercomput.",
-    "volume": "52",
-    "issue": "3",
-    "ISSN": "0920-8542",
-    "page": "253-283",
-    "number-of-pages": "31",
-    "URL": "http://dx.doi.org/10.1007/s11227-009-0290-9",
     "DOI": "10.1007/s11227-009-0290-9",
-    "publisher": "Kluwer Academic Publishers",
-    "publisher-place": "Hingham, MA, USA",
     "type": "article-journal",
-    "citation-label": "chin2010adaptive",
     "id": "chin2010adaptive",
-    "year-suffix": "adaptive",
+    "citation-key": "chin2010adaptive",
+    "ISSN": "0920-8542",
+    "issue": "3",
     "issued": {
       "date-parts": [
         [
@@ -158,9 +148,16 @@
           6
         ]
       ]
-    }
+    },
+    "keyword": "Grid Service,Performance metric,Rescheduling,Service scheduling,Workflow scheduling",
+    "page": "253-283",
+    "publisher": "Kluwer Academic Publishers",
+    "title": "Adaptive Service Scheduling for Workflow Applications in Service-Oriented Grid",
+    "URL": "http://dx.doi.org/10.1007/s11227-009-0290-9",
+    "volume": "52"
   },
   {
+    "number-of-pages": "12",
     "author": [
       {
         "given": "SungJin",
@@ -183,29 +180,29 @@
         "family": "Yu"
       }
     ],
-    "title": "Mobile Agent Based Adaptive Scheduling Mechanism in Peer to Peer Grid Computing",
     "container-title": "Proceedings of the 2005 International Conference on Computational Science and Its Applications - Volume Part IV",
     "collection-title": "ICCSA'05",
-    "ISBN": "3-540-25863-9, 978-3-540-25863-6",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "936-947",
-    "number-of-pages": "12",
-    "URL": "http://dx.doi.org/10.1007/11424925_98",
     "DOI": "10.1007/11424925_98",
-    "publisher": "Springer-Verlag",
     "type": "paper-conference",
-    "citation-label": "choi2005mobile",
     "id": "choi2005mobile",
-    "year-suffix": "mobile",
+    "citation-key": "choi2005mobile",
+    "ISBN": "3-540-25863-9, 978-3-540-25863-6",
     "issued": {
       "date-parts": [
         [
           2005
         ]
       ]
-    }
+    },
+    "page": "936-947",
+    "publisher-place": "Singapore",
+    "publisher": "Springer-Verlag",
+    "title": "Mobile Agent Based Adaptive Scheduling Mechanism in Peer to Peer Grid Computing",
+    "URL": "http://dx.doi.org/10.1007/11424925_98"
   },
   {
+    "publisher-place": "Berlin, Heidelberg",
+    "abstract": "Mobile grid computing is a computing environment that incorporates mobile devices to an existing grid environment and supports users' mobility. But this environment is not stable, so methodologies to cope with the reliability issue are needed. Fault tolerance approaches for task execution in grid computing can be categorized into replication and checkpoint. We apply these techniques to a SimGrid simulator to provide a fault tolerance for a mobile environment and show the results in this paper. The results demonstrate that the best solution for fault tolerance in mobile grid computing depends on the situations of the network. The contribution of this paper is the use of real-life trace data to simulate fault tolerance in a mobile grid computing.",
     "author": [
       {
         "given": "SookKyong",
@@ -224,6 +221,7 @@
         "family": "Lee"
       }
     ],
+    "container-title": "Grid and Distributed Computing",
     "editor": [
       {
         "given": "Tai-hoon",
@@ -254,26 +252,24 @@
         "family": "Villalba"
       }
     ],
-    "title": "Replication and Checkpoint Schemes for Task-Fault Tolerance in Campus-Wide Mobile Grid",
-    "container-title": "Grid and Distributed Computing",
-    "publisher": "Springer Berlin Heidelberg",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "455-467",
-    "ISBN": "978-3-642-27180-9",
     "type": "paper-conference",
-    "citation-label": "choi2011replication",
     "id": "choi2011replication",
-    "year-suffix": "replication",
+    "citation-key": "choi2011replication",
+    "ISBN": "978-3-642-27180-9",
     "issued": {
       "date-parts": [
         [
           2011
         ]
       ]
-    }
+    },
+    "page": "455-467",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "Replication and Checkpoint Schemes for Task-Fault Tolerance in Campus-Wide Mobile Grid"
   },
   {
-    "title": "Fault tolerance technique using replication and checkpoint in mobile grid",
+    "container-title": "Information (Japan)",
+    "abstract": "Mobile grid computing is a computing environment which incorporates mobile devices to an existing grid environment and supports user mobility. As this environment has inherent characteristic, that is, not stable, methodologies to cope with the reliability issue are required. We apply replication and checkpoint techniques for task fault tolerance to a SimGrid simulator in mobile environment and show the results in this paper. The results demonstrate that using a fault tolerance scheme can increase the completion rate of tasks and the best solution for fault tolerance in mobile grid computing depends on network operational situations including the number of hosts and tasks. The contribution of this paper is the use of real-life trace data to simulate fault tolerance and comparison of fault tolerance schemes in a mobile grid computing.",
     "author": [
       {
         "given": "SookKyong",
@@ -292,17 +288,11 @@
         "family": "Lee"
       }
     ],
-    "language": "English",
-    "volume": "16",
-    "page": "2325-2333",
-    "container-title": "Information (Japan)",
-    "ISSN": "1343-4500",
-    "publisher": "International Information Institute",
-    "issue": "3 B",
     "type": "article-journal",
-    "citation-label": "choi2013fault",
     "id": "choi2013fault",
-    "year-suffix": "fault",
+    "citation-key": "choi2013fault",
+    "ISSN": "1343-4500",
+    "issue": "3 B",
     "issued": {
       "date-parts": [
         [
@@ -311,9 +301,17 @@
           1
         ]
       ]
-    }
+    },
+    "keyword": "Checkpoint,Fault tolerance,Mobile grid,Reliability,Replication",
+    "language": "English",
+    "page": "2325-2333",
+    "publisher": "International Information Institute",
+    "title": "Fault tolerance technique using replication and checkpoint in mobile grid",
+    "volume": "16"
   },
   {
+    "container-title": "Cluster Computing",
+    "abstract": "The performance of mobile devices including smart phones and laptops is steadily rising as prices plummet sharply. So, mobile devices are changing from being a mere interface for requesting services to becoming computing resources for providing and sharing services due to immeasurably improved performance.",
     "author": [
       {
         "given": "SookKyong",
@@ -328,30 +326,27 @@
         "family": "Yu"
       }
     ],
-    "title": "Fault tolerance and QoS scheduling using CAN in mobile social cloud computing",
-    "container-title": "Cluster Computing",
-    "volume": "17",
-    "issue": "3",
-    "page": "911-926",
-    "ISSN": "1573-7543",
     "DOI": "10.1007/s10586-013-0286-3",
-    "URL": "https://doi.org/10.1007/s10586-013-0286-3",
     "type": "article-journal",
-    "citation-label": "choi2014fault",
     "id": "choi2014fault",
-    "year-suffix": "fault",
+    "citation-key": "choi2014fault",
+    "ISSN": "1573-7543",
+    "issue": "3",
     "issued": {
       "date-parts": [
         [
           2014,
-          9,
-          1
+          9
         ]
       ]
-    }
+    },
+    "page": "911-926",
+    "title": "Fault tolerance and QoS scheduling using CAN in mobile social cloud computing",
+    "URL": "https://doi.org/10.1007/s10586-013-0286-3",
+    "volume": "17"
   },
   {
-    "title": "Task classification based energy-aware consolidation in clouds",
+    "container-title": "Scientific Programming",
     "author": [
       {
         "given": "HeeSeok",
@@ -370,24 +365,24 @@
         "family": "Lee"
       }
     ],
-    "container-title": "Scientific Programming",
-    "volume": "2016",
-    "publisher": "Hindawi",
     "DOI": "10.1155/2016/6208358",
     "type": "article-journal",
-    "citation-label": "choi2016task",
     "id": "choi2016task",
-    "year-suffix": "task",
+    "citation-key": "choi2016task",
     "issued": {
       "date-parts": [
         [
           2016
         ]
       ]
-    }
+    },
+    "publisher": "Hindawi",
+    "title": "Task classification based energy-aware consolidation in clouds",
+    "volume": "2016"
   },
   {
-    "title": "Latency-Classification-Based Deadline-Aware Task Offloading Algorithm in Mobile Edge Computing Environments",
+    "container-title": "MDPI, Applied Science-Basel",
+    "abstract": "In this study, we consider an edge cloud server in which a lightweight server is placed near a user device for the rapid processing and storage of large amounts of data. For the edge cloud server, we propose a latency classification algorithm based on deadlines and urgency levels (i.e., latency-sensitive and latency-tolerant). Furthermore, we design a task offloading algorithm to reduce the execution time of latency-sensitive tasks without violating deadlines. Unlike prior studies on task offloading or scheduling that have applied no deadlines or task-based deadlines, we focus on a comprehensive deadline-aware task scheduling scheme that performs task offloading by considering the real-time properties of latency-sensitive tasks. Specifically, when a task is offloaded to the edge cloud server due to a lack of resources on the user device, services could be provided without delay by offloading latency-tolerant tasks first, which are presumed to perform relatively important functions. When offloading a task, the type of the task, weight of the task, task size, estimated execution time, and offloading time are considered. By distributing and offloading latency-sensitive tasks as much as possible, the performance degradation of the system can be minimized. Based on experimental performance evaluations, we prove that our latency-based task offloading algorithm achieves a significant execution time reduction compared to previous solutions without incurring deadline violations. Unlike existing research, we applied delays with various network types in the MEC (mobile edge computing) environment for verification, and the experimental result was measured not only by the total response time but also by the cause of the task failure rate.",
     "author": [
       {
         "given": "HeeSeok",
@@ -403,15 +398,11 @@
       }
     ],
     "DOI": "10.3390/app9214696",
-    "language": "English",
-    "volume": "9",
-    "issue": "21",
-    "container-title": "MDPI, Applied Science-Basel",
-    "ISSN": "2076-3417",
     "type": "article-journal",
-    "citation-label": "choi2019latency",
     "id": "choi2019latency",
-    "year-suffix": "latency",
+    "citation-key": "choi2019latency",
+    "ISSN": "2076-3417",
+    "issue": "21",
     "issued": {
       "date-parts": [
         [
@@ -420,9 +411,14 @@
           4
         ]
       ]
-    }
+    },
+    "keyword": "task offloading,mobile edge computing,latency-classification,latency-aware",
+    "language": "English",
+    "title": "Latency-Classification-Based Deadline-Aware Task Offloading Algorithm in Mobile Edge Computing Environments",
+    "volume": "9"
   },
   {
+    "container-title": "J. Inf. Sci. Eng.",
     "author": [
       {
         "given": "Kwang-Sik",
@@ -441,14 +437,9 @@
         "family": "Lee"
       }
     ],
-    "page": "379-390",
-    "title": "Management of Fault Tolerance Information for Coordinated Checkpointing Protocol without Sympathetic Rollbacks.",
-    "volume": "20",
-    "container-title": "J. Inf. Sci. Eng.",
     "type": "article-journal",
-    "citation-label": "chung2004management",
     "id": "chung2004management",
-    "year-suffix": "management",
+    "citation-key": "chung2004management",
     "issued": {
       "date-parts": [
         [
@@ -456,9 +447,14 @@
           3
         ]
       ]
-    }
+    },
+    "page": "379-390",
+    "title": "Management of Fault Tolerance Information for Coordinated Checkpointing Protocol without Sympathetic Rollbacks.",
+    "volume": "20"
   },
   {
+    "publisher-place": "Berlin, Heidelberg",
+    "abstract": "This paper presents a garbage collection protocol for message content logs and message determinant logs which are saved on a stable storage. Previous works of garbage collections in a causal message logging protocol try to solve the garbage collection of message determinant log and force additional checkpoints[5,6,7]. In order to avoid the sympathetic rollback, we classify the fault tolerance information into message determinants logs and message contents logs. Then we propose new definitions for garbage collections conditions for message determinant logs and message content logs and present a garbage collection algorithm. To represent determinants of messages, a data structure called MAG (Modified Antecedence Graph) is proposed. MAG is an extension of Antecedence Graph of Manetho system [7] and it is used for garbage collections conditions of message determinant logs and message content logs. Unlike Manetho system that needs additional messages for garbage collection of message content logs, our algorithm does not need additional messages. The proposed garbage collection algorithm makes 'the lazy garbage collection effect' because it relies on the piggybacked checkpoint information in send/receive message. `The lazy garbage collection effect' provides the whole system with an efficient and simple recovery protocol.",
     "author": [
       {
         "given": "Kwang Sik",
@@ -473,6 +469,7 @@
         "family": "Park"
       }
     ],
+    "container-title": "High Performance Computing and Communications",
     "editor": [
       {
         "given": "Laurence T.",
@@ -491,25 +488,24 @@
         "family": "Dongarra"
       }
     ],
-    "title": "Garbage Collection in a Causal Message Logging Protocol",
-    "container-title": "High Performance Computing and Communications",
-    "publisher": "Springer Berlin Heidelberg",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "123-132",
-    "ISBN": "978-3-540-32079-1",
     "type": "paper-conference",
-    "citation-label": "chung2005garbage",
     "id": "chung2005garbage",
-    "year-suffix": "garbage",
+    "citation-key": "chung2005garbage",
+    "ISBN": "978-3-540-32079-1",
     "issued": {
       "date-parts": [
         [
           2005
         ]
       ]
-    }
+    },
+    "page": "123-132",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "Garbage Collection in a Causal Message Logging Protocol"
   },
   {
+    "publisher-place": "Berlin, Heidelberg",
+    "abstract": "An important issue in the PC grid computing environment that is characterized by volatility and heterogeneity is the minimization of execution time for all tasks. This paper proposes a scheduling mechanism to reduce such execution time by means of both checkpoint sharing and task duplication under a peer-to-peer (P2P) architecture. In the mechanism, the checkpoint executed by an individual peer (i.e., a desktop PC) is used as an intermediate result and executed in other peers via its duplication and transmission. As a result, as the checkpoint is close to a final result, the reduction of execution time for each task becomes higher. Ultimately, turnaround time can be reduced. Moreover, an analytical model with an embedded Markov chain is presented to evaluate the transmission cost and execution time of our scheduling mechanism. The performance of our scheduling mechanism is also compared with that of the existing mechanism operating on client-server architecture. The analytical results show that our scheduling mechanism is superior to the existing mechanism with respect to the reduction of execution time.",
     "author": [
       {
         "given": "Joon-Min",
@@ -524,6 +520,7 @@
         "family": "Yu"
       }
     ],
+    "container-title": "Advances in Grid and Pervasive Computing",
     "editor": [
       {
         "given": "Nabil",
@@ -534,25 +531,23 @@
         "family": "Petcu"
       }
     ],
-    "title": "Performance Evaluation of Scheduling Mechanism with Checkpoint Sharing and Task Duplication in P2P-Based PC Grid Computing",
-    "container-title": "Advances in Grid and Pervasive Computing",
-    "publisher": "Springer Berlin Heidelberg",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "459-470",
-    "ISBN": "978-3-642-01671-4",
     "type": "paper-conference",
-    "citation-label": "gil2009performance",
     "id": "gil2009performance",
-    "year-suffix": "performance",
+    "citation-key": "gil2009performance",
+    "ISBN": "978-3-642-01671-4",
     "issued": {
       "date-parts": [
         [
           2009
         ]
       ]
-    }
+    },
+    "page": "459-470",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "Performance Evaluation of Scheduling Mechanism with Checkpoint Sharing and Task Duplication in P2P-Based PC Grid Computing"
   },
   {
+    "number-of-pages": "12",
     "author": [
       {
         "given": "Daeyong",
@@ -579,29 +574,30 @@
         "family": "Gil"
       }
     ],
-    "title": "An Effective Job Replication Technique Based on Reliability and Performance in Mobile Grids",
     "container-title": "Proceedings of the 5th International Conference on Advances in Grid and Pervasive Computing",
     "collection-title": "GPC'10",
-    "ISBN": "3-642-13066-6, 978-3-642-13066-3",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "47-58",
-    "number-of-pages": "12",
-    "URL": "http://dx.doi.org/10.1007/978-3-642-13067-0_9",
     "DOI": "10.1007/978-3-642-13067-0_9",
-    "publisher": "Springer-Verlag",
     "type": "paper-conference",
-    "citation-label": "jung2010proceedings",
     "id": "jung2010proceedings",
-    "year-suffix": "proceedings",
+    "citation-key": "jung2010proceedings",
+    "ISBN": "3-642-13066-6, 978-3-642-13066-3",
     "issued": {
       "date-parts": [
         [
           2010
         ]
       ]
-    }
+    },
+    "keyword": "failure prevention,job replication,mobile grid,reliability",
+    "page": "47-58",
+    "publisher-place": "Hualien, Taiwan",
+    "publisher": "Springer-Verlag",
+    "title": "An Effective Job Replication Technique Based on Reliability and Performance in Mobile Grids",
+    "URL": "http://dx.doi.org/10.1007/978-3-642-13067-0_9"
   },
   {
+    "publisher-place": "Berlin, Heidelberg",
+    "abstract": "The cloud computing is a computing paradigm that users can rent computing resources from service providers as much as they require. A spot instance in cloud computing helps a user to utilize resources with less expensive cost, even if it is unreliable. When a user performs tasks with unreliable spot instances, failures inevitably lead to the delay of task completion time and cause a seriously deterioration in the QoS of users. Therefore, we propose a price history based checkpointing scheme to avoid the delay of task completion time. The proposed checkpointing scheme reduces the number of checkpoint trials and improves the performance of task execution. The simulation results show that our scheme outperforms the existing checkpointing schemes in terms of the reduction of both the number of checkpoint trials and total costs per spot instance for user's bid.",
     "author": [
       {
         "given": "Daeyong",
@@ -624,6 +620,7 @@
         "family": "Gil"
       }
     ],
+    "container-title": "Network and Parallel Computing",
     "editor": [
       {
         "given": "Erik",
@@ -634,26 +631,23 @@
         "family": "Shi"
       }
     ],
-    "title": "An Efficient Checkpointing Scheme Using Price History of Spot Instances in Cloud Computing Environment",
-    "container-title": "Network and Parallel Computing",
-    "publisher": "Springer Berlin Heidelberg",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "185-200",
-    "ISBN": "978-3-642-24403-2",
     "type": "paper-conference",
-    "citation-label": "jung2011efficient",
     "id": "jung2011efficient",
-    "year-suffix": "efficient",
+    "citation-key": "jung2011efficient",
+    "ISBN": "978-3-642-24403-2",
     "issued": {
       "date-parts": [
         [
           2011
         ]
       ]
-    }
+    },
+    "page": "185-200",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "An Efficient Checkpointing Scheme Using Price History of Spot Instances in Cloud Computing Environment"
   },
   {
-    "title": "Estimated interval-based checkpointing (EIC) on spot instances in cloud computing",
+    "container-title": "Journal of Applied Mathematics",
     "author": [
       {
         "given": "Daeyong",
@@ -672,24 +666,23 @@
         "family": "Suh"
       }
     ],
-    "container-title": "Journal of Applied Mathematics",
-    "volume": "2014",
-    "publisher": "Hindawi",
     "DOI": "10.1155/2014/217547",
     "type": "article-journal",
-    "citation-label": "jung2014estimated",
     "id": "jung2014estimated",
-    "year-suffix": "estimated",
+    "citation-key": "jung2014estimated",
     "issued": {
       "date-parts": [
         [
           2014
         ]
       ]
-    }
+    },
+    "publisher": "Hindawi",
+    "title": "Estimated interval-based checkpointing (EIC) on spot instances in cloud computing",
+    "volume": "2014"
   },
   {
-    "title": "Task balanced workflow scheduling technique considering task processing rate in spot market",
+    "container-title": "Journal of Applied Mathematics",
     "author": [
       {
         "given": "Daeyong",
@@ -712,24 +705,23 @@
         "family": "Yu"
       }
     ],
-    "container-title": "Journal of Applied Mathematics",
-    "volume": "2014",
-    "publisher": "Hindawi",
     "DOI": "10.1155/2014/237960",
     "type": "article-journal",
-    "citation-label": "jung2014task",
     "id": "jung2014task",
-    "year-suffix": "task",
+    "citation-key": "jung2014task",
     "issued": {
       "date-parts": [
         [
           2014
         ]
       ]
-    }
+    },
+    "publisher": "Hindawi",
+    "title": "Task balanced workflow scheduling technique considering task processing rate in spot market",
+    "volume": "2014"
   },
   {
-    "title": "A Workflow Scheduling Technique Using Genetic Algorithm in Spot Instance-Based Cloud.",
+    "container-title": "KSII Transactions on Internet & Information Systems",
     "author": [
       {
         "given": "Daeyong",
@@ -748,24 +740,24 @@
         "family": "Gil"
       }
     ],
-    "container-title": "KSII Transactions on Internet & Information Systems",
-    "volume": "8",
-    "issue": "9",
     "DOI": "10.3837/tiis.2014.09.010",
     "type": "article-journal",
-    "citation-label": "jung2014workflow",
     "id": "jung2014workflow",
-    "year-suffix": "workflow",
+    "citation-key": "jung2014workflow",
+    "issue": "9",
     "issued": {
       "date-parts": [
         [
           2014
         ]
       ]
-    }
+    },
+    "title": "A Workflow Scheduling Technique Using Genetic Algorithm in Spot Instance-Based Cloud.",
+    "volume": "8"
   },
   {
-    "title": "Mitigation technique for performance degradation of virtual machine owing to GPU pass-through in fog computing",
+    "container-title": "Journal of Communications and Networks",
+    "abstract": "As the size of data increases and computation becomes complicated in fog computing environments, the need for highperformance computation is increasing. One of the most popular ways to improve the performance of a virtual machine (VM) is to allocate a graphic processing unit (GPU) to the VM for supporting general purpose computing on graphic processing unit (GPGPU) operations. The direct pass-through, often used for GPUs in VMs, is popular in the cloud because VMs can use the full functionality of the GPU and experience virtually no performance degradation owing to virtualization. Direct pass-through is very useful for improving the performance of VMs. However, since the GPU usage time is not considered in the VM scheduler that operates based on the central processing unit (CPU) usage time of the VM, the VM performing the GPGPU operation degrades the performance of other VMs. In this paper, we analyze the effect of the VM performing the GPGPU operation (GPGPU-intensive VM) on other VMs through experiments. Then, we propose a method to mitigate the performance degradation of other VMs by dynamically allocating the resource usage time of the VM and preventing the priority preemption of the GPGPU-intensive VM.",
     "author": [
       {
         "given": "Jihun",
@@ -777,17 +769,11 @@
       }
     ],
     "DOI": "10.1109/JCN.2018.000038",
-    "language": "English",
-    "volume": "20",
-    "page": "257-265",
-    "container-title": "Journal of Communications and Networks",
-    "ISSN": "1229-2370",
-    "publisher": "Korean Institute of Communication Sciences",
-    "issue": "3",
     "type": "article-journal",
-    "citation-label": "kang2018mitigation",
     "id": "kang2018mitigation",
-    "year-suffix": "mitigation",
+    "citation-key": "kang2018mitigation",
+    "ISSN": "1229-2370",
+    "issue": "3",
     "issued": {
       "date-parts": [
         [
@@ -796,10 +782,17 @@
           1
         ]
       ]
-    }
+    },
+    "keyword": "Fog computing,general purpose computing on graphic processing unit (GPGPU),performance isolation,virtualization",
+    "language": "English",
+    "page": "257-265",
+    "publisher": "Korean Institute of Communication Sciences",
+    "title": "Mitigation technique for performance degradation of virtual machine owing to GPU pass-through in fog computing",
+    "volume": "20"
   },
   {
-    "title": "Partial migration technique for GPGPU tasks to Prevent GPU Memory Starvation in RPC-based GPU Virtualization",
+    "container-title": "Software - Practice and Experience",
+    "abstract": "Graphics processing unit (GPU) virtualization technology enables a single GPU to be shared among multiple virtual machines (VMs), thereby allowing multiple VMs to perform GPU operations simultaneously with a single GPU. Because GPUs exhibit lower resource scalability than central processing units (CPUs), memory, and storage, many VMs encounter resource shortages while running GPU operations concurrently, implying that the VM performing the GPU operation must wait to use the GPU. In this paper, we propose a partial migration technique for general-purpose graphics processing unit (GPGPU) tasks to prevent the GPU resource shortage in a remote procedure call-based GPU virtualization environment. The proposed method allows a GPGPU task to be migrated to another physical server's GPU based on the available resources of the target's GPU device, thereby reducing the wait time of the VM to use the GPU. With this approach, we prevent resource shortages and minimize performance degradation for GPGPU operations running on multiple VMs. Our proposed method can prevent GPU memory shortage, improve GPGPU task performance by up to 14%, and improve GPU computational performance by up to 82%. In addition, experiments show that the migration of GPGPU tasks minimizes the impact on other VMs.",
     "author": [
       {
         "given": "JiHun",
@@ -815,14 +808,10 @@
       }
     ],
     "DOI": "10.1002/spe.2801",
-    "language": "English",
-    "container-title": "Software - Practice and Experience",
-    "ISSN": "0038-0644",
-    "publisher": "John Wiley and Sons Ltd",
     "type": "article-journal",
-    "citation-label": "kang2020partial",
     "id": "kang2020partial",
-    "year-suffix": "partial",
+    "citation-key": "kang2020partial",
+    "ISSN": "0038-0644",
     "issued": {
       "date-parts": [
         [
@@ -831,9 +820,14 @@
           1
         ]
       ]
-    }
+    },
+    "keyword": "cloud computing,GPU Virtualization,resource management,task migration",
+    "language": "English",
+    "publisher": "John Wiley",
+    "title": "Partial migration technique for GPGPU tasks to Prevent GPU Memory Starvation in RPC-based GPU Virtualization"
   },
   {
+    "container-title": "Symmetry-Basel",
     "author": [
       {
         "given": "JiHun",
@@ -844,29 +838,26 @@
         "family": "Yu"
       }
     ],
-    "title": "GPGPU Task Scheduling Technique for Reducing the Performance Deviation of Multiple GPGPU Tasks in RPC-Based GPU Virtualization Environments",
-    "container-title": "Symmetry-Basel",
-    "volume": "13",
-    "issue": "3",
-    "ISSN": "2073-8994",
     "DOI": "10.3390/sym13030508",
-    "URL": "https://doi.org/10.3390/sym13030508",
     "type": "article-journal",
-    "citation-label": "kang2021gpgpu",
     "id": "kang2021gpgpu",
-    "year-suffix": "gpgpu",
+    "citation-key": "kang2021gpgpu",
+    "ISSN": "2073-8994",
+    "issue": "3",
     "issued": {
       "date-parts": [
         [
           2021,
-          3,
-          20
+          3
         ]
       ]
-    }
+    },
+    "title": "GPGPU Task Scheduling Technique for Reducing the Performance Deviation of Multiple GPGPU Tasks in RPC-Based GPU Virtualization Environments",
+    "URL": "https://doi.org/10.3390/sym13030508",
+    "volume": "13"
   },
   {
-    "title": "Optimistic scheduling algorithm for mobile transactions based on reordering",
+    "abstract": "In this paper, we propose transaction processing algorithms in the broadcast environment. We take an optimistic approach for mobile transactions because (a) it needs a small number of messages for maintaining transactional consistency, and (b) it can make good use of broadcasting facilities from the servers. The more data conflicts occur, however, the more mobile transactions may be aborted. Thus, we accept reordering technique to reduce the number of aborted transactions; that is, whenever any kind of conflict is found from broadcast information, the system determine the operation orders without violating transactional consistency, not just aborting the mobile transactions unconditionally. The proposed algorithms - O-Post algorithm for update transaction and O-Pre algorithm for read-only transaction - do not need much information from the server while resulting in serializable executions. Finally, we also evaluate the performance behavior through simulation study.",
     "author": [
       {
         "given": "SungSuk",
@@ -885,26 +876,27 @@
         "family": "Lee"
       }
     ],
-    "language": "English",
-    "ISBN": "3540414541",
-    "volume": "1987",
-    "collection-title": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
-    "publisher": "Springer Verlag",
-    "page": "105-117",
     "container-title": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "collection-title": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
     "type": "paper-conference",
-    "citation-label": "kim2001optimistic",
     "id": "kim2001optimistic",
-    "year-suffix": "optimistic",
+    "citation-key": "kim2001optimistic",
+    "ISBN": "3540414541",
     "issued": {
       "date-parts": [
         [
           2001
         ]
       ]
-    }
+    },
+    "language": "English",
+    "page": "105-117",
+    "publisher": "Springer Verlag",
+    "title": "Optimistic scheduling algorithm for mobile transactions based on reordering",
+    "volume": "1987"
   },
   {
+    "number-of-pages": "10",
     "author": [
       {
         "given": "HongSoo",
@@ -931,29 +923,29 @@
         "family": "Hwang"
       }
     ],
-    "title": "Group-Based Scheduling Scheme for Result Checking in Global Computing Systems",
     "container-title": "Proceedings of the 2005 International Conference on Computational Science and Its Applications - Volume Part III",
     "collection-title": "ICCSA'05",
-    "ISBN": "3-540-25862-0, 978-3-540-25862-9",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "89-98",
-    "number-of-pages": "10",
-    "URL": "http://dx.doi.org/10.1007/11424857_10",
     "DOI": "10.1007/11424857_10",
-    "publisher": "Springer-Verlag",
     "type": "paper-conference",
-    "citation-label": "kim2005group",
     "id": "kim2005group",
-    "year-suffix": "group",
+    "citation-key": "kim2005group",
+    "ISBN": "3-540-25862-0, 978-3-540-25862-9",
     "issued": {
       "date-parts": [
         [
           2005
         ]
       ]
-    }
+    },
+    "page": "89-98",
+    "publisher-place": "Singapore",
+    "publisher": "Springer-Verlag",
+    "title": "Group-Based Scheduling Scheme for Result Checking in Global Computing Systems",
+    "URL": "http://dx.doi.org/10.1007/11424857_10"
   },
   {
+    "publisher-place": "Berlin, Heidelberg",
+    "abstract": "In this paper we discuss the design of result verification in desktop grid systems. In this design, correctness and performance are considered as important issues. To guarantee the correctness of work results, sabotage-tolerant mechanisms have been mainly used, such as voting-based schemes and trust-based schemes. However, these mechanisms result in low scalability and high computation delay because they can not cope effectively with dynamic environments. In this paper, we propose a Sabotage-Tolerant Scheduling for Result Verification (STSRV), which is based on mobile agent technology. In STSRV, mobile agents are used to check periodically the credibility and availability of each volunteer. Using credibility and availability information, our desktop grid system can provide correctness of work results without a huge increase in the computation delay caused by result verification. Additionally, simulation results show that STSRV increases turnaround time for works from the viewpoint of credibility and availability, and thus enhances the overall performance of our desktop grid systems.",
     "author": [
       {
         "given": "HongSoo",
@@ -976,6 +968,7 @@
         "family": "Joung"
       }
     ],
+    "container-title": "Agents and Peer-to-Peer Computing",
     "editor": [
       {
         "given": "Samuel R. H.",
@@ -994,26 +987,24 @@
         "family": "Bergamaschi"
       }
     ],
-    "title": "Agent-Based Autonomous Result Verification Mechanism in Desktop Grid Systems",
-    "container-title": "Agents and Peer-to-Peer Computing",
-    "publisher": "Springer Berlin Heidelberg",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "72-84",
-    "ISBN": "978-3-642-11368-0",
     "type": "paper-conference",
-    "citation-label": "kim2010agent",
     "id": "kim2010agent",
-    "year-suffix": "agent",
+    "citation-key": "kim2010agent",
+    "ISBN": "978-3-642-11368-0",
     "issued": {
       "date-parts": [
         [
           2010
         ]
       ]
-    }
+    },
+    "page": "72-84",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "Agent-Based Autonomous Result Verification Mechanism in Desktop Grid Systems"
   },
   {
-    "title": "Enhancing digital fluency through a training program for creative problem solving using computer programming",
+    "container-title": "Journal of Creative Behavior",
+    "abstract": "The purpose of this paper is to propose a training program for creative problem solving based on computer programming. The proposed program will encourage students to solve real-life problems through a creative thinking spiral related to cognitive skills with computer programming. With the goal of enhancing digital fluency through this proposed training program, we investigated its effects. Two sets of experiments were performed in which 119 typical students and 30 younger, gifted students participated. Two synthetic creative problem solving tests, which had a high correlation with logical ability, scientific problem solving ability and divergent thinking ability, were developed to measure creative problem solving ability. We provided the treatment group with a paper-based booklet with relevant problems developed specifically for that group. ANCOVA statistical procedures were used to analyze the pre- and post-synthetic creative problem solving tests. The findings of our study are as follows: with typical students, the originality of the treatment group outperformed the control group, a result that was compatible with previous research. With gifted students, the fluency of the treatment group outperformed the control group, and overall creative problem solving ability was enhanced. Remarkably, fluency increased significantly, a notable difference from the results of prior studies. In conclusion, we inferred that, given the definition of digital fluency, if creative problem solving ability is enhanced by a training program for creative problem solving based on computer programming, digital fluency will ultimately be improved. In this paper, we discuss the result of fluency enhancement that contradicts prior research. We suggest that this training program could be a new learning environment for the students who have grown up with digital media.",
     "author": [
       {
         "given": "Sughee",
@@ -1029,17 +1020,11 @@
       }
     ],
     "DOI": "10.1002/jocb.30",
-    "language": "English",
-    "volume": "47",
-    "page": "171-199",
-    "container-title": "Journal of Creative Behavior",
-    "ISSN": "0022-0175",
-    "publisher": "Creative Education Foudation",
-    "issue": "3",
     "type": "article-journal",
-    "citation-label": "kim2013enhancing",
     "id": "kim2013enhancing",
-    "year-suffix": "enhancing",
+    "citation-key": "kim2013enhancing",
+    "ISSN": "0022-0175",
+    "issue": "3",
     "issued": {
       "date-parts": [
         [
@@ -1048,9 +1033,16 @@
           1
         ]
       ]
-    }
+    },
+    "keyword": "evaluation methodologies,media in education,programming and programming languages",
+    "language": "English",
+    "page": "171-199",
+    "publisher": "Creative Education Foudation",
+    "title": "Enhancing digital fluency through a training program for creative problem solving using computer programming",
+    "volume": "47"
   },
   {
+    "container-title": "IET Computers & Digital Techniques",
     "author": [
       {
         "given": "Hanyee",
@@ -1069,34 +1061,34 @@
         "family": "Suh"
       }
     ],
-    "title": "Performance evaluation of many-core systems: case study with TILEPro64",
-    "container-title": "IET Computers & Digital Techniques",
-    "volume": "7",
-    "issue": "4",
-    "page": "143-154",
-    "URL": "https://doi.org/10.1049/iet-cdt.2012.0101",
     "DOI": "10.1049/iet-cdt.2012.0101",
     "type": "article-journal",
-    "citation-label": "kim2013performance",
     "id": "kim2013performance",
-    "year-suffix": "performance",
+    "citation-key": "kim2013performance",
+    "issue": "4",
     "issued": {
       "date-parts": [
         [
           2013
         ]
       ]
-    }
+    },
+    "page": "143-154",
+    "title": "Performance evaluation of many-core systems: case study with TILEPro64",
+    "URL": "https://doi.org/10.1049/iet-cdt.2012.0101",
+    "volume": "7"
   },
   {
-    "title": "Revisiting transaction management in multidatabase systems",
+    "container-title": "Distributed and Parallel Databases",
+    "abstract": "A lot of research efforts have focused on global serializability, global atomicity, and global deadlocks in multidatabase systems. Surprisingly, however, very few transaction processing model exists that ensures global serializability, global atomicity, and freedom from global deadlocks in a uniform manner. In this paper, we examine previous transaction processing models and propose a new transaction processing model that generates globally serializable and deadlock-free schedules in failure-prone multidatabase systems. A new transaction processing model adopts rigid conflict serializability as a correctness criterion on global serializability, and follows an emulated 2PC, criteria for global commitment, and an abort-based multidatabase recovery scheme for global seriazability in failure-prone multidatabase systems. In addition, a deadlock-free policy is suggested where rigid conflict serializability is enforced when each subtransaction, including redo transactions, begins its execution. To practically support a new transaction processing model, Rigid Ticket Ordering (RTO) methods are designed. The proposed transaction processing model has the following improvements: (a) it resolves abnormal direct conflicts identified in this paper, (b) it imposes no restrictions on the execution of local transactions, and (c) it relaxes the restrictions on the execution of global transactions.",
     "author": [
       {
         "given": "Sang-Geun",
         "family": "Lee"
       },
       {
-        "literal": "Hwang, Chong S."
+        "given": "Chong S.",
+        "family": "Hwang"
       },
       {
         "given": "Heonchang",
@@ -1104,17 +1096,11 @@
       }
     ],
     "DOI": "10.1023/A:1026557023984",
-    "language": "English",
-    "volume": "9",
-    "page": "39-65",
-    "container-title": "Distributed and Parallel Databases",
-    "ISSN": "0926-8782",
-    "publisher": "Springer Netherlands",
-    "issue": "1",
     "type": "article-journal",
-    "citation-label": "lee2001revisiting",
     "id": "lee2001revisiting",
-    "year-suffix": "revisiting",
+    "citation-key": "lee2001revisiting",
+    "ISSN": "0926-8782",
+    "issue": "1",
     "issued": {
       "date-parts": [
         [
@@ -1123,9 +1109,16 @@
           1
         ]
       ]
-    }
+    },
+    "language": "English",
+    "page": "39-65",
+    "publisher": "Springer Netherlands",
+    "title": "Revisiting transaction management in multidatabase systems",
+    "volume": "9"
   },
   {
+    "publisher-place": "Berlin, Heidelberg",
+    "abstract": "This paper proposes a new approach to rollback-recovery, using multi-agent in distributed computing system. Previous rollback-recovery protocols were dependent on inherent communication and operating system, which cause a decline of computing performance in distributed computing system. By using multi-agent, we propose rollback-recovery protocol which works independently on operating system. We define three kinds of agent. One is a recovery agent that performs rollback-recovery protocol after a failure. Other is an information agent that constructs domain knowledge as a rule of fault tolerance and information during failure-free operation. The other is the facilitator agent that controls the efficient communication between agents. Also we propose rollback-recovery protocol using multi-agent and simulate the proposed roll-back-recovery protocol using JAVA and agent communication language in CORBA environment.",
     "author": [
       {
         "given": "Hwa-Min",
@@ -1152,6 +1145,7 @@
         "family": "Yu"
       }
     ],
+    "container-title": "Coordination Models and Languages",
     "editor": [
       {
         "given": "Farhad",
@@ -1162,25 +1156,24 @@
         "family": "Talcott"
       }
     ],
-    "title": "A Recovery Technique Using Multi-agent in Distributed Computing Systems",
-    "container-title": "Coordination Models and Languages",
-    "publisher": "Springer Berlin Heidelberg",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "236-249",
-    "ISBN": "978-3-540-46000-8",
     "type": "paper-conference",
-    "citation-label": "lee2002recovery",
     "id": "lee2002recovery",
-    "year-suffix": "recovery",
+    "citation-key": "lee2002recovery",
+    "ISBN": "978-3-540-46000-8",
     "issued": {
       "date-parts": [
         [
           2002
         ]
       ]
-    }
+    },
+    "page": "236-249",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "A Recovery Technique Using Multi-agent in Distributed Computing Systems"
   },
   {
+    "publisher-place": "Berlin, Heidelberg",
+    "abstract": "This paper proposes fault tolerance service to satisfy QoS requirement in grid computing. The probability of failure in the grid computing is higher than in a tradition parallel computing. Since the failure of resources affects job execution fatally, fault tolerance service is essential in grid computing. And grid services are often expected to meet some minimum levels of quality of service (QoS) for desirable operation. However Globus toolkit does not provide fault tolerance service that supports fault detection service and management service and satisfies QoS requirement. In order to provide fault tolerance service and satisfy QoS requirements, we expand the definition of failure, such as process failure, processor failure, and network failure. And we propose fault detection service and fault management service and show simulation results.",
     "author": [
       {
         "given": "Hwa Min",
@@ -1211,6 +1204,7 @@
         "family": "Yu"
       }
     ],
+    "container-title": "Computational Science — ICCS 2003",
     "editor": [
       {
         "given": "Peter M. A.",
@@ -1237,25 +1231,24 @@
         "family": "Zomaya"
       }
     ],
-    "title": "A Fault Tolerance Service for QoS in Grid Computing",
-    "container-title": "Computational Science — ICCS 2003",
-    "publisher": "Springer Berlin Heidelberg",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "286-296",
-    "ISBN": "978-3-540-44863-1",
     "type": "paper-conference",
-    "citation-label": "lee2003fault",
     "id": "lee2003fault",
-    "year-suffix": "fault",
+    "citation-key": "lee2003fault",
+    "ISBN": "978-3-540-44863-1",
     "issued": {
       "date-parts": [
         [
           2003
         ]
       ]
-    }
+    },
+    "page": "286-296",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "A Fault Tolerance Service for QoS in Grid Computing"
   },
   {
+    "publisher-place": "Berlin, Heidelberg",
+    "abstract": "In a fault tolerant system using rollback-recovery protocols, the performance of the system is degraded because of the increment of saved fault tolerance information. To avoid degrading its performance, we propose novel multi-agents based garbage-collection technique that deletes useless fault tolerance information. We define and design a garbage-collection agent for garbage-collection of fault tolerance information, a information agent for management of fault tolerant information, and a facilitator agent for communication between agents. And we propose the garbage-collection algorithm(GCA) using these agents. Our rollback recovery method is based on independent checkpointing protocol and sender based pessimistic message logging protocol. To prove the correctness of the garbage-collection algorithm, we introduce failure injection during operation and compare the domain knowledge of the proposed system using GCA with the domain knowledge of another system without GCA.",
     "author": [
       {
         "given": "Dae Won",
@@ -1286,6 +1279,7 @@
         "family": "Lee"
       }
     ],
+    "container-title": "Intelligent Data Engineering and Automated Learning",
     "editor": [
       {
         "given": "Jiming",
@@ -1300,26 +1294,24 @@
         "family": "Yin"
       }
     ],
-    "title": "Managing Fault Tolerance Information in Multi-agents Based Distributed Systems",
-    "container-title": "Intelligent Data Engineering and Automated Learning",
-    "publisher": "Springer Berlin Heidelberg",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "104-108",
-    "ISBN": "978-3-540-45080-1",
     "type": "paper-conference",
-    "citation-label": "lee2003managing",
     "id": "lee2003managing",
-    "year-suffix": "managing",
+    "citation-key": "lee2003managing",
+    "ISBN": "978-3-540-45080-1",
     "issued": {
       "date-parts": [
         [
           2003
         ]
       ]
-    }
+    },
+    "page": "104-108",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "Managing Fault Tolerance Information in Multi-agents Based Distributed Systems"
   },
   {
-    "title": "A resource management and fault tolerance services in grid computing",
+    "container-title": "Journal of Parallel and Distributed Computing",
+    "abstract": "In grid computing, resource management and fault tolerance services are important issues. The availability of the selected resources for job execution is a primary factor that determines the computing performance. In this paper, we propose a resource manager for optimal resource selection. Our resource manager automatically selects the set of optimal resources among candidate resources that achieves optimal performance using a genetic algorithm. Typically, the probability of a failure is higher in the grid computing than in a traditional parallel computing and the failure of resources affects job execution fatally. Therefore, a fault tolerance service is essential in computational grids. And grid services are often expected to meet some minimum levels of Quality of Service (QoS) for a desirable operation. To address this issue, we also propose a fault tolerance service that satisfies QoS requirements. We extend the definition of failures from the conventional notion of failures in distribute systems in order to provide a fault tolerance service that deals with various types of resource failures, which include process failures, processor failures, and network failures. We also design and implement a fault detector and a fault manager. The implementation and simulation results indicate that our approaches are promising in that (1) the resource manager finds the optimal set of resources that guarantees efficient job execution, (2) the fault detector detects the occurrence of resource failures and (3) the fault manager guarantees that the submitted jobs complete and the performance of job execution is improved due to job migration even if some failures occur.",
     "author": [
       {
         "given": "HwaMin",
@@ -1351,17 +1343,11 @@
       }
     ],
     "DOI": "10.1016/j.jpdc.2005.05.026",
-    "language": "English",
-    "volume": "65",
-    "page": "1305-1317",
-    "container-title": "Journal of Parallel and Distributed Computing",
-    "ISSN": "0743-7315",
-    "publisher": "Academic Press Inc.",
-    "issue": "11",
     "type": "article-journal",
-    "citation-label": "lee2005resource",
     "id": "lee2005resource",
-    "year-suffix": "resource",
+    "citation-key": "lee2005resource",
+    "ISSN": "0743-7315",
+    "issue": "11",
     "issued": {
       "date-parts": [
         [
@@ -1370,9 +1356,17 @@
           1
         ]
       ]
-    }
+    },
+    "keyword": "Fault tolerance,Grid computing,Migration,Quality of service,Resource manager",
+    "language": "English",
+    "page": "1305-1317",
+    "publisher": "Academic Press Inc.",
+    "title": "A resource management and fault tolerance services in grid computing",
+    "volume": "65"
   },
   {
+    "publisher-place": "Berlin, Heidelberg",
+    "abstract": "In this paper, we propose a new mobile host protocol that is optimized to provide access to a Mobile IP enabled internet in support of fast moving wireless hosts. Actually, for fast moving wireless hosts, we need certain environment for seamless mobile computing that internet mobile users have to sit down or put laptop computer on some place, and so on. It could be using vehicles: automobile, train, subway, train express (TGV), etc. To address this, we define high speed movement environment. Then, we make up high speed movement environment to virtual organization (VO). Finally, we propose optimized hierarchical protocol in high speed movement environment that classifies global mobility into VO mobility (within a VO) and global mobility management. Handoffs in VO are locally managed and transparent to corresponding host (CH) while global mobility is managed with Mobile IPv6. Our proposed protocol improves handoff performance and significantly reduces signaling overhead for fast moving wireless hosts.",
     "author": [
       {
         "given": "Dae Won",
@@ -1395,6 +1389,7 @@
         "family": "Yu"
       }
     ],
+    "container-title": "Advances in Grid and Pervasive Computing",
     "editor": [
       {
         "given": "Yeh-Ching",
@@ -1405,25 +1400,23 @@
         "family": "Moreira"
       }
     ],
-    "title": "Reducing Binding Updates in High Speed Movement Environment Based on HMIPv6",
-    "container-title": "Advances in Grid and Pervasive Computing",
-    "publisher": "Springer Berlin Heidelberg",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "587-596",
-    "ISBN": "978-3-540-33810-9",
     "type": "paper-conference",
-    "citation-label": "lee2006reducing",
     "id": "lee2006reducing",
-    "year-suffix": "reducing",
+    "citation-key": "lee2006reducing",
+    "ISBN": "978-3-540-33810-9",
     "issued": {
       "date-parts": [
         [
           2006
         ]
       ]
-    }
+    },
+    "page": "587-596",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "Reducing Binding Updates in High Speed Movement Environment Based on HMIPv6"
   },
   {
+    "number-of-pages": "12",
     "author": [
       {
         "given": "JongHyuk",
@@ -1450,29 +1443,29 @@
         "family": "Yu"
       }
     ],
-    "title": "Adaptive Workflow Scheduling Strategy in Service-based Grids",
     "container-title": "Proceedings of the 2Nd International Conference on Advances in Grid and Pervasive Computing",
     "collection-title": "GPC'07",
-    "ISBN": "978-3-540-72359-2",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "298-309",
-    "number-of-pages": "12",
-    "URL": "http://dl.acm.org/citation.cfm?id=1759868.1759894",
-    "publisher": "Springer-Verlag",
     "type": "paper-conference",
-    "citation-label": "lee2007adaptive",
     "id": "lee2007adaptive",
-    "year-suffix": "adaptive",
+    "citation-key": "lee2007adaptive",
+    "ISBN": "978-3-540-72359-2",
     "issued": {
       "date-parts": [
         [
           2007
         ]
       ]
-    }
+    },
+    "keyword": "adaptive grid scheduling,maximum flow,workflow",
+    "page": "298-309",
+    "publisher-place": "Paris, France",
+    "publisher": "Springer-Verlag",
+    "title": "Adaptive Workflow Scheduling Strategy in Service-based Grids",
+    "URL": "http://dl.acm.org/citation.cfm?id=1759868.1759894"
   },
   {
-    "title": "FRAsystem: Fault tolerant system using agents in distributed computing systems",
+    "container-title": "Cluster Computing",
+    "abstract": "In this paper, we present a fault tolerant and recovery system called FRASystem (Fault Tolerant & Recovery Agent System) using multi-agent in distributed computing systems. Previous rollback-recovery protocols were dependent on an inherent communication and an underlying operating system, which caused a decline of computing performance. We propose a rollback- recovery protocol that works independently on an operating system and leads to an increasing portability and extensibility. We define four types of agents: (1) a recovery agent performs a rollback-recovery protocol after a failure, (2) an information agent constructs domain knowledge as a rule of fault tolerance and information during a failure-free operation, (3) a facilitator agent controls the communication between agents, (4) a garbage collection agent performs garbage collection of the useless fault tolerance information. Since agent failures may lead to inconsistent states of a system and a domino effect, we propose an agent recovery algorithm. A garbage collection protocol addresses the performance degradation caused by the increment of saved fault tolerance information in a stable storage. We implemented a prototype of FRASystem using This work was supported by the Soon chunhyang University Research Fund 20080152. Java and CORBA and experimented the proposed roll back recovery protocol. The simulations results indicate that the performance of our protocol is better than previous roll back recovery protocols which use independent check pointing and pessimistic message logging without using agents. Our contributions are as follows: (1) this is the first rollback recovery protocol using agents, (2) FRASystem is not dependent on an operating system, and (3) FRASystem provides a portability and extensibility.",
     "author": [
       {
         "given": "HwaMin",
@@ -1492,17 +1485,11 @@
       }
     ],
     "DOI": "10.1007/s10586-009-0095-x",
-    "language": "English",
-    "volume": "14",
-    "page": "15-25",
-    "container-title": "Cluster Computing",
-    "ISSN": "1386-7857",
-    "publisher": "Kluwer Academic Publishers",
-    "issue": "1",
     "type": "article-journal",
-    "citation-label": "lee2011frasystem",
     "id": "lee2011frasystem",
-    "year-suffix": "frasystem",
+    "citation-key": "lee2011frasystem",
+    "ISSN": "1386-7857",
+    "issue": "1",
     "issued": {
       "date-parts": [
         [
@@ -1511,9 +1498,17 @@
           1
         ]
       ]
-    }
+    },
+    "keyword": "Distributed computing system,Fault tolerance,Garbage-collection,Multi-agent system,Rollback-recovery",
+    "language": "English",
+    "page": "15-25",
+    "publisher": "Kluwer Academic Publishers",
+    "title": "FRAsystem: Fault tolerant system using agents in distributed computing systems",
+    "volume": "14"
   },
   {
+    "publisher-place": "Dordrecht",
+    "abstract": "The mobile grid is a kind of grid computing that incorporates mobile devices into the infrastructure. Although mobile devices are typically more resource-constrained than static devices, it has potential to be used as grid resources because of its unique functionality such as location-awareness. In this paper, we propose a group-based fault tolerance scheduling algorithm that aims to improve utilization of resources and reliability of task execution in mobile grid through scheduling groups and fault tolerance algorithm. The experimental results showed that the group-based scheduling algorithm with replication is superior to the group-based scheduling algorithm without fault tolerance and the group-based scheduling algorithm with checkpointing.",
     "author": [
       {
         "given": "JongHyuk",
@@ -1540,6 +1535,7 @@
         "family": "Yu"
       }
     ],
+    "container-title": "Embedded and Multimedia Computing Technology and Service",
     "editor": [
       {
         "given": "James J. (Jong Hyuk)",
@@ -1558,25 +1554,25 @@
         "family": "Chen"
       }
     ],
-    "title": "A Mobile Device Group Based Fault Tolerance Scheduling Algorithm in Mobile Grid",
-    "container-title": "Embedded and Multimedia Computing Technology and Service",
-    "publisher": "Springer Netherlands",
-    "publisher-place": "Dordrecht",
-    "page": "485-492",
-    "ISBN": "978-94-007-5076-0",
     "type": "paper-conference",
-    "citation-label": "lee2012mobile",
     "id": "lee2012mobile",
-    "year-suffix": "mobile",
+    "citation-key": "lee2012mobile",
+    "ISBN": "978-94-007-5076-0",
     "issued": {
       "date-parts": [
         [
           2012
         ]
       ]
-    }
+    },
+    "page": "485-492",
+    "publisher": "Springer Netherlands",
+    "title": "A Mobile Device Group Based Fault Tolerance Scheduling Algorithm in Mobile Grid"
   },
   {
+    "publisher-place": "Piscataway, NJ, USA",
+    "container-title": "IEEE Trans. on Educ.",
+    "number-of-pages": "8",
     "author": [
       {
         "given": "Jong Hyuk",
@@ -1595,21 +1591,12 @@
         "family": "Suh"
       }
     ],
-    "title": "Pipelined CPU Design With FPGA in Teaching Computer Architecture",
-    "container-title": "IEEE Trans. on Educ.",
-    "volume": "55",
-    "issue": "3",
-    "ISSN": "0018-9359",
-    "page": "341-348",
-    "number-of-pages": "8",
-    "URL": "https://doi.org/10.1109/TE.2011.2175227",
     "DOI": "10.1109/TE.2011.2175227",
-    "publisher": "IEEE Press",
-    "publisher-place": "Piscataway, NJ, USA",
     "type": "article-journal",
-    "citation-label": "lee2012pipelined",
     "id": "lee2012pipelined",
-    "year-suffix": "pipelined",
+    "citation-key": "lee2012pipelined",
+    "ISSN": "0018-9359",
+    "issue": "3",
     "issued": {
       "date-parts": [
         [
@@ -1617,10 +1604,15 @@
           8
         ]
       ]
-    }
+    },
+    "page": "341-348",
+    "publisher": "IEEE Press",
+    "title": "Pipelined CPU Design With FPGA in Teaching Computer Architecture",
+    "URL": "https://doi.org/10.1109/TE.2011.2175227",
+    "volume": "55"
   },
   {
-    "title": "Mobility-aware balanced scheduling algorithm in mobile grid based on mobile agent",
+    "container-title": "The knowledge engineering review",
     "author": [
       {
         "given": "Jonghyuk",
@@ -1639,25 +1631,26 @@
         "family": "Yu"
       }
     ],
-    "container-title": "The knowledge engineering review",
-    "volume": "29",
-    "issue": "4",
-    "page": "409-432",
-    "publisher": "Cambridge University Press",
     "DOI": "10.1017/S0269888914000149",
     "type": "article-journal",
-    "citation-label": "lee2014mobility",
     "id": "lee2014mobility",
-    "year-suffix": "mobility",
+    "citation-key": "lee2014mobility",
+    "issue": "4",
     "issued": {
       "date-parts": [
         [
           2014
         ]
       ]
-    }
+    },
+    "page": "409-432",
+    "publisher": "Cambridge University Press",
+    "title": "Mobility-aware balanced scheduling algorithm in mobile grid based on mobile agent",
+    "volume": "29"
   },
   {
+    "container-title": "Frontiers of Computer Science",
+    "abstract": "Mobile grid is a branch of grid computing that incorporates mobile devices into the grid infrastructure. It poses new challenges because mobile devices are typically resource-constrained and exhibit unique characteristics such as instability in network connections. New scheduling strategies are imperative in mobile grid to efficiently utilize the devices. This paper presents a scheduling algorithm that considers dynamic properties of mobile devices such as availability, reliability, maintainability, and usage pattern in mobile grid environments. In particular, usage patterns caused by voluntarily or involuntarily losing a connection, such as switching off the device or a network interruption could be important criteria for choosing the best resource to execute a job. The experimental results show that our scheduling algorithm provides superior performance in terms of execution time, as compared to the other methods that do not consider usage pattern. Throughout the experiments, we found it essential to consider usage pattern for improving performance in the mobile grid.",
     "author": [
       {
         "given": "JongHyuk",
@@ -1680,29 +1673,27 @@
         "family": "Yu"
       }
     ],
-    "title": "A scheduling algorithm with dynamic properties in mobile grid",
-    "container-title": "Frontiers of Computer Science",
-    "volume": "8",
-    "issue": "5",
-    "page": "847-857",
-    "ISSN": "2095-2236",
     "DOI": "10.1007/s11704-014-3223-6",
-    "URL": "https://doi.org/10.1007/s11704-014-3223-6",
     "type": "article-journal",
-    "citation-label": "lee2014scheduling",
     "id": "lee2014scheduling",
-    "year-suffix": "scheduling",
+    "citation-key": "lee2014scheduling",
+    "ISSN": "2095-2236",
+    "issue": "5",
     "issued": {
       "date-parts": [
         [
           2014,
-          10,
-          1
+          10
         ]
       ]
-    }
+    },
+    "page": "847-857",
+    "title": "A scheduling algorithm with dynamic properties in mobile grid",
+    "URL": "https://doi.org/10.1007/s11704-014-3223-6",
+    "volume": "8"
   },
   {
+    "container-title": "Electronics",
     "author": [
       {
         "given": "Jaehak",
@@ -1713,15 +1704,11 @@
         "family": "Yu"
       }
     ],
-    "title": "I/O Strength-Aware Credit Scheduler for Virtualized Environments",
-    "container-title": "Electronics",
-    "ISSN": "2079-9292",
     "DOI": "10.3390/electronics9122107",
-    "URL": "https://doi.org/10.3390/electronics9122107",
     "type": "article-journal",
-    "citation-label": "lee2020io",
     "id": "lee2020io",
-    "year-suffix": "io",
+    "citation-key": "lee2020io",
+    "ISSN": "2079-9292",
     "issued": {
       "date-parts": [
         [
@@ -1730,9 +1717,45 @@
           10
         ]
       ]
-    }
+    },
+    "title": "I/O Strength-Aware Credit Scheduler for Virtualized Environments",
+    "URL": "https://doi.org/10.3390/electronics9122107"
   },
   {
+    "container-title": "IEEE Access",
+    "author": [
+      {
+        "given": "Jaehak",
+        "family": "Lee"
+      },
+      {
+        "given": "Hwamin",
+        "family": "Lee"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "DOI": "10.1109/ACCESS.2022.3187731",
+    "type": "article-journal",
+    "id": "lee2022fine",
+    "citation-key": "lee2022fine",
+    "ISSN": "2079-9292",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "73122-73144",
+    "title": "Fine-Grained I/O Traffic Control Middleware for I/O Fairness in Virtualized System",
+    "volume": "10"
+  },
+  {
+    "publisher-place": "Berlin, Heidelberg",
+    "abstract": "This paper proposes an automatic code classification for Korean census data by using information retrieval technique and memoory-based learning technique. The purpose of the proposed system is to convert natural language responses on survey questionnaires into corresponding numeric codes according to standard code book from the Census Bureau. The system was trained by memory based learning and experimented with 46,762 industry records and occupation 36,286 records. It was evaluated by using 10-fold cross-validation method. As experimental results, the proposed system showed 99.10% and 92.88% production rates for level 2 and level 5 codes respectively.",
     "author": [
       {
         "given": "Heui Seok",
@@ -1755,6 +1778,7 @@
         "family": "Yu"
       }
     ],
+    "container-title": "Information Retrieval Technology",
     "editor": [
       {
         "given": "Gary Geunbae",
@@ -1773,25 +1797,23 @@
         "family": "Myaeng"
       }
     ],
-    "title": "An Automatic Code Classification System by Using Memory-Based Learning and Information Retrieval Technique",
-    "container-title": "Information Retrieval Technology",
-    "publisher": "Springer Berlin Heidelberg",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "577-582",
-    "ISBN": "978-3-540-32001-2",
     "type": "paper-conference",
-    "citation-label": "lim2005automatic",
     "id": "lim2005automatic",
-    "year-suffix": "automatic",
+    "citation-key": "lim2005automatic",
+    "ISBN": "978-3-540-32001-2",
     "issued": {
       "date-parts": [
         [
           2005
         ]
       ]
-    }
+    },
+    "page": "577-582",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "An Automatic Code Classification System by Using Memory-Based Learning and Information Retrieval Technique"
   },
   {
+    "number-of-pages": "15",
     "author": [
       {
         "given": "JongBeom",
@@ -1810,29 +1832,30 @@
         "family": "Yu"
       }
     ],
-    "title": "A Gossip-based Mutual Exclusion Algorithm for Cloud Environments",
     "container-title": "Proceedings of the 7th International Conference on Advances in Grid and Pervasive Computing",
     "collection-title": "GPC'12",
-    "ISBN": "978-3-642-30766-9",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "31-45",
-    "number-of-pages": "15",
-    "URL": "http://dx.doi.org/10.1007/978-3-642-30767-6_3",
     "DOI": "10.1007/978-3-642-30767-6_3",
-    "publisher": "Springer-Verlag",
     "type": "paper-conference",
-    "citation-label": "lim2012gossip",
     "id": "lim2012gossip",
-    "year-suffix": "gossip",
+    "citation-key": "lim2012gossip",
+    "ISBN": "978-3-642-30766-9",
     "issued": {
       "date-parts": [
         [
           2012
         ]
       ]
-    }
+    },
+    "keyword": "cloud computing,gossip-based algorithm,mutual exclusion",
+    "page": "31-45",
+    "publisher-place": "Hong Kong, China",
+    "publisher": "Springer-Verlag",
+    "title": "A Gossip-based Mutual Exclusion Algorithm for Cloud Environments",
+    "URL": "http://dx.doi.org/10.1007/978-3-642-30767-6_3"
   },
   {
+    "publisher-place": "Berlin, Heidelberg",
+    "abstract": "Termination detection is a fundamental problem in distributed systems. In previous research, some structures are used (e.g., spanning tree or computational tree) to detect termination. In this work, we present an unstructured termination detection algorithm, which uses a gossip based algorithm to cope with scalability and fault-tolerance issues. This approach allows the algorithm not to maintain structures during runtime due to node joining and leaving. These dynamic behaviors are prevalent in cloud computing environments and little attention has been paid by existing approaches. To measure the complexity of our proposed algorithm, a new metric, self-centered message complexity is used. Our evaluation over scalable settings shows that the unstructured approach can have a significant merit on performance over existing algorithms.",
     "author": [
       {
         "given": "JongBeom",
@@ -1847,6 +1870,7 @@
         "family": "Yu"
       }
     ],
+    "container-title": "Network and Parallel Computing",
     "editor": [
       {
         "given": "James J.",
@@ -1865,25 +1889,23 @@
         "family": "Sahni"
       }
     ],
-    "title": "A Termination Detection Technique Using Gossip in Cloud Computing Environments",
-    "container-title": "Network and Parallel Computing",
-    "publisher": "Springer Berlin Heidelberg",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "429-436",
-    "ISBN": "978-3-642-35606-3",
     "type": "paper-conference",
-    "citation-label": "lim2012termination",
     "id": "lim2012termination",
-    "year-suffix": "termination",
+    "citation-key": "lim2012termination",
+    "ISBN": "978-3-642-35606-3",
     "issued": {
       "date-parts": [
         [
           2012
         ]
       ]
-    }
+    },
+    "page": "429-436",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "A Termination Detection Technique Using Gossip in Cloud Computing Environments"
   },
   {
+    "container-title": "Computer Applications in Engineering Education",
     "author": [
       {
         "given": "Heuiseok",
@@ -1898,15 +1920,10 @@
         "family": "Suh"
       }
     ],
-    "page": "346 - 355",
-    "title": "Using virtual platform embedded system education",
-    "volume": "20",
-    "container-title": "Computer Applications in Engineering Education",
     "DOI": "10.1002/cae.20401",
     "type": "article-journal",
-    "citation-label": "lim2012using",
     "id": "lim2012using",
-    "year-suffix": "using",
+    "citation-key": "lim2012using",
     "issued": {
       "date-parts": [
         [
@@ -1914,10 +1931,13 @@
           6
         ]
       ]
-    }
+    },
+    "page": "346 - 355",
+    "title": "Using virtual platform embedded system education",
+    "volume": "20"
   },
   {
-    "title": "A deadlock detection algorithm using gossip in cloud computing environments",
+    "abstract": "To detection deadlock in distributed systems, the initiator should construct a global wait-for graph in an efficient way. In this paper, we present a deadlock detection algorithm using gossip for cloud computing environments where each node may leave and join at any time. Due to its inherit properties of a gossip protocol, we claim that our proposed deadlock detection algorithm is scalable and fault-tolerant. The amortized message complexity of our proposed algorithm is O(n), where n is the number of nodes. Our evaluation over scalable settings shows that our approach has a significant merit to solve scalability and fault-tolerance problems over existing algorithms.",
     "author": [
       {
         "given": "JongBeom",
@@ -1932,17 +1952,13 @@
         "family": "Yu"
       }
     ],
-    "DOI": "10.1007/978-94-007-5857-5_84",
-    "language": "English",
-    "ISBN": "9789400758568",
-    "volume": "214 LNEE",
-    "collection-title": "Lecture Notes in Electrical Engineering",
-    "page": "781-789",
     "container-title": "Lecture Notes in Electrical Engineering",
+    "collection-title": "Lecture Notes in Electrical Engineering",
+    "DOI": "10.1007/978-94-007-5857-5_84",
     "type": "paper-conference",
-    "citation-label": "lim2013deadlock",
     "id": "lim2013deadlock",
-    "year-suffix": "deadlock",
+    "citation-key": "lim2013deadlock",
+    "ISBN": "9789400758568",
     "issued": {
       "date-parts": [
         [
@@ -1951,9 +1967,16 @@
           1
         ]
       ]
-    }
+    },
+    "keyword": "Cloud computing,Deadlock detection,Gossip algorithm",
+    "language": "English",
+    "page": "781-789",
+    "title": "A deadlock detection algorithm using gossip in cloud computing environments",
+    "volume": "214 LNEE"
   },
   {
+    "container-title": "Information Systems Frontiers",
+    "abstract": "Traditional Byzantine consensus in distributed systems requires n ≥ 3f + 1, where n is the number of nodes. In this paper, we present a scalable and leaderless Byzantine consensus implementation based on gossip, requiring only n ≥ 2f + 1 nodes. Unlike conventional distributed systems, the network topology of cloud computing systems is often not fully connected, but loosely coupled and layered. Hence, we revisit the Byzantine consensus problem in cloud computing environments, in which each node maintains some number of neighbors, called local view. The message complexity of our Byzantine consensus scheme is O(n), instead of O(n2). Experimental results and correctness proof show that our Byzantine consensus scheme can solve the Byzantine consensus problem safely in a scalable way without a bottleneck and a leader in cloud computing environments.",
     "author": [
       {
         "given": "JongBeom",
@@ -1972,30 +1995,27 @@
         "family": "Yu"
       }
     ],
-    "title": "Scalable and leaderless Byzantine consensus in cloud computing environments",
-    "container-title": "Information Systems Frontiers",
-    "volume": "16",
-    "issue": "1",
-    "page": "19-34",
-    "ISSN": "1572-9419",
     "DOI": "10.1007/s10796-013-9460-7",
-    "URL": "https://doi.org/10.1007/s10796-013-9460-7",
     "type": "article-journal",
-    "citation-label": "lim2014information",
     "id": "lim2014information",
-    "year-suffix": "information",
+    "citation-key": "lim2014information",
+    "ISSN": "1572-9419",
+    "issue": "1",
     "issued": {
       "date-parts": [
         [
           2014,
-          3,
-          1
+          3
         ]
       ]
-    }
+    },
+    "page": "19-34",
+    "title": "Scalable and leaderless Byzantine consensus in cloud computing environments",
+    "URL": "https://doi.org/10.1007/s10796-013-9460-7",
+    "volume": "16"
   },
   {
-    "title": "Unstructured deadlock detection technique with scalability and complexity-efficiency in clouds",
+    "container-title": "Int. J. Communication Systems",
     "author": [
       {
         "given": "JongBeom",
@@ -2010,23 +2030,24 @@
         "family": "Yu"
       }
     ],
-    "container-title": "Int. J. Communication Systems",
-    "volume": "27",
-    "page": "852-870",
     "DOI": "10.1002/dac.2638",
     "type": "article-journal",
-    "citation-label": "lim2014unstructured",
     "id": "lim2014unstructured",
-    "year-suffix": "unstructured",
+    "citation-key": "lim2014unstructured",
     "issued": {
       "date-parts": [
         [
           2014
         ]
       ]
-    }
+    },
+    "page": "852-870",
+    "title": "Unstructured deadlock detection technique with scalability and complexity-efficiency in clouds",
+    "volume": "27"
   },
   {
+    "container-title": "Symmetry",
+    "abstract": "Due to the loosely coupled property of cloud computing environments, no node has complete knowledge of the system. For this reason, detecting a Sybil attack in cloud computing environments is a non‐trivial task. In such a dynamic system, the use of algorithms based on tree or ring structures for collecting the global state of the system has unfortunate downsides, that is, the structure should be re‐constructed in the presence of node joining and leaving. In this paper, we propose an unstructured Sybil attack detection algorithm in cloud computing environments. Our proposed algorithm uses one‐to‐one communication primitives rather than broadcast primitives and, therefore, the message complexity can be reduced. In our algorithmic design, attacker nodes forging multiple identities are effectively detected by normal nodes with the fail‐stop signature scheme. We show that, regardless of the number of attacker nodes, our Sybil attack detection algorithm is able to reach consensus.",
     "author": [
       {
         "given": "JongBeom",
@@ -2041,26 +2062,26 @@
         "family": "Gil"
       }
     ],
-    "title": "Detecting Sybil Attacks in Cloud Computing  Environments Based on Fail‐Stop Signature",
-    "container-title": "Symmetry",
-    "volume": "9",
-    "issue": "3",
-    "URL": "http://www.mdpi.com/2073-8994/9/3/35",
-    "ISSN": "2073-8994",
     "DOI": "10.3390/sym9030035",
     "type": "article-journal",
-    "citation-label": "lim2017detecting",
     "id": "lim2017detecting",
-    "year-suffix": "detecting",
+    "citation-key": "lim2017detecting",
+    "ISSN": "2073-8994",
+    "issue": "3",
     "issued": {
       "date-parts": [
         [
           2017
         ]
       ]
-    }
+    },
+    "title": "Detecting Sybil Attacks in Cloud Computing Environments Based on Fail‐Stop Signature",
+    "URL": "http://www.mdpi.com/2073-8994/9/3/35",
+    "volume": "9"
   },
   {
+    "container-title": "Symmetry",
+    "abstract": "It is well known that cloud computing has many potential advantages over traditional distributed systems. Many enterprises can build their own private cloud with open source infrastructure as a service (IaaS) frameworks. Since enterprise applications and data are migrating to private cloud, the performance of cloud computing environments is of utmost importance for both cloud providers and users. To improve the performance, previous studies on cloud consolidation have been focused on live migration of virtual machines based on resource utilization. However, the approaches are not suitable for multimedia big data applications. In this paper, we reveal the performance bottleneck of multimedia big data applications in cloud computing environments and propose a cloud consolidation algorithm that considers application types. We show that our consolidation algorithm outperforms previous approaches.",
     "author": [
       {
         "given": "JongBeom",
@@ -2075,26 +2096,25 @@
         "family": "Gil"
       }
     ],
-    "title": "An Efficient and Energy-Aware Cloud Consolidation Algorithm for Multimedia Big Data Applications",
-    "container-title": "Symmetry",
-    "volume": "9",
-    "issue": "9",
-    "URL": "http://www.mdpi.com/2073-8994/9/9/184",
-    "ISSN": "2073-8994",
     "DOI": "10.3390/sym9090184",
     "type": "article-journal",
-    "citation-label": "lim2017efficient",
     "id": "lim2017efficient",
-    "year-suffix": "efficient",
+    "citation-key": "lim2017efficient",
+    "ISSN": "2073-8994",
+    "issue": "9",
     "issued": {
       "date-parts": [
         [
           2017
         ]
       ]
-    }
+    },
+    "title": "An Efficient and Energy-Aware Cloud Consolidation Algorithm for Multimedia Big Data Applications",
+    "URL": "http://www.mdpi.com/2073-8994/9/9/184",
+    "volume": "9"
   },
   {
+    "container-title": "Soft Computing",
     "author": [
       {
         "given": "JongBeom",
@@ -2117,29 +2137,28 @@
         "family": "Yu"
       }
     ],
-    "title": "Byzantine-resilient dual gossip membership management in clouds",
-    "container-title": "Soft Computing",
-    "volume": "22",
-    "issue": "9",
-    "page": "3011-3022",
-    "ISSN": "1433-7479",
     "DOI": "10.1007/s00500-017-2553-3",
-    "URL": "https://doi.org/10.1007/s00500-017-2553-3",
     "type": "article-journal",
-    "citation-label": "lim2018byzantine",
     "id": "lim2018byzantine",
-    "year-suffix": "byzantine",
+    "citation-key": "lim2018byzantine",
+    "ISSN": "1433-7479",
+    "issue": "9",
     "issued": {
       "date-parts": [
         [
           2018,
-          5,
-          1
+          5
         ]
       ]
-    }
+    },
+    "page": "3011-3022",
+    "title": "Byzantine-resilient dual gossip membership management in clouds",
+    "URL": "https://doi.org/10.1007/s00500-017-2553-3",
+    "volume": "22"
   },
   {
+    "container-title": "Symmetry",
+    "abstract": "Many artificial intelligence applications often require a huge amount of computing resources. As a result, cloud computing adoption rates are increasing in the artificial intelligence field. To support the demand for artificial intelligence applications and guarantee the service level agreement, cloud computing should provide not only computing resources but also fundamental mechanisms for efficient computing. In this regard, a snapshot protocol has been used to create a consistent snapshot of the global state in cloud computing environments. However, the existing snapshot protocols are not optimized in the context of artificial intelligence applications, where large-scale iterative computation is the norm. In this paper, we present a distributed snapshot protocol for efficient artificial intelligence computation in cloud computing environments. The proposed snapshot protocol is based on a distributed algorithm to run interconnected multiple nodes in a scalable fashion. Our snapshot protocol is able to deal with artificial intelligence applications, in which a large number of computing nodes are running. We reveal that our distributed snapshot protocol guarantees the correctness, safety, and liveness conditions.",
     "author": [
       {
         "given": "JongBeom",
@@ -2154,27 +2173,25 @@
         "family": "Yu"
       }
     ],
-    "title": "A Distributed Snapshot Protocol for Efficient Artificial Intelligence Computation in Cloud Computing Environments",
-    "container-title": "Symmetry",
-    "volume": "10",
-    "issue": "1",
-    "URL": "http://www.mdpi.com/2073-8994/10/1/30",
-    "ISSN": "2073-8994",
     "DOI": "10.3390/sym10010030",
     "type": "article-journal",
-    "citation-label": "lim2018distributed",
     "id": "lim2018distributed",
-    "year-suffix": "distributed",
+    "citation-key": "lim2018distributed",
+    "ISSN": "2073-8994",
+    "issue": "1",
     "issued": {
       "date-parts": [
         [
           2018
         ]
       ]
-    }
+    },
+    "title": "A Distributed Snapshot Protocol for Efficient Artificial Intelligence Computation in Cloud Computing Environments",
+    "URL": "http://www.mdpi.com/2073-8994/10/1/30",
+    "volume": "10"
   },
   {
-    "title": "An Intelligent Residual Resource Monitoring Scheme in Cloud Computing Environments.",
+    "container-title": "Journal of Information Processing Systems",
     "author": [
       {
         "given": "JongBeom",
@@ -2189,24 +2206,24 @@
         "family": "Gil"
       }
     ],
-    "container-title": "Journal of Information Processing Systems",
-    "volume": "14",
-    "issue": "6",
-    "page": "1480-1493",
     "type": "article-journal",
-    "citation-label": "lim2018intelligent",
     "id": "lim2018intelligent",
-    "year-suffix": "intelligent",
+    "citation-key": "lim2018intelligent",
+    "issue": "6",
     "issued": {
       "date-parts": [
         [
           2018
         ]
       ]
-    }
+    },
+    "page": "1480-1493",
+    "title": "An Intelligent Residual Resource Monitoring Scheme in Cloud Computing Environments.",
+    "volume": "14"
   },
   {
-    "title": "Intelligent Resource Management Schemes for Systems, Services, and Applications of Cloud Computing Based on Artificial Intelligence",
+    "container-title": "Journal of Information Processing Systems",
+    "abstract": "Recently, artificial intelligence techniques have been widely used in the computer science field, such as the Internet of Things, big data, cloud computing, and mobile computing. In particular, resource management is of utmost importance for maintaining the quality of services, service-level agreements, and the availability of the system. In this paper, we review and analyze various ways to meet the requirements of cloud resource management based on artificial intelligence. We divide cloud resource management techniques based on artificial intelligence into three categories: fog computing systems, edge-cloud systems, and intelligent cloud computing systems. The aim of the paper is to propose an intelligent resource management scheme that manages mobile resources by monitoring devices' statuses and predicting their future stability based on one of the artificial intelligence techniques. We explore how our proposed resource management scheme can be extended to various cloud-based systems.",
     "author": [
       {
         "given": "JongBeom",
@@ -2226,16 +2243,11 @@
       }
     ],
     "DOI": "10.3745/JIPS.04.0139",
-    "language": "English",
-    "volume": "15",
-    "page": "1192-1200",
-    "container-title": "Journal of Information Processing Systems",
+    "type": "article-journal",
+    "id": "lim2019intelligent",
+    "citation-key": "lim2019intelligent",
     "ISSN": "1976-913X",
     "issue": "5",
-    "type": "article-journal",
-    "citation-label": "lim2019intelligent",
-    "id": "lim2019intelligent",
-    "year-suffix": "intelligent",
     "issued": {
       "date-parts": [
         [
@@ -2243,9 +2255,16 @@
           10
         ]
       ]
-    }
+    },
+    "keyword": "Artificial Intelligence,Cloud Computing,Edge-Cloud Systems,Fog Computing,Resource Management",
+    "language": "English",
+    "page": "1192-1200",
+    "title": "Intelligent Resource Management Schemes for Systems, Services, and Applications of Cloud Computing Based on Artificial Intelligence",
+    "volume": "15"
   },
   {
+    "container-title": "Human-centric Computing and Information Sciences",
+    "abstract": "Since cloud computing provides computing resources on a pay per use basis, a task scheduling algorithm directly affects the cost for users. In this paper, we propose a novel cloud task scheduling algorithm based on ant colony optimization that allocates tasks of cloud users to virtual machines in cloud computing environments in an efficient manner. To enhance the performance of the task scheduler in cloud computing environments with ant colony optimization, we adapt diversification and reinforcement strategies with slave ants. The proposed algorithm solves the global optimization problem with slave ants by avoiding long paths whose pheromones are wrongly accumulated by leading ants.",
     "author": [
       {
         "given": "YoungJu",
@@ -2264,29 +2283,27 @@
         "family": "Lim"
       }
     ],
-    "title": "A slave ants based ant colony optimization algorithm for task scheduling in cloud computing environments",
-    "container-title": "Human-centric Computing and Information Sciences",
-    "volume": "7",
-    "issue": "1",
-    "page": "28",
-    "ISSN": "2192-1962",
     "DOI": "10.1186/s13673-017-0109-2",
-    "URL": "https://doi.org/10.1186/s13673-017-0109-2",
     "type": "article-journal",
-    "citation-label": "moon2017slave",
     "id": "moon2017slave",
-    "year-suffix": "slave",
+    "citation-key": "moon2017slave",
+    "ISSN": "2192-1962",
+    "issue": "1",
     "issued": {
       "date-parts": [
         [
           2017,
-          10,
-          9
+          10
         ]
       ]
-    }
+    },
+    "page": "28",
+    "title": "A slave ants based ant colony optimization algorithm for task scheduling in cloud computing environments",
+    "URL": "https://doi.org/10.1186/s13673-017-0109-2",
+    "volume": "7"
   },
   {
+    "container-title": "Electronics",
     "author": [
       {
         "given": "Rohyoung",
@@ -2297,15 +2314,11 @@
         "family": "Yu"
       }
     ],
-    "title": "Performance Prediction for convolutional Neural Network on Spark Cluster",
-    "container-title": "Electronics",
-    "ISSN": "2079-9292",
     "DOI": "10.3390/electronics9091340",
-    "URL": "https://doi.org/10.3390/electronics9091340",
     "type": "article-journal",
-    "citation-label": "myung2020performance",
     "id": "myung2020performance",
-    "year-suffix": "performance",
+    "citation-key": "myung2020performance",
+    "ISSN": "2079-9292",
     "issued": {
       "date-parts": [
         [
@@ -2314,9 +2327,12 @@
           19
         ]
       ]
-    }
+    },
+    "title": "Performance Prediction for convolutional Neural Network on Spark Cluster",
+    "URL": "https://doi.org/10.3390/electronics9091340"
   },
   {
+    "container-title": "Symmetry",
     "author": [
       {
         "given": "Rohyoung",
@@ -2327,17 +2343,12 @@
         "family": "Choi"
       }
     ],
-    "title": "Machine-Learning Based Memory Prediction Model for Data Parallel Workloads in Apache Spark",
-    "container-title": "Symmetry",
-    "volume": "13",
-    "issue": "4",
-    "ISSN": "2073-8994",
     "DOI": "10.3390/sym13040697",
-    "URL": "https://doi.org/10.3390/sym13040697",
     "type": "article-journal",
-    "citation-label": "myung2020machine",
     "id": "myung2020machine",
-    "year-suffix": "machine",
+    "citation-key": "myung2020machine",
+    "ISSN": "2073-8994",
+    "issue": "4",
     "issued": {
       "date-parts": [
         [
@@ -2346,9 +2357,13 @@
           16
         ]
       ]
-    }
+    },
+    "title": "Machine-Learning Based Memory Prediction Model for Data Parallel Workloads in Apache Spark",
+    "URL": "https://doi.org/10.3390/sym13040697",
+    "volume": "13"
   },
   {
+    "number-of-pages": "11",
     "author": [
       {
         "given": "JiSu",
@@ -2371,30 +2386,30 @@
         "family": "Yu"
       }
     ],
-    "title": "Monitoring Service Using Markov Chain Model in Mobile Grid Environment",
     "container-title": "Proceedings of the 5th International Conference on Advances in Grid and Pervasive Computing",
     "collection-title": "GPC'10",
-    "ISBN": "3-642-13066-6, 978-3-642-13066-3",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "193-203",
-    "number-of-pages": "11",
-    "URL": "http://dx.doi.org/10.1007/978-3-642-13067-0_23",
     "DOI": "10.1007/978-3-642-13067-0_23",
-    "publisher": "Springer-Verlag",
     "type": "paper-conference",
-    "citation-label": "park2010monitoring",
     "id": "park2010monitoring",
-    "year-suffix": "monitoring",
+    "citation-key": "park2010monitoring",
+    "ISBN": "3-642-13066-6, 978-3-642-13066-3",
     "issued": {
       "date-parts": [
         [
           2010
         ]
       ]
-    }
+    },
+    "keyword": "Markov chain model,mobile grid,monitoring,monitoring time interval",
+    "page": "193-203",
+    "publisher-place": "Hualien, Taiwan",
+    "publisher": "Springer-Verlag",
+    "title": "Monitoring Service Using Markov Chain Model in Mobile Grid Environment",
+    "URL": "http://dx.doi.org/10.1007/978-3-642-13067-0_23"
   },
   {
-    "title": "Fault tolerance technique based on monitoring and pattern for reliable resource management in mobile cloud computing",
+    "container-title": "Journal of Internet Technology",
+    "abstract": "Recently, with the rapid growth in the smart phone market and advancements in wireless communication environments, mobile devices are being considered as resources for the processing of fine-grained tasks. However, mobile devices have several problems such as unstable wireless connections, low communication bandwidth, and frequent location changes. As resource providers, mobile devices can join and leave the distributed computing environment in an unpredictable manner. This frequent movement interrupts the operation in progress, and the delay or failure in completing the operation may cause a system failure. Therefore, we should consider volatility, one of the dynamic characteristics of mobile devices, for reliable resource management. In this study, we define a resource availability model for reliable resource management, and we propose a monitoring system and a fault tolerance technique based on the proposed model. In our proposed monitoring system, we determine the operation availability state dynamically according to the operation availability state of predicted resource information. We define a set of patterns of operation availability states, which describe the state of mobile devices. Our proposed fault tolerance technique creates checkpoints and replications according to the patterns of operation availability states.",
     "author": [
       {
         "given": "Jisu",
@@ -2410,17 +2425,11 @@
       }
     ],
     "DOI": "10.6138/JIT.2013.14.6.14",
-    "language": "English",
-    "volume": "14",
-    "page": "997-1005",
-    "container-title": "Journal of Internet Technology",
-    "ISSN": "1607-9264",
-    "publisher": "Taiwan Academic Network Management Committee",
-    "issue": "6",
     "type": "article-journal",
-    "citation-label": "park2013fault",
     "id": "park2013fault",
-    "year-suffix": "fault",
+    "citation-key": "park2013fault",
+    "ISSN": "1607-9264",
+    "issue": "6",
     "issued": {
       "date-parts": [
         [
@@ -2429,10 +2438,17 @@
           19
         ]
       ]
-    }
+    },
+    "keyword": "Dynamic monitoring,Fault tolerance,Mobile cloud,Pattern of OAS,Reliable resource management",
+    "language": "English",
+    "page": "997-1005",
+    "publisher": "Taiwan Academic Network Management Committee",
+    "title": "Fault tolerance technique based on monitoring and pattern for reliable resource management in mobile cloud computing",
+    "volume": "14"
   },
   {
-    "title": "Resource provision technique with entropy-based mobility grouping for fault tolerance in mobile cloud computing",
+    "container-title": "Information (Japan)",
+    "abstract": "Recently, research on utilizing mobile devices as resources in mobile cloud environments has been gaining attention because of the enhanced computing power of mobile devices, with the advent of quad-core chips. Such research is also motivated by the advance of communication networks as well as the growing population of users of smart phones, tablet PCs, and other mobile devices. However, the mobility of a mobile device causes system faults to occur more frequently, and system faults prevent applications running on mobile devices from being processed reliably. In this paper, we analyze and predict mobility by using the history and current information of location information of mobile devices. In addition, we define mobility groups for mobile devices by measuring the behavior of mobile devices and calculating the entropy, and we propose a resource provision technique.",
     "author": [
       {
         "given": "Jisu",
@@ -2455,17 +2471,11 @@
         "family": "Lee"
       }
     ],
-    "language": "English",
-    "volume": "16",
-    "page": "5229-5243",
-    "container-title": "Information (Japan)",
-    "ISSN": "1343-4500",
-    "publisher": "International Information Institute",
-    "issue": "7 B",
     "type": "article-journal",
-    "citation-label": "park2013resource",
     "id": "park2013resource",
-    "year-suffix": "resource",
+    "citation-key": "park2013resource",
+    "ISSN": "1343-4500",
+    "issue": "7 B",
     "issued": {
       "date-parts": [
         [
@@ -2474,9 +2484,18 @@
           1
         ]
       ]
-    }
+    },
+    "keyword": "Entropy,Mobile cloud computing,Mobility group,Mobility prediction,Resource provision",
+    "language": "English",
+    "page": "5229-5243",
+    "publisher": "International Information Institute",
+    "title": "Resource provision technique with entropy-based mobility grouping for fault tolerance in mobile cloud computing",
+    "volume": "16"
   },
   {
+    "publisher-place": "Chichester, UK",
+    "container-title": "Concurr. Comput. : Pract. Exper.",
+    "number-of-pages": "14",
     "author": [
       {
         "given": "JiSu",
@@ -2495,21 +2514,12 @@
         "family": "Lee"
       }
     ],
-    "title": "Dynamic Group-based Fault Tolerance Technique for Reliable Resource Management in Mobile Cloud Computing",
-    "container-title": "Concurr. Comput. : Pract. Exper.",
-    "volume": "28",
-    "issue": "10",
-    "ISSN": "1532-0626",
-    "page": "2756-2769",
-    "number-of-pages": "14",
-    "URL": "https://doi.org/10.1002/cpe.3205",
     "DOI": "10.1002/cpe.3205",
-    "publisher": "John Wiley and Sons Ltd.",
-    "publisher-place": "Chichester, UK",
     "type": "article-journal",
-    "citation-label": "park2016dynamic",
     "id": "park2016dynamic",
-    "year-suffix": "dynamic",
+    "citation-key": "park2016dynamic",
+    "ISSN": "1532-0626",
+    "issue": "10",
     "issued": {
       "date-parts": [
         [
@@ -2517,9 +2527,17 @@
           7
         ]
       ]
-    }
+    },
+    "keyword": "availability,dynamic grouping,group-based fault tolerance,mobile cloud computing,mobility",
+    "page": "2756-2769",
+    "publisher": "John Wiley",
+    "title": "Dynamic Group-based Fault Tolerance Technique for Reliable Resource Management in Mobile Cloud Computing",
+    "URL": "https://doi.org/10.1002/cpe.3205",
+    "volume": "28"
   },
   {
+    "container-title": "Peer-to-Peer Networking and Applications",
+    "abstract": "Over the years, parallel computing models have been proposed to solve large-scale application problems. P2P and cloud computing are well-known distributed computing models and have the advantage of running and implementing the parallel computing. Applying the advantages of both models can enhance the benefits of parallel computing. In this paper, we analyze the efficiency of key search algorithm by combining P2P and cloud computing. For our experiment, we apply the key search algorithm in the field of cryptography. The length of the key, which is stable criterion of cryptographic algorithm, is judged according to the amount of exhaustive key search. And the key space required for the whole investigation is easy to divide and is very appropriate for parallel calculation of P2P environment. In addition, cloud computing can provide the fitting environment to meet the various user requirements using virtualization technology. We conduct the following two performance experiments with P2P and cloud computing. First, we propose the method to guarantee the performance in P2P environment based on virtualization. Next, we simulate the performance of the suggested encryption method in the aforementioned system environment. Results reveal effectiveness and validity of the proposed system environment, which can also provide both scalability and flexibility.",
     "author": [
       {
         "given": "JunWeon",
@@ -2546,30 +2564,28 @@
         "family": "Yu"
       }
     ],
-    "title": "Evaluation of P2P and cloud computing as platform for exhaustive key search on block ciphers",
-    "container-title": "Peer-to-Peer Networking and Applications",
-    "volume": "11",
-    "issue": "6",
-    "page": "1206-1216",
-    "ISSN": "1936-6450",
     "DOI": "10.1007/s12083-018-0641-5",
-    "URL": "https://doi.org/10.1007/s12083-018-0641-5",
     "type": "article-journal",
-    "citation-label": "yoon2018evaluation",
     "id": "yoon2018evaluation",
-    "year-suffix": "evaluation",
+    "citation-key": "yoon2018evaluation",
+    "ISSN": "1936-6450",
+    "issue": "6",
     "issued": {
       "date-parts": [
         [
           2018,
-          11,
-          1
+          11
         ]
       ]
-    }
+    },
+    "page": "1206-1216",
+    "title": "Evaluation of P2P and cloud computing as platform for exhaustive key search on block ciphers",
+    "URL": "https://doi.org/10.1007/s12083-018-0641-5",
+    "volume": "11"
   },
   {
-    "title": "Log Analysis-Based Resource and Execution Time Improvement in HPC: A Case Study",
+    "container-title": "MDPI, Applied Sciences",
+    "abstract": "High-performance computing (HPC) uses many distributed computing resources to solve large computational science problems through parallel computation. Such an approach can reduce overall job execution time and increase the capacity of solving large-scale and complex problems. In the supercomputer, the job scheduler, the HPC’s flagship tool, is responsible for distributing and managing the resources of large systems. In this paper, we analyze the execution log of the job scheduler for a certain period of time and propose an optimization approach to reduce the idle time of jobs. In our experiment, it has been found that the main root cause of delayed job is highly related to resource waiting. The execution time of the entire job is affected and significantly delayed due to the increase in idle resources that must be ready when submitting the large-scale job. The backfilling algorithm can optimize the inefficiency of these idle resources and help to reduce the execution time of the job. Therefore, we propose the backfilling algorithm, which can be applied to the supercomputer. This experimental result shows that the overall execution time is reduced. ",
     "author": [
       {
         "given": "JunWeon",
@@ -2593,15 +2609,11 @@
       }
     ],
     "DOI": "10.3390/app10072634",
-    "language": "English",
-    "volume": "10",
-    "issue": "7",
-    "container-title": "MDPI, Applied Sciences",
-    "ISSN": "2076-3417",
     "type": "article-journal",
-    "citation-label": "yoon2020log",
     "id": "yoon2020log",
-    "year-suffix": "log",
+    "citation-key": "yoon2020log",
+    "ISSN": "2076-3417",
+    "issue": "7",
     "issued": {
       "date-parts": [
         [
@@ -2610,6 +2622,10 @@
           10
         ]
       ]
-    }
+    },
+    "keyword": "HPC,supercomputer,parallel computing,job scheduling,backfilling",
+    "language": "English",
+    "title": "Log Analysis-Based Resource and Execution Time Improvement in HPC: A Case Study",
+    "volume": "10"
   }
 ]
