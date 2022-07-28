@@ -30,16 +30,20 @@ master:
     mail: sejjj120@korea.ac.kr
   - name: Moonsang Yhu
     mail: anstkd07@gmail.com
-  - name: Myung-Hyun Kim
-    mail: freckie@frec.kr
   - name: Kwanghyun Seong
-    mail: bonghwang16@naver.com
+    mail: seong3730@korea.ac.kr
+  - name: Myung-Hyun Kim
+    mail: freckie@korea.ac.kr
   - name: Hyungjun Kim
     mail: ledzep0830@korea.ac.kr
+  - name: Tae Shin Kang
+    mail: nomail
+  - name: Sunhwa Baek
+    mail: nomail
 
 intern:
-  - name:
-    mail:
+  - name: Gyujeong Lim
+    mail: gjlim2485@korea.ac.kr
 
 alumniPhd:
   - name: Hwamin Lee
