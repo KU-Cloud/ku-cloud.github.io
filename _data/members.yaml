@@ -27,21 +27,27 @@ master:
     mail: hjyoon@korea.ac.kr
   - name: Sejin Kim
     mail: sejjj120@korea.ac.kr
-    work: AWS Korea
+    work:
+      - "AWS Korea"
     research:
       - "Serverless Computing"
-      - "Container"
+      - "Kubernetes"
   - name: Moonsang Yhu
     mail: anstkd07@gmail.com
-    work: Kakao Enterprise
+    work:
+      - "Kakao Enterprise"
   - name: Kwanghyun Seong
     mail: seong3730@korea.ac.kr
+    research:
+      - "Edge Computing"
   - name: Myung-Hyun Kim
     mail: freckie@korea.ac.kr
     research:
       - "Serverless Computing"
   - name: Hyungjun Kim
     mail: ledzep0830@korea.ac.kr
+    research:
+      - "Distributed Deep Learning"
   - name: Tae Shin Kang
     mail: nomail
   - name: Sunhwa Baek
