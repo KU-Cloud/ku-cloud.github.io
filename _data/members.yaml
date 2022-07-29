@@ -22,18 +22,24 @@ phd:
       - "Virtualization"
       - "Volunteer Computing"
 
-
 master:
   - name: Hyungjoon Yoon
     mail: hjyoon@korea.ac.kr
   - name: Sejin Kim
     mail: sejjj120@korea.ac.kr
+    work: AWS Korea
+    research:
+      - "Serverless Computing"
+      - "Container"
   - name: Moonsang Yhu
     mail: anstkd07@gmail.com
+    work: Kakao Enterprise
   - name: Kwanghyun Seong
     mail: seong3730@korea.ac.kr
   - name: Myung-Hyun Kim
     mail: freckie@korea.ac.kr
+    research:
+      - "Serverless Computing"
   - name: Hyungjun Kim
     mail: ledzep0830@korea.ac.kr
   - name: Tae Shin Kang
