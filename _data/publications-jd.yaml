@@ -1,6 +1,6 @@
 [
   {
-    "title": "The Optimization Mechanism of CPU/GPU Computing Resource for Minimization of Performance Interference and Calculation Efficiency in Volunteer Computing Environment",
+    "container-title": "KIPS Transactions on Computer and Communication Systems",
     "author": [
       {
         "given": "Bong Woo",
@@ -15,15 +15,11 @@
         "family": "Yu"
       }
     ],
-    "volume": "6",
-    "issue": "12",
-    "container-title": "KIPS Transactions on Computer and Communication Systems",
     "DOI": "10.3745/KTCCS.2017.6.12.479",
-    "page": "479-486",
     "type": "article-journal",
-    "citation-label": "bak2017optimization",
     "id": "bak2017optimization",
-    "year-suffix": "optimization",
+    "citation-key": "bak2017optimization",
+    "issue": "12",
     "issued": {
       "date-parts": [
         [
@@ -31,10 +27,13 @@
           12
         ]
       ]
-    }
+    },
+    "page": "479-486",
+    "title": "The Optimization Mechanism of CPU/GPU Computing Resource for Minimization of Performance Interference and Calculation Efficiency in Volunteer Computing Environment",
+    "volume": "6"
   },
   {
-    "title": "Service Scheduling for Workflow Based Applications in Grids",
+    "container-title": "The Journal of Korean Association of Computer Education",
     "author": [
       {
         "given": "Sungho",
@@ -49,14 +48,10 @@
         "family": "Yu"
       }
     ],
-    "volume": "9",
-    "issue": "6",
-    "container-title": "The Journal of Korean Association of Computer Education",
-    "page": "89-98",
     "type": "article-journal",
-    "citation-label": "chin2016service",
     "id": "chin2016service",
-    "year-suffix": "service",
+    "citation-key": "chin2016service",
+    "issue": "6",
     "issued": {
       "date-parts": [
         [
@@ -64,10 +59,13 @@
           11
         ]
       ]
-    }
+    },
+    "page": "89-98",
+    "title": "Service Scheduling for Workflow Based Applications in Grids",
+    "volume": "9"
   },
   {
-    "title": "Checkpoint-based Job Migration Technique in Mobile Grids",
+    "container-title": "The Journal of Korean Association of Computer Education",
     "author": [
       {
         "given": "DaeYong",
@@ -86,14 +84,10 @@
         "family": "Yu"
       }
     ],
-    "volume": "12",
-    "issue": "4",
-    "container-title": "The Journal of Korean Association of Computer Education",
-    "page": "47-55",
     "type": "article-journal",
-    "citation-label": "Jung2008checkpoint",
     "id": "Jung2008checkpoint",
-    "year-suffix": "checkpoint",
+    "citation-key": "Jung2008checkpoint",
+    "issue": "4",
     "issued": {
       "date-parts": [
         [
@@ -101,10 +95,13 @@
           7
         ]
       ]
-    }
+    },
+    "page": "47-55",
+    "title": "Checkpoint-based Job Migration Technique in Mobile Grids",
+    "volume": "12"
   },
   {
-    "title": "Adaptive Scheduling Technique Based on Reliability in Cloud Compuing Environment",
+    "container-title": "The Journal of Korean Association of Computer Education",
     "author": [
       {
         "given": "Inseock",
@@ -119,14 +116,10 @@
         "family": "Lee"
       }
     ],
-    "volume": "14",
-    "issue": "2",
-    "container-title": "The Journal of Korean Association of Computer Education",
-    "page": "75-82",
     "type": "article-journal",
-    "citation-label": "cho2011adaptive",
     "id": "cho2011adaptive",
-    "year-suffix": "adaptive",
+    "citation-key": "cho2011adaptive",
+    "issue": "2",
     "issued": {
       "date-parts": [
         [
@@ -134,10 +127,13 @@
           3
         ]
       ]
-    }
+    },
+    "page": "75-82",
+    "title": "Adaptive Scheduling Technique Based on Reliability in Cloud Compuing Environment",
+    "volume": "14"
   },
   {
-    "title": "Fault-tolerance Scheduling for Service Sharing in Mobile Social Cloud Computing",
+    "container-title": "The Journal of Korean Institute of Information Technology",
     "author": [
       {
         "given": "SookKyong",
@@ -152,49 +148,47 @@
         "family": "Yu"
       }
     ],
-    "volume": "11",
-    "issue": "1",
-    "container-title": "The Journal of Korean Institute of Information Technology",
-    "page": "143-150",
     "type": "article-journal",
-    "citation-label": "choi2013fault",
     "id": "choi2013fault",
-    "year-suffix": "fault",
+    "citation-key": "choi2013fault",
+    "issue": "1",
     "issued": {
       "date-parts": [
         [
           2013
         ]
       ]
-    }
+    },
+    "page": "143-150",
+    "title": "Fault-tolerance Scheduling for Service Sharing in Mobile Social Cloud Computing",
+    "volume": "11"
   },
   {
-    "title": "A Checkpointing Protocol without Rollback using a Selective Message Logging in Mobile Computing Environments",
+    "container-title": "Journal of Korea Information Science Society(A)",
     "author": [
       {
         "given": "Heonchang Yu",
-        "suffix": "Chongsun Hwang",
-        "family": "Kwangsik Chung"
+        "family": "Kwangsik Chung",
+        "suffix": "Chongsun Hwang"
       }
     ],
-    "volume": "25",
-    "issue": "7",
-    "container-title": "Journal of Korea Information Science Society(A)",
-    "page": "729-738",
     "type": "article-journal",
-    "citation-label": "chung1998checkpointing",
     "id": "chung1998checkpointing",
-    "year-suffix": "checkpointing",
+    "citation-key": "chung1998checkpointing",
+    "issue": "7",
     "issued": {
       "date-parts": [
         [
           1998
         ]
       ]
-    }
+    },
+    "page": "729-738",
+    "title": "A Checkpointing Protocol without Rollback using a Selective Message Logging in Mobile Computing Environments",
+    "volume": "25"
   },
   {
-    "title": "Garbage Collection of Message Log without Additional Message on Causal Message Logging Protocol",
+    "container-title": "Journal of Korea Information Science Society: Computer Systems and Theory",
     "author": [
       {
         "given": "Kwangsik",
@@ -217,24 +211,23 @@
         "family": "Yu"
       }
     ],
-    "volume": "28",
-    "issue": "7/8",
-    "container-title": "Journal of Korea Information Science Society: Computer Systems and Theory",
-    "page": "331-340",
     "type": "article-journal",
-    "citation-label": "chung2001garbage",
     "id": "chung2001garbage",
-    "year-suffix": "garbage",
+    "citation-key": "chung2001garbage",
+    "issue": "7/8",
     "issued": {
       "date-parts": [
         [
           2001
         ]
       ]
-    }
+    },
+    "page": "331-340",
+    "title": "Garbage Collection of Message Log without Additional Message on Causal Message Logging Protocol",
+    "volume": "28"
   },
   {
-    "title": "A Hierarachical Server Structure for Parallel Location Information Search of Mobile Hosts",
+    "container-title": "Journal of Korea Information Science Society: Computer Systems and Theory",
     "author": [
       {
         "given": "Kwangsik",
@@ -249,24 +242,23 @@
         "family": "Yu"
       }
     ],
-    "volume": "28",
-    "issue": "1",
-    "container-title": "Journal of Korea Information Science Society: Computer Systems and Theory",
-    "page": "80-89",
     "type": "article-journal",
-    "citation-label": "chung2001hierarachical",
     "id": "chung2001hierarachical",
-    "year-suffix": "hierarachical",
+    "citation-key": "chung2001hierarachical",
+    "issue": "1",
     "issued": {
       "date-parts": [
         [
           2001
         ]
       ]
-    }
+    },
+    "page": "80-89",
+    "title": "A Hierarachical Server Structure for Parallel Location Information Search of Mobile Hosts",
+    "volume": "28"
   },
   {
-    "title": "Lazy Garbage Collection of Coordinated Checkpointing Protocol for Avoiding Sympathetic Rollback",
+    "container-title": "Journal of Korea Information Science Society: Computer Systems and Theory",
     "author": [
       {
         "given": "Kwangsik",
@@ -289,24 +281,23 @@
         "family": "Hwang"
       }
     ],
-    "volume": "29",
-    "issue": "5/6",
-    "container-title": "Journal of Korea Information Science Society: Computer Systems and Theory",
-    "page": "331-339",
     "type": "article-journal",
-    "citation-label": "chung2002lazy",
     "id": "chung2002lazy",
-    "year-suffix": "lazy",
+    "citation-key": "chung2002lazy",
+    "issue": "5/6",
     "issued": {
       "date-parts": [
         [
           2002
         ]
       ]
-    }
+    },
+    "page": "331-339",
+    "title": "Lazy Garbage Collection of Coordinated Checkpointing Protocol for Avoiding Sympathetic Rollback",
+    "volume": "29"
   },
   {
-    "title": "Reinforcement Learning-based Pod Autoscaling Technique Using the Queueing Model",
+    "container-title": "Journal of Korean Institute of Information Scientists and Enginners (KIISE)",
     "author": [
       {
         "given": "Yonghyeon",
@@ -321,15 +312,11 @@
         "family": "Lee"
       }
     ],
-    "volume": "49",
-    "issue": "2",
-    "container-title": "Journal of Korean Institute of Information Scientists and Enginners (KIISE)",
-    "ISSN": "2383-6296",
-    "page": "106-119",
     "type": "article-journal",
-    "citation-label": "jang2022reinforcement",
     "id": "jang2022reinforcement",
-    "year-suffix": "reinforcement",
+    "citation-key": "jang2022reinforcement",
+    "ISSN": "2383-6296",
+    "issue": "2",
     "issued": {
       "date-parts": [
         [
@@ -337,10 +324,42 @@
           1
         ]
       ]
-    }
+    },
+    "page": "106-119",
+    "title": "Reinforcement Learning-based Pod Autoscaling Technique Using the Queueing Model",
+    "volume": "49"
   },
   {
-    "title": "Resource Management Scheme in Proxy-Based Mobile Grid",
+    "container-title": "KIPS Transactions on Computer and Communication Systems",
+    "author": [
+      {
+        "given": "Jinwon",
+        "family": "Jeong"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "DOI": "10.3745/KTCCS.2022.11.7.205",
+    "type": "article-journal",
+    "id": "jeong2022dynamic",
+    "citation-key": "jeong2022dynamic",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          7
+        ]
+      ]
+    },
+    "page": "205-216",
+    "title": "Dynamic Resource Adjustment Operator Based on Autoscaling for Improving Distributed Training Job Performance on Kubernetes",
+    "volume": "11"
+  },
+  {
+    "container-title": "The Journal of Korean Association of Computer Education",
     "author": [
       {
         "given": "Daeyoung",
@@ -359,14 +378,10 @@
         "family": "Yu"
       }
     ],
-    "volume": "12",
-    "issue": "4",
-    "container-title": "The Journal of Korean Association of Computer Education",
-    "page": "47-55",
     "type": "article-journal",
-    "citation-label": "jung2009resource",
     "id": "jung2009resource",
-    "year-suffix": "resource",
+    "citation-key": "jung2009resource",
+    "issue": "4",
     "issued": {
       "date-parts": [
         [
@@ -374,10 +389,13 @@
           9
         ]
       ]
-    }
+    },
+    "page": "47-55",
+    "title": "Resource Management Scheme in Proxy-Based Mobile Grid",
+    "volume": "12"
   },
   {
-    "title": "A History and Geography Education Information System Using Old Map",
+    "container-title": "The Journal of Korean Association of Computer Education",
     "author": [
       {
         "given": "Kibom",
@@ -388,27 +406,27 @@
         "family": "Yu"
       },
       {
-        "literal": "et al."
+        "family": "al.",
+        "non-dropping-particle": "et"
       }
     ],
-    "volume": "2",
-    "issue": "4",
-    "container-title": "The Journal of Korean Association of Computer Education",
-    "page": "99-109",
     "type": "article-journal",
-    "citation-label": "kim1999history",
     "id": "kim1999history",
-    "year-suffix": "history",
+    "citation-key": "kim1999history",
+    "issue": "4",
     "issued": {
       "date-parts": [
         [
           1999
         ]
       ]
-    }
+    },
+    "page": "99-109",
+    "title": "A History and Geography Education Information System Using Old Map",
+    "volume": "2"
   },
   {
-    "title": "How To Support Scalability in Causal Message Logging",
+    "container-title": "Journal of Korea Information Science Society: Computer Systems and Theory",
     "author": [
       {
         "given": "Kibom",
@@ -431,24 +449,23 @@
         "family": "Yu"
       }
     ],
-    "volume": "27",
-    "issue": "4",
-    "container-title": "Journal of Korea Information Science Society: Computer Systems and Theory",
-    "page": "362-372",
     "type": "article-journal",
-    "citation-label": "kim2000how",
     "id": "kim2000how",
-    "year-suffix": "how",
+    "citation-key": "kim2000how",
+    "issue": "4",
     "issued": {
       "date-parts": [
         [
           2000
         ]
       ]
-    }
+    },
+    "page": "362-372",
+    "title": "How To Support Scalability in Causal Message Logging",
+    "volume": "27"
   },
   {
-    "title": "Effect of STEAM Education Program Based on Hands on Sensor",
+    "container-title": "The Journal of Korean Association of Computer Education",
     "author": [
       {
         "given": "Sughee",
@@ -459,15 +476,11 @@
         "family": "Yu"
       }
     ],
-    "volume": "16",
-    "issue": "3",
-    "container-title": "The Journal of Korean Association of Computer Education",
     "DOI": "10.3745/KTCCS.2018.7.2.27",
-    "page": "79-88",
     "type": "article-journal",
-    "citation-label": "kim2013effect",
     "id": "kim2013effect",
-    "year-suffix": "effect",
+    "citation-key": "kim2013effect",
+    "issue": "3",
     "issued": {
       "date-parts": [
         [
@@ -475,10 +488,13 @@
           5
         ]
       ]
-    }
+    },
+    "page": "79-88",
+    "title": "Effect of STEAM Education Program Based on Hands on Sensor",
+    "volume": "16"
   },
   {
-    "title": "Computer-Aided Education: Two-year Follow-Up Study on Effects of STEAM Education Program Based on Physical Computing",
+    "container-title": "The Journal of Korean Association of Computer Education",
     "author": [
       {
         "given": "Sughee",
@@ -489,24 +505,23 @@
         "family": "Yu"
       }
     ],
-    "volume": "17",
-    "issue": "1",
-    "container-title": "The Journal of Korean Association of Computer Education",
-    "page": "77-86",
     "type": "article-journal",
-    "citation-label": "kim2014computer",
     "id": "kim2014computer",
-    "year-suffix": "computer",
+    "citation-key": "kim2014computer",
+    "issue": "1",
     "issued": {
       "date-parts": [
         [
           2014
         ]
       ]
-    }
+    },
+    "page": "77-86",
+    "title": "Computer-Aided Education: Two-year Follow-Up Study on Effects of STEAM Education Program Based on Physical Computing",
+    "volume": "17"
   },
   {
-    "title": "The study of potentiality and constraints of the one board computer to teach computational thinking in school",
+    "container-title": "The Journal of Korean Association of Computer Education",
     "author": [
       {
         "given": "Sughee",
@@ -517,14 +532,10 @@
         "family": "Yu"
       }
     ],
-    "volume": "17",
-    "issue": "6",
-    "container-title": "The Journal of Korean Association of Computer Education",
-    "page": "9-20",
     "type": "article-journal",
-    "citation-label": "kim2014study",
     "id": "kim2014study",
-    "year-suffix": "study",
+    "citation-key": "kim2014study",
+    "issue": "6",
     "issued": {
       "date-parts": [
         [
@@ -532,10 +543,13 @@
           11
         ]
       ]
-    }
+    },
+    "page": "9-20",
+    "title": "The study of potentiality and constraints of the one board computer to teach computational thinking in school",
+    "volume": "17"
   },
   {
-    "title": "Caching and Concurrency Control in a Mobile Client/Server Computing Environment",
+    "container-title": "Journal of Korea Information Science Society(B)",
     "author": [
       {
         "given": "Sangkeun",
@@ -554,24 +568,23 @@
         "family": "Yu"
       }
     ],
-    "volume": "26",
-    "issue": "8",
-    "container-title": "Journal of Korea Information Science Society(B)",
-    "page": "974-987",
     "type": "article-journal",
-    "citation-label": "lee1999caching",
     "id": "lee1999caching",
-    "year-suffix": "caching",
+    "citation-key": "lee1999caching",
+    "issue": "8",
     "issued": {
       "date-parts": [
         [
           1999
         ]
       ]
-    }
+    },
+    "page": "974-987",
+    "title": "Caching and Concurrency Control in a Mobile Client/Server Computing Environment",
+    "volume": "26"
   },
   {
-    "title": "Development of Curriculum Model According to Conversion of Computer Education into Information Education",
+    "container-title": "The Journal of Korean Association of Computer Education",
     "author": [
       {
         "given": "Hyunok",
@@ -594,24 +607,23 @@
         "family": "Lee"
       }
     ],
-    "volume": "2",
-    "issue": "4",
-    "container-title": "The Journal of Korean Association of Computer Education",
-    "page": "31-39",
     "type": "article-journal",
-    "citation-label": "lee1999development",
     "id": "lee1999development",
-    "year-suffix": "development",
+    "citation-key": "lee1999development",
+    "issue": "4",
     "issued": {
       "date-parts": [
         [
           1999
         ]
       ]
-    }
+    },
+    "page": "31-39",
+    "title": "Development of Curriculum Model According to Conversion of Computer Education into Information Education",
+    "volume": "2"
   },
   {
-    "title": "A Design and Implementation of Feedback BBS in WBI",
+    "container-title": "The Journal of Korean Association of Computer Education",
     "author": [
       {
         "given": "Hwamin",
@@ -622,24 +634,23 @@
         "family": "Yu"
       }
     ],
-    "volume": "4",
-    "issue": "1",
-    "container-title": "The Journal of Korean Association of Computer Education",
-    "page": "87-97",
     "type": "article-journal",
-    "citation-label": "lee2001design",
     "id": "lee2001design",
-    "year-suffix": "design",
+    "citation-key": "lee2001design",
+    "issue": "1",
     "issued": {
       "date-parts": [
         [
           2001
         ]
       ]
-    }
+    },
+    "page": "87-97",
+    "title": "A Design and Implementation of Feedback BBS in WBI",
+    "volume": "4"
   },
   {
-    "title": "Fault Tolerant System based on Recovery Agents",
+    "container-title": "The Journal of Korean Association of Computer Education",
     "author": [
       {
         "given": "Hwamin",
@@ -654,24 +665,23 @@
         "family": "Yu"
       }
     ],
-    "volume": "5",
-    "issue": "2",
-    "container-title": "The Journal of Korean Association of Computer Education",
-    "page": "21-28",
     "type": "article-journal",
-    "citation-label": "lee2002fault",
     "id": "lee2002fault",
-    "year-suffix": "fault",
+    "citation-key": "lee2002fault",
+    "issue": "2",
     "issued": {
       "date-parts": [
         [
           2002
         ]
       ]
-    }
+    },
+    "page": "21-28",
+    "title": "Fault Tolerant System based on Recovery Agents",
+    "volume": "5"
   },
   {
-    "title": "Garbage Collection Protocol of Fault Tolerance Information in Multi-agent Environment",
+    "container-title": "Journal of Korea Information Science Society: Information Networking",
     "author": [
       {
         "given": "Daewon",
@@ -702,24 +712,23 @@
         "family": "Lee"
       }
     ],
-    "volume": "31",
-    "issue": "4",
-    "container-title": "Journal of Korea Information Science Society: Information Networking",
-    "page": "204-212",
     "type": "article-journal",
-    "citation-label": "lee2004garbage",
     "id": "lee2004garbage",
-    "year-suffix": "garbage",
+    "citation-key": "lee2004garbage",
+    "issue": "4",
     "issued": {
       "date-parts": [
         [
           2004
         ]
       ]
-    }
+    },
+    "page": "204-212",
+    "title": "Garbage Collection Protocol of Fault Tolerance Information in Multi-agent Environment",
+    "volume": "31"
   },
   {
-    "title": "Development of Grid Service Based Molecular Docking Application",
+    "container-title": "The Journal of Korean Association of Computer Education",
     "author": [
       {
         "given": "Hwamin",
@@ -742,15 +751,11 @@
         "family": "Yu"
       }
     ],
-    "volume": "9",
-    "issue": "4",
-    "container-title": "The Journal of Korean Association of Computer Education",
     "DOI": "10.3745/KTCCS.2018.7.2.27",
-    "page": "63-74",
     "type": "article-journal",
-    "citation-label": "lee2006development",
     "id": "lee2006development",
-    "year-suffix": "development",
+    "citation-key": "lee2006development",
+    "issue": "4",
     "issued": {
       "date-parts": [
         [
@@ -758,10 +763,13 @@
           7
         ]
       ]
-    }
+    },
+    "page": "63-74",
+    "title": "Development of Grid Service Based Molecular Docking Application",
+    "volume": "9"
   },
   {
-    "title": "Design and Implementation of Service based Virtual Screening System in Grids",
+    "container-title": "Journal of KIISE:Computer Systems and Theory",
     "author": [
       {
         "given": "Hwamin",
@@ -777,8 +785,8 @@
       },
       {
         "given": "Dae",
-        "non-dropping-particle": "won",
-        "family": "Lee"
+        "family": "Lee",
+        "non-dropping-particle": "won"
       },
       {
         "given": "Seongbin",
@@ -789,14 +797,10 @@
         "family": "Yu"
       }
     ],
-    "volume": "35",
-    "issue": "6",
-    "container-title": "Journal of KIISE:Computer Systems and Theory",
-    "page": "237-247",
     "type": "article-journal",
-    "citation-label": "lee2008design",
     "id": "lee2008design",
-    "year-suffix": "design",
+    "citation-key": "lee2008design",
+    "issue": "6",
     "issued": {
       "date-parts": [
         [
@@ -804,10 +808,13 @@
           6
         ]
       ]
-    }
+    },
+    "page": "237-247",
+    "title": "Design and Implementation of Service based Virtual Screening System in Grids",
+    "volume": "35"
   },
   {
-    "title": "Performance evaluation and analysis of TILE-Gx36 many-core processor with PARSEC benchmark",
+    "container-title": "The Journal of Korean Association of Computer Education",
     "author": [
       {
         "given": "Boseon",
@@ -826,14 +833,10 @@
         "family": "Suh"
       }
     ],
-    "volume": "17",
-    "issue": "1",
-    "container-title": "The Journal of Korean Association of Computer Education",
-    "page": "107-115",
     "type": "article-journal",
-    "citation-label": "lee2014performance",
     "id": "lee2014performance",
-    "year-suffix": "performance",
+    "citation-key": "lee2014performance",
+    "issue": "1",
     "issued": {
       "date-parts": [
         [
@@ -841,10 +844,13 @@
           1
         ]
       ]
-    }
+    },
+    "page": "107-115",
+    "title": "Performance evaluation and analysis of TILE-Gx36 many-core processor with PARSEC benchmark",
+    "volume": "17"
   },
   {
-    "title": "Group-based Gossip Protocol for Efficient Message Dissemination in Clouds",
+    "container-title": "The Journal of Korean Association of Computer Education",
     "author": [
       {
         "given": "JongBeom",
@@ -867,14 +873,10 @@
         "family": "Lee"
       }
     ],
-    "volume": "13",
-    "issue": "5",
-    "container-title": "The Journal of Korean Association of Computer Education",
-    "page": "81-90",
     "type": "article-journal",
-    "citation-label": "lim2009group",
     "id": "lim2009group",
-    "year-suffix": "group",
+    "citation-key": "lim2009group",
+    "issue": "5",
     "issued": {
       "date-parts": [
         [
@@ -882,10 +884,13 @@
           9
         ]
       ]
-    }
+    },
+    "page": "81-90",
+    "title": "Group-based Gossip Protocol for Efficient Message Dissemination in Clouds",
+    "volume": "13"
   },
   {
-    "title": "Markov Chain based Monitoring Service for Fault Tolerance in Mobile Cloud Computing",
+    "container-title": "The Journal of Creative informatice & Computing Education",
     "author": [
       {
         "given": "Jongbeom",
@@ -900,14 +905,10 @@
         "family": "Yu"
       }
     ],
-    "volume": "5",
-    "issue": "1",
-    "container-title": "The Journal of Creative informatice & Computing Education",
-    "page": "27-32",
     "type": "article-journal",
-    "citation-label": "lim2011markov",
     "id": "lim2011markov",
-    "year-suffix": "markov",
+    "citation-key": "lim2011markov",
+    "issue": "1",
     "issued": {
       "date-parts": [
         [
@@ -915,10 +916,13 @@
           6
         ]
       ]
-    }
+    },
+    "page": "27-32",
+    "title": "Markov Chain based Monitoring Service for Fault Tolerance in Mobile Cloud Computing",
+    "volume": "5"
   },
   {
-    "title": "A Monitoring Scheme Based on Artificial Intelligence in Mobile Edge Cloud Computing Environments",
+    "container-title": "KIPS Transactions on Computer and Communication Systems",
     "author": [
       {
         "given": "JongBeom",
@@ -933,15 +937,11 @@
         "family": "Yu"
       }
     ],
-    "volume": "7",
-    "issue": "2",
-    "container-title": "KIPS Transactions on Computer and Communication Systems",
     "DOI": "10.3745/KTCCS.2018.7.2.27",
-    "page": "27-32",
     "type": "article-journal",
-    "citation-label": "lim2018monitoring",
     "id": "lim2018monitoring",
-    "year-suffix": "monitoring",
+    "citation-key": "lim2018monitoring",
+    "issue": "2",
     "issued": {
       "date-parts": [
         [
@@ -949,10 +949,13 @@
           2
         ]
       ]
-    }
+    },
+    "page": "27-32",
+    "title": "A Monitoring Scheme Based on Artificial Intelligence in Mobile Edge Cloud Computing Environments",
+    "volume": "7"
   },
   {
-    "title": "Performance Optimization Strategies for Fully Utilizing Apache Spark",
+    "container-title": "KIPS Transactions on Computer and Communication Systems",
     "author": [
       {
         "given": "Rohyoung",
@@ -967,15 +970,11 @@
         "family": "Choi"
       }
     ],
-    "volume": "7",
-    "issue": "1",
-    "container-title": "KIPS Transactions on Computer and Communication Systems",
     "DOI": "10.3745/KTCCS.2018.7.1.9",
-    "page": "9-18",
     "type": "article-journal",
-    "citation-label": "myung2018performance",
     "id": "myung2018performance",
-    "year-suffix": "performance",
+    "citation-key": "myung2018performance",
+    "issue": "1",
     "issued": {
       "date-parts": [
         [
@@ -983,10 +982,13 @@
           1
         ]
       ]
-    }
+    },
+    "page": "9-18",
+    "title": "Performance Optimization Strategies for Fully Utilizing Apache Spark",
+    "volume": "7"
   },
   {
-    "title": "An Efficient Protocol for Causal Message Delivery in Distributed Mobile Systems",
+    "container-title": "The Journal of Creative informatice & Computing Education",
     "author": [
       {
         "given": "Sungju",
@@ -1009,24 +1011,23 @@
         "family": "Hwang"
       }
     ],
-    "volume": "30",
-    "issue": "2",
-    "container-title": "The Journal of Creative informatice & Computing Education",
-    "page": "143-154",
     "type": "article-journal",
-    "citation-label": "roh2003efficient",
     "id": "roh2003efficient",
-    "year-suffix": "efficient",
+    "citation-key": "roh2003efficient",
+    "issue": "2",
     "issued": {
       "date-parts": [
         [
           2003
         ]
       ]
-    }
+    },
+    "page": "143-154",
+    "title": "An Efficient Protocol for Causal Message Delivery in Distributed Mobile Systems",
+    "volume": "30"
   },
   {
-    "title": "Job Scheduling Method Considering the Utilization Patterns of Mobile Devices in Mobile Grid",
+    "container-title": "The Journal of Korean Association of Computer Education",
     "author": [
       {
         "given": "Sungjin",
@@ -1041,14 +1042,10 @@
         "family": "Yu"
       }
     ],
-    "volume": "11",
-    "issue": "3",
-    "container-title": "The Journal of Korean Association of Computer Education",
-    "page": "27-32",
     "type": "article-journal",
-    "citation-label": "song2008job",
     "id": "song2008job",
-    "year-suffix": "job",
+    "citation-key": "song2008job",
+    "issue": "3",
     "issued": {
       "date-parts": [
         [
@@ -1056,10 +1053,13 @@
           5
         ]
       ]
-    }
+    },
+    "page": "27-32",
+    "title": "Job Scheduling Method Considering the Utilization Patterns of Mobile Devices in Mobile Grid",
+    "volume": "11"
   },
   {
-    "title": "Search for Extra-Terrestrial Intelligence based on Desktop Grid",
+    "container-title": "KIPS Transactions on Computer and Communication Systems",
     "author": [
       {
         "given": "JunWeon",
@@ -1082,20 +1082,19 @@
         "family": "Yu"
       }
     ],
-    "volume": "8",
-    "issue": "12",
-    "container-title": "KIPS Transactions on Computer and Communication Systems",
-    "page": "211-219",
     "type": "article-journal",
-    "citation-label": "yoon2010search",
     "id": "yoon2010search",
-    "year-suffix": "search",
+    "citation-key": "yoon2010search",
+    "issue": "12",
     "issued": {
       "date-parts": [
         [
           2010
         ]
       ]
-    }
+    },
+    "page": "211-219",
+    "title": "Search for Extra-Terrestrial Intelligence based on Desktop Grid",
+    "volume": "8"
   }
 ]
