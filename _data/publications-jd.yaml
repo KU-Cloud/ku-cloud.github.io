@@ -330,6 +330,39 @@
     "volume": "49"
   },
   {
+    "container-title": "KIPS Transactions on Computer and Communication Systems (KTCCS)",
+    "author": [
+      {
+        "given": "Yonghyeon",
+        "family": "Jang"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+      {
+        "given": "Sungsuk",
+        "family": "Kim"
+      }
+    ],
+    "DOI": "10.3745/KTCCS.2022.11.4.105",
+    "type": "article-journal",
+    "id": "jang2022reinforcement",
+    "citation-key": "jang2022reinforcement",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          4
+        ]
+      ]
+    },
+    "page": "105-112",
+    "title": "Transfer Learning Technique for Accelerating Learning of Reinforcement Learning-Based Horizontal Pod Autoscaling Policy",
+    "volume": "11"
+  },
+  {
     "container-title": "KIPS Transactions on Computer and Communication Systems",
     "author": [
       {
