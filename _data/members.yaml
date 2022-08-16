@@ -21,10 +21,10 @@ phd:
     research:
       - "Virtualization"
       - "Volunteer Computing"
-
-master:
   - name: Hyungjoon Yoon
     mail: hjyoon@korea.ac.kr
+
+master:
   - name: Sejin Kim
     mail: sejjj120@korea.ac.kr
     work:
