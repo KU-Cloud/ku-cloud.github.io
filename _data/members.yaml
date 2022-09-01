@@ -29,9 +29,6 @@ master:
     mail: sejjj120@korea.ac.kr
     work:
       - "AWS Korea"
-    research:
-      - "Serverless Computing"
-      - "Kubernetes"
   - name: Moonsang Yhu
     mail: anstkd07@gmail.com
     work:
@@ -49,9 +46,9 @@ master:
     research:
       - "Distributed Deep Learning"
   - name: Tae Shin Kang
-    mail: nomail
+    mail: teri98@korea.ac.kr
   - name: Sunhwa Baek
-    mail: nomail
+    mail: sunflower45@korea.ac.kr
 
 intern:
   - name: Gyujeong Lim
