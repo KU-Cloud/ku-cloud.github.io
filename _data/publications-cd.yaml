@@ -2,6 +2,1834 @@
   {
     "author": [
       {
+        "family": "강인성"
+      },
+      {
+        "family": "최성진"
+      },
+      {
+        "family": "황일선"
+      },
+      {
+        "family": "황종선"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "강2003인터넷",
+    "citation-key": "강2003인터넷",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "publisher": "정보과학회 가을학술발표논문집",
+    "title": "인터넷 기반 병렬 컴퓨팅에서 중간 관리자의 구성과 결함포용 기법",
+    "volume": "30"
+  },
+  {
+    "author": [
+      {
+        "family": "강문희"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "강2008창의",
+    "citation-key": "강2008창의",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "257-262",
+    "publisher": "한국컴퓨터교육학회 하계학술발표논문집",
+    "title": "창의적 문제해결 모형 기반 정보통신 윤리교육 시스템",
+    "volume": "12"
+  },
+  {
+    "author": [
+      {
+        "family": "강지훈"
+      },
+      {
+        "family": "이대원"
+      },
+      {
+        "family": "강인성"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "강2013cuda",
+    "citation-key": "강2013cuda",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "publisher": "한국정보처리학회 추계학술발표대회",
+    "title": "CUDA의 메모리 복사로 인한 성능 저하 연구",
+    "volume": "20"
+  },
+  {
+    "author": [
+      {
+        "family": "강지훈"
+      },
+      {
+        "family": "최희석"
+      },
+      {
+        "family": "문영주"
+      },
+      {
+        "family": "길준민"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "강2016가상화",
+    "citation-key": "강2016가상화",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "133-136",
+    "publisher": "한국컴퓨터교육학회 학술발표대회논문집",
+    "title": "가상화 환경에서 가상머신의 GPU 연산으로 인한CPU 연산의 성능 저하 연구",
+    "volume": "20"
+  },
+  {
+    "author": [
+      {
+        "family": "강지훈"
+      },
+      {
+        "family": "이재학"
+      },
+      {
+        "family": "길준민"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "강2019PRC",
+    "citation-key": "강2019PRC",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "113-114",
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "title": "PRC 기반 GPU 가상화 환경에서 GPU 메모리의 초과 사용 시 발생하는 가상머신 사이의 성능 불균형 문제 분석",
+    "volume": "26"
+  },
+  {
+    "author": [
+      {
+        "family": "공선희"
+      },
+      {
+        "family": "김한이"
+      },
+      {
+        "family": "이보선"
+      },
+      {
+        "family": "유헌창"
+      },
+      {
+        "family": "서태원"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "공2013예외처리",
+    "citation-key": "공2013예외처리",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "publisher": "한국정보처리학회 춘계학술발표대회",
+    "title": "예외처리를 피하는 정의되지 않은 명령에 의한 하드웨어 트로이 목마의 구현 및 대응책 연구",
+    "volume": "20"
+  },
+  {
+    "author": [
+      {
+        "family": "곽재효"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "곽2018addie",
+    "citation-key": "곽2018addie",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "143-146",
+    "publisher": "한국컴퓨터교육학회 하계 학술발표논문지",
+    "title": "ADDIE 교수설계모형 기반 교육용 정보역량강화 프로그램",
+    "volume": "22"
+  },
+  {
+    "author": [
+      {
+        "family": "곽민기"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "곽2021kmeans",
+    "citation-key": "곽2021kmeans",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "title": "K-Means Clustering 알고리즘 기반 클라우드 동적 자원 관리 기법에 관한 연구",
+    "volume": "28"
+  },
+  {
+    "author": [
+      {
+        "family": "곽준환"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "곽2021가격",
+    "citation-key": "곽2021가격",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "publisher": "한국정보과학회 2021 한국소프트웨어종합학술대회 (KSC2021)",
+    "title": "가격 민감도를 고려한 Video 추천 기법",
+    "volume": "48"
+  },
+  {
+    "author": [
+      {
+        "family": "권민수"
+      },
+      {
+        "family": "이재학"
+      },
+      {
+        "family": "명노영"
+      },
+      {
+        "family": "유헌창"
+      },
+      {
+        "family": "길준민"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "권2018kubernetes",
+    "citation-key": "권2018kubernetes",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "74-76",
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "title": "Kubernetes의 kubelet이 관리하는 pod의 수에 따른 성능 영향 분석",
+    "volume": "25"
+  },
+  {
+    "author": [
+      {
+        "family": "권민수"
+      },
+      {
+        "family": "명노영"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "권2019하이퍼레저",
+    "citation-key": "권2019하이퍼레저",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "62-64",
+    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
+    "title": "하이퍼레저 패브릭의 실행과 순서화 단계에 대한 성능 분석",
+    "volume": "26"
+  },
+  {
+    "author": [
+      {
+        "family": "권민수"
+      },
+      {
+        "family": "장준범"
+      },
+      {
+        "family": "이재학"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "권2019하이퍼레저2",
+    "citation-key": "권2019하이퍼레저2",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "110-112",
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "title": "하이퍼레저 패브릭에서 채널을 이용한 보증 단계의 성능 최적화에 대한 연구",
+    "volume": "26"
+  },
+  {
+    "author": [
+      {
+        "family": "김홍수"
+      },
+      {
+        "family": "강인성"
+      },
+      {
+        "family": "최성진"
+      },
+      {
+        "family": "황일선"
+      },
+      {
+        "family": "황종선"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2003인터넷",
+    "citation-key": "김2003인터넷",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "publisher": "정보과학회 가을학술발표논문집",
+    "title": "인터넷 기반 병렬 컴퓨팅에서 중간 관리자의 구성과 결함포용 기법",
+    "volume": "30"
+  },
+  {
+    "author": [
+      {
+        "family": "김홍수"
+      },
+      {
+        "family": "백맹순"
+      },
+      {
+        "family": "유헌창"
+      },
+      {
+        "family": "황일선"
+      },
+      {
+        "family": "황종선"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2004글로벌",
+    "citation-key": "김2004글로벌",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "475-477",
+    "publisher": "정보과학회 봄학술발표논문집",
+    "title": "글로벌 컴퓨팅 시스템에서 그룹 기반 정확성 검사를 위한 스케쥴링 기법",
+    "volume": "31"
+  },
+  {
+    "author": [
+      {
+        "family": "김석희"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2006bottom",
+    "citation-key": "김2006bottom",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
+    "title": "Bottom Up 방식의 Syntax-Free, 문제해결 기반의 초등학생을 위한 프로그래밍 교육 코스웨어 개발",
+    "volume": "10"
+  },
+  {
+    "author": [
+      {
+        "family": "김석태"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2006템플릿",
+    "citation-key": "김2006템플릿",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "295-299",
+    "publisher": "한국컴퓨터교육학회 하계학술발표논문집",
+    "title": "템플릿 기반 프로그래밍언어 교육 시스템의 설계 및 구현",
+    "volume": "10"
+  },
+  {
+    "author": [
+      {
+        "family": "김민정"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2008시각화",
+    "citation-key": "김2008시각화",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "81-86",
+    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
+    "title": "시각화를 통한 효율적인 C 프로그래밍 학습시스템",
+    "volume": "12"
+  },
+  {
+    "author": [
+      {
+        "family": "김인식"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2009rss",
+    "citation-key": "김2009rss",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "47-52",
+    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
+    "title": "RSS를 이용한 블로그 기반 협동학습시스템",
+    "volume": "13"
+  },
+  {
+    "author": [
+      {
+        "family": "김석희"
+      },
+      {
+        "family": "김동정"
+      },
+      {
+        "family": "박지수"
+      },
+      {
+        "family": "정대용"
+      },
+      {
+        "family": "임종범"
+      },
+      {
+        "family": "김순기"
+      },
+      {
+        "family": "김정환"
+      },
+      {
+        "family": "홍석원"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2012상호운용성",
+    "citation-key": "김2012상호운용성",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "263-270",
+    "publisher": "한국컴퓨터교육학회 하계학술발표논문집",
+    "title": "상호운용성 표준을 지원하는 이러닝 원격관리 솔루션(LENS)",
+    "volume": "16"
+  },
+  {
+    "author": [
+      {
+        "family": "김동정"
+      },
+      {
+        "family": "김석희"
+      },
+      {
+        "family": "강인성"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2013자기효능감",
+    "citation-key": "김2013자기효능감",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "publisher": "한국정보처리학회 춘계학술발표대회",
+    "title": "자기효능감 증대를 위한 STEAM 기반 스마트 창의체험 프로그램",
+    "volume": "20"
+  },
+  {
+    "author": [
+      {
+        "family": "김동정"
+      },
+      {
+        "family": "김석희"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2013피지컬",
+    "citation-key": "김2013피지컬",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "publisher": "한국컴퓨터교육학회 하계학술발표논문집",
+    "title": "피지컬 컴퓨팅 기반 STEAM 교육 아웃리치 프로그램",
+    "volume": "17"
+  },
+  {
+    "author": [
+      {
+        "family": "김동정"
+      },
+      {
+        "family": "김석희"
+      },
+      {
+        "family": "강지훈"
+      },
+      {
+        "family": "최희석"
+      },
+      {
+        "family": "유태묵"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2014피지컬",
+    "citation-key": "김2014피지컬",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
+    "title": "피지컬 컴퓨팅 기반 STEAM 교육 아웃리치 프로그램 운영 및 분석",
+    "volume": "18"
+  },
+  {
+    "author": [
+      {
+        "family": "김형석"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2016dbms",
+    "citation-key": "김2016dbms",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "548-551",
+    "publisher": "한국정보처리학회 추계학술발표대회",
+    "title": "DBMS을 활용한 파일 검색엔진 연구",
+    "volume": "23"
+  },
+  {
+    "author": [
+      {
+        "family": "김남현"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2016분산",
+    "citation-key": "김2016분산",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "43-44",
+    "publisher": "한국정보처리학회 추계학술발표대회",
+    "title": "분산 환경에서 동적 미전송 Push & Pull 모델 기반 효율적인 데이터 전송 기법",
+    "volume": "23"
+  },
+  {
+    "author": [
+      {
+        "family": "김준한"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2017skyline",
+    "citation-key": "김2017skyline",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "664-667",
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "title": "SKYLINE을 이용한 개인 맞춤형 우선 순위 처리 기법",
+    "volume": "24"
+  },
+  {
+    "author": [
+      {
+        "family": "김민성"
+      },
+      {
+        "family": "백준규"
+      },
+      {
+        "family": "신희수"
+      },
+      {
+        "family": "김희주"
+      },
+      {
+        "family": "장명호"
+      },
+      {
+        "family": "명노영"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2017컴퓨팅",
+    "citation-key": "김2017컴퓨팅",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "113-116",
+    "publisher": "한국컴퓨터교육학회 하계 학술발표논문지",
+    "title": "컴퓨팅 사고력 기반 파일 관리 프로그램 설계 및 개발",
+    "volume": "21"
+  },
+  {
+    "author": [
+      {
+        "family": "김소연"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2018sns",
+    "citation-key": "김2018sns",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "147-150",
+    "publisher": "한국컴퓨터교육학회 하계 학술발표논문지",
+    "title": "SNS 비정형 데이터의 한국어 다중감성 분석 기법",
+    "volume": "22"
+  },
+  {
+    "author": [
+      {
+        "family": "김영임"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2018웹사이트",
+    "citation-key": "김2018웹사이트",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "842-845",
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "title": "웹사이트 로딩 시간 단축을 위한 프론트엔드 프레임워크 비교 분석",
+    "volume": "25"
+  },
+  {
+    "author": [
+      {
+        "family": "김용선"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2018초등학생",
+    "citation-key": "김2018초등학생",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "53-56",
+    "publisher": "한국컴퓨터교육학회 하계 학술발표논문지",
+    "title": "초등학생들의 프로그래밍 능력 향상을 위한 교수학습 방법 개발 및 적용",
+    "volume": "22"
+  },
+  {
+    "author": [
+      {
+        "family": "김태영"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2019스토리지",
+    "citation-key": "김2019스토리지",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "1513-1515",
+    "publisher": "한국정보과학회 2019 한국컴퓨터종합학술대회 (KCC 2019)",
+    "title": "스토리지 동적 데이터 중복제거를 통한 예측기법",
+    "volume": "46"
+  },
+  {
+    "author": [
+      {
+        "family": "김세진"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2020서버리스",
+    "citation-key": "김2020서버리스",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "113-115",
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "title": "서버리스 컴퓨팅을 위한 다양한 컨테이너 런타임 환경에서 라이브러리 공유 성능 분석",
+    "volume": "27"
+  },
+  {
+    "author": [
+      {
+        "family": "김형준"
+      },
+      {
+        "family": "김세진"
+      },
+      {
+        "family": "길준민"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2021SVR",
+    "citation-key": "김2021SVR",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "1371-1373",
+    "publisher": "한국정보과학회 학술발표논문집",
+    "title": "SVR을 이용한 가상머신 자원 이용률 예측 기법의 성능 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "김명현"
+      },
+      {
+        "family": "성광현"
+      },
+      {
+        "family": "유헌창"
+      },
+      {
+        "family": "이은영"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2021쿠버네티스",
+    "citation-key": "김2021쿠버네티스",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "1363-1365",
+    "publisher": "한국정보과학회 학술발표논문집",
+    "title": "쿠버네티스 클러스터 환경에서 kube-proxy 모드 별 네트워크 라우팅 성능 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "김명현"
+      },
+      {
+        "family": "이재학"
+      },
+      {
+        "family": "길준민"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2022OS",
+    "citation-key": "김2022OS",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "publisher": "한국컴퓨터교육학회 하계학술발표대회",
+    "title": "OS 가상화 시스템에서 메모리 공유 전략에 대한 성능 분석",
+    "volume": "26"
+  },
+  {
+    "author": [
+      {
+        "family": "김혁"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2022topk",
+    "citation-key": "김2022topk",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "publisher": "한국컴퓨터교육학회 동계학술발표대회 논문집",
+    "title": "TOP-K와 실시간성 기반 개선된 Apriori 알고리즘",
+    "volume": "26"
+  },
+  {
+    "author": [
+      {
+        "family": "김진구"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2022기술문서",
+    "citation-key": "김2022기술문서",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "publisher": "한국정보처리학회 춘계학술발표대회",
+    "title": "기술문서 분류를 위한 통계기반 기계학습 모델 성능비교 및 한계 연구",
+    "volume": "29"
+  },
+  {
+    "author": [
+      {
+        "family": "김세진"
+      },
+      {
+        "family": "유문상"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2022서버리스",
+    "citation-key": "김2022서버리스",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "publisher": "한국정보처리학회 춘계학술발표대회",
+    "title": "서버리스 플랫폼에서 연속된 콜드 스타트 완화를 위한 Pre-Warming 기법",
+    "volume": "29"
+  },
+  {
+    "author": [
+      {
+        "family": "명노영"
+      },
+      {
+        "family": "정대용"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "명2013시스템",
+    "citation-key": "명2013시스템",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "publisher": "한국정보처리학회 추계학술발표대회",
+    "title": "시스템 메신저 및 커뮤니케이션 모바일 앱을 위한 필터링 시스템",
+    "volume": "20"
+  },
+  {
+    "author": [
+      {
+        "family": "명노영"
+      },
+      {
+        "family": "송성진"
+      },
+      {
+        "family": "정대용"
+      },
+      {
+        "family": "유태묵"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "명2014가상화",
+    "citation-key": "명2014가상화",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "한국인터넷정보학회 추계학술발표대회 논문집",
+    "title": "가상화 환경에서 오픈소스 기반 하이퍼바이저의 성능 평가",
+    "volume": "15"
+  },
+  {
+    "author": [
+      {
+        "family": "명노영"
+      },
+      {
+        "family": "정대용"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "명2015클라우드",
+    "citation-key": "명2015클라우드",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "publisher": "한국정보처리학회 춘계학술발표대회",
+    "title": "클라우드 환경에서 가용 자원 활용도를 고려한 워크플로우 작업 클러스터링 기법"
+  },
+  {
+    "author": [
+      {
+        "family": "명노영"
+      },
+      {
+        "family": "안범진"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "명2017아파치",
+    "citation-key": "명2017아파치",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "201-204",
+    "publisher": "한국컴퓨터교육학회 하계 학술발표논문지",
+    "title": "아파치 스파크에서 모바일 빅 데이터에 대한 다계층 인공신경망 기반 분산 딥러닝 구현 및 최적화",
+    "volume": "21"
+  },
+  {
+    "author": [
+      {
+        "family": "문영주"
+      },
+      {
+        "family": "임종범"
+      },
+      {
+        "family": "최희석"
+      },
+      {
+        "family": "강지훈"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "문2014반가상화",
+    "citation-key": "문2014반가상화",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "한국인터넷정보학회 추계학술발표대회 논문집",
+    "title": "반가상화 환경에서 SEDF와 Credit 스케줄러의 성능 분석",
+    "volume": "15"
+  },
+  {
+    "author": [
+      {
+        "family": "문영주"
+      },
+      {
+        "family": "강지훈"
+      },
+      {
+        "family": "유태묵"
+      },
+      {
+        "family": "유헌창"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "길준민"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "문2015최적",
+    "citation-key": "문2015최적",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "227-229",
+    "publisher": "한국정보처리학회 추계학술발표대회",
+    "title": "최적의 IoT 서비스 제공을 위한 오픈스택 기반 스케줄러 비교 및 분석",
+    "volume": "22"
+  },
+  {
+    "author": [
+      {
+        "family": "박지수"
+      },
+      {
+        "family": "정대용"
+      },
+      {
+        "family": "임종범"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "박2012모바일",
+    "citation-key": "박2012모바일",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "publisher": "한국정보처리학회 추계학술발표대회",
+    "title": "모바일 클라우드에서 소셜 네트워크 기반 신뢰적인 자원 관리 기법",
+    "volume": "19"
+  },
+  {
+    "author": [
+      {
+        "family": "박병훈"
+      },
+      {
+        "family": "장연진"
+      },
+      {
+        "family": "오영빈"
+      },
+      {
+        "family": "서지민"
+      },
+      {
+        "family": "장명호"
+      },
+      {
+        "family": "김희주"
+      },
+      {
+        "family": "김석희"
+      },
+      {
+        "family": "김동정"
+      },
+      {
+        "family": "정대용"
+      },
+      {
+        "family": "임종범"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "박2013nxt",
+    "citation-key": "박2013nxt",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "125-128",
+    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
+    "title": "NXT 기반의 염도센서 보정 알고리즘 연구",
+    "volume": "17"
+  },
+  {
+    "author": [
+      {
+        "family": "박제왕"
+      },
+      {
+        "family": "배승환"
+      },
+      {
+        "family": "김채훈"
+      },
+      {
+        "family": "최종휘"
+      },
+      {
+        "family": "장명호"
+      },
+      {
+        "family": "김희주"
+      },
+      {
+        "family": "최성민"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "박2016mbl",
+    "citation-key": "박2016mbl",
+    "issue": "1호",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "129-132",
+    "publisher": "한국컴퓨터교육학회 학술발표대회논문집",
+    "title": "MBL 대체를 위한 피지컬 컴퓨팅기반 과학 교육 실험",
+    "volume": "20"
+  },
+  {
+    "author": [
+      {
+        "family": "박영주"
+      },
+      {
+        "family": "전민근"
+      },
+      {
+        "family": "지현빈"
+      },
+      {
+        "family": "이동현"
+      },
+      {
+        "family": "장명호"
+      },
+      {
+        "family": "김희주"
+      },
+      {
+        "family": "유태묵"
+      },
+      {
+        "family": "김동정"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "박2016데이터",
+    "citation-key": "박2016데이터",
+    "issue": "1호",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "39-42",
+    "publisher": "한국컴퓨터교육학회 학술발표대회논문집",
+    "title": "데이터 로깅 환경에서피지컬 컴퓨팅을 이용한 스팀교육의 효과",
+    "volume": "20"
+  },
+  {
+    "author": [
+      {
+        "family": "박봉우"
+      },
+      {
+        "family": "명노영"
+      },
+      {
+        "family": "유헌창"
+      },
+      {
+        "family": "최숙경"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "박2016인공",
+    "citation-key": "박2016인공",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "625-627",
+    "publisher": "한국정보처리학회 추계학술발표대회",
+    "title": "인공 신경망 회귀를 이용한 드론의 기울임 예측",
+    "volume": "23"
+  },
+  {
+    "author": [
+      {
+        "family": "박태민"
+      },
+      {
+        "family": "표상우"
+      },
+      {
+        "family": "신해찬"
+      },
+      {
+        "family": "장명호"
+      },
+      {
+        "family": "김희주"
+      },
+      {
+        "family": "이재혁"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "박2018인",
+    "citation-key": "박2018인",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "한국컴퓨터교육학회 동계 학술발표논문지",
+    "title": "1인 가구를 위한 아두이노 기반의 개인 택배 보관 시스템 개발"
+  },
+  {
+    "author": [
+      {
+        "family": "백승태"
+      },
+      {
+        "family": "명노영"
+      },
+      {
+        "family": "정진용"
+      },
+      {
+        "family": "문성훈"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "백2016iot",
+    "citation-key": "백2016iot",
+    "issue": "1호",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "965-968",
+    "publisher": "한국정보처리학회 춘계학술발표대회",
+    "title": "IoT-Home 환경에서 가전제품 사용 로그 기반 데이터 시각화 기법",
+    "volume": "23"
+  },
+  {
+    "author": [
+      {
+        "family": "변은정"
+      },
+      {
+        "family": "최성진"
+      },
+      {
+        "family": "윤준헌"
+      },
+      {
+        "family": "유헌창"
+      },
+      {
+        "family": "최장원"
+      },
+      {
+        "family": "황종선"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "변2004자원",
+    "citation-key": "변2004자원",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "16-18",
+    "publisher": "정보과학회 가을학술발표논문집",
+    "title": "자원제공자 컴퓨팅 환경에서 공헌도 기반 차별화 스케쥴링 기법",
+    "volume": "31"
+  },
+  {
+    "author": [
+      {
+        "family": "손호성"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "손2017범용",
+    "citation-key": "손2017범용",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "488-491",
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "title": "범용 메시징 통합 처리 설계 및 구현",
+    "volume": "24"
+  },
+  {
+    "author": [
+      {
+        "family": "송성진"
+      },
+      {
+        "family": "진성호"
+      },
+      {
+        "family": "정대용"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "송2007모바일",
+    "citation-key": "송2007모바일",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "publisher": "한국컴퓨터종합학술대회 2007",
+    "title": "모바일그리드 환경에서 성능예측 기반의 작업 스케줄링 기법",
+    "volume": "34"
+  },
+  {
+    "author": [
+      {
+        "family": "송정미"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "송2010스크래치",
+    "citation-key": "송2010스크래치",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "251-255",
+    "publisher": "한국컴퓨터교육학회 하계학술발표논문집",
+    "title": "스크래치를 활용한 정보과학적 사고 기반 퍼즐교육",
+    "volume": "14"
+  },
+  {
+    "author": [
+      {
+        "family": "송충건"
+      },
+      {
+        "family": "명노영"
+      },
+      {
+        "family": "최희석"
+      },
+      {
+        "family": "유헌창"
+      },
+      {
+        "family": "이은영"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "송2015xen",
+    "citation-key": "송2015xen",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "223-226",
+    "publisher": "한국정보처리학회 추계학술발표대회",
+    "title": "Xen 가상화 기반 OpenMP 환경에서 물리 CPU 지정에 따른태스크 스케줄링 기법들의 성능 분석",
+    "volume": "22"
+  },
+  {
+    "author": [
+      {
+        "family": "송충건"
+      },
+      {
+        "family": "최희석"
+      },
+      {
+        "family": "강지훈"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "송2016생체인증",
+    "citation-key": "송2016생체인증",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "376-379",
+    "publisher": "한국정보처리학회 추계학술발표대회",
+    "title": "생체인증의 에너지 효율을 위한 클라우드 기반의 통합인증 시스템",
+    "volume": "23"
+  },
+  {
+    "author": [
+      {
+        "family": "송충건"
+      },
+      {
+        "family": "김동정"
+      },
+      {
+        "family": "김석희"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "송2016스크래치",
+    "citation-key": "송2016스크래치",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "77-80",
+    "publisher": "한국컴퓨터교육학회 하계학술발표논문집",
+    "title": "스크래치 2.0과 아두이노 사이의 시리얼 통신을 위한 프록시 구조의 통신모듈 개발",
+    "volume": "20"
+  },
+  {
+    "author": [
+      {
+        "family": "송혜선"
+      },
+      {
+        "family": "김석희"
+      },
+      {
+        "family": "짐동정"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "송2018플렉서블",
+    "citation-key": "송2018플렉서블",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "181-184",
+    "publisher": "국컴퓨터교육학회 동계 학술발표논문지",
+    "title": "플렉서블 디스플레이를 활용한 STEAM 프로그램의 효과 연구",
+    "volume": "23"
+  },
+  {
+    "author": [
+      {
+        "family": "송충건"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "송2020하이퍼레저",
+    "citation-key": "송2020하이퍼레저",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "49-51",
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "title": "하이퍼레저 패브릭 환경에서 체인코드 및 레저유형에 따른 합의 작업의 성능 분석",
+    "volume": "27"
+  },
+  {
+    "author": [
+      {
+        "family": "송충건"
+      },
+      {
+        "family": "김형준"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "송2022오픈",
+    "citation-key": "송2022오픈",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "publisher": "한국컴퓨터교육학회 하계학술발표대회",
+    "title": "오픈 데이터 기반 애플리케이션의 QoS 보장을 위한 자동화된 API 분석 도구",
+    "volume": "26"
+  },
+  {
+    "author": [
+      {
         "family": "신상철"
       },
       {
@@ -32,6 +1860,445 @@
     "publisher": "한국정보과학회 봄학술발표논문집",
     "title": "MySQL에서 기능 보완 기법의 설계 및 구현",
     "volume": "28"
+  },
+  {
+    "author": [
+      {
+        "family": "신상철"
+      },
+      {
+        "family": "정순영"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "신2002에이전트",
+    "citation-key": "신2002에이전트",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "55-60",
+    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
+    "title": "에이전트를 이용한 실시간 웹 기반 평가 모델",
+    "volume": "6"
+  },
+  {
+    "author": [
+      {
+        "family": "신수빈"
+      },
+      {
+        "family": "김동현"
+      },
+      {
+        "family": "김재민"
+      },
+      {
+        "family": "김태현"
+      },
+      {
+        "family": "장명호"
+      },
+      {
+        "family": "김희주"
+      },
+      {
+        "family": "명노영"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "신2016중등",
+    "citation-key": "신2016중등",
+    "issue": "1호",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "43-46",
+    "publisher": "한국컴퓨터교육학회 학술발표대회논문집",
+    "title": "중등 과학 교과 실험에서의 피지컬 컴퓨팅 기반 STEM 교육 적용",
+    "volume": "20"
+  },
+  {
+    "author": [
+      {
+        "family": "양영보"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "양2018교육",
+    "citation-key": "양2018교육",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "244-246",
+    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
+    "title": "교육데이터마이닝을 이용한 학부모 학교 만족도 예측에 관한 연구",
+    "volume": "25"
+  },
+  {
+    "author": [
+      {
+        "family": "양영보"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "양2019특징최소화",
+    "citation-key": "양2019특징최소화",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "443-446",
+    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
+    "title": "특징 최소화와 데이터선별을 활용한 영화관객수 예측",
+    "volume": "26"
+  },
+  {
+    "author": [
+      {
+        "family": "오주형"
+      },
+      {
+        "family": "김민수"
+      },
+      {
+        "family": "최인준"
+      },
+      {
+        "family": "장명호"
+      },
+      {
+        "family": "김희주"
+      },
+      {
+        "family": "최희석"
+      },
+      {
+        "family": "김동정"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "오2014아두이노",
+    "citation-key": "오2014아두이노",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
+    "title": "아두이노 기반 실험 교육이 갖는 피지컬 컴퓨팅의 효과",
+    "volume": "18"
+  },
+  {
+    "author": [
+      {
+        "family": "오성근"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "오2017머신러닝",
+    "citation-key": "오2017머신러닝",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "118-120",
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "title": "머신러닝을 활용한 NFV 시스템 로그 분석",
+    "volume": "24"
+  },
+  {
+    "author": [
+      {
+        "family": "오지훈"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "오2018딥러닝기법",
+    "citation-key": "오2018딥러닝기법",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "711-714",
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "title": "딥러닝기법을 활용한 학습성과분석",
+    "volume": "25"
+  },
+  {
+    "author": [
+      {
+        "family": "오지원"
+      },
+      {
+        "family": "박봉우"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "오2018배추",
+    "citation-key": "오2018배추",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "한국컴퓨터교육학회 동계 학술발표논문지",
+    "title": "배추 수급조절을 위한 머신러닝 기반 가격예측",
+    "volume": "23"
+  },
+  {
+    "author": [
+      {
+        "family": "위수연"
+      },
+      {
+        "family": "박지수"
+      },
+      {
+        "family": "이대원"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "위2011하이브리드",
+    "citation-key": "위2011하이브리드",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "publisher": "한국정보기술학회 하계학술대회",
+    "title": "하이브리드 클라우드 컴퓨팅에서 결함 포용을 위한 자원 선택 기법"
+  },
+  {
+    "author": [
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "유2007로봇",
+    "citation-key": "유2007로봇",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "page": "67-102",
+    "publisher": "미래교육 대비 교육혁신연구 3차년도 종합발표회 연구자료, RM2007-15",
+    "title": "로봇의 교육적 활용 방안 및 적정 기능 연구"
+  },
+  {
+    "author": [
+      {
+        "family": "유태묵"
+      },
+      {
+        "family": "임종범"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "서태원"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "유2013중첩",
+    "citation-key": "유2013중첩",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "publisher": "한국정보처리학회 추계학술발표대회",
+    "title": "중첩 가상화 환경에서 메모리 오버커밋을 하는 하이퍼바이저 VM과 중첩 VM의 성능 평가",
+    "volume": "20"
+  },
+  {
+    "author": [
+      {
+        "family": "유건희"
+      },
+      {
+        "family": "김도연"
+      },
+      {
+        "family": "신선우"
+      },
+      {
+        "family": "장명호"
+      },
+      {
+        "family": "김희주"
+      },
+      {
+        "family": "박봉우"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "유2018svm",
+    "citation-key": "유2018svm",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "133-136",
+    "publisher": "한국컴퓨터교육학회 동계 학술발표논문지",
+    "title": "SVM 기반의 교실 내 시간과 위치에 따른 졸음 예측 기법",
+    "volume": "22"
+  },
+  {
+    "author": [
+      {
+        "family": "유문상"
+      },
+      {
+        "family": "송충건"
+      },
+      {
+        "family": "유헌창"
+      },
+      {
+        "family": "이은영"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "유2021쿠버네티스",
+    "citation-key": "유2021쿠버네티스",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "1382-1384",
+    "publisher": "한국정보과학회 학술발표논문집",
+    "title": "쿠버네티스 클러스터에서 작업 유형 기반 오토스케일링 기준 선택과 성능 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "윤지선"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "윤2018건강검진",
+    "citation-key": "윤2018건강검진",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "648-651",
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "title": "건강검진 데이터 기반 흡연자 분류를 위한 모형별 성능 분석",
+    "volume": "25"
+  },
+  {
+    "author": [
+      {
+        "family": "윤형준"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "윤2021영어",
+    "citation-key": "윤2021영어",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "publisher": "한국컴퓨터교육학회 하계학술발표대회",
+    "title": "영어 성취 그룹별 인공지능 챗봇의 개별화 학습 도움 효과 분석 - AI 펭톡을 중심으로",
+    "volume": "25"
   },
   {
     "author": [
@@ -132,40 +2399,6 @@
   {
     "author": [
       {
-        "family": "이대원"
-      },
-      {
-        "family": "정광식"
-      },
-      {
-        "family": "이화민"
-      },
-      {
-        "family": "이원규"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "이2002멀티",
-    "citation-key": "이2002멀티",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2002
-        ]
-      ]
-    },
-    "page": "88-90",
-    "publisher": "한국정보과학회 봄학술발표논문집",
-    "title": "멀티 에이전트 시스템 기반 쓰레기 처리 기법",
-    "volume": "29"
-  },
-  {
-    "author": [
-      {
         "family": "이화민"
       },
       {
@@ -203,104 +2436,7 @@
   {
     "author": [
       {
-        "family": "신상철"
-      },
-      {
-        "family": "정순영"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "신2002에이전트",
-    "citation-key": "신2002에이전트",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2002
-        ]
-      ]
-    },
-    "page": "55-60",
-    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
-    "title": "에이전트를 이용한 실시간 웹 기반 평가 모델",
-    "volume": "6"
-  },
-  {
-    "author": [
-      {
-        "family": "강인성"
-      },
-      {
-        "family": "최성진"
-      },
-      {
-        "family": "황일선"
-      },
-      {
-        "family": "황종선"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "강2003인터넷",
-    "citation-key": "강2003인터넷",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2003
-        ]
-      ]
-    },
-    "publisher": "정보과학회 가을학술발표논문집",
-    "title": "인터넷 기반 병렬 컴퓨팅에서 중간 관리자의 구성과 결함포용 기법",
-    "volume": "30"
-  },
-  {
-    "author": [
-      {
-        "family": "김홍수"
-      },
-      {
-        "family": "강인성"
-      },
-      {
-        "family": "최성진"
-      },
-      {
-        "family": "황일선"
-      },
-      {
-        "family": "황종선"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2003인터넷",
-    "citation-key": "김2003인터넷",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2003
-        ]
-      ]
-    },
-    "publisher": "정보과학회 가을학술발표논문집",
-    "title": "인터넷 기반 병렬 컴퓨팅에서 중간 관리자의 구성과 결함포용 기법",
-    "volume": "30"
-  },
-  {
-    "author": [
-      {
-        "family": "진성호"
+        "family": "이대원"
       },
       {
         "family": "정광식"
@@ -309,169 +2445,27 @@
         "family": "이화민"
       },
       {
-        "family": "이대원"
-      },
-      {
-        "family": "정순영"
+        "family": "이원규"
       },
       {
         "family": "유헌창"
       }
     ],
     "type": "paper-conference",
-    "id": "진2003그리드",
-    "citation-key": "진2003그리드",
+    "id": "이2002멀티",
+    "citation-key": "이2002멀티",
     "issue": "1",
     "issued": {
       "date-parts": [
         [
-          2003
+          2002
         ]
       ]
     },
-    "page": "124-126",
-    "publisher": "정보과학회 봄학술발표논문집",
-    "title": "그리드 컴퓨팅 시스템에서 최적자원 선택 브로커 설계",
-    "volume": "30"
-  },
-  {
-    "author": [
-      {
-        "family": "변은정"
-      },
-      {
-        "family": "최성진"
-      },
-      {
-        "family": "윤준헌"
-      },
-      {
-        "family": "유헌창"
-      },
-      {
-        "family": "최장원"
-      },
-      {
-        "family": "황종선"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "변2004자원",
-    "citation-key": "변2004자원",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2004
-        ]
-      ]
-    },
-    "page": "16-18",
-    "publisher": "정보과학회 가을학술발표논문집",
-    "title": "자원제공자 컴퓨팅 환경에서 공헌도 기반 차별화 스케쥴링 기법",
-    "volume": "31"
-  },
-  {
-    "author": [
-      {
-        "family": "최성진"
-      },
-      {
-        "family": "유헌창"
-      },
-      {
-        "family": "박학수"
-      },
-      {
-        "family": "최장원"
-      },
-      {
-        "family": "황일선"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "최2004자원",
-    "citation-key": "최2004자원",
-    "issued": {
-      "date-parts": [
-        [
-          2004
-        ]
-      ]
-    },
-    "publisher": "한국과학기술정보인프라워크숍",
-    "title": "자원 제공자 컴퓨팅 환경에서 그룹 기반 적응적 연산 수행 기법"
-  },
-  {
-    "author": [
-      {
-        "family": "김홍수"
-      },
-      {
-        "family": "백맹순"
-      },
-      {
-        "family": "유헌창"
-      },
-      {
-        "family": "황일선"
-      },
-      {
-        "family": "황종선"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2004글로벌",
-    "citation-key": "김2004글로벌",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2004
-        ]
-      ]
-    },
-    "page": "475-477",
-    "publisher": "정보과학회 봄학술발표논문집",
-    "title": "글로벌 컴퓨팅 시스템에서 그룹 기반 정확성 검사를 위한 스케쥴링 기법",
-    "volume": "31"
-  },
-  {
-    "author": [
-      {
-        "family": "진성호"
-      },
-      {
-        "family": "이화민"
-      },
-      {
-        "family": "이대원"
-      },
-      {
-        "family": "이종혁"
-      },
-      {
-        "family": "박성빈"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "진2004그리드",
-    "citation-key": "진2004그리드",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2004
-        ]
-      ]
-    },
-    "page": "466-468",
-    "publisher": "정보과학회 봄학술발표논문집",
-    "title": "그리드에서 Molecular Docking 어플리케이션 설계",
-    "volume": "31"
+    "page": "88-90",
+    "publisher": "한국정보과학회 봄학술발표논문집",
+    "title": "멀티 에이전트 시스템 기반 쓰레기 처리 기법",
+    "volume": "29"
   },
   {
     "author": [
@@ -581,55 +2575,6 @@
   {
     "author": [
       {
-        "family": "김석희"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2006bottom",
-    "citation-key": "김2006bottom",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2006
-        ]
-      ]
-    },
-    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
-    "title": "Bottom Up 방식의 Syntax-Free, 문제해결 기반의 초등학생을 위한 프로그래밍 교육 코스웨어 개발",
-    "volume": "10"
-  },
-  {
-    "author": [
-      {
-        "family": "김석태"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2006템플릿",
-    "citation-key": "김2006템플릿",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2006
-        ]
-      ]
-    },
-    "page": "295-299",
-    "publisher": "한국컴퓨터교육학회 하계학술발표논문집",
-    "title": "템플릿 기반 프로그래밍언어 교육 시스템의 설계 및 구현",
-    "volume": "10"
-  },
-  {
-    "author": [
-      {
         "family": "이화정"
       },
       {
@@ -651,268 +2596,6 @@
     "publisher": "한국컴퓨터교육학회 하계학술발표논문집",
     "title": "프로그래밍 실무 교과 웹 기반 전자교과서 설계 및 구현",
     "volume": "10"
-  },
-  {
-    "author": [
-      {
-        "family": "정은희"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "정2007웹",
-    "citation-key": "정2007웹",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2007
-        ]
-      ]
-    },
-    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
-    "title": "웹 기반 네트워크 구성 시뮬레이터 설계 및 구현",
-    "volume": "11"
-  },
-  {
-    "author": [
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "유2007로봇",
-    "citation-key": "유2007로봇",
-    "issued": {
-      "date-parts": [
-        [
-          2007
-        ]
-      ]
-    },
-    "page": "67-102",
-    "publisher": "미래교육 대비 교육혁신연구 3차년도 종합발표회 연구자료, RM2007-15",
-    "title": "로봇의 교육적 활용 방안 및 적정 기능 연구"
-  },
-  {
-    "author": [
-      {
-        "family": "송성진"
-      },
-      {
-        "family": "진성호"
-      },
-      {
-        "family": "정대용"
-      },
-      {
-        "family": "정광식"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "송2007모바일",
-    "citation-key": "송2007모바일",
-    "issued": {
-      "date-parts": [
-        [
-          2007
-        ]
-      ]
-    },
-    "publisher": "한국컴퓨터종합학술대회 2007",
-    "title": "모바일그리드 환경에서 성능예측 기반의 작업 스케줄링 기법",
-    "volume": "34"
-  },
-  {
-    "author": [
-      {
-        "family": "조언정"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "조2007디지털",
-    "citation-key": "조2007디지털",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2007
-        ]
-      ]
-    },
-    "page": "1-1",
-    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
-    "title": "디지털 논리회로 학습을 위한 시뮬레이션형 코스웨어 설계 및 구현",
-    "volume": "11"
-  },
-  {
-    "author": [
-      {
-        "family": "조인석"
-      },
-      {
-        "family": "이대원"
-      },
-      {
-        "family": "박지수"
-      },
-      {
-        "family": "정광식"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "조2007초고속",
-    "citation-key": "조2007초고속",
-    "issued": {
-      "date-parts": [
-        [
-          2007
-        ]
-      ]
-    },
-    "publisher": "한국컴퓨터종합학술대회 2007",
-    "title": "초고속 이동 환경 기반 모바일 그리드에서 적응적 작업처리기법",
-    "volume": "34"
-  },
-  {
-    "author": [
-      {
-        "family": "최숙경"
-      },
-      {
-        "family": "이종혁"
-      },
-      {
-        "family": "정광식"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "최2007모바일",
-    "citation-key": "최2007모바일",
-    "issued": {
-      "date-parts": [
-        [
-          2007
-        ]
-      ]
-    },
-    "publisher": "한국컴퓨터종합학술대회 2007",
-    "title": "모바일 그리드에서 모바일 장치의 특성을 고려한 결함 포용적 자원 선택 알고리즘",
-    "volume": "34"
-  },
-  {
-    "author": [
-      {
-        "family": "임수진"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "임2008stad",
-    "citation-key": "임2008stad",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2008
-        ]
-      ]
-    },
-    "page": "169-174",
-    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
-    "title": "STAD 협동학습 모형 기반 통합형 학습시스템",
-    "volume": "12"
-  },
-  {
-    "author": [
-      {
-        "family": "최영신"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "최2008웹",
-    "citation-key": "최2008웹",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2008
-        ]
-      ]
-    },
-    "page": "299-304",
-    "publisher": "한국컴퓨터교육학회 하계학술발표논문집",
-    "title": "웹기반 PBL 모형을 이용한 논리회로 학습 시스템",
-    "volume": "12"
-  },
-  {
-    "author": [
-      {
-        "family": "강문희"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "강2008창의",
-    "citation-key": "강2008창의",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2008
-        ]
-      ]
-    },
-    "page": "257-262",
-    "publisher": "한국컴퓨터교육학회 하계학술발표논문집",
-    "title": "창의적 문제해결 모형 기반 정보통신 윤리교육 시스템",
-    "volume": "12"
-  },
-  {
-    "author": [
-      {
-        "family": "김민정"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2008시각화",
-    "citation-key": "김2008시각화",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2008
-        ]
-      ]
-    },
-    "page": "81-86",
-    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
-    "title": "시각화를 통한 효율적인 C 프로그래밍 학습시스템",
-    "volume": "12"
   },
   {
     "author": [
@@ -954,261 +2637,6 @@
   {
     "author": [
       {
-        "family": "정대용"
-      },
-      {
-        "family": "최숙경"
-      },
-      {
-        "family": "박지수"
-      },
-      {
-        "family": "정광식"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "정2008모바일",
-    "citation-key": "정2008모바일",
-    "issued": {
-      "date-parts": [
-        [
-          2008
-        ]
-      ]
-    },
-    "page": "197-198",
-    "publisher": "한국컴퓨터종합학술대회 2008",
-    "title": "모바일 그리드 환경에서의 작업 이주 기법",
-    "volume": "35"
-  },
-  {
-    "author": [
-      {
-        "family": "김인식"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2009rss",
-    "citation-key": "김2009rss",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2009
-        ]
-      ]
-    },
-    "page": "47-52",
-    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
-    "title": "RSS를 이용한 블로그 기반 협동학습시스템",
-    "volume": "13"
-  },
-  {
-    "author": [
-      {
-        "family": "하현욱"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "하2009온톨로지",
-    "citation-key": "하2009온톨로지",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2009
-        ]
-      ]
-    },
-    "page": "7-12",
-    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
-    "title": "온톨로지 기반 창의적 역사학습시스템",
-    "volume": "13"
-  },
-  {
-    "author": [
-      {
-        "family": "송정미"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "송2010스크래치",
-    "citation-key": "송2010스크래치",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2010
-        ]
-      ]
-    },
-    "page": "251-255",
-    "publisher": "한국컴퓨터교육학회 하계학술발표논문집",
-    "title": "스크래치를 활용한 정보과학적 사고 기반 퍼즐교육",
-    "volume": "14"
-  },
-  {
-    "author": [
-      {
-        "family": "임종범"
-      },
-      {
-        "family": "진성호"
-      },
-      {
-        "family": "이종혁"
-      },
-      {
-        "family": "이화민"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "임2010클라우드",
-    "citation-key": "임2010클라우드",
-    "issued": {
-      "date-parts": [
-        [
-          2010
-        ]
-      ]
-    },
-    "publisher": "한국컴퓨터종합학술대회 발표논문집",
-    "title": "클라우드 컴퓨팅 환경에 적합한 그룹 기반 가쉽 멀티캐스트 프로토콜"
-  },
-  {
-    "author": [
-      {
-        "family": "황주나"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "황2010안드로이드",
-    "citation-key": "황2010안드로이드",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2010
-        ]
-      ]
-    },
-    "page": "15-20",
-    "publisher": "한국컴퓨터교육학회 하계학술발표논문집",
-    "title": "안드로이드 환경에서 ARCS 모델 기반 모바일 한자 학습 콘텐츠 개발",
-    "volume": "14"
-  },
-  {
-    "author": [
-      {
-        "family": "위수연"
-      },
-      {
-        "family": "박지수"
-      },
-      {
-        "family": "이대원"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "위2011하이브리드",
-    "citation-key": "위2011하이브리드",
-    "issued": {
-      "date-parts": [
-        [
-          2011
-        ]
-      ]
-    },
-    "publisher": "한국정보기술학회 하계학술대회",
-    "title": "하이브리드 클라우드 컴퓨팅에서 결함 포용을 위한 자원 선택 기법"
-  },
-  {
-    "author": [
-      {
-        "family": "정대용"
-      },
-      {
-        "family": "최숙경"
-      },
-      {
-        "family": "이정하"
-      },
-      {
-        "family": "정광식"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "정2012스팟",
-    "citation-key": "정2012스팟",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2012
-        ]
-      ]
-    },
-    "publisher": "한국정보처리학회 추계학술발표대회",
-    "title": "스팟 마켓 기반 클라우드 컴퓨팅에서 VM 이주",
-    "volume": "19"
-  },
-  {
-    "author": [
-      {
-        "family": "박지수"
-      },
-      {
-        "family": "정대용"
-      },
-      {
-        "family": "임종범"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "박2012모바일",
-    "citation-key": "박2012모바일",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2012
-        ]
-      ]
-    },
-    "publisher": "한국정보처리학회 추계학술발표대회",
-    "title": "모바일 클라우드에서 소셜 네트워크 기반 신뢰적인 자원 관리 기법",
-    "volume": "19"
-  },
-  {
-    "author": [
-      {
         "family": "이정하"
       },
       {
@@ -1234,354 +2662,6 @@
   {
     "author": [
       {
-        "family": "임종범"
-      },
-      {
-        "family": "최희석"
-      },
-      {
-        "family": "강인성"
-      },
-      {
-        "family": "이대원"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "임2012클라우드",
-    "citation-key": "임2012클라우드",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2012
-        ]
-      ]
-    },
-    "publisher": "한국정보처리학회 추계학술발표대회",
-    "title": "클라우드 컴퓨팅 환경에서 가쉽 기반 비잔틴 합의 알고리즘",
-    "volume": "19"
-  },
-  {
-    "author": [
-      {
-        "family": "김석희"
-      },
-      {
-        "family": "김동정"
-      },
-      {
-        "family": "박지수"
-      },
-      {
-        "family": "정대용"
-      },
-      {
-        "family": "임종범"
-      },
-      {
-        "family": "김순기"
-      },
-      {
-        "family": "김정환"
-      },
-      {
-        "family": "홍석원"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2012상호운용성",
-    "citation-key": "김2012상호운용성",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2012
-        ]
-      ]
-    },
-    "page": "263-270",
-    "publisher": "한국컴퓨터교육학회 하계학술발표논문집",
-    "title": "상호운용성 표준을 지원하는 이러닝 원격관리 솔루션(LENS)",
-    "volume": "16"
-  },
-  {
-    "author": [
-      {
-        "family": "강지훈"
-      },
-      {
-        "family": "이대원"
-      },
-      {
-        "family": "강인성"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "강2013cuda",
-    "citation-key": "강2013cuda",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2013
-        ]
-      ]
-    },
-    "publisher": "한국정보처리학회 추계학술발표대회",
-    "title": "CUDA의 메모리 복사로 인한 성능 저하 연구",
-    "volume": "20"
-  },
-  {
-    "author": [
-      {
-        "family": "박병훈"
-      },
-      {
-        "family": "장연진"
-      },
-      {
-        "family": "오영빈"
-      },
-      {
-        "family": "서지민"
-      },
-      {
-        "family": "장명호"
-      },
-      {
-        "family": "김희주"
-      },
-      {
-        "family": "김석희"
-      },
-      {
-        "family": "김동정"
-      },
-      {
-        "family": "정대용"
-      },
-      {
-        "family": "임종범"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "박2013nxt",
-    "citation-key": "박2013nxt",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2013
-        ]
-      ]
-    },
-    "page": "125-128",
-    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
-    "title": "NXT 기반의 염도센서 보정 알고리즘 연구",
-    "volume": "17"
-  },
-  {
-    "author": [
-      {
-        "family": "최희석"
-      },
-      {
-        "family": "유태묵"
-      },
-      {
-        "family": "박지수"
-      },
-      {
-        "family": "정대용"
-      },
-      {
-        "family": "임종범"
-      },
-      {
-        "family": "이정하"
-      },
-      {
-        "family": "서태원"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "최2013tilela",
-    "citation-key": "최2013tilela",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2013
-        ]
-      ]
-    },
-    "publisher": "한국정보처리학회 춘계학술발표대회",
-    "title": "Tilela 다중코어와 x86-64 멀티코어 시스템의 성능 비교",
-    "volume": "20"
-  },
-  {
-    "author": [
-      {
-        "family": "유태묵"
-      },
-      {
-        "family": "임종범"
-      },
-      {
-        "family": "정광식"
-      },
-      {
-        "family": "서태원"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "유2013중첩",
-    "citation-key": "유2013중첩",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2013
-        ]
-      ]
-    },
-    "publisher": "한국정보처리학회 추계학술발표대회",
-    "title": "중첩 가상화 환경에서 메모리 오버커밋을 하는 하이퍼바이저 VM과 중첩 VM의 성능 평가",
-    "volume": "20"
-  },
-  {
-    "author": [
-      {
-        "family": "김동정"
-      },
-      {
-        "family": "김석희"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2013피지컬",
-    "citation-key": "김2013피지컬",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2013
-        ]
-      ]
-    },
-    "publisher": "한국컴퓨터교육학회 하계학술발표논문집",
-    "title": "피지컬 컴퓨팅 기반 STEAM 교육 아웃리치 프로그램",
-    "volume": "17"
-  },
-  {
-    "author": [
-      {
-        "family": "명노영"
-      },
-      {
-        "family": "정대용"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "명2013시스템",
-    "citation-key": "명2013시스템",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2013
-        ]
-      ]
-    },
-    "publisher": "한국정보처리학회 추계학술발표대회",
-    "title": "시스템 메신저 및 커뮤니케이션 모바일 앱을 위한 필터링 시스템",
-    "volume": "20"
-  },
-  {
-    "author": [
-      {
-        "family": "정재철"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "정2013도시형",
-    "citation-key": "정2013도시형",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2013
-        ]
-      ]
-    },
-    "page": "107-110",
-    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
-    "title": "도시형 대안학교 정보교육에서 언플러그드 학습이 학습동기 및 창의력에 미치는 영향 ",
-    "volume": "17"
-  },
-  {
-    "author": [
-      {
-        "family": "공선희"
-      },
-      {
-        "family": "김한이"
-      },
-      {
-        "family": "이보선"
-      },
-      {
-        "family": "유헌창"
-      },
-      {
-        "family": "서태원"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "공2013예외처리",
-    "citation-key": "공2013예외처리",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2013
-        ]
-      ]
-    },
-    "publisher": "한국정보처리학회 춘계학술발표대회",
-    "title": "예외처리를 피하는 정의되지 않은 명령에 의한 하드웨어 트로이 목마의 구현 및 대응책 연구",
-    "volume": "20"
-  },
-  {
-    "author": [
-      {
         "family": "이미주"
       },
       {
@@ -1603,183 +2683,6 @@
     "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
     "title": "초등학생 대상 창의적 사고력 향상 STEAM 프로그램",
     "volume": "17"
-  },
-  {
-    "author": [
-      {
-        "family": "최희석"
-      },
-      {
-        "family": "박지수"
-      },
-      {
-        "family": "최숙경"
-      },
-      {
-        "family": "서태원"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "최2013클라우드",
-    "citation-key": "최2013클라우드",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2013
-        ]
-      ]
-    },
-    "publisher": "한국정보처리학회 추계학술발표대회",
-    "title": "클라우드에서 최적의 에너지 소비 임계값 기반 태스크 이주에 대한 연구",
-    "volume": "20"
-  },
-  {
-    "author": [
-      {
-        "family": "김동정"
-      },
-      {
-        "family": "김석희"
-      },
-      {
-        "family": "강인성"
-      },
-      {
-        "family": "정광식"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2013자기효능감",
-    "citation-key": "김2013자기효능감",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2013
-        ]
-      ]
-    },
-    "publisher": "한국정보처리학회 춘계학술발표대회",
-    "title": "자기효능감 증대를 위한 STEAM 기반 스마트 창의체험 프로그램",
-    "volume": "20"
-  },
-  {
-    "author": [
-      {
-        "family": "조준희"
-      },
-      {
-        "family": "최창원"
-      },
-      {
-        "family": "한상범"
-      },
-      {
-        "family": "장명호"
-      },
-      {
-        "family": "김희주"
-      },
-      {
-        "family": "최희석"
-      },
-      {
-        "family": "김동정"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "조2014온실",
-    "citation-key": "조2014온실",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2014
-        ]
-      ]
-    },
-    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
-    "title": "온실 효과 실험에서 피지컬 컴퓨팅 기반 스팀 교육의 효과 분석",
-    "volume": "18"
-  },
-  {
-    "author": [
-      {
-        "family": "김동정"
-      },
-      {
-        "family": "김석희"
-      },
-      {
-        "family": "강지훈"
-      },
-      {
-        "family": "최희석"
-      },
-      {
-        "family": "유태묵"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2014피지컬",
-    "citation-key": "김2014피지컬",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2014
-        ]
-      ]
-    },
-    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
-    "title": "피지컬 컴퓨팅 기반 STEAM 교육 아웃리치 프로그램 운영 및 분석",
-    "volume": "18"
-  },
-  {
-    "author": [
-      {
-        "family": "명노영"
-      },
-      {
-        "family": "송성진"
-      },
-      {
-        "family": "정대용"
-      },
-      {
-        "family": "유태묵"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "명2014가상화",
-    "citation-key": "명2014가상화",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2014
-        ]
-      ]
-    },
-    "publisher": "한국인터넷정보학회 추계학술발표대회 논문집",
-    "title": "가상화 환경에서 오픈소스 기반 하이퍼바이저의 성능 평가",
-    "volume": "15"
   },
   {
     "author": [
@@ -1826,260 +2729,15 @@
   {
     "author": [
       {
-        "family": "문영주"
-      },
-      {
-        "family": "임종범"
-      },
-      {
-        "family": "최희석"
-      },
-      {
-        "family": "강지훈"
+        "family": "이재한"
       },
       {
         "family": "유헌창"
       }
     ],
     "type": "paper-conference",
-    "id": "문2014반가상화",
-    "citation-key": "문2014반가상화",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2014
-        ]
-      ]
-    },
-    "publisher": "한국인터넷정보학회 추계학술발표대회 논문집",
-    "title": "반가상화 환경에서 SEDF와 Credit 스케줄러의 성능 분석",
-    "volume": "15"
-  },
-  {
-    "author": [
-      {
-        "family": "오주형"
-      },
-      {
-        "family": "김민수"
-      },
-      {
-        "family": "최인준"
-      },
-      {
-        "family": "장명호"
-      },
-      {
-        "family": "김희주"
-      },
-      {
-        "family": "최희석"
-      },
-      {
-        "family": "김동정"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "오2014아두이노",
-    "citation-key": "오2014아두이노",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2014
-        ]
-      ]
-    },
-    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
-    "title": "아두이노 기반 실험 교육이 갖는 피지컬 컴퓨팅의 효과",
-    "volume": "18"
-  },
-  {
-    "author": [
-      {
-        "family": "송충건"
-      },
-      {
-        "family": "명노영"
-      },
-      {
-        "family": "최희석"
-      },
-      {
-        "family": "유헌창"
-      },
-      {
-        "family": "이은영"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "송2015xen",
-    "citation-key": "송2015xen",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2015
-        ]
-      ]
-    },
-    "page": "223-226",
-    "publisher": "한국정보처리학회 추계학술발표대회",
-    "title": "Xen 가상화 기반 OpenMP 환경에서 물리 CPU 지정에 따른태스크 스케줄링 기법들의 성능 분석",
-    "volume": "22"
-  },
-  {
-    "author": [
-      {
-        "family": "최성민"
-      },
-      {
-        "family": "송성진"
-      },
-      {
-        "family": "강지훈"
-      },
-      {
-        "family": "유태묵"
-      },
-      {
-        "family": "문영주"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "최2015xen",
-    "citation-key": "최2015xen",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2015
-        ]
-      ]
-    },
-    "page": "223-226",
-    "publisher": "한국정보기술학회 하계종합학술발표논문집",
-    "title": "Xen Credit 스케줄러의 Time Slice와 가상 머신의CPU 성능과의 상관관계 분석",
-    "volume": "22"
-  },
-  {
-    "author": [
-      {
-        "family": "문영주"
-      },
-      {
-        "family": "강지훈"
-      },
-      {
-        "family": "유태묵"
-      },
-      {
-        "family": "유헌창"
-      },
-      {
-        "family": "정광식"
-      },
-      {
-        "family": "길준민"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "문2015최적",
-    "citation-key": "문2015최적",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2015
-        ]
-      ]
-    },
-    "page": "227-229",
-    "publisher": "한국정보처리학회 추계학술발표대회",
-    "title": "최적의 IoT 서비스 제공을 위한 오픈스택 기반 스케줄러 비교 및 분석",
-    "volume": "22"
-  },
-  {
-    "author": [
-      {
-        "family": "명노영"
-      },
-      {
-        "family": "정대용"
-      },
-      {
-        "family": "정광식"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "명2015클라우드",
-    "citation-key": "명2015클라우드",
-    "issued": {
-      "date-parts": [
-        [
-          2015
-        ]
-      ]
-    },
-    "publisher": "한국정보처리학회 춘계학술발표대회",
-    "title": "클라우드 환경에서 가용 자원 활용도를 고려한 워크플로우 작업 클러스터링 기법"
-  },
-  {
-    "author": [
-      {
-        "family": "최성민"
-      },
-      {
-        "family": "송성진"
-      },
-      {
-        "family": "유헌창"
-      },
-      {
-        "family": "정광식"
-      },
-      {
-        "family": "박지수"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "최2015클라우드",
-    "citation-key": "최2015클라우드",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2015
-        ]
-      ]
-    },
-    "page": "140-143",
-    "publisher": "한국정보처리학회 추계학술발표대회",
-    "title": "클라우드 환경에서 도커의 동적 자원 할당 구현 및 효과분석",
-    "volume": "22"
-  },
-  {
-    "author": [
-      {
-        "family": "김형석"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2016dbms",
-    "citation-key": "김2016dbms",
+    "id": "이2016빅데이터",
+    "citation-key": "이2016빅데이터",
     "issue": "2",
     "issued": {
       "date-parts": [
@@ -2088,211 +2746,10 @@
         ]
       ]
     },
-    "page": "548-551",
+    "page": "539-541",
     "publisher": "한국정보처리학회 추계학술발표대회",
-    "title": "DBMS을 활용한 파일 검색엔진 연구",
+    "title": "빅데이터 로그파일 처리 분석을 통한 성능 개선 방안",
     "volume": "23"
-  },
-  {
-    "author": [
-      {
-        "family": "인성환"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "인2016erp",
-    "citation-key": "인2016erp",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2016
-        ]
-      ]
-    },
-    "page": "358-359",
-    "publisher": "한국정보처리학회 추계학술발표대회",
-    "title": "ERP 시스템에서 Form Setup 방식 기반 통합 인터페이스의 설계 및 구현",
-    "volume": "23"
-  },
-  {
-    "author": [
-      {
-        "family": "백승태"
-      },
-      {
-        "family": "명노영"
-      },
-      {
-        "family": "정진용"
-      },
-      {
-        "family": "문성훈"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "백2016iot",
-    "citation-key": "백2016iot",
-    "issue": "1호",
-    "issued": {
-      "date-parts": [
-        [
-          2016
-        ]
-      ]
-    },
-    "page": "965-968",
-    "publisher": "한국정보처리학회 춘계학술발표대회",
-    "title": "IoT-Home 환경에서 가전제품 사용 로그 기반 데이터 시각화 기법",
-    "volume": "23"
-  },
-  {
-    "author": [
-      {
-        "family": "박제왕"
-      },
-      {
-        "family": "배승환"
-      },
-      {
-        "family": "김채훈"
-      },
-      {
-        "family": "최종휘"
-      },
-      {
-        "family": "장명호"
-      },
-      {
-        "family": "김희주"
-      },
-      {
-        "family": "최성민"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "박2016mbl",
-    "citation-key": "박2016mbl",
-    "issue": "1호",
-    "issued": {
-      "date-parts": [
-        [
-          2016
-        ]
-      ]
-    },
-    "page": "129-132",
-    "publisher": "한국컴퓨터교육학회 학술발표대회논문집",
-    "title": "MBL 대체를 위한 피지컬 컴퓨팅기반 과학 교육 실험",
-    "volume": "20"
-  },
-  {
-    "author": [
-      {
-        "family": "김남현"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2016분산",
-    "citation-key": "김2016분산",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2016
-        ]
-      ]
-    },
-    "page": "43-44",
-    "publisher": "한국정보처리학회 추계학술발표대회",
-    "title": "분산 환경에서 동적 미전송 Push & Pull 모델 기반 효율적인 데이터 전송 기법",
-    "volume": "23"
-  },
-  {
-    "author": [
-      {
-        "family": "박봉우"
-      },
-      {
-        "family": "명노영"
-      },
-      {
-        "family": "유헌창"
-      },
-      {
-        "family": "최숙경"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "박2016인공",
-    "citation-key": "박2016인공",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2016
-        ]
-      ]
-    },
-    "page": "625-627",
-    "publisher": "한국정보처리학회 추계학술발표대회",
-    "title": "인공 신경망 회귀를 이용한 드론의 기울임 예측",
-    "volume": "23"
-  },
-  {
-    "author": [
-      {
-        "family": "신수빈"
-      },
-      {
-        "family": "김동현"
-      },
-      {
-        "family": "김재민"
-      },
-      {
-        "family": "김태현"
-      },
-      {
-        "family": "장명호"
-      },
-      {
-        "family": "김희주"
-      },
-      {
-        "family": "명노영"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "신2016중등",
-    "citation-key": "신2016중등",
-    "issue": "1호",
-    "issued": {
-      "date-parts": [
-        [
-          2016
-        ]
-      ]
-    },
-    "page": "43-46",
-    "publisher": "한국컴퓨터교육학회 학술발표대회논문집",
-    "title": "중등 과학 교과 실험에서의 피지컬 컴퓨팅 기반 STEM 교육 적용",
-    "volume": "20"
   },
   {
     "author": [
@@ -2340,263 +2797,6 @@
     },
     "publisher": "한국정보처리학회 춘계학술발표대회",
     "title": "특화된 데이터 처리를 위한 크롬 OS의 최적화 방안"
-  },
-  {
-    "author": [
-      {
-        "family": "강지훈"
-      },
-      {
-        "family": "최희석"
-      },
-      {
-        "family": "문영주"
-      },
-      {
-        "family": "길준민"
-      },
-      {
-        "family": "정광식"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "강2016가상화",
-    "citation-key": "강2016가상화",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2016
-        ]
-      ]
-    },
-    "page": "133-136",
-    "publisher": "한국컴퓨터교육학회 학술발표대회논문집",
-    "title": "가상화 환경에서 가상머신의 GPU 연산으로 인한CPU 연산의 성능 저하 연구",
-    "volume": "20"
-  },
-  {
-    "author": [
-      {
-        "family": "박영주"
-      },
-      {
-        "family": "전민근"
-      },
-      {
-        "family": "지현빈"
-      },
-      {
-        "family": "이동현"
-      },
-      {
-        "family": "장명호"
-      },
-      {
-        "family": "김희주"
-      },
-      {
-        "family": "유태묵"
-      },
-      {
-        "family": "김동정"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "박2016데이터",
-    "citation-key": "박2016데이터",
-    "issue": "1호",
-    "issued": {
-      "date-parts": [
-        [
-          2016
-        ]
-      ]
-    },
-    "page": "39-42",
-    "publisher": "한국컴퓨터교육학회 학술발표대회논문집",
-    "title": "데이터 로깅 환경에서피지컬 컴퓨팅을 이용한 스팀교육의 효과",
-    "volume": "20"
-  },
-  {
-    "author": [
-      {
-        "family": "허종건"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "허2016이기종",
-    "citation-key": "허2016이기종",
-    "issue": "2호",
-    "issued": {
-      "date-parts": [
-        [
-          2016
-        ]
-      ]
-    },
-    "page": "447-448",
-    "publisher": "한국정보처리학회 추계학술발표대회",
-    "title": "이기종 데이터베이스간 데이터 동기화의 성능 향상 기법의 설계 및 구현",
-    "volume": "23"
-  },
-  {
-    "author": [
-      {
-        "family": "송충건"
-      },
-      {
-        "family": "최희석"
-      },
-      {
-        "family": "강지훈"
-      },
-      {
-        "family": "정광식"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "송2016생체인증",
-    "citation-key": "송2016생체인증",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2016
-        ]
-      ]
-    },
-    "page": "376-379",
-    "publisher": "한국정보처리학회 추계학술발표대회",
-    "title": "생체인증의 에너지 효율을 위한 클라우드 기반의 통합인증 시스템",
-    "volume": "23"
-  },
-  {
-    "author": [
-      {
-        "family": "송충건"
-      },
-      {
-        "family": "김동정"
-      },
-      {
-        "family": "김석희"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "송2016스크래치",
-    "citation-key": "송2016스크래치",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2016
-        ]
-      ]
-    },
-    "page": "77-80",
-    "publisher": "한국컴퓨터교육학회 하계학술발표논문집",
-    "title": "스크래치 2.0과 아두이노 사이의 시리얼 통신을 위한 프록시 구조의 통신모듈 개발",
-    "volume": "20"
-  },
-  {
-    "author": [
-      {
-        "family": "이재한"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "이2016빅데이터",
-    "citation-key": "이2016빅데이터",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2016
-        ]
-      ]
-    },
-    "page": "539-541",
-    "publisher": "한국정보처리학회 추계학술발표대회",
-    "title": "빅데이터 로그파일 처리 분석을 통한 성능 개선 방안",
-    "volume": "23"
-  },
-  {
-    "author": [
-      {
-        "family": "황나윤"
-      },
-      {
-        "family": "송충건"
-      },
-      {
-        "family": "이미현"
-      },
-      {
-        "family": "최희석"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "황2017kvm",
-    "citation-key": "황2017kvm",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2017
-        ]
-      ]
-    },
-    "page": "26-29",
-    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
-    "title": "KVM 가상화 환경에서 워크로드 유형 기반 자원 격리 기법을 이용한 동적 자원 관리자",
-    "volume": "24"
-  },
-  {
-    "author": [
-      {
-        "family": "김준한"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2017skyline",
-    "citation-key": "김2017skyline",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2017
-        ]
-      ]
-    },
-    "page": "664-667",
-    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
-    "title": "SKYLINE을 이용한 개인 맞춤형 우선 순위 처리 기법",
-    "volume": "24"
   },
   {
     "author": [
@@ -2660,177 +2860,6 @@
   {
     "author": [
       {
-        "family": "정다운"
-      },
-      {
-        "family": "이미현"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "정2017웹",
-    "citation-key": "정2017웹",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2017
-        ]
-      ]
-    },
-    "page": "992-995",
-    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
-    "title": "웹 크롤링을 이용한 국가 여행 위험요인 도출 기법",
-    "volume": "24"
-  },
-  {
-    "author": [
-      {
-        "family": "손호성"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "손2017범용",
-    "citation-key": "손2017범용",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2017
-        ]
-      ]
-    },
-    "page": "488-491",
-    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
-    "title": "범용 메시징 통합 처리 설계 및 구현",
-    "volume": "24"
-  },
-  {
-    "author": [
-      {
-        "family": "김민성"
-      },
-      {
-        "family": "백준규"
-      },
-      {
-        "family": "신희수"
-      },
-      {
-        "family": "김희주"
-      },
-      {
-        "family": "장명호"
-      },
-      {
-        "family": "명노영"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2017컴퓨팅",
-    "citation-key": "김2017컴퓨팅",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2017
-        ]
-      ]
-    },
-    "page": "113-116",
-    "publisher": "한국컴퓨터교육학회 하계 학술발표논문지",
-    "title": "컴퓨팅 사고력 기반 파일 관리 프로그램 설계 및 개발",
-    "volume": "21"
-  },
-  {
-    "author": [
-      {
-        "family": "명노영"
-      },
-      {
-        "family": "안범진"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "명2017아파치",
-    "citation-key": "명2017아파치",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2017
-        ]
-      ]
-    },
-    "page": "201-204",
-    "publisher": "한국컴퓨터교육학회 하계 학술발표논문지",
-    "title": "아파치 스파크에서 모바일 빅 데이터에 대한 다계층 인공신경망 기반 분산 딥러닝 구현 및 최적화",
-    "volume": "21"
-  },
-  {
-    "author": [
-      {
-        "family": "정원기"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "정2017사설망",
-    "citation-key": "정2017사설망",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2017
-        ]
-      ]
-    },
-    "page": "85-88",
-    "publisher": " 한국정보처리학회 추계학술발표대회 논문집",
-    "title": "사설망 서버 원격 모니터링을 위한 중개 솔루션 구현",
-    "volume": "24"
-  },
-  {
-    "author": [
-      {
-        "family": "오성근"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "오2017머신러닝",
-    "citation-key": "오2017머신러닝",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2017
-        ]
-      ]
-    },
-    "page": "118-120",
-    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
-    "title": "머신러닝을 활용한 NFV 시스템 로그 분석",
-    "volume": "24"
-  },
-  {
-    "author": [
-      {
         "family": "이재현"
       },
       {
@@ -2867,6 +2896,1078 @@
     "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
     "title": "자율주행 자동차 시대에서 병목현상 회피를 위한 교통량 분산 기법",
     "volume": "21"
+  },
+  {
+    "author": [
+      {
+        "family": "이준서"
+      },
+      {
+        "family": "박정현"
+      },
+      {
+        "family": "이준형"
+      },
+      {
+        "family": "장명호"
+      },
+      {
+        "family": "김희주"
+      },
+      {
+        "family": "송충건"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "이2018농구",
+    "citation-key": "이2018농구",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "137-140",
+    "publisher": "한국컴퓨터교육학회 동계 학술발표논문지",
+    "title": "농구 학습을 위한 웨어러블 센서 기반의 동작 인식 기법",
+    "volume": "22"
+  },
+  {
+    "author": [
+      {
+        "family": "이지영"
+      },
+      {
+        "family": "김석희"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "이2021배터리",
+    "citation-key": "이2021배터리",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "publisher": "한국컴퓨터교육학회 하계학술발표대회",
+    "title": "배터리 기반 융합인재교육 개발 및 효과 연구",
+    "volume": "25"
+  },
+  {
+    "author": [
+      {
+        "family": "인성환"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "인2016erp",
+    "citation-key": "인2016erp",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "358-359",
+    "publisher": "한국정보처리학회 추계학술발표대회",
+    "title": "ERP 시스템에서 Form Setup 방식 기반 통합 인터페이스의 설계 및 구현",
+    "volume": "23"
+  },
+  {
+    "author": [
+      {
+        "family": "임수진"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "임2008stad",
+    "citation-key": "임2008stad",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "169-174",
+    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
+    "title": "STAD 협동학습 모형 기반 통합형 학습시스템",
+    "volume": "12"
+  },
+  {
+    "author": [
+      {
+        "family": "임종범"
+      },
+      {
+        "family": "진성호"
+      },
+      {
+        "family": "이종혁"
+      },
+      {
+        "family": "이화민"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "임2010클라우드",
+    "citation-key": "임2010클라우드",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "publisher": "한국컴퓨터종합학술대회 발표논문집",
+    "title": "클라우드 컴퓨팅 환경에 적합한 그룹 기반 가쉽 멀티캐스트 프로토콜"
+  },
+  {
+    "author": [
+      {
+        "family": "임종범"
+      },
+      {
+        "family": "최희석"
+      },
+      {
+        "family": "강인성"
+      },
+      {
+        "family": "이대원"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "임2012클라우드",
+    "citation-key": "임2012클라우드",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "publisher": "한국정보처리학회 추계학술발표대회",
+    "title": "클라우드 컴퓨팅 환경에서 가쉽 기반 비잔틴 합의 알고리즘",
+    "volume": "19"
+  },
+  {
+    "author": [
+      {
+        "family": "임선열"
+      },
+      {
+        "family": "최효근"
+      },
+      {
+        "family": "이규열"
+      },
+      {
+        "family": "이태훈"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "임2018기계학습",
+    "citation-key": "임2018기계학습",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "1001-1004",
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "title": "기계학습을 활용한 IoT 플랫폼의 이상감지 시스템",
+    "volume": "25"
+  },
+  {
+    "author": [
+      {
+        "family": "임규정"
+      },
+      {
+        "family": "송충건"
+      },
+      {
+        "family": "김형준"
+      },
+      {
+        "family": "김명현"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "임2022HPC",
+    "citation-key": "임2022HPC",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "1639-1641",
+    "publisher": "한국컴퓨터종합학술대회 (KCC 2022)",
+    "title": "HPC 워크로드의 크기와 유형에 따른 Singularity 컨테이너 런타임의 오버헤드 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "장준범"
+      },
+      {
+        "family": "박봉우"
+      },
+      {
+        "family": "최희석"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "장2018docker",
+    "citation-key": "장2018docker",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "71-73",
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "title": "Docker Swarm의 메모리 과점유로 인한 성능 하락의 상관 관계 분석",
+    "volume": "25"
+  },
+  {
+    "author": [
+      {
+        "family": "장준범"
+      },
+      {
+        "family": "최희석"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "장2019모바일엣지",
+    "citation-key": "장2019모바일엣지",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "118-120",
+    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
+    "title": "모바일 엣지 환경에서 커넥티드카 실시간성 저해의 상관 관계 분석",
+    "volume": "26"
+  },
+  {
+    "author": [
+      {
+        "family": "장용현"
+      },
+      {
+        "family": "이재학"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "장2020KVM",
+    "citation-key": "장2020KVM",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "20-23",
+    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
+    "title": "KVM 가상머신에서 도커를 사용하는 시스템의 호스트 메모리 부하에 따른 task 처리 성능 분석",
+    "volume": "27"
+  },
+  {
+    "author": [
+      {
+        "family": "장용현"
+      },
+      {
+        "family": "이재학"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "장2020차량",
+    "citation-key": "장2020차량",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher": "한국차세대컴퓨팅학회 하계학술발표대회",
+    "title": "차량 고장 및 사고 탐지 서비스의 지연 시간 단축을 위한 모니터링 모듈 개발"
+  },
+  {
+    "author": [
+      {
+        "family": "장용현"
+      },
+      {
+        "family": "정진원"
+      },
+      {
+        "family": "이재학"
+      },
+      {
+        "family": "유헌창"
+      },
+      {
+        "family": "이은영"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "장2021오토스케일링",
+    "citation-key": "장2021오토스케일링",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "1385-1387",
+    "publisher": "한국정보과학회 학술발표논문집",
+    "title": "오토스케일링 알고리즘 비교를 위한 요청 수 기반 쿠버네티스 Horizontal Pod Autoscaler 모델링"
+  },
+  {
+    "author": [
+      {
+        "family": "정은희"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "정2007웹",
+    "citation-key": "정2007웹",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
+    "title": "웹 기반 네트워크 구성 시뮬레이터 설계 및 구현",
+    "volume": "11"
+  },
+  {
+    "author": [
+      {
+        "family": "정대용"
+      },
+      {
+        "family": "최숙경"
+      },
+      {
+        "family": "박지수"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "정2008모바일",
+    "citation-key": "정2008모바일",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "197-198",
+    "publisher": "한국컴퓨터종합학술대회 2008",
+    "title": "모바일 그리드 환경에서의 작업 이주 기법",
+    "volume": "35"
+  },
+  {
+    "author": [
+      {
+        "family": "정대용"
+      },
+      {
+        "family": "최숙경"
+      },
+      {
+        "family": "이정하"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "정2012스팟",
+    "citation-key": "정2012스팟",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "publisher": "한국정보처리학회 추계학술발표대회",
+    "title": "스팟 마켓 기반 클라우드 컴퓨팅에서 VM 이주",
+    "volume": "19"
+  },
+  {
+    "author": [
+      {
+        "family": "정재철"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "정2013도시형",
+    "citation-key": "정2013도시형",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "107-110",
+    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
+    "title": "도시형 대안학교 정보교육에서 언플러그드 학습이 학습동기 및 창의력에 미치는 영향 ",
+    "volume": "17"
+  },
+  {
+    "author": [
+      {
+        "family": "정원기"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "정2017사설망",
+    "citation-key": "정2017사설망",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "85-88",
+    "publisher": " 한국정보처리학회 추계학술발표대회 논문집",
+    "title": "사설망 서버 원격 모니터링을 위한 중개 솔루션 구현",
+    "volume": "24"
+  },
+  {
+    "author": [
+      {
+        "family": "정다운"
+      },
+      {
+        "family": "이미현"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "정2017웹",
+    "citation-key": "정2017웹",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "992-995",
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "title": "웹 크롤링을 이용한 국가 여행 위험요인 도출 기법",
+    "volume": "24"
+  },
+  {
+    "author": [
+      {
+        "family": "정진원"
+      },
+      {
+        "family": "이재학"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "정2020Docker",
+    "citation-key": "정2020Docker",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "24-27",
+    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
+    "title": "Docker Swarm에서 컨테이너간의 메모리 자원에 대한 성능 간섭 측정",
+    "volume": "27"
+  },
+  {
+    "author": [
+      {
+        "family": "정진원"
+      },
+      {
+        "family": "이재학"
+      },
+      {
+        "family": "길준민"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "정2020RSU",
+    "citation-key": "정2020RSU",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher": "한국차세대컴퓨팅학회 하계학술발표대회",
+    "title": "RSU내 컨테이너를 이용한 워크로드 처리기법"
+  },
+  {
+    "author": [
+      {
+        "family": "조언정"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "조2007디지털",
+    "citation-key": "조2007디지털",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "page": "1-1",
+    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
+    "title": "디지털 논리회로 학습을 위한 시뮬레이션형 코스웨어 설계 및 구현",
+    "volume": "11"
+  },
+  {
+    "author": [
+      {
+        "family": "조인석"
+      },
+      {
+        "family": "이대원"
+      },
+      {
+        "family": "박지수"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "조2007초고속",
+    "citation-key": "조2007초고속",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "publisher": "한국컴퓨터종합학술대회 2007",
+    "title": "초고속 이동 환경 기반 모바일 그리드에서 적응적 작업처리기법",
+    "volume": "34"
+  },
+  {
+    "author": [
+      {
+        "family": "조준희"
+      },
+      {
+        "family": "최창원"
+      },
+      {
+        "family": "한상범"
+      },
+      {
+        "family": "장명호"
+      },
+      {
+        "family": "김희주"
+      },
+      {
+        "family": "최희석"
+      },
+      {
+        "family": "김동정"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "조2014온실",
+    "citation-key": "조2014온실",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
+    "title": "온실 효과 실험에서 피지컬 컴퓨팅 기반 스팀 교육의 효과 분석",
+    "volume": "18"
+  },
+  {
+    "author": [
+      {
+        "family": "조창현"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "조2018MP",
+    "citation-key": "조2018MP",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "420-423",
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
+    "title": "MP(Master Pricer)기반 항공 예약 시스템의 검색 속도 및 UI/UX 개선 기법",
+    "volume": "25"
+  },
+  {
+    "author": [
+      {
+        "family": "조창현"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "조2020여행",
+    "citation-key": "조2020여행",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "378-381",
+    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
+    "title": "여행 수요 파악 및 항공 노선 전략 연구 : 웹 크롤링 기반 분석 기법",
+    "volume": "27"
+  },
+  {
+    "author": [
+      {
+        "family": "진성호"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "이화민"
+      },
+      {
+        "family": "이대원"
+      },
+      {
+        "family": "정순영"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "진2003그리드",
+    "citation-key": "진2003그리드",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "124-126",
+    "publisher": "정보과학회 봄학술발표논문집",
+    "title": "그리드 컴퓨팅 시스템에서 최적자원 선택 브로커 설계",
+    "volume": "30"
+  },
+  {
+    "author": [
+      {
+        "family": "진성호"
+      },
+      {
+        "family": "이화민"
+      },
+      {
+        "family": "이대원"
+      },
+      {
+        "family": "이종혁"
+      },
+      {
+        "family": "박성빈"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "진2004그리드",
+    "citation-key": "진2004그리드",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "466-468",
+    "publisher": "정보과학회 봄학술발표논문집",
+    "title": "그리드에서 Molecular Docking 어플리케이션 설계",
+    "volume": "31"
+  },
+  {
+    "author": [
+      {
+        "family": "최성진"
+      },
+      {
+        "family": "유헌창"
+      },
+      {
+        "family": "박학수"
+      },
+      {
+        "family": "최장원"
+      },
+      {
+        "family": "황일선"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "최2004자원",
+    "citation-key": "최2004자원",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "publisher": "한국과학기술정보인프라워크숍",
+    "title": "자원 제공자 컴퓨팅 환경에서 그룹 기반 적응적 연산 수행 기법"
+  },
+  {
+    "author": [
+      {
+        "family": "최숙경"
+      },
+      {
+        "family": "이종혁"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "최2007모바일",
+    "citation-key": "최2007모바일",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "publisher": "한국컴퓨터종합학술대회 2007",
+    "title": "모바일 그리드에서 모바일 장치의 특성을 고려한 결함 포용적 자원 선택 알고리즘",
+    "volume": "34"
+  },
+  {
+    "author": [
+      {
+        "family": "최영신"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "최2008웹",
+    "citation-key": "최2008웹",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "299-304",
+    "publisher": "한국컴퓨터교육학회 하계학술발표논문집",
+    "title": "웹기반 PBL 모형을 이용한 논리회로 학습 시스템",
+    "volume": "12"
+  },
+  {
+    "author": [
+      {
+        "family": "최희석"
+      },
+      {
+        "family": "유태묵"
+      },
+      {
+        "family": "박지수"
+      },
+      {
+        "family": "정대용"
+      },
+      {
+        "family": "임종범"
+      },
+      {
+        "family": "이정하"
+      },
+      {
+        "family": "서태원"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "최2013tilela",
+    "citation-key": "최2013tilela",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "publisher": "한국정보처리학회 춘계학술발표대회",
+    "title": "Tilela 다중코어와 x86-64 멀티코어 시스템의 성능 비교",
+    "volume": "20"
+  },
+  {
+    "author": [
+      {
+        "family": "최희석"
+      },
+      {
+        "family": "박지수"
+      },
+      {
+        "family": "최숙경"
+      },
+      {
+        "family": "서태원"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "최2013클라우드",
+    "citation-key": "최2013클라우드",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "publisher": "한국정보처리학회 추계학술발표대회",
+    "title": "클라우드에서 최적의 에너지 소비 임계값 기반 태스크 이주에 대한 연구",
+    "volume": "20"
+  },
+  {
+    "author": [
+      {
+        "family": "최성민"
+      },
+      {
+        "family": "송성진"
+      },
+      {
+        "family": "강지훈"
+      },
+      {
+        "family": "유태묵"
+      },
+      {
+        "family": "문영주"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "최2015xen",
+    "citation-key": "최2015xen",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "223-226",
+    "publisher": "한국정보기술학회 하계종합학술발표논문집",
+    "title": "Xen Credit 스케줄러의 Time Slice와 가상 머신의CPU 성능과의 상관관계 분석",
+    "volume": "22"
+  },
+  {
+    "author": [
+      {
+        "family": "최성민"
+      },
+      {
+        "family": "송성진"
+      },
+      {
+        "family": "유헌창"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "박지수"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "최2015클라우드",
+    "citation-key": "최2015클라우드",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "140-143",
+    "publisher": "한국정보처리학회 추계학술발표대회",
+    "title": "클라우드 환경에서 도커의 동적 자원 할당 구현 및 효과분석",
+    "volume": "22"
   },
   {
     "author": [
@@ -2914,15 +4015,15 @@
   {
     "author": [
       {
-        "family": "조창현"
+        "family": "최광훈"
       },
       {
         "family": "유헌창"
       }
     ],
     "type": "paper-conference",
-    "id": "조2018MP",
-    "citation-key": "조2018MP",
+    "id": "최2018사후",
+    "citation-key": "최2018사후",
     "issue": "2",
     "issued": {
       "date-parts": [
@@ -2931,23 +4032,135 @@
         ]
       ]
     },
-    "page": "420-423",
+    "page": "493-496",
     "publisher": "한국정보처리학회 추계학술발표대회 논문집",
-    "title": "MP(Master Pricer)기반 항공 예약 시스템의 검색 속도 및 UI/UX 개선 기법",
+    "title": "사후 필터링기법을 사용한 실시간 상황 인식 추천 시스템",
     "volume": "25"
   },
   {
     "author": [
       {
-        "family": "곽재효"
+        "family": "최재원"
+      },
+      {
+        "family": "임세윤"
+      },
+      {
+        "family": "이재학"
       },
       {
         "family": "유헌창"
       }
     ],
     "type": "paper-conference",
-    "id": "곽2018addie",
-    "citation-key": "곽2018addie",
+    "id": "최2019러닝상태",
+    "citation-key": "최2019러닝상태",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "127-130",
+    "publisher": "한국컴퓨터교육학회 동계학술발표대회 논문집",
+    "title": "러닝 상태의 세분화를 통한 클라우드 유휴자원 활용 기법",
+    "volume": "24"
+  },
+  {
+    "author": [
+      {
+        "family": "최재원"
+      },
+      {
+        "family": "이재학"
+      },
+      {
+        "family": "유헌창"
+      },
+      {
+        "family": "이은영"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "최2019크레딧",
+    "citation-key": "최2019크레딧",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "68-71",
+    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
+    "title": "크레딧-스케줄러의 불공평적 IO 작업 분배에 관한 연구",
+    "volume": "26"
+  },
+  {
+    "author": [
+      {
+        "family": "하현욱"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "하2009온톨로지",
+    "citation-key": "하2009온톨로지",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "7-12",
+    "publisher": "한국컴퓨터교육학회 동계학술발표논문집",
+    "title": "온톨로지 기반 창의적 역사학습시스템",
+    "volume": "13"
+  },
+  {
+    "author": [
+      {
+        "family": "허종건"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "허2016이기종",
+    "citation-key": "허2016이기종",
+    "issue": "2호",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "447-448",
+    "publisher": "한국정보처리학회 추계학술발표대회",
+    "title": "이기종 데이터베이스간 데이터 동기화의 성능 향상 기법의 설계 및 구현",
+    "volume": "23"
+  },
+  {
+    "author": [
+      {
+        "family": "허준"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "허2018컨테이너",
+    "citation-key": "허2018컨테이너",
     "issue": "2",
     "issued": {
       "date-parts": [
@@ -2956,18 +4169,46 @@
         ]
       ]
     },
-    "page": "143-146",
-    "publisher": "한국컴퓨터교육학회 하계 학술발표논문지",
-    "title": "ADDIE 교수설계모형 기반 교육용 정보역량강화 프로그램",
-    "volume": "22"
+    "page": "63-66",
+    "publisher": "한국정보처리학회 추계학술발표대회 논문집, ",
+    "title": "컨테이너 기반 오토스케일링 환경의 성능 분석",
+    "volume": "25"
   },
   {
     "author": [
       {
-        "family": "장준범"
+        "family": "황주나"
       },
       {
-        "family": "박봉우"
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "황2010안드로이드",
+    "citation-key": "황2010안드로이드",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "15-20",
+    "publisher": "한국컴퓨터교육학회 하계학술발표논문집",
+    "title": "안드로이드 환경에서 ARCS 모델 기반 모바일 한자 학습 콘텐츠 개발",
+    "volume": "14"
+  },
+  {
+    "author": [
+      {
+        "family": "황나윤"
+      },
+      {
+        "family": "송충건"
+      },
+      {
+        "family": "이미현"
       },
       {
         "family": "최희석"
@@ -2977,20 +4218,20 @@
       }
     ],
     "type": "paper-conference",
-    "id": "장2018docker",
-    "citation-key": "장2018docker",
-    "issue": "2",
+    "id": "황2017kvm",
+    "citation-key": "황2017kvm",
+    "issue": "1",
     "issued": {
       "date-parts": [
         [
-          2018
+          2017
         ]
       ]
     },
-    "page": "71-73",
-    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
-    "title": "Docker Swarm의 메모리 과점유로 인한 성능 하락의 상관 관계 분석",
-    "volume": "25"
+    "page": "26-29",
+    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
+    "title": "KVM 가상화 환경에서 워크로드 유형 기반 자원 격리 기법을 이용한 동적 자원 관리자",
+    "volume": "24"
   },
   {
     "author": [
@@ -3026,424 +4267,6 @@
   {
     "author": [
       {
-        "family": "권민수"
-      },
-      {
-        "family": "이재학"
-      },
-      {
-        "family": "명노영"
-      },
-      {
-        "family": "유헌창"
-      },
-      {
-        "family": "길준민"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "권2018kubernetes",
-    "citation-key": "권2018kubernetes",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "page": "74-76",
-    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
-    "title": "Kubernetes의 kubelet이 관리하는 pod의 수에 따른 성능 영향 분석",
-    "volume": "25"
-  },
-  {
-    "author": [
-      {
-        "family": "김소연"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2018sns",
-    "citation-key": "김2018sns",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "page": "147-150",
-    "publisher": "한국컴퓨터교육학회 하계 학술발표논문지",
-    "title": "SNS 비정형 데이터의 한국어 다중감성 분석 기법",
-    "volume": "22"
-  },
-  {
-    "author": [
-      {
-        "family": "유건희"
-      },
-      {
-        "family": "김도연"
-      },
-      {
-        "family": "신선우"
-      },
-      {
-        "family": "장명호"
-      },
-      {
-        "family": "김희주"
-      },
-      {
-        "family": "박봉우"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "유2018svm",
-    "citation-key": "유2018svm",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "page": "133-136",
-    "publisher": "한국컴퓨터교육학회 동계 학술발표논문지",
-    "title": "SVM 기반의 교실 내 시간과 위치에 따른 졸음 예측 기법",
-    "volume": "22"
-  },
-  {
-    "author": [
-      {
-        "family": "박태민"
-      },
-      {
-        "family": "표상우"
-      },
-      {
-        "family": "신해찬"
-      },
-      {
-        "family": "장명호"
-      },
-      {
-        "family": "김희주"
-      },
-      {
-        "family": "이재혁"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "박2018인",
-    "citation-key": "박2018인",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "publisher": "한국컴퓨터교육학회 동계 학술발표논문지",
-    "title": "1인 가구를 위한 아두이노 기반의 개인 택배 보관 시스템 개발"
-  },
-  {
-    "author": [
-      {
-        "family": "양영보"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "양2018교육",
-    "citation-key": "양2018교육",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "page": "244-246",
-    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
-    "title": "교육데이터마이닝을 이용한 학부모 학교 만족도 예측에 관한 연구",
-    "volume": "25"
-  },
-  {
-    "author": [
-      {
-        "family": "오지원"
-      },
-      {
-        "family": "박봉우"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "오2018배추",
-    "citation-key": "오2018배추",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "publisher": "한국컴퓨터교육학회 동계 학술발표논문지",
-    "title": "배추 수급조절을 위한 머신러닝 기반 가격예측",
-    "volume": "23"
-  },
-  {
-    "author": [
-      {
-        "family": "이준서"
-      },
-      {
-        "family": "박정현"
-      },
-      {
-        "family": "이준형"
-      },
-      {
-        "family": "장명호"
-      },
-      {
-        "family": "김희주"
-      },
-      {
-        "family": "송충건"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "이2018농구",
-    "citation-key": "이2018농구",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "page": "137-140",
-    "publisher": "한국컴퓨터교육학회 동계 학술발표논문지",
-    "title": "농구 학습을 위한 웨어러블 센서 기반의 동작 인식 기법",
-    "volume": "22"
-  },
-  {
-    "author": [
-      {
-        "family": "최광훈"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "최2018사후",
-    "citation-key": "최2018사후",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "page": "493-496",
-    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
-    "title": "사후 필터링기법을 사용한 실시간 상황 인식 추천 시스템",
-    "volume": "25"
-  },
-  {
-    "author": [
-      {
-        "family": "김영임"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2018웹사이트",
-    "citation-key": "김2018웹사이트",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "page": "842-845",
-    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
-    "title": "웹사이트 로딩 시간 단축을 위한 프론트엔드 프레임워크 비교 분석",
-    "volume": "25"
-  },
-  {
-    "author": [
-      {
-        "family": "김용선"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2018초등학생",
-    "citation-key": "김2018초등학생",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "page": "53-56",
-    "publisher": "한국컴퓨터교육학회 하계 학술발표논문지",
-    "title": "초등학생들의 프로그래밍 능력 향상을 위한 교수학습 방법 개발 및 적용",
-    "volume": "22"
-  },
-  {
-    "author": [
-      {
-        "family": "송혜선"
-      },
-      {
-        "family": "김석희"
-      },
-      {
-        "family": "짐동정"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "송2018플렉서블",
-    "citation-key": "송2018플렉서블",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "page": "181-184",
-    "publisher": "국컴퓨터교육학회 동계 학술발표논문지",
-    "title": "플렉서블 디스플레이를 활용한 STEAM 프로그램의 효과 연구",
-    "volume": "23"
-  },
-  {
-    "author": [
-      {
-        "family": "윤지선"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "윤2018건강검진",
-    "citation-key": "윤2018건강검진",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "page": "648-651",
-    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
-    "title": "건강검진 데이터 기반 흡연자 분류를 위한 모형별 성능 분석",
-    "volume": "25"
-  },
-  {
-    "author": [
-      {
-        "family": "임선열"
-      },
-      {
-        "family": "최효근"
-      },
-      {
-        "family": "이규열"
-      },
-      {
-        "family": "이태훈"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "임2018기계학습",
-    "citation-key": "임2018기계학습",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "page": "1001-1004",
-    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
-    "title": "기계학습을 활용한 IoT 플랫폼의 이상감지 시스템",
-    "volume": "25"
-  },
-  {
-    "author": [
-      {
-        "family": "허준"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "허2018컨테이너",
-    "citation-key": "허2018컨테이너",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "page": "63-66",
-    "publisher": "한국정보처리학회 추계학술발표대회 논문집, ",
-    "title": "컨테이너 기반 오토스케일링 환경의 성능 분석",
-    "volume": "25"
-  },
-  {
-    "author": [
-      {
         "family": "황승현"
       },
       {
@@ -3471,59 +4294,6 @@
     "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
     "title": "클라우드 환경에서 모니터링 주기가 가상머신의 성능에 미치는 영향 분석",
     "volume": "25"
-  },
-  {
-    "author": [
-      {
-        "family": "오지훈"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "오2018딥러닝기법",
-    "citation-key": "오2018딥러닝기법",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "page": "711-714",
-    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
-    "title": "딥러닝기법을 활용한 학습성과분석",
-    "volume": "25"
-  },
-  {
-    "author": [
-      {
-        "family": "강지훈"
-      },
-      {
-        "family": "이재학"
-      },
-      {
-        "family": "길준민"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "강2019PRC",
-    "citation-key": "강2019PRC",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
-    },
-    "page": "113-114",
-    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
-    "title": "PRC 기반 GPU 가상화 환경에서 GPU 메모리의 초과 사용 시 발생하는 가상머신 사이의 성능 불균형 문제 분석",
-    "volume": "26"
   },
   {
     "author": [
@@ -3586,775 +4356,5 @@
     "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
     "title": "Tepid Start: 유휴 Serverless 컨테이너의 관리 전략과 구현",
     "volume": "26"
-  },
-  {
-    "author": [
-      {
-        "family": "최재원"
-      },
-      {
-        "family": "이재학"
-      },
-      {
-        "family": "유헌창"
-      },
-      {
-        "family": "이은영"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "최2019크레딧",
-    "citation-key": "최2019크레딧",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
-    },
-    "page": "68-71",
-    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
-    "title": "크레딧-스케줄러의 불공평적 IO 작업 분배에 관한 연구",
-    "volume": "26"
-  },
-  {
-    "author": [
-      {
-        "family": "김태영"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2019스토리지",
-    "citation-key": "김2019스토리지",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
-    },
-    "page": "1513-1515",
-    "publisher": "한국정보과학회 2019 한국컴퓨터종합학술대회 (KCC 2019)",
-    "title": "스토리지 동적 데이터 중복제거를 통한 예측기법",
-    "volume": "46"
-  },
-  {
-    "author": [
-      {
-        "family": "최재원"
-      },
-      {
-        "family": "임세윤"
-      },
-      {
-        "family": "이재학"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "최2019러닝상태",
-    "citation-key": "최2019러닝상태",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
-    },
-    "page": "127-130",
-    "publisher": "한국컴퓨터교육학회 동계학술발표대회 논문집",
-    "title": "러닝 상태의 세분화를 통한 클라우드 유휴자원 활용 기법",
-    "volume": "24"
-  },
-  {
-    "author": [
-      {
-        "family": "권민수"
-      },
-      {
-        "family": "명노영"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "권2019하이퍼레저",
-    "citation-key": "권2019하이퍼레저",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
-    },
-    "page": "62-64",
-    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
-    "title": "하이퍼레저 패브릭의 실행과 순서화 단계에 대한 성능 분석",
-    "volume": "26"
-  },
-  {
-    "author": [
-      {
-        "family": "양영보"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "양2019특징최소화",
-    "citation-key": "양2019특징최소화",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
-    },
-    "page": "443-446",
-    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
-    "title": "특징 최소화와 데이터선별을 활용한 영화관객수 예측",
-    "volume": "26"
-  },
-  {
-    "author": [
-      {
-        "family": "장준범"
-      },
-      {
-        "family": "최희석"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "장2019모바일엣지",
-    "citation-key": "장2019모바일엣지",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
-    },
-    "page": "118-120",
-    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
-    "title": "모바일 엣지 환경에서 커넥티드카 실시간성 저해의 상관 관계 분석",
-    "volume": "26"
-  },
-  {
-    "author": [
-      {
-        "family": "권민수"
-      },
-      {
-        "family": "장준범"
-      },
-      {
-        "family": "이재학"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "권2019하이퍼레저2",
-    "citation-key": "권2019하이퍼레저2",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
-    },
-    "page": "110-112",
-    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
-    "title": "하이퍼레저 패브릭에서 채널을 이용한 보증 단계의 성능 최적화에 대한 연구",
-    "volume": "26"
-  },
-  {
-    "author": [
-      {
-        "family": "정진원"
-      },
-      {
-        "family": "이재학"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "정2020Docker",
-    "citation-key": "정2020Docker",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "page": "24-27",
-    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
-    "title": "Docker Swarm에서 컨테이너간의 메모리 자원에 대한 성능 간섭 측정",
-    "volume": "27"
-  },
-  {
-    "author": [
-      {
-        "family": "장용현"
-      },
-      {
-        "family": "이재학"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "장2020KVM",
-    "citation-key": "장2020KVM",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "page": "20-23",
-    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
-    "title": "KVM 가상머신에서 도커를 사용하는 시스템의 호스트 메모리 부하에 따른 task 처리 성능 분석",
-    "volume": "27"
-  },
-  {
-    "author": [
-      {
-        "family": "정진원"
-      },
-      {
-        "family": "이재학"
-      },
-      {
-        "family": "길준민"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "정2020RSU",
-    "citation-key": "정2020RSU",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "publisher": "한국차세대컴퓨팅학회 하계학술발표대회",
-    "title": "RSU내 컨테이너를 이용한 워크로드 처리기법"
-  },
-  {
-    "author": [
-      {
-        "family": "장용현"
-      },
-      {
-        "family": "이재학"
-      },
-      {
-        "family": "정광식"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "장2020차량",
-    "citation-key": "장2020차량",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "publisher": "한국차세대컴퓨팅학회 하계학술발표대회",
-    "title": "차량 고장 및 사고 탐지 서비스의 지연 시간 단축을 위한 모니터링 모듈 개발"
-  },
-  {
-    "author": [
-      {
-        "family": "조창현"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "조2020여행",
-    "citation-key": "조2020여행",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "page": "378-381",
-    "publisher": "한국정보처리학회 춘계학술발표대회 논문집",
-    "title": "여행 수요 파악 및 항공 노선 전략 연구 : 웹 크롤링 기반 분석 기법",
-    "volume": "27"
-  },
-  {
-    "author": [
-      {
-        "family": "김세진"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2020서버리스",
-    "citation-key": "김2020서버리스",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "page": "113-115",
-    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
-    "title": "서버리스 컴퓨팅을 위한 다양한 컨테이너 런타임 환경에서 라이브러리 공유 성능 분석",
-    "volume": "27"
-  },
-  {
-    "author": [
-      {
-        "family": "송충건"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "송2020하이퍼레저",
-    "citation-key": "송2020하이퍼레저",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "page": "49-51",
-    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
-    "title": "하이퍼레저 패브릭 환경에서 체인코드 및 레저유형에 따른 합의 작업의 성능 분석",
-    "volume": "27"
-  },
-  {
-    "author": [
-      {
-        "family": "김형준"
-      },
-      {
-        "family": "김세진"
-      },
-      {
-        "family": "길준민"
-      },
-      {
-        "family": "정광식"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2021SVR",
-    "citation-key": "김2021SVR",
-    "issued": {
-      "date-parts": [
-        [
-          2021
-        ]
-      ]
-    },
-    "page": "1371-1373",
-    "publisher": "한국정보과학회 학술발표논문집",
-    "title": "SVR을 이용한 가상머신 자원 이용률 예측 기법의 성능 분석"
-  },
-  {
-    "author": [
-      {
-        "family": "곽민기"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "곽2021kmeans",
-    "citation-key": "곽2021kmeans",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2021
-        ]
-      ]
-    },
-    "publisher": "한국정보처리학회 추계학술발표대회 논문집",
-    "title": "K-Means Clustering 알고리즘 기반 클라우드 동적 자원 관리 기법에 관한 연구",
-    "volume": "28"
-  },
-  {
-    "author": [
-      {
-        "family": "곽준환"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "곽2021가격",
-    "citation-key": "곽2021가격",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2021
-        ]
-      ]
-    },
-    "publisher": "한국정보과학회 2021 한국소프트웨어종합학술대회 (KSC2021)",
-    "title": "가격 민감도를 고려한 Video 추천 기법",
-    "volume": "48"
-  },
-  {
-    "author": [
-      {
-        "family": "윤형준"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "윤2021영어",
-    "citation-key": "윤2021영어",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2021
-        ]
-      ]
-    },
-    "publisher": "한국컴퓨터교육학회 하계학술발표대회",
-    "title": "영어 성취 그룹별 인공지능 챗봇의 개별화 학습 도움 효과 분석 - AI 펭톡을 중심으로",
-    "volume": "25"
-  },
-  {
-    "author": [
-      {
-        "family": "이지영"
-      },
-      {
-        "family": "김석희"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "이2021배터리",
-    "citation-key": "이2021배터리",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2021
-        ]
-      ]
-    },
-    "publisher": "한국컴퓨터교육학회 하계학술발표대회",
-    "title": "배터리 기반 융합인재교육 개발 및 효과 연구",
-    "volume": "25"
-  },
-  {
-    "author": [
-      {
-        "family": "김명현"
-      },
-      {
-        "family": "성광현"
-      },
-      {
-        "family": "유헌창"
-      },
-      {
-        "family": "이은영"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2021쿠버네티스",
-    "citation-key": "김2021쿠버네티스",
-    "issued": {
-      "date-parts": [
-        [
-          2021
-        ]
-      ]
-    },
-    "page": "1363-1365",
-    "publisher": "한국정보과학회 학술발표논문집",
-    "title": "쿠버네티스 클러스터 환경에서 kube-proxy 모드 별 네트워크 라우팅 성능 분석"
-  },
-  {
-    "author": [
-      {
-        "family": "유문상"
-      },
-      {
-        "family": "송충건"
-      },
-      {
-        "family": "유헌창"
-      },
-      {
-        "family": "이은영"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "유2021쿠버네티스",
-    "citation-key": "유2021쿠버네티스",
-    "issued": {
-      "date-parts": [
-        [
-          2021
-        ]
-      ]
-    },
-    "page": "1382-1384",
-    "publisher": "한국정보과학회 학술발표논문집",
-    "title": "쿠버네티스 클러스터에서 작업 유형 기반 오토스케일링 기준 선택과 성능 분석"
-  },
-  {
-    "author": [
-      {
-        "family": "장용현"
-      },
-      {
-        "family": "정진원"
-      },
-      {
-        "family": "이재학"
-      },
-      {
-        "family": "유헌창"
-      },
-      {
-        "family": "이은영"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "장2021오토스케일링",
-    "citation-key": "장2021오토스케일링",
-    "issued": {
-      "date-parts": [
-        [
-          2021
-        ]
-      ]
-    },
-    "page": "1385-1387",
-    "publisher": "한국정보과학회 학술발표논문집",
-    "title": "오토스케일링 알고리즘 비교를 위한 요청 수 기반 쿠버네티스 Horizontal Pod Autoscaler 모델링"
-  },
-  {
-    "author": [
-      {
-        "family": "임규정"
-      },
-      {
-        "family": "송충건"
-      },
-      {
-        "family": "김형준"
-      },
-      {
-        "family": "김명현"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "임2022HPC",
-    "citation-key": "임2022HPC",
-    "issued": {
-      "date-parts": [
-        [
-          2022
-        ]
-      ]
-    },
-    "page": "1639-1641",
-    "publisher": "한국컴퓨터종합학술대회 (KCC 2022)",
-    "title": "HPC 워크로드의 크기와 유형에 따른 Singularity 컨테이너 런타임의 오버헤드 분석"
-  },
-  {
-    "author": [
-      {
-        "family": "김명현"
-      },
-      {
-        "family": "이재학"
-      },
-      {
-        "family": "길준민"
-      },
-      {
-        "family": "정광식"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2022OS",
-    "citation-key": "김2022OS",
-    "issued": {
-      "date-parts": [
-        [
-          2022
-        ]
-      ]
-    },
-    "publisher": "한국컴퓨터교육학회 하계학술발표대회",
-    "title": "OS 가상화 시스템에서 메모리 공유 전략에 대한 성능 분석",
-    "volume": "26"
-  },
-  {
-    "author": [
-      {
-        "family": "김혁"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2022topk",
-    "citation-key": "김2022topk",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2022
-        ]
-      ]
-    },
-    "publisher": "한국컴퓨터교육학회 동계학술발표대회 논문집",
-    "title": "TOP-K와 실시간성 기반 개선된 Apriori 알고리즘",
-    "volume": "26"
-  },
-  {
-    "author": [
-      {
-        "family": "송충건"
-      },
-      {
-        "family": "김형준"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "송2022오픈",
-    "citation-key": "송2022오픈",
-    "issued": {
-      "date-parts": [
-        [
-          2022
-        ]
-      ]
-    },
-    "publisher": "한국컴퓨터교육학회 하계학술발표대회",
-    "title": "오픈 데이터 기반 애플리케이션의 QoS 보장을 위한 자동화된 API 분석 도구",
-    "volume": "26"
-  },
-  {
-    "author": [
-      {
-        "family": "김진구"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2022기술문서",
-    "citation-key": "김2022기술문서",
-    "issued": {
-      "date-parts": [
-        [
-          2022
-        ]
-      ]
-    },
-    "publisher": "한국정보처리학회 춘계학술발표대회",
-    "title": "기술문서 분류를 위한 통계기반 기계학습 모델 성능비교 및 한계 연구",
-    "volume": "29"
-  },
-  {
-    "author": [
-      {
-        "family": "김세진"
-      },
-      {
-        "family": "유문상"
-      },
-      {
-        "family": "유헌창"
-      }
-    ],
-    "type": "paper-conference",
-    "id": "김2022서버리스",
-    "citation-key": "김2022서버리스",
-    "issued": {
-      "date-parts": [
-        [
-          2022
-        ]
-      ]
-    },
-    "publisher": "한국정보처리학회 춘계학술발표대회",
-    "title": "서버리스 플랫폼에서 연속된 콜드 스타트 완화를 위한 Pre-Warming 기법",
-    "volume": "29"
   }
 ]
