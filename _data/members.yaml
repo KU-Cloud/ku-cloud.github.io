@@ -40,7 +40,7 @@ master:
   - name: Myung-Hyun Kim
     mail: freckie@korea.ac.kr
     research:
-      - "Serverless Computing"
+      - "Serverless & MLOps"
   - name: Hyungjun Kim
     mail: ledzep0830@korea.ac.kr
     research:
@@ -109,7 +109,7 @@ alumniPhd:
   - name: Heeseok Choi
     mail: hsrangken@korea.ac.kr
     work:
-      - "에이티지랩"
+      - "ATGLab"
   - name: Jihun Kang
     mail: k2j23h@korea.ac.kr
     work:
@@ -167,3 +167,5 @@ alumniMaster:
       - "Hyperconnect"
   - name: Jinwon Jeong
     mail: jin4812@korea.ac.kr
+    work:
+      - "11Street"
