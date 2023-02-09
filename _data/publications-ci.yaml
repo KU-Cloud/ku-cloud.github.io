@@ -1,6 +1,5 @@
 [
   {
-    "title": "Adaptive Group Computation Approach in the Peer-to-peer Grid Computing Systems",
     "author": [
       {
         "given": "MaengSoon",
@@ -23,21 +22,20 @@
         "family": "Yu"
       }
     ],
-    "publisher": "Workshop on Adaptive Grid Middleware(AGridM2004)",
     "type": "paper-conference",
-    "citation-label": "baik2004adaptive",
     "id": "baik2004adaptive",
-    "year-suffix": "adaptive",
+    "citation-key": "baik2004adaptive",
     "issued": {
       "date-parts": [
         [
           2004
         ]
       ]
-    }
+    },
+    "publisher": "Workshop on Adaptive Grid Middleware(AGridM2004)",
+    "title": "Adaptive Group Computation Approach in the Peer-to-peer Grid Computing Systems"
   },
   {
-    "title": "A Scheduler Considering Characteristics of VM for Mitigation of Unstable Performance",
     "author": [
       {
         "given": "Bongwoo",
@@ -64,18 +62,18 @@
         "family": "Yu"
       }
     ],
-    "publisher": "International Symposium on Parallel Architectures, Algorithms and Programming (PAAP’18)",
     "type": "paper-conference",
-    "citation-label": "bak2018scheduler",
     "id": "bak2018scheduler",
-    "year-suffix": "scheduler",
+    "citation-key": "bak2018scheduler",
     "issued": {
       "date-parts": [
         [
           2018
         ]
       ]
-    }
+    },
+    "publisher": "International Symposium on Parallel Architectures, Algorithms",
+    "title": "A Scheduler Considering Characteristics of VM for Mitigation of Unstable Performance"
   },
   {
     "author": [
@@ -84,8 +82,7 @@
         "family": "Chin"
       },
       {
-        "given": ",",
-        "family": "JongHyukLee"
+        "given": "JongHyukLee"
       },
       {
         "given": "HwaMin",
@@ -104,13 +101,10 @@
         "family": "Lee"
       }
     ],
-    "page": "89 - 89",
-    "title": "OGSA-GFS : A OGSA based Grid File System",
     "DOI": "10.1109/SKG.2005.97",
     "type": "paper-conference",
-    "citation-label": "chin2005ogsa",
     "id": "chin2005ogsa",
-    "year-suffix": "ogsa",
+    "citation-key": "chin2005ogsa",
     "issued": {
       "date-parts": [
         [
@@ -118,10 +112,12 @@
           12
         ]
       ]
-    }
+    },
+    "page": "89 - 89",
+    "title": "OGSA-GFS : A OGSA based Grid File System"
   },
   {
-    "title": "List scheduling method for service oriented grid applications",
+    "abstract": "Recently, grid computing environment has being changed to the service-oriented grid integrated with Web Services for supporting more open, scalable and flexible grid architecture. In this architecture, a grid application is the service-oriented grid application in which Grid Services are executed according to the workflow of the grid application. This implies that the grid scheduling method needs to consider grid service characteristics. Although many grid scheduling methods have been developed, we need new grid scheduling method to reflect the service-oriented grid concept and to ensure performance of the grid application. Therefore, we propose the grid service performance model based on factors such as service availability, accessibility, reliability, throughput, and slowdown, and develop grid scheduling method to increase performance of the service-oriented grid application.",
     "author": [
       {
         "given": "SungHo",
@@ -140,14 +136,12 @@
         "family": "Yu"
       }
     ],
-    "DOI": "10.1109/SKG.2006.60",
-    "language": "English",
-    "ISBN": "0769532055",
     "container-title": "2006 2nd International Conference on Semantics Knowledge and Grid, SKG",
+    "DOI": "10.1109/SKG.2006.60",
     "type": "paper-conference",
-    "citation-label": "chin2006list",
     "id": "chin2006list",
-    "year-suffix": "list",
+    "citation-key": "chin2006list",
+    "ISBN": "0769532055",
     "issued": {
       "date-parts": [
         [
@@ -156,7 +150,9 @@
           1
         ]
       ]
-    }
+    },
+    "language": "English",
+    "title": "List scheduling method for service oriented grid applications"
   },
   {
     "author": [
@@ -181,13 +177,10 @@
         "family": "Yu"
       }
     ],
-    "page": "458-461",
-    "title": "Dynamic Service Scheduling for Workflow Applications in Service Oriented Grid",
     "DOI": "10.1109/SKG.2007.222",
     "type": "paper-conference",
-    "citation-label": "chin2007dynamic",
     "id": "chin2007dynamic",
-    "year-suffix": "dynamic",
+    "citation-key": "chin2007dynamic",
     "issued": {
       "date-parts": [
         [
@@ -195,9 +188,13 @@
           10
         ]
       ]
-    }
+    },
+    "page": "458-461",
+    "title": "Dynamic Service Scheduling for Workflow Applications in Service Oriented Grid"
   },
   {
+    "publisher-place": "Washington, DC, USA",
+    "number-of-pages": "6",
     "author": [
       {
         "given": "SungJin",
@@ -220,26 +217,23 @@
         "family": "Yu"
       }
     ],
-    "title": "Volunteer Availability Based Fault Tolerant Scheduling Mechanism in Desktop Grid Computing Environment",
     "container-title": "Proceedings of the Network Computing and Applications, Third IEEE International Symposium",
     "collection-title": "NCA '04",
-    "ISBN": "0-7695-2242-4",
-    "page": "366-371",
-    "number-of-pages": "6",
-    "URL": "http://dl.acm.org/citation.cfm?id=1025126.1025977",
-    "publisher": "IEEE Computer Society",
-    "publisher-place": "Washington, DC, USA",
     "type": "paper-conference",
-    "citation-label": "choi2004volunteer",
     "id": "choi2004volunteer",
-    "year-suffix": "volunteer",
+    "citation-key": "choi2004volunteer",
+    "ISBN": "0-7695-2242-4",
     "issued": {
       "date-parts": [
         [
           2004
         ]
       ]
-    }
+    },
+    "page": "366-371",
+    "publisher": "IEEE Computer Society",
+    "title": "Volunteer Availability Based Fault Tolerant Scheduling Mechanism in Desktop Grid Computing Environment",
+    "URL": "http://dl.acm.org/citation.cfm?id=1025126.1025977"
   },
   {
     "author": [
@@ -264,14 +258,11 @@
         "family": "Yu"
       }
     ],
-    "page": "426-429",
-    "title": "Group-based Resource Selection Algorithm Supporting Fault-Tolerance in Mobile Grid",
-    "ISBN": "0-7695-3007-9",
     "DOI": "10.1109/SKG.2007.99",
     "type": "paper-conference",
-    "citation-label": "choi2007group",
     "id": "choi2007group",
-    "year-suffix": "group",
+    "citation-key": "choi2007group",
+    "ISBN": "0-7695-3007-9",
     "issued": {
       "date-parts": [
         [
@@ -279,10 +270,11 @@
           11
         ]
       ]
-    }
+    },
+    "page": "426-429",
+    "title": "Group-based Resource Selection Algorithm Supporting Fault-Tolerance in Mobile Grid"
   },
   {
-    "title": "Adaptive Scheduling Supporting QoS in Mobile Grids",
     "author": [
       {
         "given": "SookKyong",
@@ -297,20 +289,22 @@
         "family": "Chung"
       }
     ],
-    "publisher": "9th International Workshop on State-of-the-Art in Scientific and Parallel Computing(PARA 2008)",
     "type": "paper-conference",
-    "citation-label": "choi2008adaptive",
     "id": "choi2008adaptive",
-    "year-suffix": "adaptive",
+    "citation-key": "choi2008adaptive",
     "issued": {
       "date-parts": [
         [
           2008
         ]
       ]
-    }
+    },
+    "publisher": "9th International Workshop on State-of-the-Art in Scientific",
+    "title": "Adaptive Scheduling Supporting QoS in Mobile Grids"
   },
   {
+    "publisher-place": "Berlin, Heidelberg",
+    "abstract": "In recent years, cloud computing has become a significant technology trend because of various advantages including cost savings, flexibility, high availability, and scalability using virtualization technology. However, one of the concerns for using cloud computing is security. In fact, there are multiple attack surfaces in virtualized environments. In this paper, we build a fault tolerant cloud architecture using nested virtualization. With our constructed cloud architecture, we argue that a malicious virtual machine cannot subvert the whole virtual machines on the physical host machine. To support this, we compare the performance of two types of virtual machines (i.e., nested virtual machines and regular virtual machines). Results provide encouraging support for the validity of our cloud architecture with negligible performance degradation while having fault tolerance.",
     "author": [
       {
         "given": "HeeSeok",
@@ -341,6 +335,7 @@
         "family": "Yu"
       }
     ],
+    "container-title": "Ubiquitous Information Technologies and Applications",
     "editor": [
       {
         "given": "Young-Sik",
@@ -359,26 +354,22 @@
         "family": "Park"
       }
     ],
-    "title": "A Study on Performance Comparison of Cloud Architectures Using Nested Virtualization",
-    "container-title": "Ubiquitous Information Technologies and Applications",
-    "publisher": "Springer Berlin Heidelberg",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "77-84",
-    "ISBN": "978-3-642-41671-2",
     "type": "paper-conference",
-    "citation-label": "choi2014study",
     "id": "choi2014study",
-    "year-suffix": "study",
+    "citation-key": "choi2014study",
+    "ISBN": "978-3-642-41671-2",
     "issued": {
       "date-parts": [
         [
           2014
         ]
       ]
-    }
+    },
+    "page": "77-84",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "A Study on Performance Comparison of Cloud Architectures Using Nested Virtualization"
   },
   {
-    "title": "GPSF: General-Purpose Scheduling Framework for Container based on Cloud Environment",
     "author": [
       {
         "given": "Sungmin",
@@ -405,22 +396,21 @@
         "family": "Yu"
       }
     ],
-    "publisher": "IEEE International Conference on Green Computing and Communications (GreenCom 2016)",
-    "page": "769-772",
     "type": "paper-conference",
-    "citation-label": "choi2016gpsf",
     "id": "choi2016gpsf",
-    "year-suffix": "gpsf",
+    "citation-key": "choi2016gpsf",
     "issued": {
       "date-parts": [
         [
           2016
         ]
       ]
-    }
+    },
+    "page": "769-772",
+    "publisher": "IEEE International Conference on Green Computing",
+    "title": "GPSF: General-Purpose Scheduling Framework for Container based on Cloud Environment"
   },
   {
-    "title": "Resource Utilization-aware Scheduling Technique based on Dynamic Cache Refresh Scheme in Large-Scale Cloud Data Centers",
     "author": [
       {
         "given": "HeeSeok",
@@ -443,21 +433,20 @@
         "family": "Chung"
       }
     ],
-    "publisher": "International Conference on Computational Science and Computational Intelligence",
     "type": "paper-conference",
-    "citation-label": "choi2017resource",
     "id": "choi2017resource",
-    "year-suffix": "resource",
+    "citation-key": "choi2017resource",
     "issued": {
       "date-parts": [
         [
           2017
         ]
       ]
-    }
+    },
+    "publisher": "International Conference on Computational Science",
+    "title": "Resource Utilization-aware Scheduling Technique based on Dynamic Cache Refresh Scheme in Large-Scale Cloud Data Centers"
   },
   {
-    "title": "Physical Machine Status Information Management Scheme based on Resource Utilization in Cloud Computing Environments",
     "author": [
       {
         "given": "HeeSeok",
@@ -472,24 +461,23 @@
         "family": "Yu"
       }
     ],
-    "publisher": "International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2018)",
-    "volume": "2",
-    "issue": "1",
-    "page": "63-64",
     "type": "paper-conference",
-    "citation-label": "choi2018physical",
     "id": "choi2018physical",
-    "year-suffix": "physical",
+    "citation-key": "choi2018physical",
+    "issue": "1",
     "issued": {
       "date-parts": [
         [
           2018
         ]
       ]
-    }
+    },
+    "page": "63-64",
+    "publisher": "International conference on Interdisciplinary research on Computer Science, Psychology,",
+    "title": "Physical Machine Status Information Management Scheme based on Resource Utilization in Cloud Computing Environments",
+    "volume": "2"
   },
   {
-    "title": "Reducing the Rollback on Mobile Computing Environments",
     "author": [
       {
         "given": "Kwang-Sik",
@@ -504,22 +492,21 @@
         "family": "Yu"
       }
     ],
-    "publisher": "Proceedings of the ISCA 13th International Conference, Honolulu, Hawaii",
-    "page": "106-110",
     "type": "paper-conference",
-    "citation-label": "chung1998reducing",
     "id": "chung1998reducing",
-    "year-suffix": "reducing",
+    "citation-key": "chung1998reducing",
     "issued": {
       "date-parts": [
         [
           1998
         ]
       ]
-    }
+    },
+    "page": "106-110",
+    "publisher": "Proceedings of the ISCA 13th International Conference, Honolulu, Hawaii",
+    "title": "Reducing the Rollback on Mobile Computing Environments"
   },
   {
-    "title": "Mobile Host’s Location Information Distribution Management in PCN",
     "author": [
       {
         "given": "Kwang-Sik",
@@ -538,21 +525,20 @@
         "family": "Yu"
       }
     ],
-    "publisher": "The 4th World Multiconference on Systemics, Cybernetics and Informatics, Florida",
     "type": "paper-conference",
-    "citation-label": "chung2000mobile",
     "id": "chung2000mobile",
-    "year-suffix": "mobile",
+    "citation-key": "chung2000mobile",
     "issued": {
       "date-parts": [
         [
           2000
         ]
       ]
-    }
+    },
+    "publisher": "The 4th World Multiconference on Systemics, Cybernetics",
+    "title": "Mobile Host’s Location Information Distribution Management in PCN"
   },
   {
-    "title": "Study on Digital Textbook Software Platform and Service Platform",
     "author": [
       {
         "given": "KwangSik",
@@ -583,21 +569,23 @@
         "family": "Yu"
       }
     ],
-    "publisher": "International Forum on Open and Distance Education",
-    "page": "324-333",
     "type": "paper-conference",
-    "citation-label": "chung2009study",
     "id": "chung2009study",
-    "year-suffix": "study",
+    "citation-key": "chung2009study",
     "issued": {
       "date-parts": [
         [
           2009
         ]
       ]
-    }
+    },
+    "page": "324-333",
+    "publisher": "International Forum on Open",
+    "title": "Study on Digital Textbook Software Platform and Service Platform"
   },
   {
+    "publisher-place": "Cham",
+    "abstract": "Information and communication technologies enable people to access to various documentations and information. Huge documents and information in the Internet or storage disks have made search time more important. Especially as the volume size and the number of documents on the Internet increase, string search times and costs increase have become big burden to search service. But, most of string searching algorithms have not consider lexical structures nor vowels' occurrence frequency. Formal documents (articles, news, novels, etc.) have important characteristic that is `well-formed written' English. And words of formal documents have `limit number of words and alphabets' that are listed in a dictionary. The `limit number of words and alphabets' has predictable occurrence probability in real world's documentations.",
     "author": [
       {
         "given": "Kwang Sik",
@@ -612,6 +600,7 @@
         "family": "Yu"
       }
     ],
+    "container-title": "Intelligence Science and Big Data Engineering. Big Data and Machine Learning Techniques",
     "editor": [
       {
         "given": "Xiaofei",
@@ -646,26 +635,23 @@
         "family": "Zhang"
       }
     ],
-    "title": "An Efficient String Searching Algorithm Based on Occurrence Frequency and Pattern of Vowels and Consonants in a Pattern",
-    "container-title": "Intelligence Science and Big Data Engineering. Big Data and Machine Learning Techniques",
-    "publisher": "Springer International Publishing",
-    "publisher-place": "Cham",
-    "page": "277-286",
-    "ISBN": "978-3-319-23862-3",
     "type": "paper-conference",
-    "citation-label": "chung2015efficient",
     "id": "chung2015efficient",
-    "year-suffix": "efficient",
+    "citation-key": "chung2015efficient",
+    "ISBN": "978-3-319-23862-3",
     "issued": {
       "date-parts": [
         [
           2015
         ]
       ]
-    }
+    },
+    "page": "277-286",
+    "publisher": "Springer International Publishing",
+    "title": "An Efficient String Searching Algorithm Based on Occurrence Frequency and Pattern of Vowels and Consonants in a Pattern"
   },
   {
-    "title": "Programming practice and digital textbook on smartphone",
+    "abstract": "As information technology service matures to an even higher level and as sensor technology becomes embedded on person’s life, the needs to support and satisfy instant personal learning activity on own life without the limitation of time, space, and additional complement have become a vital point to everyday lives. Especially smartphone users are increased in a short-term lesson and exercise, and instant and short learning contents on mobile learning model. And programing subjects for distance learning are limitedly supported, since virtual practice environment is not appropriate for tutoring service. Programming practices lesson has frequent program errors and needs error correction by oneself or by a tutor. But on distance learning, it is almost impossible for a learner to be guided or correct lesson from a tutor. In this paper, well-formed programming practice scenarios, by that a learner could follow and learn program practice lesson, are supported and delivered by small-bite size learning contents. For well-formed programming practice scenarios, small bite learning contents are 10–15 min length and consists of lecture video, synchronized lecture slides video with lecture video, digital textbook, sample program execution drills, and modifiable program execution drills. Programming Exercise, a mobile learning app, provides learners with interactions between the learners and the contents by program practice.",
     "author": [
       {
         "given": "Kwangsik",
@@ -680,27 +666,27 @@
         "family": "Yu"
       }
     ],
-    "language": "English",
-    "ISBN": "9789811015359",
-    "volume": "393",
-    "collection-title": "Lecture Notes in Electrical Engineering",
-    "publisher": "Springer Verlag",
-    "page": "209-214",
     "container-title": "Advanced Multimedia and Ubiquitous Engineering - FutureTech and MUE",
+    "collection-title": "Lecture Notes in Electrical Engineering",
     "type": "paper-conference",
-    "citation-label": "chung2016programming",
     "id": "chung2016programming",
-    "year-suffix": "programming",
+    "citation-key": "chung2016programming",
+    "ISBN": "9789811015359",
     "issued": {
       "date-parts": [
         [
           2016
         ]
       ]
-    }
+    },
+    "keyword": "Smart learning,Smart phone,Virtual laboratory,Virtual programming practice",
+    "language": "English",
+    "page": "209-214",
+    "publisher": "Springer Verlag",
+    "title": "Programming practice and digital textbook on smartphone",
+    "volume": "393"
   },
   {
-    "title": "Design of Digital Textbook Service Platform",
     "author": [
       {
         "given": "KwangSik",
@@ -711,22 +697,21 @@
         "family": "Yu"
       }
     ],
-    "publisher": "International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2017)",
-    "page": "155-156",
     "type": "paper-conference",
-    "citation-label": "chung2017design",
     "id": "chung2017design",
-    "year-suffix": "design",
+    "citation-key": "chung2017design",
     "issued": {
       "date-parts": [
         [
           2017
         ]
       ]
-    }
+    },
+    "page": "155-156",
+    "publisher": "International conference on Interdisciplinary research on Computer Science, Psychology,",
+    "title": "Design of Digital Textbook Service Platform"
   },
   {
-    "title": "Interactive Digital Textbook Development Methodology for Higher Education",
     "author": [
       {
         "given": "KwangSik",
@@ -737,24 +722,23 @@
         "family": "Yu"
       }
     ],
-    "publisher": "International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2018)",
-    "volume": "2",
-    "issue": "1",
-    "page": "85-86",
     "type": "paper-conference",
-    "citation-label": "chung2018interactive",
     "id": "chung2018interactive",
-    "year-suffix": "interactive",
+    "citation-key": "chung2018interactive",
+    "issue": "1",
     "issued": {
       "date-parts": [
         [
           2018
         ]
       ]
-    }
+    },
+    "page": "85-86",
+    "publisher": "International conference on Interdisciplinary research on Computer Science, Psychology,",
+    "title": "Interactive Digital Textbook Development Methodology for Higher Education",
+    "volume": "2"
   },
   {
-    "title": "Efficient State Maintenance in Serverless-based Workflow Using Host Storage",
     "author": [
       {
         "given": "Seunghyun",
@@ -777,21 +761,20 @@
         "family": "Lee"
       }
     ],
-    "publisher": "International Conference on Interdisciplinary research on Computer science, Psychology, and Education (ICICPE 2019)",
     "type": "paper-conference",
-    "citation-label": "hwang2019efficient",
     "id": "hwang2019efficient",
-    "year-suffix": "efficient",
+    "citation-key": "hwang2019efficient",
     "issued": {
       "date-parts": [
         [
           2019
         ]
       ]
-    }
+    },
+    "publisher": "International Conference on Interdisciplinary research on Computer science, Psychology,",
+    "title": "Efficient State Maintenance in Serverless-based Workflow Using Host Storage"
   },
   {
-    "title": "Implementation of Low-latency Message Delivery for Serverless based Workflow",
     "author": [
       {
         "given": "Seunghyun",
@@ -806,21 +789,20 @@
         "family": "Yu"
       }
     ],
-    "publisher": "IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2019)",
     "type": "paper-conference",
-    "citation-label": "hwang2019implementation",
     "id": "hwang2019implementation",
-    "year-suffix": "implementation",
+    "citation-key": "hwang2019implementation",
     "issued": {
       "date-parts": [
         [
           2019
         ]
       ]
-    }
+    },
+    "publisher": "IEEE International Conference on Mobile Ad-Hoc",
+    "title": "Implementation of Low-latency Message Delivery for Serverless based Workflow"
   },
   {
-    "title": "IIoT-aware JSON serialization: JSON-object format caching method",
     "author": [
       {
         "given": "Yonghyeon",
@@ -839,21 +821,20 @@
         "family": "Lee"
       }
     ],
-    "publisher": "International Conference on Interdisciplinary research on Computer science, Psychology, and Education (ICICPE 2020)",
     "type": "paper-conference",
-    "citation-label": "jang2020IIoT",
     "id": "jang2020IIoT",
-    "year-suffix": "IIoT",
+    "citation-key": "jang2020IIoT",
     "issued": {
       "date-parts": [
         [
           2020
         ]
       ]
-    }
+    },
+    "publisher": "International Conference on Interdisciplinary research on Computer science, Psychology,",
+    "title": "IIoT-aware JSON serialization: JSON-object format caching method"
   },
   {
-    "title": "Workload Processing Method Considering Priority Based on Hot Standby System in RSU",
     "author": [
       {
         "given": "Jinwon",
@@ -876,20 +857,22 @@
         "family": "Yu"
       }
     ],
-    "publisher": "International Conference on Interdisciplinary research on Computer science, Psychology, and Education (ICICPE 2020)",
     "type": "paper-conference",
-    "citation-label": "jeong2020Workload",
     "id": "jeong2020Workload",
-    "year-suffix": "Workload",
+    "citation-key": "jeong2020Workload",
     "issued": {
       "date-parts": [
         [
           2020
         ]
       ]
-    }
+    },
+    "publisher": "International Conference on Interdisciplinary research on Computer science, Psychology,",
+    "title": "Workload Processing Method Considering Priority Based on Hot Standby System in RSU"
   },
   {
+    "publisher-place": "Berlin, Heidelberg",
+    "abstract": "The cloud computing is a computing paradigm that users can rent computing resources from service providers as much as they require. A spot instance in cloud computing helps a user to utilize resources with less expensive cost, even if it is unreliable. When a user performs tasks with unreliable spot instances, failures inevitably lead to the delay of task completion time and cause a seriously deterioration in the QoS of users. To solve the problem, we propose the VM migration scheme to reduce the job waiting time. And in this scheme we use our previously proposed checkpointing method. When a running instance occurs the out-of-bid situation (failure), the VM on the failed instance is to a new instance. Our proposed VM migration scheme reduces the rollback time and the task waiting time when an instance occur the out-of-bid situation. The simulation results show that our scheme achieves performance improvements in the task execution time of 68.94%, 68.61%, and 46.35% compared with the hour-boundary checkpointing scheme, the rising edge-driven checkpointing scheme, and our previously proposed checkpointing scheme., respectively Further, our scheme outperforms the existing schemes in terms of the reduction the total costs per spot instances for a user's bid.",
     "author": [
       {
         "given": "Daeyong",
@@ -908,6 +891,7 @@
         "family": "Yu"
       }
     ],
+    "container-title": "Grid and Pervasive Computing",
     "editor": [
       {
         "given": "James J. (Jong Hyuk)",
@@ -930,26 +914,23 @@
         "family": "Gil"
       }
     ],
-    "title": "VM Migration for Fault Tolerance in Spot Instance Based Cloud Computing",
-    "container-title": "Grid and Pervasive Computing",
-    "publisher": "Springer Berlin Heidelberg",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "142-151",
-    "ISBN": "978-3-642-38027-3",
     "type": "paper-conference",
-    "citation-label": "jung2013vm",
     "id": "jung2013vm",
-    "year-suffix": "vm",
+    "citation-key": "jung2013vm",
+    "ISBN": "978-3-642-38027-3",
     "issued": {
       "date-parts": [
         [
           2013
         ]
       ]
-    }
+    },
+    "page": "142-151",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "VM Migration for Fault Tolerance in Spot Instance Based Cloud Computing"
   },
   {
-    "title": "An estimation-based task load balancing scheduling in spot clouds",
+    "abstract": "Cloud computing is a computing paradigm in which users can rent computing resources from service providers according to their requirements. Cloud computing based on the spot market helps a user to obtain resources at a lower cost. However, these resources may be unreliable. In this paper, we propose an estimation-based distributed task workflow scheduling scheme that reduces the estimated generation compared to Genetic Algorithm (GA). Moreover, our scheme executes a user's job within selected instances and stretches the user's cost. The simulation results, based on a before-and-after estimation comparison, reveal that the task size is determined based on the performance of each instance and the task is distributed among the different instances. Therefore, our proposed estimation-based task load balancing scheduling technique achieves the task load balancing according to the performance of instances.",
     "author": [
       {
         "given": "Daeyong",
@@ -972,18 +953,13 @@
         "family": "Lee"
       }
     ],
-    "DOI": "10.1007/978-3-662-44917-2_55",
-    "language": "English",
-    "ISBN": "9783662449165",
-    "volume": "8707 LNCS",
-    "collection-title": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
-    "publisher": "Springer Verlag",
-    "page": "571-574",
     "container-title": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "collection-title": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "DOI": "10.1007/978-3-662-44917-2_55",
     "type": "paper-conference",
-    "citation-label": "jung2014estimation",
     "id": "jung2014estimation",
-    "year-suffix": "estimation",
+    "citation-key": "jung2014estimation",
+    "ISBN": "9783662449165",
     "issued": {
       "date-parts": [
         [
@@ -992,9 +968,16 @@
           1
         ]
       ]
-    }
+    },
+    "language": "English",
+    "page": "571-574",
+    "publisher": "Springer Verlag",
+    "title": "An estimation-based task load balancing scheduling in spot clouds",
+    "volume": "8707 LNCS"
   },
   {
+    "publisher-place": "Berlin, Heidelberg",
+    "abstract": "The cloud computing is a computing paradigm that users can rent computing resources from service providers as much as they require. A spot instance in cloud computing helps a user to utilize resources with less expensive cost, even if it is unreliable. In this paper, we propose the workflow scheduling scheme that reduces the task waiting time when an instance occurs the out-of-bid situation. And, our scheme executes user's job within selected instances and expands the suggested user budget. The simulation results reveal that, compared to various instance types, our scheme achieves performance improvements in terms of an average execution time of 66.86% over shortest execution time in each task time interval. And, the cost in our scheme is higher than an instance with low performance and is lower than an instance with high performance. Therefore, our scheme is difficult to optimize cost for task execution.",
     "author": [
       {
         "given": "Daeyong",
@@ -1017,6 +1000,7 @@
         "family": "Lee"
       }
     ],
+    "container-title": "Ubiquitous Information Technologies and Applications",
     "editor": [
       {
         "given": "Young-Sik",
@@ -1035,26 +1019,22 @@
         "family": "Park"
       }
     ],
-    "title": "A Workflow Scheduling Technique for Task Distribution in Spot Instance-Based Cloud",
-    "container-title": "Ubiquitous Information Technologies and Applications",
-    "publisher": "Springer Berlin Heidelberg",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "409-416",
-    "ISBN": "978-3-642-41671-2",
     "type": "paper-conference",
-    "citation-label": "jung2014worklfow",
     "id": "jung2014worklfow",
-    "year-suffix": "worklfow",
+    "citation-key": "jung2014worklfow",
+    "ISBN": "978-3-642-41671-2",
     "issued": {
       "date-parts": [
         [
           2014
         ]
       ]
-    }
+    },
+    "page": "409-416",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "A Workflow Scheduling Technique for Task Distribution in Spot Instance-Based Cloud"
   },
   {
-    "title": "RPC-based GPU Resource Sharing Technique and Task Scheduling with Performance Isolation Support in Cloud Environments",
     "author": [
       {
         "given": "Jihun",
@@ -1073,21 +1053,20 @@
         "family": "Chung"
       }
     ],
-    "publisher": "International Conference on Computational Science and Computational Intelligence",
     "type": "paper-conference",
-    "citation-label": "kang2017rpc",
     "id": "kang2017rpc",
-    "year-suffix": "rpc",
+    "citation-key": "kang2017rpc",
     "issued": {
       "date-parts": [
         [
           2017
         ]
       ]
-    }
+    },
+    "publisher": "International Conference on Computational Science",
+    "title": "RPC-based GPU Resource Sharing Technique and Task Scheduling with Performance Isolation Support in Cloud Environments"
   },
   {
-    "title": "A New Recovery Protocol Without Broadcasting in Distributed Systems",
     "author": [
       {
         "given": "Kibom",
@@ -1102,22 +1081,21 @@
         "family": "Hwang"
       }
     ],
-    "publisher": "Proceedings of the Communication Networks and Distributed Systems Modeling and Simulation Conference, San Francisco",
-    "page": "105-110",
     "type": "paper-conference",
-    "citation-label": "kim1999new",
     "id": "kim1999new",
-    "year-suffix": "new",
+    "citation-key": "kim1999new",
     "issued": {
       "date-parts": [
         [
           1999
         ]
       ]
-    }
+    },
+    "page": "105-110",
+    "publisher": "Proceedings of the Communication Networks",
+    "title": "A New Recovery Protocol Without Broadcasting in Distributed Systems"
   },
   {
-    "title": "Design of Collaborative Learning System Based on IMS Learning Design with Ontology in Virtual Learning Environment",
     "author": [
       {
         "given": "SeokHui",
@@ -1128,22 +1106,21 @@
         "family": "Yu"
       }
     ],
-    "publisher": "The 2009 International Joint Conferences on e-CASE and e-Technology",
-    "page": "2270-2280",
     "type": "paper-conference",
-    "citation-label": "kim2009design",
     "id": "kim2009design",
-    "year-suffix": "design",
+    "citation-key": "kim2009design",
     "issued": {
       "date-parts": [
         [
           2009
         ]
       ]
-    }
+    },
+    "page": "2270-2280",
+    "publisher": "The 2009 International Joint Conferences on e-CASE",
+    "title": "Design of Collaborative Learning System Based on IMS Learning Design with Ontology in Virtual Learning Environment"
   },
   {
-    "title": "Integrating IMS QTI 2.0 Question Type into Moodle",
     "author": [
       {
         "given": "SeokHui",
@@ -1166,21 +1143,20 @@
         "family": "Yu"
       }
     ],
-    "publisher": "The 2010 International Joint Conferences on e-CASE and e-Technology",
     "type": "paper-conference",
-    "citation-label": "kim2010integrating",
     "id": "kim2010integrating",
-    "year-suffix": "integrating",
+    "citation-key": "kim2010integrating",
     "issued": {
       "date-parts": [
         [
           2010
         ]
       ]
-    }
+    },
+    "publisher": "The 2010 International Joint Conferences on e-CASE",
+    "title": "Integrating IMS QTI 2.0 Question Type into Moodle"
   },
   {
-    "title": "Exploring the algorithm for group formation based on CSCL competency",
     "author": [
       {
         "given": "SeokHui",
@@ -1203,21 +1179,20 @@
         "family": "Yu"
       }
     ],
-    "publisher": "Shanghai International Conference on Social Science",
     "type": "paper-conference",
-    "citation-label": "kim2011exploring",
     "id": "kim2011exploring",
-    "year-suffix": "exploring",
+    "citation-key": "kim2011exploring",
     "issued": {
       "date-parts": [
         [
           2011
         ]
       ]
-    }
+    },
+    "publisher": "Shanghai International Conference on Social Science",
+    "title": "Exploring the algorithm for group formation based on CSCL competency"
   },
   {
-    "title": "Optimizing Hardware-Based Privacy-Preserving MapReduce",
     "author": [
       {
         "given": "Han-Yee",
@@ -1248,21 +1223,20 @@
         "family": "Suh"
       }
     ],
-    "publisher": "International Conference on High Performance Computing in Asia-Pacific Region (HPC Asia 2018)",
     "type": "paper-conference",
-    "citation-label": "kim2018optimizing",
     "id": "kim2018optimizing",
-    "year-suffix": "optimizing",
+    "citation-key": "kim2018optimizing",
     "issued": {
       "date-parts": [
         [
           2018
         ]
       ]
-    }
+    },
+    "publisher": "International Conference on High Performance Computing in Asia-Pacific Region (HPC Asia 2018)",
+    "title": "Optimizing Hardware-Based Privacy-Preserving MapReduce"
   },
   {
-    "title": "A deep learning model pre-loading method for serverless inference",
     "author": [
       {
         "given": "Myung-Hyun",
@@ -1293,21 +1267,84 @@
         "family": "Yu"
       }
     ],
-    "publisher": "nternational Conference on Interdisciplinary research on Computer science, Psychology, and Education (ICICPE 2021)",
     "type": "paper-conference",
-    "citation-label": "kim2021deep",
     "id": "kim2021deep",
-    "year-suffix": "deep",
+    "citation-key": "kim2021deep",
     "issued": {
       "date-parts": [
         [
           2021
         ]
       ]
-    }
+    },
+    "publisher": "nternational Conference on Interdisciplinary research on Computer science, Psychology,",
+    "title": "A deep learning model pre-loading method for serverless inference"
   },
   {
-    "title": "Performance Improvement of Ordering and Endorsement Phase in Hyperledger Fabric",
+    "author": [
+      {
+        "given": "HyungJun",
+        "family": "Kim"
+      },
+      {
+        "given": "Chunggeon",
+        "family": "Song"
+      },
+      {
+        "given": "HwaMin",
+        "family": "Lee"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "kim2023addressing",
+    "citation-key": "kim2023addressing",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "publisher": "IEEE International Conference on Consumer Electronics (ICCE)",
+    "title": "Addressing Straggler Problem Through Dynamic Partial All-Reduce for Distributed Deep Learning in Heterogeneous GPU Clusters"
+  },
+  {
+    "author": [
+      {
+        "given": "Myung-Hyun",
+        "family": "Kim"
+      },
+      {
+        "given": "Jaehak",
+        "family": "Lee"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      },
+      {
+        "given": "Eunyoung",
+        "family": "Lee"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "kim2023memory",
+    "citation-key": "kim2023memory",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "publisher": "IEEE International Conference on Consumer Electronics (ICCE)",
+    "title": "Improving Memory Utilization by Sharing DNN Models for Serverless Inference"
+  },
+  {
     "author": [
       {
         "given": "Minsu",
@@ -1318,21 +1355,20 @@
         "family": "Yu"
       }
     ],
-    "publisher": "International Symposium on Blockchain Computing and Application (BCCA 2019)",
     "type": "paper-conference",
-    "citation-label": "kwon2019performance",
     "id": "kwon2019performance",
-    "year-suffix": "performance",
+    "citation-key": "kwon2019performance",
     "issued": {
       "date-parts": [
         [
           2019
         ]
       ]
-    }
+    },
+    "publisher": "International Symposium on Blockchain Computing",
+    "title": "Performance Improvement of Ordering and Endorsement Phase in Hyperledger Fabric"
   },
   {
-    "title": "Caching and Concurrency Control in Mobile Client/Server Database Systems",
     "author": [
       {
         "given": "Sangkeun",
@@ -1347,22 +1383,22 @@
         "family": "Yu"
       }
     ],
-    "publisher": "The Proceedings of the 2nd Int’ Symposium on Cooperative Database Systems for Advanced Applications",
-    "page": "91-102",
     "type": "paper-conference",
-    "citation-label": "lee1999caching",
     "id": "lee1999caching",
-    "year-suffix": "caching",
+    "citation-key": "lee1999caching",
     "issued": {
       "date-parts": [
         [
           1999
         ]
       ]
-    }
+    },
+    "page": "91-102",
+    "publisher": "The Proceedings of the 2nd Int’ Symposium on Cooperative Database Systems for Advanced Applications",
+    "title": "Caching and Concurrency Control in Mobile Client/Server Database Systems"
   },
   {
-    "title": "Supporting transactional cache consistency in mobile database systems",
+    "abstract": "In a mobile computing environment, caching of frequently accessed data has been shown to be a useful technique for reducing contention on the narrow bandwidth of the wireless channels. However, the traditional client/server strategies for supporting transactional cache consistency that require extensive communications between a client and a server are not appropriate in a mobile computing environment. In this paper, we propose a new protocol, called OCC-UTS (Optimisitic Concurrency Control with Update TimeStamp), to support transactional cache consistency in a wireless mobile computing environment by utilizing the broadcast-based solutions for the problem of invalidating caches. The consistency check on accessed data and the commitment protocol are implemented in a truly distributed fashion as an integral part of cache invalidation process, with most burden of consistency check being downloaded to mobile clients. Also, our esperiments based on an analytical model substantiate the basic idea and study the performance characteristics. Experimental results show that OCC-UTS protocol without local cache outperforms other competitor protocol, and the more frequent a mobile client accesses data items the more efficient OCC-UTS protocol with local cache is. With respect to disconnection, a mobile client aborts its transaction if it disconnects more than the invalidation broadcast window size. Thus, the tolerance to disconnection is improved if the invalidation broadcast window size is extended.",
     "author": [
       {
         "given": "Sang-Geun",
@@ -1377,15 +1413,11 @@
         "family": "Yu"
       }
     ],
-    "DOI": "10.1145/313300.313322",
-    "language": "English",
-    "page": "6-13",
     "container-title": "Proceedings of the 1st ACM International Workshop on Data Engineering for Wireless and Mobile Access, MobiDe 1999",
-    "publisher": "Association for Computing Machinery, Inc",
+    "DOI": "10.1145/313300.313322",
     "type": "paper-conference",
-    "citation-label": "lee1999supporting",
     "id": "lee1999supporting",
-    "year-suffix": "supporting",
+    "citation-key": "lee1999supporting",
     "issued": {
       "date-parts": [
         [
@@ -1394,10 +1426,13 @@
           1
         ]
       ]
-    }
+    },
+    "language": "English",
+    "page": "6-13",
+    "publisher": "Association for Computing Machinery, Inc",
+    "title": "Supporting transactional cache consistency in mobile database systems"
   },
   {
-    "title": "The Design of a Resource Broker for Optimal Resource Selection and Job Migration in Grids",
     "author": [
       {
         "given": "HwaMin",
@@ -1428,21 +1463,20 @@
         "family": "Yu"
       }
     ],
-    "publisher": "The Proceedings of the WSEAS Conference, Athens, WSEAS",
     "type": "paper-conference",
-    "citation-label": "lee2003design",
     "id": "lee2003design",
-    "year-suffix": "design",
+    "citation-key": "lee2003design",
     "issued": {
       "date-parts": [
         [
           2003
         ]
       ]
-    }
+    },
+    "publisher": "The Proceedings of the WSEAS Conference, Athens, WSEAS",
+    "title": "The Design of a Resource Broker for Optimal Resource Selection and Job Migration in Grids"
   },
   {
-    "title": "Grid Fault Tolerance Service for Quality of Service",
     "author": [
       {
         "given": "Hwa-Min",
@@ -1469,18 +1503,18 @@
         "family": "Yu"
       }
     ],
-    "publisher": "The 3rd IEEE/ACM International Symposium on Cluster Computing and the Grid (CCGrid2003), Tokyo",
     "type": "paper-conference",
-    "citation-label": "lee2003grid",
     "id": "lee2003grid",
-    "year-suffix": "grid",
+    "citation-key": "lee2003grid",
     "issued": {
       "date-parts": [
         [
           2003
         ]
       ]
-    }
+    },
+    "publisher": "The 3rd IEEE/ACM International Symposium on Cluster Computing",
+    "title": "Grid Fault Tolerance Service for Quality of Service"
   },
   {
     "author": [
@@ -1513,12 +1547,9 @@
         "family": "Yu"
       }
     ],
-    "page": "893-898",
-    "title": "A Recovery Technique of Agents in Multi-agent based Fault-tolerant Systems.",
     "type": "paper-conference",
-    "citation-label": "lee2003recovery",
     "id": "lee2003recovery",
-    "year-suffix": "recovery",
+    "citation-key": "lee2003recovery",
     "issued": {
       "date-parts": [
         [
@@ -1526,7 +1557,9 @@
           1
         ]
       ]
-    }
+    },
+    "page": "893-898",
+    "title": "A Recovery Technique of Agents in Multi-agent based Fault-tolerant Systems."
   },
   {
     "author": [
@@ -1559,14 +1592,11 @@
         "family": "Yu"
       }
     ],
-    "page": "572 - 579",
-    "title": "A resource manager for optimal resource selection and fault tolerance service in Grids",
-    "ISBN": "0-7803-8430-x",
     "DOI": "10.1109/CCGrid.2004.1336659",
     "type": "paper-conference",
-    "citation-label": "lee2004resource",
     "id": "lee2004resource",
-    "year-suffix": "resource",
+    "citation-key": "lee2004resource",
+    "ISBN": "0-7803-8430-x",
     "issued": {
       "date-parts": [
         [
@@ -1574,10 +1604,11 @@
           5
         ]
       ]
-    }
+    },
+    "page": "572 - 579",
+    "title": "A resource manager for optimal resource selection and fault tolerance service in Grids"
   },
   {
-    "title": "Economic Workflow Scheduling Strategy in Mobile Grids",
     "author": [
       {
         "given": "JongHyuk",
@@ -1596,18 +1627,18 @@
         "family": "Yu"
       }
     ],
-    "publisher": "9th International Workshop on State-of-the-Art in Scientific and Parallel Computing(PARA 2008)",
     "type": "paper-conference",
-    "citation-label": "lee2009economic",
     "id": "lee2009economic",
-    "year-suffix": "economic",
+    "citation-key": "lee2009economic",
     "issued": {
       "date-parts": [
         [
           2009
         ]
       ]
-    }
+    },
+    "publisher": "9th International Workshop on State-of-the-Art in Scientific",
+    "title": "Economic Workflow Scheduling Strategy in Mobile Grids"
   },
   {
     "author": [
@@ -1628,13 +1659,10 @@
         "family": "Yu"
       }
     ],
-    "page": "1-6",
-    "title": "The Idle Mobile Resource Discovery and Management Scheme in Mobile Grid Computing Using IP-paging",
     "DOI": "10.1109/ICUT.2009.5405730",
     "type": "paper-conference",
-    "citation-label": "lee2009idle",
     "id": "lee2009idle",
-    "year-suffix": "idle",
+    "citation-key": "lee2009idle",
     "issued": {
       "date-parts": [
         [
@@ -1642,10 +1670,11 @@
           12
         ]
       ]
-    }
+    },
+    "page": "1-6",
+    "title": "The Idle Mobile Resource Discovery and Management Scheme in Mobile Grid Computing Using IP-paging"
   },
   {
-    "title": "Adaptive Data Replication Scheme Based on Access Count Prediction in HadoopVM Migration for Fault Tolerance in Spot Instance Based Cloud Computing",
     "author": [
       {
         "given": "JungHa",
@@ -1672,21 +1701,20 @@
         "family": "Gil"
       }
     ],
-    "publisher": "The 2013 World Congress in Computer Science, Computer Engineering, and Applied Computing (Worldcomp2013)",
     "type": "paper-conference",
-    "citation-label": "lee2013adaptive",
     "id": "lee2013adaptive",
-    "year-suffix": "adaptive",
+    "citation-key": "lee2013adaptive",
     "issued": {
       "date-parts": [
         [
           2013
         ]
       ]
-    }
+    },
+    "publisher": "The 2013 World Congress in Computer Science, Computer Engineering,",
+    "title": "Adaptive Data Replication Scheme Based on Access Count Prediction in HadoopVM Migration for Fault Tolerance in Spot Instance Based Cloud Computing"
   },
   {
-    "title": "NIOECM: A Network I/O Event Control Mechanism To Provide Fairness of Network Performance among VMs with Same Resource Configuration in Virtualized Environment",
     "author": [
       {
         "given": "Jaehark",
@@ -1701,21 +1729,56 @@
         "family": "Yu"
       }
     ],
-    "publisher": "International Conference on Internet and Distributed Computing Systems (IDCS 2019)",
     "type": "paper-conference",
-    "citation-label": "lee2019nioecm",
     "id": "lee2019nioecm",
-    "year-suffix": "nioecm",
+    "citation-key": "lee2019nioecm",
     "issued": {
       "date-parts": [
         [
           2019
         ]
       ]
-    }
+    },
+    "publisher": "International Conference on Internet",
+    "title": "NIOECM: A Network I/O Event Control Mechanism To Provide Fairness of Network Performance among VMs with Same Resource Configuration in Virtualized Environment"
   },
   {
-    "title": "An Automated Coding System for Korean Standard Industrial and Occupational Classification",
+    "author": [
+      {
+        "given": "Jaehak",
+        "family": "Lee"
+      },
+      {
+        "given": "Jihun",
+        "family": "Kang"
+      },
+      {
+        "given": "Joonmin",
+        "family": "Gil"
+      },
+      {
+        "given": "Kwangsik",
+        "family": "Chung"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "lee2022parallel",
+    "citation-key": "lee2022parallel",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "publisher": "International Conference on Interdisciplinary research on Computer science, Psychology,",
+    "title": "vParallel-intensive Workload Handling Analysis in the Cloud"
+  },
+  {
     "author": [
       {
         "given": "Heui-Seok",
@@ -1738,21 +1801,23 @@
         "family": "Kim"
       }
     ],
-    "publisher": "The Proceeding of 19th International Conference on Computer Processing of Oriental Languages",
-    "page": "278-281",
     "type": "paper-conference",
-    "citation-label": "lim2001automated",
     "id": "lim2001automated",
-    "year-suffix": "automated",
+    "citation-key": "lim2001automated",
     "issued": {
       "date-parts": [
         [
           2001
         ]
       ]
-    }
+    },
+    "page": "278-281",
+    "publisher": "The Proceeding of 19th International Conference on Computer Processing of Oriental Languages",
+    "title": "An Automated Coding System for Korean Standard Industrial and Occupational Classification"
   },
   {
+    "publisher-place": "Berlin, Heidelberg",
+    "abstract": "Determining termination in dynamic environments is hard due to node joining and leaving. In previous studies on termination detection, some structures, such as spanning tree or computational tree, are used. In this work, we present an unstructured termination detection algorithm, which uses a gossip based scheme to cope with scalability and fault-tolerance issues. This approach allows the algorithm not to maintain specific structures even when nodes join and leave during runtime. These dynamic behaviors are prevalent in cloud computing environments and little attention has been paid by existing approaches. To measure the complexity of our proposed algorithm, a new metric, self-centered message complexity is used. Our evaluation over scalable settings shows that an unstructured approach has a significant merit to solve scalability and fault-tolerance problems with lower message complexity over existing algorithms.",
     "author": [
       {
         "given": "JongBeom",
@@ -1775,6 +1840,7 @@
         "family": "Yu"
       }
     ],
+    "container-title": "Architecture of Computing Systems – ARCS 2013",
     "editor": [
       {
         "given": "Hana",
@@ -1785,32 +1851,32 @@
         "family": "Hochberger"
       },
       {
-        "literal": "Daněk, Martin"
+        "given": "Martin",
+        "family": "Daněk"
       },
       {
         "given": "Bernhard",
         "family": "Sick"
       }
     ],
-    "title": "An Unstructured Termination Detection Algorithm Using Gossip in Cloud Computing Environments",
-    "container-title": "Architecture of Computing Systems – ARCS 2013",
-    "publisher": "Springer Berlin Heidelberg",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "1-12",
-    "ISBN": "978-3-642-36424-2",
     "type": "paper-conference",
-    "citation-label": "lim2013unstructured",
     "id": "lim2013unstructured",
-    "year-suffix": "unstructured",
+    "citation-key": "lim2013unstructured",
+    "ISBN": "978-3-642-36424-2",
     "issued": {
       "date-parts": [
         [
           2013
         ]
       ]
-    }
+    },
+    "page": "1-12",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "An Unstructured Termination Detection Algorithm Using Gossip in Cloud Computing Environments"
   },
   {
+    "publisher-place": "Berlin, Heidelberg",
+    "abstract": "As computer systems have become more complex and dynamic, unstructured and decentralized techniques serve as basic building blocks in large-scale systems such as cloud computing systems. In particular, we consider a gossip-based algorithm, one of the unstructured overlay construction techniques. In this paper, we propose a membership management mechanism using the gossip-based algorithm with social graphs for the Byzantine fault tolerance problem. Experimental results show that our membership management mechanism copes with Byzantine nodes effectively in a scalable way without a bottleneck in dynamic computing environments, requiring only n ≥ 2f + 1 nodes.",
     "author": [
       {
         "given": "JongBeom",
@@ -1837,6 +1903,7 @@
         "family": "Yu"
       }
     ],
+    "container-title": "Network and Parallel Computing",
     "editor": [
       {
         "given": "Ching-Hsien",
@@ -1851,23 +1918,20 @@
         "family": "Salapura"
       }
     ],
-    "title": "Gossip Membership Management with Social Graphs for Byzantine Fault Tolerance in Clouds",
-    "container-title": "Network and Parallel Computing",
-    "publisher": "Springer Berlin Heidelberg",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "321-332",
-    "ISBN": "978-3-662-44917-2",
     "type": "paper-conference",
-    "citation-label": "lim2014gossip",
     "id": "lim2014gossip",
-    "year-suffix": "gossip",
+    "citation-key": "lim2014gossip",
+    "ISBN": "978-3-662-44917-2",
     "issued": {
       "date-parts": [
         [
           2014
         ]
       ]
-    }
+    },
+    "page": "321-332",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "Gossip Membership Management with Social Graphs for Byzantine Fault Tolerance in Clouds"
   },
   {
     "author": [
@@ -1889,16 +1953,9 @@
       }
     ],
     "container-title": "ARCS 2014; 2014 Workshop Proceedings on Architecture of Computing Systems",
-    "title": "Unstructured Membership Management for Byzantine Fault Tolerance in Clouds",
-    "volume": "",
-    "issue": "",
-    "page": "1-8",
-    "DOI": "",
-    "ISSN": "",
     "type": "paper-conference",
-    "citation-label": "lim2014unstructured",
     "id": "lim2014unstructured",
-    "year-suffix": "unstructured",
+    "citation-key": "lim2014unstructured",
     "issued": {
       "date-parts": [
         [
@@ -1906,9 +1963,13 @@
           2
         ]
       ]
-    }
+    },
+    "page": "1-8",
+    "title": "Unstructured Membership Management for Byzantine Fault Tolerance in Clouds"
   },
   {
+    "publisher-place": "Berlin, Heidelberg",
+    "abstract": "Virtualization is to provide virtually all types of technologies used on the physical PC. However, in a virtualization technique, services can be modified and adjusted to satisfy user requirements, the cost of hardware purchases and hardware constructions is not occurred. Beside, this virtualization supports multiple guest operating systems on a host OS. It is helpful for virtualization to build cost-effective IT infrastructure. In general, virtualization can be classified into two categories: full virtualization and para-virtualization. Full virtualization does not require a direct interaction with host resources, but in para-virtualization a direct interaction with frequently used resources can substantially improve performance of computation. In this paper, we study the effects on the performance when the VCPUs map to the physical CPUs in para-virtualization. And we study the effects of the mapped VCPU in an overcommit environment that the number of virtual cores is more than the number of physical cores. The purpose of these experiments is to find out the best CPU allocation method in various environments of para-virtualization.",
     "author": [
       {
         "given": "TaeMuk",
@@ -1947,6 +2008,7 @@
         "family": "Yu"
       }
     ],
+    "container-title": "Computer Science and its Applications",
     "editor": [
       {
         "given": "James J. (Jong Hyuk)",
@@ -1965,26 +2027,22 @@
         "family": "Yi"
       }
     ],
-    "title": "Effects on Mapping the VCPUs to the Physical CPUs in Para-Virtualization",
-    "container-title": "Computer Science and its Applications",
-    "publisher": "Springer Berlin Heidelberg",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "1025-1029",
-    "ISBN": "978-3-662-45402-2",
     "type": "paper-conference",
-    "citation-label": "lyoo2015effects",
     "id": "lyoo2015effects",
-    "year-suffix": "effects",
+    "citation-key": "lyoo2015effects",
+    "ISBN": "978-3-662-45402-2",
     "issued": {
       "date-parts": [
         [
           2015
         ]
       ]
-    }
+    },
+    "page": "1025-1029",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "Effects on Mapping the VCPUs to the Physical CPUs in Para-Virtualization"
   },
   {
-    "title": "Elaborate Synthetic Data Generation for Internet of Things Services at Smart Home Environment",
     "author": [
       {
         "given": "Rohyoung",
@@ -2003,21 +2061,20 @@
         "family": "Lee"
       }
     ],
-    "publisher": "International Conference on Computational Science and Computational Intelligence",
     "type": "paper-conference",
-    "citation-label": "myung2016elaborate",
     "id": "myung2016elaborate",
-    "year-suffix": "elaborate",
+    "citation-key": "myung2016elaborate",
     "issued": {
       "date-parts": [
         [
           2016
         ]
       ]
-    }
+    },
+    "publisher": "International Conference on Computational Science",
+    "title": "Elaborate Synthetic Data Generation for Internet of Things Services at Smart Home Environment"
   },
   {
-    "title": "Optimizing parallelism of big data analytics at General Purpose Cluster System",
     "author": [
       {
         "given": "Rohyoung",
@@ -2032,22 +2089,21 @@
         "family": "Lee"
       }
     ],
-    "publisher": "International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2017)",
-    "page": "164-165",
     "type": "paper-conference",
-    "citation-label": "myung2017optimizing",
     "id": "myung2017optimizing",
-    "year-suffix": "optimizing",
+    "citation-key": "myung2017optimizing",
     "issued": {
       "date-parts": [
         [
           2017
         ]
       ]
-    }
+    },
+    "page": "164-165",
+    "publisher": "International conference on Interdisciplinary research on Computer Science, Psychology,",
+    "title": "Optimizing parallelism of big data analytics at General Purpose Cluster System"
   },
   {
-    "title": "Data Model Optimization for Reducing Computational Cost at Apache Spark",
     "author": [
       {
         "given": "Rohyoung",
@@ -2070,21 +2126,20 @@
         "family": "Yu"
       }
     ],
-    "publisher": "International Conference on High Performance Computing in Asia-Pacific Region (HPC Asia 2018)",
     "type": "paper-conference",
-    "citation-label": "myung2018data",
     "id": "myung2018data",
-    "year-suffix": "data",
+    "citation-key": "myung2018data",
     "issued": {
       "date-parts": [
         [
           2018
         ]
       ]
-    }
+    },
+    "publisher": "International Conference on High Performance Computing in Asia-Pacific Region (HPC Asia 2018)",
+    "title": "Data Model Optimization for Reducing Computational Cost at Apache Spark"
   },
   {
-    "title": "Context Information based Fault Tolerant Technique in Mobile Grids",
     "author": [
       {
         "given": "Jisu",
@@ -2095,18 +2150,18 @@
         "family": "Yu"
       }
     ],
-    "publisher": "9th International Workshop on State-of-the-Art in Scientific and Parallel Computing(PARA 2008)",
     "type": "paper-conference",
-    "citation-label": "park2008context",
     "id": "park2008context",
-    "year-suffix": "context",
+    "citation-key": "park2008context",
     "issued": {
       "date-parts": [
         [
           2008
         ]
       ]
-    }
+    },
+    "publisher": "9th International Workshop on State-of-the-Art in Scientific",
+    "title": "Context Information based Fault Tolerant Technique in Mobile Grids"
   },
   {
     "author": [
@@ -2127,13 +2182,10 @@
         "family": "Lee"
       }
     ],
-    "page": "520-525",
-    "title": "Markov Chain Based Monitoring Service for Fault Tolerance in Mobile Cloud Computing",
     "DOI": "10.1109/WAINA.2011.10",
     "type": "paper-conference",
-    "citation-label": "park2011markov",
     "id": "park2011markov",
-    "year-suffix": "markov",
+    "citation-key": "park2011markov",
     "issued": {
       "date-parts": [
         [
@@ -2141,9 +2193,12 @@
           3
         ]
       ]
-    }
+    },
+    "page": "520-525",
+    "title": "Markov Chain Based Monitoring Service for Fault Tolerance in Mobile Cloud Computing"
   },
   {
+    "container-title": "Concurrency and Computation: Practice and Experience",
     "author": [
       {
         "given": "JiSu",
@@ -2162,14 +2217,10 @@
         "family": "Lee"
       }
     ],
-    "page": "",
-    "title": "Dynamic group-based fault tolerance technique for reliable resource management in mobile cloud computing",
-    "container-title": "Concurrency and Computation: Practice and Experience",
     "DOI": "10.1002/cpe.3205",
     "type": "paper-conference",
-    "citation-label": "park2014dynamic",
     "id": "park2014dynamic",
-    "year-suffix": "dynamic",
+    "citation-key": "park2014dynamic",
     "issued": {
       "date-parts": [
         [
@@ -2177,10 +2228,10 @@
           1
         ]
       ]
-    }
+    },
+    "title": "Dynamic group-based fault tolerance technique for reliable resource management in mobile cloud computing"
   },
   {
-    "title": "A Resource Isolation Scheme of Virtual Machines Based on Workload Types in Cloud Computing Environments",
     "author": [
       {
         "given": "ChungGeon",
@@ -2199,22 +2250,21 @@
         "family": "Lim"
       }
     ],
-    "publisher": "International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2017)",
-    "page": "113-114",
     "type": "paper-conference",
-    "citation-label": "song2017resource",
     "id": "song2017resource",
-    "year-suffix": "resource",
+    "citation-key": "song2017resource",
     "issued": {
       "date-parts": [
         [
           2017
         ]
       ]
-    }
+    },
+    "page": "113-114",
+    "publisher": "International conference on Interdisciplinary research on Computer Science, Psychology,",
+    "title": "A Resource Isolation Scheme of Virtual Machines Based on Workload Types in Cloud Computing Environments"
   },
   {
-    "title": "vcBalancer: Dynamic Volunteer Manager for Self-Adaptive Task Pulling",
     "author": [
       {
         "given": "ChungGeon",
@@ -2229,22 +2279,61 @@
         "family": "Yu"
       }
     ],
-    "publisher": "International Conference on Computational Science and Computational Intelligence",
-    "page": "271-274",
     "type": "paper-conference",
-    "citation-label": "song2017vcbalancer",
     "id": "song2017vcbalancer",
-    "year-suffix": "vcbalancer",
+    "citation-key": "song2017vcbalancer",
     "issued": {
       "date-parts": [
         [
           2017
         ]
       ]
-    }
+    },
+    "page": "271-274",
+    "publisher": "International Conference on Computational Science",
+    "title": "vcBalancer: Dynamic Volunteer Manager for Self-Adaptive Task Pulling"
   },
   {
-    "title": "End-to-end latency analysis considering the characteristics of JVM-based microservice web applications",
+    "author": [
+      {
+        "given": "Chunggeon",
+        "family": "Song"
+      },
+      {
+        "given": "Gyujeong",
+        "family": "Lim"
+      },
+      {
+        "given": "Myunghyun",
+        "family": "Kim"
+      },
+      {
+        "given": "Taeshin",
+        "family": "Kang"
+      },
+      {
+        "given": "HeonChang",
+        "family": "Yu"
+      },
+      {
+        "given": "Eunyoung",
+        "family": "Lee"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "song2022apigateway",
+    "citation-key": "song2022apigateway",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "publisher": "International Conference on Interdisciplinary research on Computer science, Psychology,",
+    "title": "API Gateway for QoS Assurance of Open API Based Application"
+  },
+  {
     "author": [
       {
         "given": "Moonsang",
@@ -2271,20 +2360,22 @@
         "family": "Lee"
       }
     ],
-    "publisher": "nternational Conference on Interdisciplinary research on Computer science, Psychology, and Education (ICICPE 2021)",
     "type": "paper-conference",
-    "citation-label": "yhu2021endtoend",
     "id": "yhu2021endtoend",
-    "year-suffix": "endtoend",
+    "citation-key": "yhu2021endtoend",
     "issued": {
       "date-parts": [
         [
           2021
         ]
       ]
-    }
+    },
+    "publisher": "nternational Conference on Interdisciplinary research on Computer science, Psychology,",
+    "title": "End-to-end latency analysis considering the characteristics of JVM-based microservice web applications"
   },
   {
+    "publisher-place": "Berlin, Heidelberg",
+    "abstract": "HPC is representative tools for performing large-scale scientific calculation both academia and industry. Tachyon is a high-performance parallel computing system which constructed based on SUN Blade X6275. It composed of 3,200 computing nodes and infra-facilities. Also, this machine works with various software stacks such as file system, archive manager, compiler, debugger, parallel tools, etc. In this paper, we handle the requirements and requisites to build and manage an HPC cluster environment. In addition, we analyzed the history of batch job which include information performed by scheduler. By doing so, we are able to gauge the needs and performance of the next system to be introduced.",
     "author": [
       {
         "given": "JunWeon",
@@ -2303,6 +2394,7 @@
         "family": "Yu"
       }
     ],
+    "container-title": "Computer Science and its Applications",
     "editor": [
       {
         "given": "James J. (Jong Hyuk)",
@@ -2321,22 +2413,19 @@
         "family": "Yi"
       }
     ],
-    "title": "Stable HPC Cluster Management Scheme through Performance Evaluation",
-    "container-title": "Computer Science and its Applications",
-    "publisher": "Springer Berlin Heidelberg",
-    "publisher-place": "Berlin, Heidelberg",
-    "page": "1017-1023",
-    "ISBN": "978-3-662-45402-2",
     "type": "paper-conference",
-    "citation-label": "yoon2015stable",
     "id": "yoon2015stable",
-    "year-suffix": "stable",
+    "citation-key": "yoon2015stable",
+    "ISBN": "978-3-662-45402-2",
     "issued": {
       "date-parts": [
         [
           2015
         ]
       ]
-    }
+    },
+    "page": "1017-1023",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "Stable HPC Cluster Management Scheme through Performance Evaluation"
   }
 ]
