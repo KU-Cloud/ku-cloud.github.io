@@ -23,6 +23,8 @@ phd:
       - "Volunteer Computing"
   - name: Hyungjoon Yoon
     mail: hjyoon@korea.ac.kr
+  - name: Kyunam Cho
+    mail: mystous@korea.ac.kr
 
 master:
   - name: Sejin Kim
@@ -45,14 +47,18 @@ master:
     mail: ledzep0830@korea.ac.kr
     research:
       - "Distributed Deep Learning"
-  - name: Tae Shin Kang
+  - name: Taeshin Kang
     mail: teri98@korea.ac.kr
   - name: Sunhwa Baek
     mail: sunflower45@korea.ac.kr
-
-intern:
+  - name: Hokun Park
+    mail: hokunpark98@gmail.com
   - name: Gyujeong Lim
     mail: gjlim2485@korea.ac.kr
+  - name: Donggyun Kim
+    mail: kdonggyun97@gmail.com
+
+intern:
 
 alumniPhd:
   - name: Hwamin Lee
