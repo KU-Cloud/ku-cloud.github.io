@@ -35,11 +35,11 @@ function mkjson {
 # ====================================="
 #mv $(mkjson "./journal/international/*.bib") ../_data/publications-ji.yaml
 
-echo "
-=====================================
-process conference/international...
-====================================="
-mv $(mkjson "./conference/international/*.bib") ../_data/publications-ci.yaml
+# echo "
+# =====================================
+# process conference/international...
+# ====================================="
+# mv $(mkjson "./conference/international/*.bib") ../_data/publications-ci.yaml
 
 # echo "
 # =====================================
