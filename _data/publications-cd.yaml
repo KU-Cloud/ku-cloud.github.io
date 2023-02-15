@@ -155,6 +155,35 @@
   {
     "author": [
       {
+        "family": "강태신"
+      },
+      {
+        "family": "이재학"
+      },
+      {
+        "family": "김형준"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "강2022Docker",
+    "citation-key": "강2022Docker",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "132-134",
+    "publisher": "한국정보처리학회 ACK2022 발표논문집",
+    "title": "Docker Swarm 기반 리소스 부하 영역별 컨테이너 처리 성능 평가"
+  },
+  {
+    "author": [
+      {
         "family": "공선희"
       },
       {
@@ -1567,6 +1596,32 @@
   {
     "author": [
       {
+        "family": "성광현"
+      },
+      {
+        "family": "송충건"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "성2023엣지",
+    "citation-key": "성2023엣지",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "359-362",
+    "publisher": "한국컴퓨터교육학회 동계학술발표대회 발표논문집",
+    "title": "엣지 컴퓨팅 환경에서 칼만 필터 기법 기반 거리 측정 센서의 보정"
+  },
+  {
+    "author": [
+      {
         "family": "손호성"
       },
       {
@@ -2967,6 +3022,29 @@
   {
     "author": [
       {
+        "family": "이제현"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "이2023timeGAN",
+    "citation-key": "이2023timeGAN",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "351-354",
+    "publisher": "한국컴퓨터교육학회 동계학술발표대회 발표논문집",
+    "title": "TimeGAN을 이용한 자동차 급발진 탐지에 관한 연구"
+  },
+  {
+    "author": [
+      {
         "family": "인성환"
       },
       {
@@ -3143,6 +3221,32 @@
     "page": "1639-1641",
     "publisher": "한국컴퓨터종합학술대회 (KCC 2022)",
     "title": "HPC 워크로드의 크기와 유형에 따른 Singularity 컨테이너 런타임의 오버헤드 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "임규정"
+      },
+      {
+        "family": "송충건"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "임2023API",
+    "citation-key": "임2023API",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "223-226",
+    "publisher": "한국컴퓨터교육학회 동계학술발표대회 발표논문집",
+    "title": "API 응답지연을 완화하기 위한 API 게이트웨이 캐싱 기법"
   },
   {
     "author": [
