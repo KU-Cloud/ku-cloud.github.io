@@ -6,12 +6,6 @@
 #               e.g.) assets/images/members/{name}.png
 
 phd:
-  - name: Jaehak Lee
-    # mail: smreodmlvl@korea.ac.kr
-    mail: jaecrane2@gmail.com
-    research:
-      - "Virtualization"
-      - "Volunteer Computing"
   - name: Dongjeong Kim
     mail: jikimi@korea.ac.kr
     research:
@@ -35,14 +29,6 @@ master:
     mail: anstkd07@gmail.com
     work:
       - "Kakao Enterprise"
-  - name: Kwanghyun Seong
-    mail: seong3730@korea.ac.kr
-    research:
-      - "Edge Computing"
-  - name: Myung-Hyun Kim
-    mail: freckie@korea.ac.kr
-    research:
-      - "Serverless & MLOps"
   - name: Hyungjun Kim
     mail: ledzep0830@korea.ac.kr
     research:
@@ -124,6 +110,11 @@ alumniPhd:
     mail: mry1911@naver.com
     work:
       - "Samsung Advanced Institute of Technology(SAIT)"
+  - name: Jaehak Lee
+    # mail: smreodmlvl@korea.ac.kr
+    mail: jaecrane2@gmail.com
+    work:
+      - "Research Processor (Korea University)"
 
 alumniMaster:
   - name: Sangchul Shin
@@ -162,7 +153,7 @@ alumniMaster:
   - name: Minsu Kwon
     mail: minsuft19@gmail.com
     work:
-      - "LIG Nex1"
+      - "ThorDrive"
   - name: Seunghyun Hwang
     mail: somnus@korea.ac.kr
     work:
@@ -175,3 +166,11 @@ alumniMaster:
     mail: jin4812@korea.ac.kr
     work:
       - "11Street"
+  - name: Myung-Hyun Kim
+    mail: freckie@korea.ac.kr
+    work:
+      - "TmaxSoft"
+  - name: Kwanghyun Seong
+    mail: seong3730@korea.ac.kr
+    work:
+      - "Republic of Korea Navy (ROKN)"
