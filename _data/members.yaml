@@ -6,15 +6,15 @@
 #               e.g.) assets/images/members/{name}.png
 
 phd:
-  - name: Dongjeong Kim
-    mail: jikimi@korea.ac.kr
-    research:
-      - "e-Learning"
-  - name: Chunggeon Song
+  - name: Chunggeon Song (Leader)
     mail: security0730@korea.ac.kr
     research:
       - "Virtualization"
       - "Volunteer Computing"
+  - name: Dongjeong Kim
+    mail: jikimi@korea.ac.kr
+    research:
+      - "e-Learning"
   - name: Hyungjoon Yoon
     mail: hjyoon@korea.ac.kr
   - name: Kyunam Cho
