@@ -10,7 +10,7 @@
                     <h5 class="modal-title" id="announcement-modal-label">
                         📢&nbsp;&nbsp;{{ announcements[0].title }}
                     </h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <button type="button" id="closemodal" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
 
                 <div class="modal-body">
@@ -38,6 +38,16 @@
 </div>
 
 <script>
+    $(function(){
+        $('#closemodal').click(function(){
+	        if($("#announcement-modal").css("display") == "block"){
+                $('#announcement-modal').hide();
+                $('body').removeClass('modal-open');
+                const modalBackdrop = document.querySelector("body > div.modal-backdrop.show");
+                modalBackdrop.remove()
+    	    }
+        });
+    });
     $(function() {
         var $annModal = $('#announcement-modal');
         $(window).on('load', function() {
