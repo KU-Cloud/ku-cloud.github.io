@@ -1,6 +1,8 @@
 {% assign bibs = include.bibs %}
 {% assign year = bibs[0].issued.date-parts[0][0] %}
-<h6>{{ year }}</h6>
+<div style="background-color: rgba(213, 213, 213, 0.678);">
+    <h5>{{ year }}</h5>
+</div>
 <ul class="list-unstyled">
     {% for bib in bibs %}
         {% assign y = bib.issued.date-parts[0][0] %}
@@ -9,8 +11,12 @@
         {% else %}
         {% assign year = y %}
 </ul>
-
-<h6>{{ year }}</h6>
+<div style="margin-top: 20px; margin-bottom: 20px;">
+    <hr>
+</div>
+<div style="background-color: rgba(213, 213, 213, 0.678);">
+    <h5>{{ year }}</h5>
+</div>
 <ul class="list-unstyled">
         {% include publication-item.html bib=bib %}
         {% endif %}

@@ -52,5 +52,3 @@ function mkjson {
 # process conference/domestic...
 # ====================================="
 # mv $(mkjson "./conference/domestic/*.bib") ../_data/publications-cd.yaml
-
-
