@@ -19,7 +19,11 @@ phd:
     mail: hjyoon@korea.ac.kr
   - name: Kyunam Cho
     mail: mystous@korea.ac.kr
-
+  - name: Hyungjun Kim
+    mail: ledzep0830@korea.ac.kr
+    research:
+      - "Distributed Deep Learning"
+      
 master:
   - name: Sejin Kim
     mail: sejjj120@korea.ac.kr
@@ -29,10 +33,6 @@ master:
     mail: anstkd07@gmail.com
     work:
       - "Kakao Enterprise"
-  - name: Hyungjun Kim
-    mail: ledzep0830@korea.ac.kr
-    research:
-      - "Distributed Deep Learning"
   - name: Taeshin Kang
     mail: teri98@korea.ac.kr
   - name: Sunhwa Baek
