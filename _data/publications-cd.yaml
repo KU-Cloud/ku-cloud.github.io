@@ -4447,6 +4447,35 @@
   {
     "author": [
       {
+        "family": "정현승"
+      },
+      {
+        "family": "강태신"
+      },
+      {
+        "family": "유헌창"
+      },
+      {
+        "family": "강지훈"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "정2023kubeflow",
+    "citation-key": "정2023kubeflow",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "93-96",
+    "publisher": "한국정보처리학회 ACK2023",
+    "title": "Kubeflow 환경에서 CPU 집약적인 작업을 위한 컨테이너 수에 따른 연산 시간 비교 및 분석"
+  },
+  {
+    "author": [
+      {
         "family": "이제현"
       },
       {
@@ -4466,6 +4495,32 @@
     "page": "351-354",
     "publisher": "한국컴퓨터교육학회 동계학술발표대회 발표논문집",
     "title": "TimeGAN을 이용한 자동차 급발진 탐지에 관한 연구"
+  },
+  {
+    "author": [
+      {
+        "family": "김예랑"
+      },
+      {
+        "family": "김형준"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2023분산",
+    "citation-key": "김2023분산",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "79-80",
+    "publisher": "한국정보처리학회 ACK2023",
+    "title": "확장가능한 시스템 설계를 위한 쿠버네티스 컨테이너 런타임별 웹 애플리케이션 성능 분석"
   },
   {
     "author": [
@@ -4528,6 +4583,29 @@
   {
     "author": [
       {
+        "family": "전선함"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "전2023자연어",
+    "citation-key": "전2023자연어",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "402-405",
+    "publisher": "한국정보처리학회 ACK2023",
+    "title": "자연어 처리 및 기계학습을 활용한 손익계산서 자동화: 비용 계정 분류를 중심으로"
+  },
+  {
+    "author": [
+      {
         "family": "백선화"
       },
       {
@@ -4550,5 +4628,204 @@
     "page": "1589-1592",
     "publisher": "2023 한국컴퓨터종합학술대회 논문집",
     "title": "Multi-Step LSTM 모델 기반 쿠버네티스 파드 리소스 예측 기법"
+  },
+  {
+    "author": [
+      {
+        "family": "안채린"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "안2023기계학습",
+    "citation-key": "안2023기계학습",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "536-538",
+    "publisher": "한국정보처리학회 ASK2023",
+    "title": "기계학습을 활용한 수출증감률 예측"
+  },
+  {
+    "author": [
+      {
+        "family": "유민희"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "유2023레이블링",
+    "citation-key": "유2023레이블링",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "410-413",
+    "publisher": "한국정보처리학회 ACK2023",
+    "title": "자의사 레이블링을 통한 레이블이 없는 데이터 보완 연구"
+  },
+  {
+    "author": [
+      {
+        "family": "전지영"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "전2023기업추천",
+    "citation-key": "전2023기업추천",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "669-671",
+    "publisher": "한국정보처리학회 ACK2023",
+    "title": "AI 기반 취업 전망 예측 및 지능형 기업 추천시스템"
+  },
+  {
+    "author": [
+      {
+        "family": "강민재"
+      },
+      {
+        "family": "김동균"
+      },
+      {
+        "family": "유헌창"
+      },
+      {
+        "family": "강지훈"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "강2023콜드스타트",
+    "citation-key": "강2023콜드스타트",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "89-92",
+    "publisher": "한국정보처리학회 ACK2023",
+    "title": "Heterogeneous 코어 환경에서 Singularity 컨테이너의 Cgroup 정책에 따른 HPC 작업의 성능 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "김가현"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2023딥러닝문자",
+    "citation-key": "김2023딥러닝문자",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "583-586",
+    "publisher": "한국정보처리학회 ACK2023",
+    "title": "딥러닝을 이용한 비정상 문자 조합으로 구성된 스팸 문자 탐지 기법"
+  },
+  {
+    "author": [
+      {
+        "family": "장윤정"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "장2023보안취약점",
+    "citation-key": "장2023보안취약점",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "180-182",
+    "publisher": "한국정보처리학회 ASK2023",
+    "title": "중소기업 정보보호 강화를 위한 보안 취약점 점검 도구에 관한 연구"
+  },
+  {
+    "author": [
+      {
+        "family": "강민재"
+      },
+      {
+        "family": "김형준"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "강2023컨테이너런타임",
+    "citation-key": "강2023컨테이너런타임",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "75-76",
+    "publisher": "한국정보처리학회 ACK2023",
+    "title": "확장가능한 시스템 설계를 위한 쿠버네티스 컨테이너 런타임별 웹 애플리케이션 성능 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "김명준"
+      },
+      {
+        "family": "송충건"
+      },
+      {
+        "family": "정광식"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김HPC",
+    "citation-key": "김HPC",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "81-84",
+    "publisher": "한국정보처리학회 ACK2023",
+    "title": "Heterogeneous 코어 환경에서 Singularity 컨테이너의 Cgroup 정책에 따른 HPC 작업의 성능 분석"
   }
 ]
