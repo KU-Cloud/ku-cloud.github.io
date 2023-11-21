@@ -1069,16 +1069,16 @@
   {
     "author": [
       {
-        "given": "Kang",
-        "family": "Taeshin"
+        "given": "Taeshin",
+        "family": "Kang"
       },
       {
-        "given": "Yu",
-        "family": "Heonchang"
+        "given": "Heonchang",
+        "family": "Yu"
       },
       {
-        "given": "Lee",
-        "family": "EunYoung"
+        "given": "Eunyoung",
+        "family": "Lee"
       }
     ],
     "type": "paper-conference",
@@ -1091,7 +1091,7 @@
         ]
       ]
     },
-    "publisher": "IEEE International Conference on Mobile Ad-Hoc",
+    "publisher": "IEEE International Conference on Mobile Ad-Hoc & Smart Systems (MASS 2023)",
     "title": "Container Restart Reduction Technique in Kubernetes Using Memory Oversubscription"
   },
   {
