@@ -10,6 +10,7 @@ $(function(){
     // replace outdated project
     $($onGoing.children().get().reverse()).each(function(){
         $self = $(this);
+        console.log($self)
         if(new Date($self.data('end')) > Date.now()) return;
         $past.prepend($self);
     });
@@ -17,6 +18,7 @@ $(function(){
     // pull up `rep` project to top
     $onGoing.children().each(function(){
         $self = $(this);
+        console.log($self)
         if($self.data('role') != 'rep') return;
         $onGoing.prepend($self)
     });
