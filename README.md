@@ -198,7 +198,7 @@ sponsor
 > [/\_include/project-item.html](/_include/project-item.html) 참고.
 > (TODO: 구현되지 않음)
 
-> View에서 시간순으로 정렬하므로 기입 순서 상관 없음.
+> View에서 시간순으로 정렬하므로 기입 순서 상관 없음. (단, onGoing 프로젝트가 단일일 경우 가장 하단에 배치되어야 함)
 
 ## Seminar ([seminars.yaml](/_data/seminars.yaml))
 
