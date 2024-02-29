@@ -36,7 +36,7 @@
   - name: 첨부파일 1. 지원 신청서 (Google Drive)
     url: 'https://drive.google.com/file/d/1AEk3c2TuM6h-RGpdphikQunYlLtIvJiZ/view?usp=sharing'
 - title: '대학원 연구원 모집 안내'
-  show: true
+  show: false
   contents: >
     ##### 대학원 석사/박사/석박사통합과정 연구원 모집 안내
     

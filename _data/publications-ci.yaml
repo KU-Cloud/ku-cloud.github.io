@@ -1375,6 +1375,30 @@
   {
     "author": [
       {
+        "given": "Donggyun",
+        "family": "Kim"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "kim2023memory",
+    "citation-key": "kim2023memory",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "publisher": "International Conference on Innovative Computing (IC 2024)",
+    "title": "Proactive Auto Scaling Based on Marginal Request Change Analysis for Reducing Tail Latency in Kubernetes Cluster"
+  },
+  {
+    "author": [
+      {
         "given": "Minsu",
         "family": "Kwon"
       },
@@ -1996,6 +2020,34 @@
     "title": "Unstructured Membership Management for Byzantine Fault Tolerance in Clouds"
   },
   {
+    "author": [
+      {
+        "given": "Gyujeong",
+        "family": "Lim"
+      },
+      {
+        "given": "Jihun",
+        "family": "Kang"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "kim2023memory",
+    "citation-key": "kim2023memory",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "publisher": "European Symposium on Software Engineering (ESSE2023)",
+    "title": "Imposing Cache: Busy-Aware Cooperative Data Caching in Edge-Cloud Environments"
+  },
+  {
     "publisher-place": "Berlin, Heidelberg",
     "abstract": "Virtualization is to provide virtually all types of technologies used on the physical PC. However, in a virtualization technique, services can be modified and adjusted to satisfy user requirements, the cost of hardware purchases and hardware constructions is not occurred. Beside, this virtualization supports multiple guest operating systems on a host OS. It is helpful for virtualization to build cost-effective IT infrastructure. In general, virtualization can be classified into two categories: full virtualization and para-virtualization. Full virtualization does not require a direct interaction with host resources, but in para-virtualization a direct interaction with frequently used resources can substantially improve performance of computation. In this paper, we study the effects on the performance when the VCPUs map to the physical CPUs in para-virtualization. And we study the effects of the mapped VCPU in an overcommit environment that the number of virtual cores is more than the number of physical cores. The purpose of these experiments is to find out the best CPU allocation method in various environments of para-virtualization.",
     "author": [
@@ -2258,6 +2310,30 @@
       ]
     },
     "title": "Dynamic group-based fault tolerance technique for reliable resource management in mobile cloud computing"
+  },
+  {
+    "author": [
+      {
+        "given": "Hokun",
+        "family": "Park"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "kim2023memory",
+    "citation-key": "kim2023memory",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "publisher": "International Conference on Innovative Computing (IC 2024)",
+    "title": "Improving Memory Utilization by Sharing DNN Models for Serverless Inference"
   },
   {
     "author": [

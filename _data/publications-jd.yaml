@@ -582,6 +582,37 @@
     "volume": "17"
   },
   {
+    "container-title": "The Transactions of the Korea Information Processing Society",
+    "author": [
+      {
+        "given": "HyungJun",
+        "family": "Kim"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+      {
+        "given": "Sungsuk",
+        "family": "Kim"
+      }
+    ],
+    "type": "article-journal",
+    "id": "jeong2022dynamic",
+    "citation-key": "jeong2022dynamic",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "1-9",
+    "title": "Dynamic Worker Classification Scheme for Addressing Straggler Problem in Distributed Deep Learning Environments",
+    "volume": "21"
+  },
+  {
     "container-title": "Journal of Korea Information Science Society(B)",
     "author": [
       {
@@ -881,6 +912,37 @@
     "page": "107-115",
     "title": "Performance evaluation and analysis of TILE-Gx36 many-core processor with PARSEC benchmark",
     "volume": "17"
+  },
+  {
+    "container-title": "The Transactions of the Korea Information Processing Society",
+    "author": [
+      {
+        "given": "Jaehak",
+        "family": "Lee"
+      },
+      {
+        "given": "Jongbeom",
+        "family": "Lim"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "type": "article-journal",
+    "id": "jeong2022dynamic",
+    "citation-key": "jeong2022dynamic",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "48-59",
+    "title": "Performance Evaluation and Analysis on Single and Multi-Network Virtualization Systems with Virtio and SR-IOV",
+    "volume": "13"
   },
   {
     "container-title": "The Journal of Korean Association of Computer Education",
