@@ -403,3 +403,11 @@
   start: 2022-04-01
   end: 2024-12-31
   role: "corep"
+
+- title: "ICT혁신인재"
+  sponsor:
+    short: "정보통신기획평가원"
+    full: "정보통신기획평가원"
+  start: 2022-07-01
+  end: 2025-12-31
+  role: "corep"
