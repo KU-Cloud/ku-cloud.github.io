@@ -35,8 +35,6 @@ master:
       - "Kakao Enterprise"
   - name: Taeshin Kang
     mail: teri98@korea.ac.kr
-  - name: Sunhwa Baek
-    mail: sunflower45@korea.ac.kr
   - name: Hokun Park
     mail: hokunpark98@gmail.com
   - name: Gyujeong Lim
@@ -187,3 +185,7 @@ alumniMaster:
     mail: seong3730@korea.ac.kr
     work:
       - "Republic of Korea Navy (ROKN)"
+  - name: Sunhwa Baek
+    mail: sunflower45@korea.ac.kr
+    work:
+      - "Hyundai Motors"
