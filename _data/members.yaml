@@ -23,7 +23,9 @@ phd:
     mail: ledzep0830@korea.ac.kr
     research:
       - "Distributed Deep Learning"
-      
+  - name: Taejin Ahn
+    mail: ataejin622@gmail.com
+
 master:
   - name: Sejin Kim
     mail: sejjj120@korea.ac.kr
