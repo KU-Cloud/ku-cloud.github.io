@@ -118,7 +118,7 @@ alumniPhd:
   - name: Jihun Kang
     mail: k2j23h@korea.ac.kr
     work:
-      - " "
+      - "Korea National Open University"
   - name: Rohyoung Myung
     mail: mry1911@naver.com
     work:
@@ -127,7 +127,7 @@ alumniPhd:
     # mail: smreodmlvl@korea.ac.kr
     mail: jaecrane2@gmail.com
     work:
-      - "Research Processor (Korea University)"
+      - "Samsung Electronics"
 
 alumniMaster:
   - name: Sangchul Shin
