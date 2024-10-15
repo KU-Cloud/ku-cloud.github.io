@@ -37,12 +37,20 @@ master:
       - "Kakao Enterprise"
   - name: Taeshin Kang
     mail: teri98@korea.ac.kr
+    research:
+      - "Resource Elasticity Management"
   - name: Hokun Park
     mail: hokunpark98@gmail.com
+    research:
+      - "Traffic Scheduling Management"
   - name: Gyujeong Lim
     mail: gjlim2485@korea.ac.kr
+    research:
+      - "Edge Computing"
   - name: Donggyun Kim
     mail: kdonggyun97@gmail.com
+    research:
+      - "Cluster Resource Management"
   - name: Myeongjun Kim
     mail: johnkim682@gmail.com
   - name: Hyunseung Jung
