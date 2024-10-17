@@ -23,6 +23,10 @@ phd:
     mail: ledzep0830@korea.ac.kr
     research:
       - "Distributed Deep Learning"
+  - name: Taeshin Kang
+    mail: teri98@korea.ac.kr
+    research:
+      - "Resource Elasticity Management"
   - name: Taejin Ahn
     mail: ataejin622@gmail.com
 
@@ -35,10 +39,6 @@ master:
     mail: anstkd07@gmail.com
     work:
       - "Kakao Enterprise"
-  - name: Taeshin Kang
-    mail: teri98@korea.ac.kr
-    research:
-      - "Resource Elasticity Management"
   - name: Hokun Park
     mail: hokunpark98@gmail.com
     research:
