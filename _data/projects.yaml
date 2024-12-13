@@ -411,3 +411,11 @@
   start: 2022-07-01
   end: 2025-12-31
   role: "corep"
+
+- title: "SW중심대학사업"
+  sponsor:
+    short: "정보통신기획평가원"
+    full: "정보통신기획평가원"
+  start: 2023-05-01
+  end: 2025-12-31
+  role: "corep"
