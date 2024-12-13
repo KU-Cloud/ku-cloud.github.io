@@ -428,6 +428,35 @@
     "volume": "12"
   },
   {
+    "container-title": "The Transactions of the Korea Information Processing Society",
+    "author": [
+      {
+        "given": "Taeshin",
+        "family": "Kang"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "DOI": "10.3745/TKIPS.2024.13.3.91",
+    "type": "article-journal",
+    "id": "kang2024techique",
+    "citation-key": "kang2024techique",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3
+        ]
+      ]
+    },
+    "page": "91-101",
+    "title": "Technique to Reduce Container Restart for Improving Execution Time of Container Workflow in Kubernetes Environments",
+    "volume": "13"
+  },
+  {
     "container-title": "The Journal of Korean Association of Computer Education",
     "author": [
       {

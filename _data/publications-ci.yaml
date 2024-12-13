@@ -1379,6 +1379,45 @@
         "family": "Kim"
       },
       {
+        "given": "Hyungjun",
+        "family": "Kim"
+      },
+      {
+        "given": "Eunyoung",
+        "family": "Lee"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "collection-title": "Lecture Notes in Computer Science (LNCS)",
+    "DOI": "10.1007/978-981-96-0808-9_2",
+    "type": "paper-conference",
+    "id": "kim2024lare",
+    "citation-key": "kim2024lare",
+    "ISBN": "978-981-96-0808-9",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          7
+        ]
+      ]
+    },
+    "page": "19-34",
+    "publisher": "22nd International Conference on Service-Oriented Computing (ICSOC 2024)",
+    "title": "LARE-HPA: Co-optimizing Latency and Resource Efficiency for Horizontal Pod Autoscaling in Kubernetes",
+    "volume": "15405"
+  },
+  {
+    "author": [
+      {
+        "given": "Donggyun",
+        "family": "Kim"
+      },
+      {
         "given": "Heonchang",
         "family": "Yu"
       }
@@ -2334,6 +2373,49 @@
     },
     "publisher": "International Conference on Innovative Computing (IC 2024)",
     "title": "Communication-Aware Optimization of Microservice Scheduling on Edge Computing"
+  },
+  {
+    "author": [
+      {
+        "given": "Hokun",
+        "family": "Park"
+      },
+      {
+        "given": "Hyungjun",
+        "family": "Kim"
+      },
+      {
+        "given": "Donggyun",
+        "family": "Kim"
+      },
+      {
+        "given": "Gyujeong",
+        "family": "Lim"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "collection-title": "Lecture Notes in Computer Science (LNCS)",
+    "DOI": "10.1007/978-981-96-0805-8_7",
+    "type": "paper-conference",
+    "id": "park2024opttraffic",
+    "citation-key": "park2024opttraffic",
+    "ISBN": "978-981-96-0805-8",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          7
+        ]
+      ]
+    },
+    "page": "100-115",
+    "publisher": "22nd International Conference on Service-Oriented Computing (ICSOC 2024)",
+    "title": "Optimizing Traffic Allocation for Multi-Replica Microservice Deployments in Edge Cloud",
+    "volume": "15404"
   },
   {
     "author": [
