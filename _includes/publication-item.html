@@ -32,9 +32,11 @@
             , pp.{{ include.bib.page }}
         {%- endif -%}
 
+        <b>
         {%- if include.bib.other -%}
-            , <b>({{ include.bib.other }})</b>
+            , ({{ include.bib.other }})
         {%- endif -%}
+        </b>
         .
     </p>
 </li>
