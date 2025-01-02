@@ -31,7 +31,12 @@
         {%- if include.bib.page -%}
             , pp.{{ include.bib.page }}
         {%- endif -%}
-        
+
+        <b>
+        {%- if include.bib.note -%}
+            , ({{ include.bib.note }})
+        {%- endif -%}
+        </b>
         .
     </p>
 </li>

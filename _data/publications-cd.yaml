@@ -4520,7 +4520,7 @@
     },
     "page": "79-80",
     "publisher": "한국정보처리학회 ACK2023",
-    "title": "동기식 분산 딥러닝 환경에서 배치 사이즈 변화에 따른 모델 학습 성능 분석"
+    "title": "동기식 분산 딥러닝 환경에서 배치 사이즈 변화에 따른 모델 학습 성능 분석 (NIPA 원장상)"
   },
   {
     "author": [
@@ -4797,7 +4797,56 @@
     },
     "page": "75-76",
     "publisher": "한국정보처리학회 ACK2023",
-    "title": "확장가능한 시스템 설계를 위한 쿠버네티스 컨테이너 런타임별 웹 애플리케이션 성능 분석"
+    "title": "확장가능한 시스템 설계를 위한 쿠버네티스 컨테이너 런타임별 웹 애플리케이션 성능 분석 (장려상)"
+  },
+  {
+    "author": [
+      {
+        "family": "이수영"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "이2024API파라미터",
+    "citation-key": "이2024API파라미터",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "320-323",
+    "publisher": "한국정보처리학회 ACK2024",
+    "title": "트리 기반 인공지능 모델을 활용한 원자재 가격 예측 자동화 파이프라인 구축"
+  },
+  {
+    "author": [
+      {
+        "family": "이호선"
+      },
+      {
+        "family": "임규정"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "이2024Throw",
+    "citation-key": "이2024Throw",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "116-117",
+    "publisher": "한국정보처리학회 ACK2024",
+    "title": "Throw - 웹 브라우저 기반 크로스플랫폼 파일전송 시스템 개발"
   },
   {
     "author": [
@@ -4846,6 +4895,176 @@
   {
     "author": [
       {
+        "family": "김유란"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2024보안",
+    "citation-key": "김2024보안",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "89-92",
+    "publisher": "한국정보처리학회 ASK2024",
+    "title": "보안을 강화한 플랫폼 엔지니어링 적용 방안"
+  },
+  {
+    "author": [
+      {
+        "family": "김영수"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2024보안",
+    "citation-key": "김2024보안",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "780-783",
+    "publisher": "한국정보처리학회 ASK2024",
+    "title": "지속적인 모델 최적화를 위한 연합 학습 효율화 전략"
+  },
+  {
+    "author": [
+      {
+        "family": "이형진"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "이2024특허",
+    "citation-key": "이2024특허",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "814-817",
+    "publisher": "한국정보처리학회 ASK2024",
+    "title": "특허 패밀리 수를 고려한 머신러닝 기반의 특허 가치 평가 방안"
+  },
+  {
+    "author": [
+      {
+        "family": "강민재"
+      },
+      {
+        "family": "김동균"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "강2024서버리스",
+    "citation-key": "강2024서버리스",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "1570-1572",
+    "publisher": "한국정보과학회 KCC2024",
+    "title": "서버리스 환경에서 베이지안 최적화 기반의 비용 효율적 자원 할당 기법"
+  },
+  {
+    "author": [
+      {
+        "family": "김민창"
+      },
+      {
+        "family": "강민재"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2024서버리스",
+    "citation-key": "김2024서버리스",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "92-95",
+    "publisher": "한국정보처리학회 ACK2024",
+    "title": "서버리스 환경에서 멀티스테이지 빌드 기반의 Dockerfile 최적화에 따른 컨테이너 이미지 풀링 시간 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "김현정"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2024인공지능",
+    "citation-key": "김2024인공지능",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "576-579",
+    "publisher": "한국정보처리학회 ASK2024",
+    "title": "인공지능 기반 주식시장 변동성 이상탐지모델 개발 (정보통신산업진흥원 원장상)"
+  },
+  {
+    "author": [
+      {
+        "family": "김규민"
+      },
+      {
+        "family": "김형준"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2024자원효율",
+    "citation-key": "김2024자원효율",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "2439-2441",
+    "publisher": "한국정보과학회 KCC2024",
+    "title": "자원 효율적 LLM 시스템을 위한 Attention 알고리즘별 성능 분석"
+  },
+  {
+    "author": [
+      {
         "family": "이현식"
       },
       {
@@ -4864,6 +5083,271 @@
     },
     "publisher": "한국정보과학회 KSC2023",
     "title": "GPU 클러스터에서의 메시지 큐와 실시간 처리량 기반 ML 마이크로서비스 오토스케일링"
+  },
+  {
+    "author": [
+      {
+        "family": "이은지"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "이2024트리기반",
+    "citation-key": "이2024트리기반",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "682-685",
+    "publisher": "한국정보처리학회 ACK2024",
+    "title": "트리 기반 인공지능 모델을 활용한 원자재 가격 예측 자동화 파이프라인 구축"
+  },
+  {
+    "author": [
+      {
+        "family": "이민영"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "이2024표현학습",
+    "citation-key": "이2024표현학습",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "658-661",
+    "publisher": "한국정보처리학회 ASK2024",
+    "title": "표현 학습 기반의 딥러닝 모델을 활용한 클라우드 자원 이상 감지 시스템 (우수논문상)"
+  },
+  {
+    "author": [
+      {
+        "family": "지승우"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "지2024개인정보",
+    "citation-key": "지2024개인정보",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "364-367",
+    "publisher": "한국정보처리학회 ACK2024",
+    "title": "개인정보보호법 개정에 따른 개인정보 시스템에서의 이상 징후 탐지 기법"
+  },
+  {
+    "author": [
+      {
+        "family": "홍성만"
+      },
+      {
+        "family": "김경아"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "홍2024복부출혈",
+    "citation-key": "홍2024복부출혈",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "301-303",
+    "publisher": "한국정보과학회 KCC2024",
+    "title": "복부 출혈 진단을 위한 인공지능 모델 연구"
+  },
+  {
+    "author": [
+      {
+        "family": "권서은"
+      },
+      {
+        "family": "김동균"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "권2024쿠버네티스",
+    "citation-key": "권2024쿠버네티스",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "84-85",
+    "publisher": "한국정보처리학회 ACK2024",
+    "title": "쿠버네티스 환경에서 Cool Down Time 설정에 따른 CPU 사용량 및 서비스 응답시간 분석 (학부생 논문경진대회 은상)"
+  },
+  {
+    "author": [
+      {
+        "family": "김성일"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2024오버샘플링",
+    "citation-key": "김2024오버샘플링",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "427-430",
+    "publisher": "한국정보처리학회 ACK2024",
+    "title": "오버샘플링 기법을 적용한 악성 패킷 분류 모델의 리콜 지표 최적화"
+  },
+  {
+    "author": [
+      {
+        "family": "김건우"
+      },
+      {
+        "family": "김동균"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김2024쿠버네티스",
+    "citation-key": "김2024쿠버네티스",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "88-89",
+    "publisher": "한국정보처리학회 ACK2024",
+    "title": "쿠버네티스 환경에서 레플리카의 자원 세분성에 따른 서비스 응답시간 성능 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "윤주녕"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "윤2024쿠버네티스",
+    "citation-key": "윤2024쿠버네티스",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "108-111",
+    "publisher": "한국정보처리학회 ASK2024",
+    "title": "쿠버네티스에서의 DB 스케일링 기반 서비스 시간 개선 및 효율적인 자원 사용 방안"
+  },
+  {
+    "author": [
+      {
+        "family": "한승주"
+      },
+      {
+        "family": "김동균"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "한2024쿠버네티스",
+    "citation-key": "한2024쿠버네티스",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "86-87",
+    "publisher": "한국정보처리학회 ACK2024",
+    "title": "쿠버네티스 환경에서 파드 사이의 CPU 자원 경쟁에 따른 응답시간 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "윤아영"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "윤2024제로트러스트",
+    "citation-key": "윤2024제로트러스트",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "258-261",
+    "publisher": "한국정보처리학회 ACK2024",
+    "title": "제로 트러스트를 위한 신뢰점수 기반 클라이언트 접근제어 기법"
+  },
+  {
+    "author": [
+      {
+        "family": "이동엽"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "이2024아파치스파크",
+    "citation-key": "이2024아파치스파크",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "170-172",
+    "publisher": "한국정보과학회 KCC2024",
+    "title": "Apache Spark환경에서 분할과 병합을 이용한 PIVOT 성능 최적화 기법"
   },
   {
     "author": [
@@ -4892,6 +5376,29 @@
     },
     "page": "81-84",
     "publisher": "한국정보처리학회 ACK2023",
-    "title": "Heterogeneous 코어 환경에서 Singularity 컨테이너의 Cgroup 정책에 따른 HPC 작업의 성능 분석"
+    "title": "Heterogeneous 코어 환경에서 Singularity 컨테이너의 Cgroup 정책에 따른 HPC 작업의 성능 분석 (최우수논문상)"
+  },
+  {
+    "author": [
+      {
+        "family": "허용석"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "허TKAD",
+    "citation-key": "허TKAD",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "580-583",
+    "publisher": "한국정보처리학회 ACK2024",
+    "title": "TKAD: 트랜스포머 구조와 칼만 필터 결합을 통한 클라우드 시스템 시계열 로그 이상 탐지 기법"
   }
 ]
