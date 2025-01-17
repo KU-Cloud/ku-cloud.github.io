@@ -53,10 +53,16 @@ master:
       - "Cluster Resource Management"
   - name: Myeongjun Kim
     mail: johnkim682@gmail.com
+    research:
+      - "Edge Offloading"
   - name: Hyunseung Jung
     mail: okhs0712@naver.com
+    research:
+      - "Distributed Deep Learning"
   - name: Minwoo Kang
     mail: pkang12@naver.com
+    research:
+      - "Microservice Deployment"
   - name: Minjae Kang
     mail: austin9228@korea.ac.kr
   - name: Minchang Kim
