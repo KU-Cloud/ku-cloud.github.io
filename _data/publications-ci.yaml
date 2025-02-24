@@ -2641,7 +2641,7 @@
     "publisher": "The 40th ACM/SIGAPP Symposium on Applied Computing (SAC ’25)",
     "title": "Elastic Vertical Memory Management for Container-based Stateful Applications in Kubernetes"
   },
-        {
+       {
     "author": [
       {
         "given": "Minwoo",
@@ -2671,7 +2671,7 @@
       ]
     },
     "note": "SCIE-compatible Top-tier Conference (NRF-1), Acceptance Rate: 25%",
-    "publisher": "SUPLEC:Microservice Scheduling Under Unexpected Peak Load in the Edge-Cloud Continuum",
-    "title": "The 25th IEEE international Symposium on Cluster, Cloud and Internet Computing (CCGRID 2025)"
+    "publisher": "The 25th IEEE international Symposium on Cluster, Cloud and Internet Computing (CCGRID 2025)",
+    "title": " SUPLEC:Microservice Scheduling Under Unexpected Peak Load in the Edge-Cloud Continuum"
   }
 ]
