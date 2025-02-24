@@ -2615,5 +2615,63 @@
     "page": "1017-1023",
     "publisher": "Springer Berlin Heidelberg",
     "title": "Stable HPC Cluster Management Scheme through Performance Evaluation"
+  },
+      {
+    "author": [
+      {
+        "given": "Taeshin",
+        "family": "Kang"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "kang2025elastic",
+    "citation-key": "kang2025elastic",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "SCIE-compatible Top-tier Conference (NRF-1), Acceptance Rate: 23%",
+    "publisher": "The 40th ACM/SIGAPP Symposium on Applied Computing (SAC ’25)",
+    "title": "Elastic Vertical Memory Management for Container-based Stateful Applications in Kubernetes"
+  },
+        {
+    "author": [
+      {
+        "given": "Minwoo",
+        "family": "Kang"
+      },
+            {
+        "given": "Taeshin",
+        "family": "Kang"
+      },
+            {
+        "given": "Joonmin",
+        "family": "Gil"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "kang2025suplec",
+    "citation-key": "kang2025suplec",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "SCIE-compatible Top-tier Conference (NRF-1), Acceptance Rate: 25%",
+    "publisher": "SUPLEC:Microservice Scheduling Under Unexpected Peak Load in the Edge-Cloud Continuum",
+    "title": "The 25th IEEE international Symposium on Cluster, Cloud and Internet Computing (CCGRID 2025)"
   }
 ]
