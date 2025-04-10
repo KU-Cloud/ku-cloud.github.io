@@ -43,14 +43,6 @@ master:
     mail: hokunpark98@gmail.com
     research:
       - "Traffic Scheduling Management"
-  - name: Gyujeong Lim
-    mail: gjlim2485@korea.ac.kr
-    research:
-      - "Edge Computing"
-  - name: Donggyun Kim
-    mail: kdonggyun97@gmail.com
-    research:
-      - "Cluster Resource Management"
   - name: Myeongjun Kim
     mail: johnkim682@gmail.com
     research:
@@ -70,13 +62,7 @@ master:
   - name: Minjae Jung
     mail: mjjung9999@gmail.com
 intern:
-  - name: Sangjin Park
-    mail: tjtpp009@korea.ac.kr
-  - name: Hosun Lee
-    mail: hoaun1804@korea.ac.kr
-  - name: Seungjoo Han
   - name: Seoeun Kwon
-  - name: Geonwoo Kim
 alumniPhd:
   - name: Hwamin Lee
     mail: hwamin77@gmail.com
@@ -209,3 +195,7 @@ alumniMaster:
     mail: sunflower45@korea.ac.kr
     work:
       - "Hyundai Motors"
+  - name: Gyujeong Lim
+    mail: gjlim2485@korea.ac.kr
+  - name: Donggyun Kim
+    mail: kdonggyun97@gmail.com
