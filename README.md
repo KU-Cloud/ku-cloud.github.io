@@ -78,7 +78,7 @@ Optionals
 ## Serve on Localhost using `Jekyll`
 
 ```sh
-# 홈페이지 Source 다운로
+# 홈페이지 Source 다운로드
 git clone https://github.com/KU-Cloud/ku-cloud.github.io.git
 cd ku-cloud.github.io
 # Jekyll 서버 실행
