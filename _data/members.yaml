@@ -29,6 +29,10 @@ phd:
       - "Resource Elasticity Management"
   - name: Taejin Ahn
     mail: ataejin622@gmail.com
+  - name: Hokun Park
+    mail: hokunpark98@gmail.com
+    research:
+      - "Traffic Scheduling Management"
 
 master:
   - name: Sejin Kim
@@ -39,10 +43,6 @@ master:
     mail: anstkd07@gmail.com
     work:
       - "Kakao Enterprise"
-  - name: Hokun Park
-    mail: hokunpark98@gmail.com
-    research:
-      - "Traffic Scheduling Management"
   - name: Myeongjun Kim
     mail: johnkim682@gmail.com
     research:
@@ -63,6 +63,9 @@ master:
     mail: mjjung9999@gmail.com
 intern:
   - name: Seoeun Kwon
+  # - name: Yonggeun Kim
+  # - name: Jeonghee Lee
+  # - name: Yeongmin Kim
 alumniPhd:
   - name: Hwamin Lee
     mail: hwamin77@gmail.com
