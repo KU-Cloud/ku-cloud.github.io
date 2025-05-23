@@ -419,3 +419,11 @@
   start: 2023-05-01
   end: 2025-12-31
   role: "corep"
+
+- title: "AI반도체 컴퓨팅 자원분해 및 자원풀링 기술 개발"
+  sponsor:
+    short: "정보통신기획평가원"
+    full: "정보통신기획평가원"
+  start: 2025-04-01
+  end: 2029-12-31
+  role: "corep"
