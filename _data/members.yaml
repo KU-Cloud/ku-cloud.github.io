@@ -63,9 +63,8 @@ master:
     mail: mjjung9999@gmail.com
 intern:
   - name: Seoeun Kwon
-  # - name: Yonggeun Kim
-  # - name: Jeonghee Lee
-  # - name: Yeongmin Kim
+  - name: Yonggeun Kim
+  - name: Yeongmin Kim
 alumniPhd:
   - name: Hwamin Lee
     mail: hwamin77@gmail.com
