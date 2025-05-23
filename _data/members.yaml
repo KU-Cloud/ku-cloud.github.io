@@ -57,8 +57,12 @@ master:
       - "Microservice Deployment"
   - name: Minjae Kang
     mail: austin9228@korea.ac.kr
+    research:
+      - "Serverless Computing Resource Management"
   - name: Minchang Kim
     mail: naxcco@gmail.com
+    research:
+      - "Serverless Computing"
   - name: Minjae Jung
     mail: mjjung9999@gmail.com
 intern:
@@ -188,7 +192,7 @@ alumniMaster:
   - name: Myung-Hyun Kim
     mail: freckie@korea.ac.kr
     work:
-      - "TmaxSoft"
+      - "ThorDrive"
   - name: Kwanghyun Seong
     mail: seong3730@korea.ac.kr
     work:
@@ -201,3 +205,5 @@ alumniMaster:
     mail: gjlim2485@korea.ac.kr
   - name: Donggyun Kim
     mail: kdonggyun97@gmail.com
+    work:
+      - "RECO"
