@@ -2673,5 +2673,121 @@
     "note": "SCIE-compatible Top-tier Conference (NRF-1), Acceptance Rate: 25%",
     "publisher": "The 25th IEEE international Symposium on Cluster, Cloud and Internet Computing (CCGrid 2025)",
     "title": " SUPLEC:Microservice Scheduling Under Unexpected Peak Load in the Edge-Cloud Continuum"
-  }
+  },
+  {
+    "type": "paper-conference",
+    "id": "park2025heart",
+    "citation-key": "park2025heart",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "publisher": "IEEE 18th International Conference on Cloud Computing (CLOUD 2025)",
+    "title": "HEART: Heterogeneous-Aware Traffic Allocation in Multi-Replica Deployments on Kubernetes",
+    "note": "SCIE-compatible Top-tier Conference, Acceptance Rate: 28%",
+    "author": [
+      {
+        "given": "Hokun",
+        "family": "Park"
+      },
+      {
+        "given": "Donggyun",
+        "family": "Kim"
+      },
+      {
+        "given": "Hyungjun",
+        "family": "Kim"
+      },
+      {
+        "given": "Gyujeong",
+        "family": "Lim"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+  },
+  {
+    "type": "paper-conference",
+    "id": "kang2025mobos",
+    "citation-key": "kang2025mobos",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "publisher": "IEEE 18th International Conference on Cloud Computing (CLOUD 2025)",
+    "title": "MOBOS: Co-optimizing Cost and Execution Time in Serverless Workflow with Multi-Objective Bayesian Optimization",
+    "note": "SCIE-compatible Top-tier Conference, Acceptance Rate: 28%",
+    "author": [
+      {
+        "given": "Minjae",
+        "family": "Kang"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+  },
+  {
+    "type": "paper-conference",
+    "id": "kim2025resaco",
+    "citation-key": "kim2025resaco",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "publisher": "IEEE 18th International Conference on Cloud Computing (CLOUD 2025)",
+    "title": "ReSACO: A Meta Reinforcement Learning Method for Fast Offloading in Mobile Edge Computing",
+    "note": "SCIE-compatible Top-tier Conference, Acceptance Rate: 28%",
+    "author": [
+      {
+        "given": "Myeongjun",
+        "family": "Kim"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+  },
+  {
+    "type": "paper-conference",
+    "id": "jung2025korel",
+    "citation-key": "jung2025korel",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "publisher": "IEEE 18th International Conference on Cloud Computing (CLOUD 2025)",
+    "title": "ReSACO: A Meta Reinforcement Learning Method for Fast Offloading in Mobile Edge Computing",
+    "note": "SCIE-compatible Top-tier Conference, Acceptance Rate: 28%",
+    "author": [
+      {
+        "given": "Hyunsung",
+        "family": "Jung"
+      },
+      {
+        "given": "Hyungjun",
+        "family": "Kim"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+    ],
+  },
 ]

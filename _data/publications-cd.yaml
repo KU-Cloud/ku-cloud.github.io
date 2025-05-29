@@ -5400,5 +5400,96 @@
     "page": "580-583",
     "publisher": "한국정보처리학회 ACK2024",
     "title": "TKAD: 트랜스포머 구조와 칼만 필터 결합을 통한 클라우드 시스템 시계열 로그 이상 탐지 기법"
-  }
+  },
+  {
+    "author": [
+      {
+        "family": "최경영"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "최SYMPOOL",
+    "citation-key": "최SYMPOOL",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "publisher": "한국정보처리학회 ASK2025",
+    "title": "SYMPOOL: 기호 실행 기법을 통한 윈도우 커널 드라이버 풀 오버플로우 취약점 탐지 자동화",
+    "note": "우수논문상 수상"
+  },
+  {
+    "author": [
+      {
+        "family": "임상준"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "임Zone",
+    "citation-key": "임Zone",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "publisher": "한국정보처리학회 ASK2025",
+    "title": "Zone 기반 차원 축소와 선택 전략을 활용한 적응형 유전 알고리즘 기반 철골 구조물 시공 순서 최적화",
+    "note": "ETRI 원장상 수상"
+  },
+    {
+    "author": [
+      {
+        "family": "하정헌"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "하image",
+    "citation-key": "하image",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "publisher": "한국정보처리학회 ASK2025",
+    "title": "이미지를 포함한 비정형 문서의 이해와 응답을 위한 지능형 시스템 설계 및 구현"
+  },
+  
+    {
+    "author": [
+      {
+        "family": "김태수"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김vision",
+    "citation-key": "김vision",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "publisher": "한국정보처리학회 ASK2025",
+    "title": "경량 Vision-Language Model의 강화학습 최적화: GymCards 환경에서 CoT 및 LoRA 적용 사례 연구"
+  },
 ]
