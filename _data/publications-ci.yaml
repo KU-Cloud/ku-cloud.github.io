@@ -1406,7 +1406,7 @@
         ]
       ]
     },
-    "note": "Distinguished Paper, SCIE-compatible Top-tier Conference (NRF-1), Acceptance Rate: 14.5%",
+    "note": "Distinguished Paper, SCIE-compatible Top-tier Conference, Acceptance Rate: 14.5%",
     "page": "19-34",
     "publisher": "22nd International Conference on Service-Oriented Computing (ICSOC 2024)",
     "title": "LARE-HPA: Co-optimizing Latency and Resource Efficiency for Horizontal Pod Autoscaling in Kubernetes",
@@ -2413,7 +2413,7 @@
         ]
       ]
     },
-    "note": "SCIE-compatible Top-tier Conference (NRF-1), Acceptance Rate: 14.5%",
+    "note": "SCIE-compatible Top-tier Conference, Acceptance Rate: 14.5%",
     "page": "100-115",
     "publisher": "22nd International Conference on Service-Oriented Computing (ICSOC 2024)",
     "title": "Optimizing Traffic Allocation for Multi-Replica Microservice Deployments in Edge Cloud",
@@ -2637,7 +2637,7 @@
         ]
       ]
     },
-    "note": "SCIE-compatible Top-tier Conference (NRF-1), Acceptance Rate: 23%",
+    "note": "SCIE-compatible Top-tier Conference, Acceptance Rate: 23%",
     "publisher": "The 40th ACM/SIGAPP Symposium on Applied Computing (SAC ’25)",
     "title": "Elastic Vertical Memory Management for Container-based Stateful Applications in Kubernetes"
   },
@@ -2670,7 +2670,7 @@
         ]
       ]
     },
-    "note": "SCIE-compatible Top-tier Conference (NRF-1), Acceptance Rate: 25%",
+    "note": "SCIE-compatible Top-tier Conference, Acceptance Rate: 25%",
     "publisher": "The 25th IEEE international Symposium on Cluster, Cloud and Internet Computing (CCGrid 2025)",
     "title": " SUPLEC:Microservice Scheduling Under Unexpected Peak Load in the Edge-Cloud Continuum"
   },
