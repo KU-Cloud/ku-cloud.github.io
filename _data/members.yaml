@@ -27,12 +27,12 @@ phd:
     mail: teri98@korea.ac.kr
     research:
       - "Resource Elasticity Management"
-  - name: Taejin Ahn
-    mail: ataejin622@gmail.com
   - name: Hokun Park
     mail: hokunpark98@gmail.com
     research:
       - "Traffic Scheduling Management"
+  - name: Taejin Ahn
+    mail: ataejin622@gmail.com
 
 master:
   - name: Sejin Kim
@@ -65,6 +65,8 @@ master:
       - "Serverless Computing"
   - name: Minjae Jung
     mail: mjjung9999@gmail.com
+  - name: Jaeuk Park
+    mail: pwook96@naver.com
 intern:
   - name: Seoeun Kwon
   - name: Yonggeun Kim
