@@ -2658,5 +2658,41 @@
     "language": "English",
     "title": "Log Analysis-Based Resource and Execution Time Improvement in HPC: A Case Study",
     "volume": "10"
-  }
+  },
+  {
+    "container-title": "Pervasive and Mobile Computing",
+    "abstract": "Edge computing is a new paradigm in cloud infrastructure that decentralizes computing and storage, bringing data and services closer to the users. This proximity allows users to access high quality or large sized data with lower latency. However, edge servers typically have fewer resources than cloud servers, necessitating efficient resource management. Emerging research focuses on increasing the cache hit rate of user requests to edge servers, which reduces response latency and improves efficiency. Nonetheless, if available bandwidth is not considered, it becomes challenging to maintain both speed and quality in edge environments. This paper proposes an Autonomous Bandwidth-Efficient Edge Codecast (A-BEE-C) method to enhance the effective bandwidth per device within an edge service area. Codecast, introduced in this paper, is a transmission method that encodes multiple files into a single file before sending it to users. A-BEE-C introduces a dynamic mechanism that switches between unicast and codecast modes based on real-time bandwidth assessment. Our proposed method increases the effective bandwidth per device by encoding multiple user requests into a single coded transmission when the bandwidth of the edge server is limited. Experimental results demonstrate that A-BEE-C reduces average latency per device by up to 9.89% (and up to 18.45% with Zipf pattern data) and increases effective bandwidth per user by up to 10.15% (up to 18.11% with Zipf pattern).",
+    "author": [
+      {
+        "given": "Gyujeong",
+        "family": "Lim"
+      },
+      {
+        "given": "Joon-Min",
+        "family": "Gil"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "DOI": "10.1016/j.pmcj.2025.102075",
+    "type": "article-journal",
+    "id": "lim2025abeec",
+    "citation-key": "lim2025abeec",
+    "ISSN": "1574-1192",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          17
+        ]
+      ]
+    },
+    "keyword": "edge computing, bandwidth, latency, multicast",
+    "language": "English",
+    "title": "A-BEE-C: Autonomous Bandwidth-Efficient Edge Codecast",
+    "volume": "112"
+  },
 ]
