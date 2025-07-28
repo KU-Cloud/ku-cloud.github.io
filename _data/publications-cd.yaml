@@ -5447,7 +5447,7 @@
     "title": "Zone 기반 차원 축소와 선택 전략을 활용한 적응형 유전 알고리즘 기반 철골 구조물 시공 순서 최적화",
     "note": "ETRI 원장상 수상"
   },
-    {
+  {
     "author": [
       {
         "family": "하정헌"
@@ -5469,8 +5469,7 @@
     "publisher": "한국정보처리학회 ASK2025",
     "title": "이미지를 포함한 비정형 문서의 이해와 응답을 위한 지능형 시스템 설계 및 구현"
   },
-  
-    {
+  {
     "author": [
       {
         "family": "김태수"
@@ -5491,5 +5490,161 @@
     },
     "publisher": "한국정보처리학회 ASK2025",
     "title": "경량 Vision-Language Model의 강화학습 최적화: GymCards 환경에서 CoT 및 LoRA 적용 사례 연구"
+  },
+  {
+    "author": [
+      {
+        "family": "정민재"
+      },
+      {
+        "family": "강태신"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "정tensor",
+    "citation-key": "정tensor",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "page": "1745-1747",
+    "publisher": "한국정보과학회 KCC2025",
+    "title": "TensorRT-LM 환경에서 다양한 배치 정책에 따른 추론 성능 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "권서은"
+      },
+      {
+        "family": "강민재"
+      },
+      {
+        "family": "김동균"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "권replica",
+    "citation-key": "권replica",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "page": "2521-2523",
+    "publisher": "한국정보과학회 KCC2025",
+    "title": "이기종 Kubernetes 환경에서 비용 효율적 클러스터 사용을 위한 심층 강화학습 기반 동적 Replica 재배치 기법"
+  },
+  {
+    "author": [
+      {
+        "family": "김영민"
+      },
+      {
+        "family": "박호근"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김traffic",
+    "citation-key": "김traffic",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "page": "2503-2505",
+    "publisher": "한국정보과학회 KCC2025",
+    "title": "동종/이기종 환경에서의 쿠버네티스 트래픽 스케줄링 알고리즘 성능 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "김용근"
+      },
+      {
+        "family": "김형준"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김batch",
+    "citation-key": "김batch",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "page": "1886-1888",
+    "publisher": "한국정보과학회 KCC2025",
+    "title": "분산 딥러닝의 선형 확장 가정 검증: 배치 크기와 이터레이션 시간에 관한 실증적 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "이정희"
+      },
+      {
+        "family": "김형준"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "이straggler",
+    "citation-key": "이straggler",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "page": "1880-1882",
+    "publisher": "한국정보과학회 KCC2025",
+    "title": "이기종 GPU 클라우드 환경에서 실시간 최적화를 지원하는 DL 프레임워크를 위한 스트래글러 처리 기법별 성능 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "홍성만"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "홍agent",
+    "citation-key": "홍agent",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "page": "1192-1194",
+    "publisher": "한국정보과학회 KCC2025",
+    "title": "RAG AI Multi-Agent 기반 시스템을 활용한 기업정보 분석 프레임워크"
   },
 ]
