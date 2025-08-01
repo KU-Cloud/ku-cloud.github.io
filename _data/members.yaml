@@ -206,6 +206,8 @@ alumniMaster:
       - "Hyundai Motors"
   - name: Gyujeong Lim
     mail: gjlim2485@korea.ac.kr
+    work:
+      - "LG CNS"
   - name: Donggyun Kim
     mail: kdonggyun97@gmail.com
     work:
