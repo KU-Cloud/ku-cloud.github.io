@@ -68,10 +68,10 @@ master:
   - name: Jaeuk Park
     mail: pwook96@naver.com
 intern:
-  - name: Seoeun Kwon
-  - name: Yonggeun Kim
-  - name: Yeongmin Kim
-  - name: Jeonghee Lee
+  # - name: Seoeun Kwon
+  # - name: Yonggeun Kim
+  # - name: Yeongmin Kim
+  # - name: Jeonghee Lee
 alumniPhd:
   - name: Hwamin Lee
     mail: hwamin77@gmail.com
