@@ -84,6 +84,8 @@ cd ku-cloud.github.io
 # Jekyll 서버 실행
 jekyll serve
 ```
+NOTE: "jekyll serve" 실행시킬때 jekyll 버전이 Github Pages dependencies와 맞는지 확인 필수 (see [GitHub Pages dependency list](https://pages.github.com/versions/))
+- Force version with `jekyll _VERSION_ serve` (for example `jekyll _3.10.0_ serve`)
 
 정적 페이지가 생성된 후 `http://localhost:4000`으로 접속하면 로컬에서 Serving되는 웹 페이지에 접근할 수 있다.
 
