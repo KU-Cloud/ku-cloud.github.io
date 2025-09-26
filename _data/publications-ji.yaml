@@ -2696,7 +2696,7 @@
     "volume": "112"
   },
   {
-    "container-title": "Systems Architecture",
+    "container-title": "Journal of Systems Architecture",
     "abstract": "Adaptive training in heterogeneous GPU clusters requires more than isolated heuristics—it demands a real-time, feedback-driven control system. SADDLE is a self-adaptive framework that unifies global batch scaling, local throughput balancing, and transient straggler mitigation into a fully coordinated runtime. It combines scaling guided by the Gradient Noise Scale (GNS), z-score detection over Exponentially Weighted Moving Average (EWMA)-smoothed iteration times, and responsiveness tuned via a Proportional–Integral–Derivative (PID) controller into a single, event-driven control loop. Across vision and language tasks, SADDLE improves training time by up to 2.84×and accuracy by up to 5.26% over strong baselines, while maintaining under 6% runtime overhead. This reframing positions adaptive training as dynamic system regulation, enabling deep learning frameworks to self-optimize under real-world heterogeneity.",
     "author": [
       {
