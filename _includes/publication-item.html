@@ -38,5 +38,8 @@
         {%- endif -%}
         </b>
         .
+        {%- if include.bib.co-author -%}
+        <br><span style="font-size: 0.8em;">{{ include.bib.co-author }}</span>
+        {%- endif -%}
     </p>
 </li>

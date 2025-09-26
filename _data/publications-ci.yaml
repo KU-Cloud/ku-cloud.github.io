@@ -2775,14 +2775,15 @@
     "publisher": "IEEE 18th International Conference on Cloud Computing (CLOUD 2025)",
     "title": "Korel: Dynamic AMP-based Straggler Mitigation in Multi-Tenant Distributed Deep Learning Environments",
     "note": "SCIE-compatible Top-tier Conference, Acceptance Rate: 28%",
+    "co-author": "*co-author",
     "author": [
       {
         "given": "Hyunseung",
-        "family": "Jung"
+        "family": "Jung*"
       },
       {
         "given": "Hyungjun",
-        "family": "Kim"
+        "family": "Kim*"
       },
       {
         "given": "Heonchang",

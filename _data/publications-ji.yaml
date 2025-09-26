@@ -2695,4 +2695,40 @@
     "title": "A-BEE-C: Autonomous Bandwidth-Efficient Edge Codecast",
     "volume": "112"
   },
+  {
+    "container-title": "Systems Architecture",
+    "abstract": "Adaptive training in heterogeneous GPU clusters requires more than isolated heuristics—it demands a real-time, feedback-driven control system. SADDLE is a self-adaptive framework that unifies global batch scaling, local throughput balancing, and transient straggler mitigation into a fully coordinated runtime. It combines scaling guided by the Gradient Noise Scale (GNS), z-score detection over Exponentially Weighted Moving Average (EWMA)-smoothed iteration times, and responsiveness tuned via a Proportional–Integral–Derivative (PID) controller into a single, event-driven control loop. Across vision and language tasks, SADDLE improves training time by up to 2.84×and accuracy by up to 5.26% over strong baselines, while maintaining under 6% runtime overhead. This reframing positions adaptive training as dynamic system regulation, enabling deep learning frameworks to self-optimize under real-world heterogeneity.",
+    "author": [
+      {
+        "given": "HyungJun",
+        "family": "Kim"
+      },
+      {
+        "given": "Eunyoung",
+        "family": "Lee"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "DOI": "10.1016/j.sysarc.2025.103573",
+    "type": "article-journal",
+    "id": "kim2025saddle",
+    "citation-key": "kim2025saddle",
+    "ISSN": "",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          24
+        ]
+      ]
+    },
+    "keyword": "feedback-driven adaptation, control-theoretic training, global–local batch optimization, event-triggered rebalancing, online parameter tuning, heterogeneous GPU clusters",
+    "language": "English",
+    "title": "SADDLE: A runtime feedback control architecture for adaptive distributed deep learning in heterogeneous GPU clusters",
+    "volume": "168"
+  },
 ]
