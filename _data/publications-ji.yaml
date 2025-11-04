@@ -2716,7 +2716,7 @@
     "type": "article-journal",
     "id": "kim2025saddle",
     "citation-key": "kim2025saddle",
-    "ISSN": "",
+    "ISSN": "1383-7621",
     "issued": {
       "date-parts": [
         [
@@ -2730,5 +2730,41 @@
     "language": "English",
     "title": "SADDLE: A runtime feedback control architecture for adaptive distributed deep learning in heterogeneous GPU clusters",
     "volume": "168"
+  },
+  {
+    "container-title": "Journal of Cloud Computing",
+    "abstract": "Edge computing reduces the response time of real-time services with handling dynamic traffic reliably. Edge servers with limited resources often utilize container technology, which provides a lightweight execution environment. When deploying containers on edge servers, a container image is required and it is predominantly downloaded from a remote registry. Therefore, these operations are heavily influenced by network overhead between the container deployment system and the remote registry. Through motivation experiments specifically designed to identify these network overheads, we demonstrate that container pulling time increases in proportion to the physical distance between two hosts and varies flexibly based on runtime conditions. In this paper, we define a system model to place multiple registries for high-speed container deployment and propose a technique for clustering edge servers and selecting leaders within each cluster based on the affinity between edge servers and network overhead. We also propose a method for selectively deploying registries based on the idle resources of edge servers. We validate the proposed technique through simulation experiments. The results show consistent performance improvements regardless of the edge server count or the k value.",
+    "author": [
+      {
+        "given": "Chunggeon",
+        "family": "Song"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+      {
+        "given": "Joon-Min",
+        "family": "Gil"
+      }
+    ],
+    "DOI": "10.1186/s13677-025-00791-4",
+    "type": "article-journal",
+    "id": "song2025mkrp",
+    "citation-key": "song2025mkrp",
+    "ISSN": "",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          29
+        ]
+      ]
+    },
+    "keyword": "Container deployment, Registry placement, Edge computing",
+    "language": "English",
+    "title": "MkRP: multiple k registry placement for fast container deployment on edge computing",
+    "volume": "14"
   },
 ]
