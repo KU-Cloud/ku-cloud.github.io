@@ -1123,3 +1123,7 @@
   date: 2025-09-05T19:00:00.00+0900
   speacker: 김형준
   location: 애기능생호관 301호 (Zoom 동시 송출)
+- title: 'Critical Limitations of the Least Outstanding Request Load Balancing policy in Service Meshes for Large-Scale Microservice Applications'
+  date: 2025-10-24T19:00:00.00+0900
+  speacker: 박호근
+  location: 애기능생호관 301호 (Zoom 동시 송출)
