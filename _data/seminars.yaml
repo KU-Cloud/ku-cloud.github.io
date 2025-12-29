@@ -1127,3 +1127,11 @@
   date: 2025-10-24T19:00:00.00+0900
   speacker: 박호근
   location: 애기능생호관 301호 (Zoom 동시 송출)
+- title: 'ML-FaaS: Toward Exploiting the Serverless Paradigm to Facilitate Machine Learning Functions as a Service'
+  date: 2025-11-07T19:00:00.00+0900
+  speacker: 김민창
+  location: 애기능생호관 301호 (Zoom 동시 송출)
+- title: 'LLM-Based Misconfiguration Detection for AWS Serverless Computing'
+  date: 2025-11-14T19:00:00.00+0900
+  speacker: 강민재
+  location: 애기능생호관 301호 (Zoom 동시 송출)
