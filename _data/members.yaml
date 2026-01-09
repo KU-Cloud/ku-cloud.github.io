@@ -43,30 +43,18 @@ master:
     mail: anstkd07@gmail.com
     work:
       - "Kakao Enterprise"
-  - name: Myeongjun Kim
-    mail: johnkim682@gmail.com
-    research:
-      - "Edge Offloading"
-  - name: Hyunseung Jung
-    mail: okhs0712@naver.com
-    research:
-      - "Distributed Deep Learning"
-  - name: Minwoo Kang
-    mail: pkang12@naver.com
-    research:
-      - "Microservice Deployment"
-  - name: Minjae Kang
-    mail: austin9228@korea.ac.kr
-    research:
-      - "Serverless Computing Resource Management"
   - name: Minchang Kim
     mail: naxcco@gmail.com
     research:
-      - "Serverless Computing"
+      - "Serverless Computing Scheduler"
   - name: Minjae Jung
     mail: mjjung9999@gmail.com
-  - name: Jaeuk Park
-    mail: pwook96@naver.com
+    research:
+      - "LLM Inference Scheduler"
+  - name: Yonggeun Kim
+    mail: dydrms0417@korea.ac.kr
+  - name: Taeheon Roh
+    mail: rth0523@korea.ac.kr
 intern:
   # - name: Seoeun Kwon
   # - name: Yonggeun Kim
@@ -212,3 +200,11 @@ alumniMaster:
     mail: kdonggyun97@gmail.com
     work:
       - "RECO"
+  - name: Myeongjun Kim
+    mail: johnkim682@gmail.com
+  - name: Hyunseung Jung
+    mail: okhs0712@naver.com
+  - name: Minwoo Kang
+    mail: pkang12@naver.com
+  - name: Minjae Kang
+    mail: austin9228@korea.ac.kr
