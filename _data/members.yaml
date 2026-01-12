@@ -6,11 +6,6 @@
 #               e.g.) assets/images/members/{name}.png
 
 phd:
-  - name: Chunggeon Song (Leader)
-    mail: security0730@korea.ac.kr
-    research:
-      - "Virtualization"
-      - "Volunteer Computing"
   - name: Dongjeong Kim
     mail: jikimi@korea.ac.kr
     research:
@@ -131,6 +126,8 @@ alumniPhd:
     mail: jaecrane2@gmail.com
     work:
       - "Samsung Electronics"
+  - name: Chunggeon Song
+    mail: security0730@korea.ac.kr
 
 alumniMaster:
   - name: Sangchul Shin
@@ -181,7 +178,7 @@ alumniMaster:
   - name: Jinwon Jeong
     mail: jin4812@korea.ac.kr
     work:
-      - "11Street"
+      - "Bithumb"
   - name: Myung-Hyun Kim
     mail: freckie@korea.ac.kr
     work:
@@ -204,9 +201,15 @@ alumniMaster:
       - "RECO"
   - name: Myeongjun Kim
     mail: johnkim682@gmail.com
+    work:
+      - "Hyundai Autoever"
   - name: Hyunseung Jung
     mail: okhs0712@naver.com
   - name: Minwoo Kang
     mail: pkang12@naver.com
+    work:
+      - "Hanwha Systems"
   - name: Minjae Kang
     mail: austin9228@korea.ac.kr
+    work:
+      - "Hanwha Systems"
