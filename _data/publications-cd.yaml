@@ -5647,4 +5647,30 @@
     "publisher": "한국정보과학회 KCC2025",
     "title": "RAG AI Multi-Agent 기반 시스템을 활용한 기업정보 분석 프레임워크"
   },
+  {
+    "author": [
+      {
+        "family": "김연주"
+      },
+      {
+        "family": "강태신"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "김communication",
+    "citation-key": "김communication",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "page": "1279-1283",
+    "publisher": "한국정보기술학회 KIIT2025",
+    "title": "쿠버네티스 환경에서 QoS 향상과 로드 밸런싱을 위한 통신 인식 리스케줄링 기법"
+  },
 ]
