@@ -2729,6 +2729,7 @@
     "keyword": "feedback-driven adaptation, control-theoretic training, global–local batch optimization, event-triggered rebalancing, online parameter tuning, heterogeneous GPU clusters",
     "language": "English",
     "title": "SADDLE: A runtime feedback control architecture for adaptive distributed deep learning in heterogeneous GPU clusters",
+    "note": "JCR 2024 Top 17.4%",
     "volume": "168"
   },
   {
@@ -2766,5 +2767,42 @@
     "language": "English",
     "title": "MkRP: multiple k registry placement for fast container deployment on edge computing",
     "volume": "14"
+  },
+  {
+    "container-title": "Future Generation Computer Systems",
+    "abstract": "loud service providers typically offer containers with fixed resource sizes. However, cloud users often overprovision container resources to prevent service interruptions caused by resource shortages. This practice leads to low utilization of system resources in the cloud. To address this issue, cloud service providers offer container auto-scaling. They primarily support horizontal auto-scaling, which provides horizontal elasticity. However, this approach has limitations in responding promptly to unexpected spikes in resource usage and in optimizing resource utilization. Vertical auto-scaling can help overcome these limitations. Its importance is increasing, particularly for stateful and real-time applications that require immediate resource elasticity. Nevertheless, vertical elasticity remains difficult to achieve and has not been actively researched or widely implemented. This study proposes a vertical auto-scaling mechanism for elastic memory management in container-based applications running in Kubernetes, which is widely recognized as the standard platform for container orchestration. In the proposed approach, high-priority tasks are given priority for scaling up, while tasks that cannot undergo scale-up are suspended using the cgroup freeze feature to prevent further memory allocation. If memory pressure persists and task termination becomes unavoidable, tasks are terminated in ascending order of priority, starting with the lowest. Once memory pressure is relieved, stateful applications are restarted from the point at which they were suspended. Compared to the default Kubernetes environment without vertical elasticity, EVMMv2 reduced the total execution time of stateful applications by up to 40% and improved the request success rate of stateless applications by 37%.",
+    "author": [
+      {
+        "given": "Taeshin",
+        "family": "Kang"
+      },
+      {
+        "given": "Minwoo",
+        "family": "Kang"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+    ],
+    "DOI": "10.1016/j.future.2026.108407",
+    "type": "article-journal",
+    "id": "kang2026vertical",
+    "citation-key": "kang2026vertical",
+    "ISSN": "",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          21
+        ]
+      ]
+    },
+    "keyword": "Memory management, Vertical auto-scaling, Vertical memory elasticity, Kubernetes, Container",
+    "language": "English",
+    "title": "Vertical auto-scaling mechanism for elastic memory management of containerized applications in Kubernetes",
+    "note": "JCR 2024 Top 9.9%",
+    "volume": "180"
   },
 ]
