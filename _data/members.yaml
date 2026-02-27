@@ -9,11 +9,13 @@ phd:
   - name: Dongjeong Kim
     mail: jikimi@korea.ac.kr
     research:
-      - "e-Learning"
+      - "Kwangdong High School"
   - name: Hyungjoon Yoon
     mail: hjyoon@korea.ac.kr
   - name: Kyunam Cho
     mail: mystous@korea.ac.kr
+    work: 
+      - "LG U+"
   - name: Hyungjun Kim
     mail: ledzep0830@korea.ac.kr
     research:
@@ -28,6 +30,8 @@ phd:
       - "Traffic Scheduling Management"
   - name: Taejin Ahn
     mail: ataejin622@gmail.com
+    work:
+      - "Korea Telecom (KT)"
 
 master:
   - name: Sejin Kim
@@ -41,19 +45,27 @@ master:
   - name: Minchang Kim
     mail: naxcco@gmail.com
     research:
-      - "Serverless Computing Scheduler"
+      - "Serverless Computing Scheduling"
   - name: Minjae Jung
     mail: mjjung9999@gmail.com
     research:
-      - "LLM Inference Scheduler"
+      - "LLM Inference Scheduling"
   - name: Jaeuk Park
     mail: pwook96@naver.com
+    work: 
+      - "Hyundai Motors"
   - name: Yonggeun Kim
     mail: dydrms0417@korea.ac.kr
+    research:
+      - "LLM-based Agent Systems Optimization"
   - name: Taeheon Roh
     mail: rth0523@korea.ac.kr
+    research:
+      - "LLM Serving Resource Management"
   - name: Minh Nhat Nguyen
     mail: mnhat@korea.ac.kr
+    research:
+      - "Distributed Training"
 intern:
   # - name: Seoeun Kwon
   # - name: Yonggeun Kim
@@ -79,7 +91,7 @@ alumniPhd:
   - name: Sookyung Choi
     mail: csukyong@korea.ac.kr
     work:
-      - "Creative Informatics & Computing Institute (Research Professor)"
+      - "University of Seoul (Teaching Professor)"
   - name: Jisu Park
     mail: jisu.park@ds.korea.ac.kr
     work:
@@ -130,6 +142,8 @@ alumniPhd:
       - "Samsung Electronics"
   - name: Chunggeon Song
     mail: security0730@korea.ac.kr
+    work:
+      - "Korea University BK21 FOUR R&E Center for Computer Science and Engineering"
 
 alumniMaster:
   - name: Sangchul Shin
@@ -160,7 +174,7 @@ alumniMaster:
   - name: Bongwoo Bak
     mail: bongwoo@korea.ac.kr
     work:
-      - "TmaxSoft"
+      - "Miraene"
   - name: Junebeom Jang
     mail: jjb0726@gmail.com
     work:
