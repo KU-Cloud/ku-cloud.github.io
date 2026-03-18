@@ -6,6 +6,10 @@
 #               e.g.) assets/images/members/{name}.png
 
 phd:
+  - name: Hyungjun Kim (Leader)
+    mail: ledzep0830@korea.ac.kr
+    research:
+      - "Distributed Deep Learning"
   - name: Dongjeong Kim
     mail: jikimi@korea.ac.kr
     research:
@@ -16,10 +20,6 @@ phd:
     mail: mystous@korea.ac.kr
     work: 
       - "LG U+"
-  - name: Hyungjun Kim
-    mail: ledzep0830@korea.ac.kr
-    research:
-      - "Distributed Deep Learning"
   - name: Taeshin Kang
     mail: teri98@korea.ac.kr
     research:
