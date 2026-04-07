@@ -1143,3 +1143,16 @@
   date: 2026-01-23T19:00:00.00+0900
   speacker: 김형준
   location: 애기능생호관 301호 (Zoom 동시 송출)
+- title: 'Tiny Autoscalers for Tiny Workloads: Dynamic CPU Allocation for Serverless Functions'
+  date: 2026-02-13T19:00:00.00+0900
+  speacker: 강태신
+  location: 애기능생호관 301호 (Zoom 동시 송출)
+- title: 'Hermes: Enhancing Layer-7 Cloud Load Balancers with Userspace-Directed I/O Event Notification'
+  date: 2026-03-20T19:00:00.00+0900
+  speacker: 박호근
+  location: 애기능생호관 304호 (Zoom 동시 송출)
+- title: 'HIKU: Pull-Based Scheduling for Serverless Computing'
+  date: 2026-04-03T19:00:00.00+0900
+  speacker: 김민창
+  location: 애기능생호관 301호 (Zoom 동시 송출)
+
