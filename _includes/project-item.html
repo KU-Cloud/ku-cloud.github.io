@@ -11,6 +11,10 @@
         <span class="badge badge-empty-info">
             공동
         </span>
+        {% elsif project.role == 'subrep' %}
+        <span class="badge badge-empty-teal">
+            세부연구 책임
+        </span>
         {% else %}
         <span class="badge badge-empty-secondary">
             {{ project.role }}

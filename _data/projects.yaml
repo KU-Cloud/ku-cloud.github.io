@@ -3,8 +3,8 @@
 
 # title:    title of a project.
 # role:     type of Project Responsibility.
-#           if value of this field is one of 'rep' or 'corep',
-#           a badge is attached with '책임' or '공동' repectively.
+#           if value of this field is one of 'rep', 'corep', or 'subrep',
+#           a badge is attached with '책임', '공동', or '세부연구 책임' repectively.
 #           the other value will be printed as is.
 # sponsor:  sponsor of this project
 #   short:    short name of the sponsor
