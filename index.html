@@ -22,6 +22,10 @@ layout: default
         </div>
     </div>
 
+    <a href="#main" id="scroll-cue" aria-label="Scroll to main content">
+        <i data-feather="chevron-down"></i>
+    </a>
+
     <main id="main" class="min-vh-100">
         <div class="content container text-justify mb-3">
             <p>
@@ -118,6 +122,22 @@ layout: default
             $trg.stop().animate({ scrollTop: bp }, 500, done);
 
         }
+
+        $('#scroll-cue').click(function(e) {
+            e.preventDefault();
+
+            if (!isEnabled) {
+                $trg.stop().animate({ scrollTop: bp }, 500);
+                return;
+            }
+
+            if (isInProgress) {
+                return;
+            }
+
+            isInProgress = true;
+            goDown($window.scrollTop());
+        });
 
         $window.scroll(function(e) {
             if (isInProgress) {

@@ -46,6 +46,30 @@
         }
       }
     }
+
+    #scroll-cue {
+      position: absolute;
+      top: calc(100vh - 5rem);
+      left: 50%;
+      z-index: 3;
+
+      color: #ffffff;
+      opacity: 0.9;
+      transform: translateX(-50%);
+      transition: opacity 0.2s ease-in-out;
+
+      svg {
+        width: 2rem;
+        height: 2rem;
+        stroke-width: 1.5;
+      }
+
+      &:hover {
+        color: #ffffff;
+        opacity: 1;
+        text-decoration: none;
+      }
+    }
   
     #main {
       background-color: $body-bg;
