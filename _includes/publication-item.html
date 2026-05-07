@@ -1,5 +1,9 @@
 <li>
     <p class="lead">
+        {% if include.type %}
+        <span class="badge badge-empty-secondary">{{ include.type }}</span>
+        {% endif %}
+
         {% for name in include.bib.author %}
             {% if nmae.literal %}
                 {{- name.literal -}},
