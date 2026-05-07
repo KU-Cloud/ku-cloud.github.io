@@ -1,0 +1,9 @@
+<div class="container page-students">
+    <div class="row">
+        {% for member in include.members %}
+        <div class="student-col col-md-4 col-sm-6 col-12">
+            {% include student-member-item.html member=member %}
+        </div>
+        {% endfor %}
+    </div>
+</div>

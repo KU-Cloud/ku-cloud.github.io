@@ -8,62 +8,84 @@
 phd:
   - name: Hyungjun Kim (Leader)
     mail: ledzep0830@korea.ac.kr
+    course: Ph.D. course
     research:
       - "Distributed Deep Learning"
   - name: Dongjeong Kim
     mail: jikimi@korea.ac.kr
-    research:
-      - "Kwangdong High School"
+    course: Ph.D. course
+    # research:
+    #   - "Kwangdong High School"
+    partTime: true
   - name: Hyungjoon Yoon
     mail: hjyoon@korea.ac.kr
+    course: Ph.D. course
+    partTime: true
   - name: Kyunam Cho
     mail: mystous@korea.ac.kr
+    course: Ph.D. course
+    partTime: true
     work: 
       - "LG U+"
   - name: Taeshin Kang
     mail: teri98@korea.ac.kr
+    course: Ph.D. course
     research:
       - "Resource Elasticity Management"
   - name: Hokun Park
     mail: hokunpark98@gmail.com
+    course: Integrated MS-Ph.D. course
     research:
       - "Traffic Scheduling Management"
   - name: Taejin Ahn
     mail: ataejin622@gmail.com
+    course: Ph.D. course
+    partTime: true
     work:
       - "Korea Telecom (KT)"
 
 master:
   - name: Sejin Kim
     mail: sejjj120@korea.ac.kr
+    course: MS course
+    partTime: true
     work:
       - "AWS Korea"
   - name: Moonsang Yhu
     mail: anstkd07@gmail.com
+    course: MS course
+    partTime: true
     work:
       - "Kakao Enterprise"
   - name: Minchang Kim
     mail: naxcco@gmail.com
+    course: MS course
     research:
       - "Serverless Computing Scheduling"
   - name: Minjae Jung
     mail: mjjung9999@gmail.com
+    course: MS course
     research:
       - "LLM Inference Scheduling"
   - name: Jaeuk Park
     mail: pwook96@naver.com
+    course: MS course
+    partTime: true
     work: 
       - "Hyundai Motors"
   - name: Yonggeun Kim
     mail: dydrms0417@korea.ac.kr
+    course: MS course
     research:
       - "LLM-based Agent Systems Optimization"
   - name: Taeheon Roh
     mail: rth0523@korea.ac.kr
+    course: MS course
     research:
       - "LLM Serving Resource Management"
   - name: Minh Nhat Nguyen
     mail: mnhat@korea.ac.kr
+    course: MS course
     research:
       - "Distributed Training"
 intern:

@@ -5,18 +5,22 @@ title: Students
 
 <link rel="stylesheet" href="/assets/css/page-members.css">
 
-{% include title-container.html title="Ph.D Students" %}
-{% include member-group.html members=site.data.members.phd %}
+{% assign graduateStudents = site.data.members.phd | concat: site.data.members.master %}
+{% assign fullTimeStudents = graduateStudents | where_exp: "member", "member.partTime != true" %}
+{% assign partTimeStudents = graduateStudents | where_exp: "member", "member.partTime == true" %}
 
-{% include title-container.html title="Master Students" %}
-{% include member-group.html members=site.data.members.master %}
+{% include title-container.html title="Graduate Students" %}
+<div class="container">
+    <h4 class="mt-4 mb-3">Full-time</h4>
+</div>
+{% include student-member-group.html members=fullTimeStudents %}
+<div class="container">
+    <h4 class="mt-4 mb-3">Part-time</h4>
+</div>
+{% include student-member-group.html members=partTimeStudents %}
 
 {% include title-container.html title="Undergraduate Student" %}
-{% include member-group.html members=site.data.members.intern %}
-
-{% include title-container.html title="Alumni" %}
-{% assign alumni = site.data.members.alumniPhd | concat: site.data.members.alumniMaster %}
-{% include member-group.html members=alumni %}
+{% include student-member-group.html members=site.data.members.intern %}
 
 <script>
     $(function () {

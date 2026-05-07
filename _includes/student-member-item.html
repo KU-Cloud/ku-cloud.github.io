@@ -1,0 +1,23 @@
+{% assign member = include.member %}
+{% assign cover = member.cover %}
+{% unless cover %}
+{% assign cover = "assets/images/members/" | append: member.name | append: ".webp" %}
+{% endunless %}
+
+<div class="student-card card">
+    <img src="{{ cover }}" class="card-img-top" alt="{{ member.name }}" onerror="this.src='{{ site.defaultCover }}'">
+    <div class="card-body text-center">
+        <h5 class="card-title">{{ member.name }}</h5>
+        {% if member.course %}
+        <p class="card-text">{{ member.course }}</p>
+        {% endif %}
+
+        {% if member.research %}
+        <p class="card-text">{{ member.research | slice: 0, 3 | array_to_sentence_string }}</p>
+        {% endif %}
+
+        {% if member.mail %}
+        <p class="card-text mb-0"><a href="mailto:{{ member.mail }}">{{ member.mail }}</a></p>
+        {% endif %}
+    </div>
+</div>

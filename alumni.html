@@ -1,0 +1,39 @@
+---
+layout: page
+title: Alumni
+---
+
+<link rel="stylesheet" href="/assets/css/page-members.css">
+
+{% include title-container.html title="Ph.D Alumni" %}
+{% include member-group.html members=site.data.members.alumniPhd %}
+
+{% include title-container.html title="Master Alumni" %}
+{% include member-group.html members=site.data.members.alumniMaster %}
+
+<script>
+    $(function () {
+        var trgClass = 'active'
+        var $memCards = $('.member');
+        var $window = $(window);
+
+        function reset() {
+            $memCards.removeClass(trgClass);
+        }
+
+        $window.click(function () {
+            reset()
+        });
+        $memCards.click(function (e) {
+            e.stopPropagation();
+            var $self = $(this);
+            if($self.hasClass(trgClass)) return;
+            reset();
+            $(this).addClass(trgClass);
+        })
+        $('[data-dismiss]', $memCards).click(function (e) {
+            e.stopPropagation();
+            reset();
+        });
+    })
+</script>
