@@ -1,7 +1,7 @@
 <li>
     <p class="lead">
         {% if include.type %}
-        <span class="badge badge-empty-secondary">{{ include.type }}</span>
+        <span class="badge badge-publication-{{ include.type | downcase }}">{{ include.type }}</span>
         {% endif %}
 
         {% for name in include.bib.author %}
