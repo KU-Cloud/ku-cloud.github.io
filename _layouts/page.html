@@ -5,8 +5,12 @@ layout: default
     <div class="py-5"></div>
 
     <div class="page-title container mb-3 pt-5 pt-md-0">
+        {% if page.title %}
+        {% assign pageTitle = page.title %}
+        {% else %}
         {% assign pageName = page.name | remove: ".html" | split: " " %}
         {% capture pageTitle %} {% for word in pageName %} {{ word | capitalize }} {% endfor %} {% endcapture %}
+        {% endif %}
         <h1 class="display-4">{{ pageTitle }}</h1>
     </div>
 

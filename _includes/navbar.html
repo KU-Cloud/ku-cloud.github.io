@@ -1,13 +1,26 @@
 <nav id="nav" class="navbar fixed-top navbar-dark bg-dark no-user-select">
-    <div class="container">
-        <a href="/" class="navbar-brand">D&C LAB</a>
-        <a href="/professor" class="navbar-text">Professor</a>
-        <a href="/members" class="navbar-text">Members</a>
-        <a href="/research" class="navbar-text">Research</a>
-        <a href="/projects" class="navbar-text">Projects</a>
-        <a href="/publications" class="navbar-text">Publications</a>
-        <a href="/seminar" class="navbar-text">Seminar</a>
-        <a href="/news" class="navbar-text">News</a>
+    <div class="container justify-content-start">
+        <a href="/" class="navbar-brand mr-5">D&C LAB</a>
+        <div class="dropdown mr-4">
+            <a href="#" class="navbar-text dropdown-toggle" id="members-menu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Members
+            </a>
+            <div class="dropdown-menu" aria-labelledby="members-menu">
+                <a href="/professor" class="dropdown-item">Professor</a>
+                <a href="/members" class="dropdown-item">Students</a>
+            </div>
+        </div>
+        <div class="dropdown mr-4">
+            <a href="#" class="navbar-text dropdown-toggle" id="research-menu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Research
+            </a>
+            <div class="dropdown-menu" aria-labelledby="research-menu">
+                <a href="/publications" class="dropdown-item">Publications</a>
+                <a href="/projects" class="dropdown-item">Projects</a>
+                <a href="/seminar" class="dropdown-item">Seminar</a>
+            </div>
+        </div>
+        <a href="/news" class="navbar-text mr-4">News</a>
         <a href="/contact" class="navbar-text">Contact</a>
     </div>
 </nav>
