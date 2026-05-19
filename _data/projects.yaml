@@ -404,26 +404,42 @@
   end: 2024-12-31
   role: "corep"
 
+- title: "SW중심대학사업"
+  sponsor:
+    short: "IITP"
+    full: "정보통신기획평가원"
+  start: 2023-05-01
+  end: 2025-12-31
+  role: "corep"
+
 - title: "ICT혁신인재"
   sponsor:
-    short: "정보통신기획평가원"
+    short: "IITP"
     full: "정보통신기획평가원"
   start: 2022-07-01
   end: 2026-12-31
   role: "corep"
 
-- title: "SW중심대학사업"
-  sponsor:
-    short: "정보통신기획평가원"
-    full: "정보통신기획평가원"
-  start: 2023-05-01
-  end: 2028-12-31
-  role: "corep"
-
 - title: "AI반도체 컴퓨팅 자원분해 및 자원풀링 기술 개발"
   sponsor:
-    short: "정보통신기획평가원"
+    short: "IITP"
     full: "정보통신기획평가원"
   start: 2025-04-01
   end: 2029-12-31
+  role: "subrep"
+
+- title: "AI중심대학사업"
+  sponsor:
+    short: "IITP"
+    full: "정보통신기획평가원"
+  start: 2026-01-01
+  end: 2033-12-31
   role: "corep"
+
+- title: "AI 워크로드 특성을 고려하여 GPU 클러스터 자원의 효율적 운영·관리를 제공하는 GPU 오케스트레이션 기술 개발"
+  sponsor:
+    short: "IITP"
+    full: "정보통신기획평가원"
+  start: 2026-04-01
+  end: 2029-12-31
+  role: "subrep"

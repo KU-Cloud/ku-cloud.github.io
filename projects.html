@@ -46,8 +46,6 @@ e.g. `site.time` to `build_date` and `project.end` to `pdate`
 
             {% if pdate > build_date  %}
                 {% include project-item.html project=project%}
-            {% else %}
-                {% break %}
             {% endif %}
         {% endfor %}    
     </ul>
