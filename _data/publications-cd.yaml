@@ -5515,7 +5515,7 @@
     },
     "page": "1745-1747",
     "publisher": "한국정보과학회 KCC2025",
-    "title": "TensorRT-LM 환경에서 다양한 배치 정책에 따른 추론 성능 분석"
+    "title": "TensorRT-LLM 환경에서 다양한 배치 정책에 따른 추론 성능 분석"
   },
   {
     "author": [
