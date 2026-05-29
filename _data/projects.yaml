@@ -412,7 +412,7 @@
   end: 2025-12-31
   role: "corep"
 
-- title: "ICT혁신인재"
+- title: "ICT혁신인재 4.0"
   sponsor:
     short: "IITP"
     full: "정보통신기획평가원"
@@ -428,7 +428,7 @@
   end: 2029-12-31
   role: "subrep"
 
-- title: "AI중심대학사업"
+- title: "AI중심대학"
   sponsor:
     short: "IITP"
     full: "정보통신기획평가원"
@@ -443,3 +443,11 @@
   start: 2026-04-01
   end: 2029-12-31
   role: "subrep"
+
+- title: "고성능컴퓨팅지원: 큐잉 딜레이 최소화를 위한 우선순위 기반 선점형 LLM 추론 작업 스케줄링 기법 개발"
+  sponsor:
+    short: "NIPA"
+    full: "정보통신산업진흥원"
+  start: 2026-06-01
+  end: 2026-12-31
+  role: "rep"
