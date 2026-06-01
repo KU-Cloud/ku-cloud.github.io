@@ -3,11 +3,11 @@ layout: page
 permalink: /seminar/history
 ---
 
-<div class="content container">
+<div class="seminar-archive container">
     {% assign seminars = site.data.seminars | reverse %}
     {% assign year = seminars[0].date | date: "%Y" %}
-    <h6>{{ year }}</h6>
-    <ul class="list-unstyled">
+    <h6 class="seminar-year">{{ year }}</h6>
+    <ul class="seminar-list list-unstyled">
         {% for seminar in seminars %}
             {% assign y = seminar.date | date: "%Y" %}
             {% if y == year %}
@@ -16,8 +16,8 @@ permalink: /seminar/history
                 {% assign year = y %}
     </ul>
     
-    <h6>{{ year }}</h6>
-    <ul class="list-unstyled">
+    <h6 class="seminar-year">{{ year }}</h6>
+    <ul class="seminar-list list-unstyled">
                 {% include seminar-item.html seminar=seminar %}
             {% endif %}
         {% endfor %}

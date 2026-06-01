@@ -848,7 +848,8 @@
       "date-parts": [
         [
           2021,
-          3
+          3,
+          20
         ]
       ]
     },
@@ -1745,7 +1746,9 @@
     "issued": {
       "date-parts": [
         [
-          2022
+          2022,
+          7,
+          1
         ]
       ]
     },
@@ -2559,7 +2562,9 @@
     "issued": {
       "date-parts": [
         [
-          2022
+          2022,
+          8,
+          17
         ]
       ]
     },
@@ -2693,6 +2698,7 @@
     "keyword": "edge computing, bandwidth, latency, multicast",
     "language": "English",
     "title": "A-BEE-C: Autonomous Bandwidth-Efficient Edge Codecast",
+    "note": "JCR 2024 Top 37.4%, IF: 3.5",
     "volume": "112"
   },
   {
@@ -2729,7 +2735,7 @@
     "keyword": "feedback-driven adaptation, control-theoretic training, global–local batch optimization, event-triggered rebalancing, online parameter tuning, heterogeneous GPU clusters",
     "language": "English",
     "title": "SADDLE: A runtime feedback control architecture for adaptive distributed deep learning in heterogeneous GPU clusters",
-    "note": "JCR 2024 Top 17.4%",
+    "note": "JCR 2024 Top 17.6%, IF: 4.1",
     "volume": "168"
   },
   {
@@ -2759,13 +2765,14 @@
         [
           2025,
           9,
-          29
+          25
         ]
       ]
     },
     "keyword": "Container deployment, Registry placement, Edge computing",
     "language": "English",
     "title": "MkRP: multiple k registry placement for fast container deployment on edge computing",
+    "note": "JCR 2024 Top 25.0%, IF: 4.3",
     "volume": "14"
   },
   {
@@ -2802,7 +2809,7 @@
     "keyword": "Memory management, Vertical auto-scaling, Vertical memory elasticity, Kubernetes, Container",
     "language": "English",
     "title": "Vertical auto-scaling mechanism for elastic memory management of containerized applications in Kubernetes",
-    "note": "JCR 2024 Top 9.9%",
+    "note": "JCR 2024 Top 9.9%, IF: 6.1",
     "volume": "180"
   },
 ]

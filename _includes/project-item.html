@@ -1,24 +1,28 @@
-<li data-end="{{ project.end }}" data-role="{{ project.role }}">
-    <p class="h5">{{ project.title }}</p>
-    <p class="lead">
-        {{ project.sponsor.full }}, ({{ project.start | date: "%Y.%m"}}-{{ project.end | date: "%Y.%m"}})
-
+<li class="project-card" data-end="{{ project.end }}" data-role="{{ project.role }}">
+    <div class="project-card-main">
+        <p class="project-title">{{ project.title }}</p>
+        <p class="project-meta">
+            <span class="project-sponsor">{{ project.sponsor.full }}</span>
+            <span class="project-period">{{ project.start | date: "%Y.%m"}}-{{ project.end | date: "%Y.%m"}}</span>
+        </p>
+    </div>
+    <div class="project-role">
         {% if project.role == 'rep' %}
-        <span class="badge badge-empty-primary">
+        <span class="project-badge project-badge-rep">
             책임
         </span>
         {% elsif project.role == 'corep' %}
-        <span class="badge badge-empty-info">
+        <span class="project-badge project-badge-corep">
             공동
         </span>
         {% elsif project.role == 'subrep' %}
-        <span class="badge badge-empty-teal">
+        <span class="project-badge project-badge-subrep">
             세부연구 책임
         </span>
         {% else %}
-        <span class="badge badge-empty-secondary">
+        <span class="project-badge project-badge-secondary">
             {{ project.role }}
         </span>
         {% endif %}
-    </p>
+    </div>
 </li>

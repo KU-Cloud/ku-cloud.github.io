@@ -2,161 +2,152 @@
 layout: page
 ---
 
-<div class="title container">
-    <div class="row">
-        <div class="col">
-            <h1>Heonchang Yu</h1>
-            <p class="lead">
-                Department of Computer Science & Engineering,
-                <br class="d-md-block d-lg-block d-xl-none d-none">
-                College of Informatics, Korea University
-            </p>
+<div class="container professor-page">
+    <section class="professor-hero">
+        <div class="row align-items-center">
+            <div class="col-md-8">
+                <div class="professor-eyebrow">Professor</div>
+                <h1 class="professor-name">Heonchang Yu</h1>
+                <p class="professor-affiliation">
+                    Department of Computer Science &amp; Engineering,<br>
+                    College of Informatics, Korea University
+                </p>
+                <div class="professor-contact-grid">
+                    <a class="professor-contact-item" href="mailto:yuhc@korea.ac.kr">
+                        <i data-feather="mail"></i>
+                        <span>Mail</span>
+                        <strong>yuhc@korea.ac.kr</strong>
+                    </a>
+                    <a class="professor-contact-item" href="tel:+80232902392">
+                        <i data-feather="phone"></i>
+                        <span>Phone</span>
+                        <strong>+82-2-3290-2392</strong>
+                    </a>
+                    <a class="professor-contact-item" href="fax:+80.2.929.1917">
+                        <i data-feather="printer"></i>
+                        <span>Fax</span>
+                        <strong>+82-2-929-1917</strong>
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-4 mt-4 mt-md-0 text-center">
+                <img src="/assets/images/professor.jpg" class="professor-photo" alt="picture of professor">
+            </div>
         </div>
-    </div>
-    <div class="position-relative">
-        <div id="img-professor" class="text-center">
-            <img src="/assets/images/professor.jpg" class="rounded" alt="picture of professor">
-        </div>
-    </div>
+    </section>
 </div>
-
-<div class="content container">
-    <dl class="row">
-        <dt class="col-md-2 col-4">Mail</dt>
-        <dd class="col-md-10 col-8"><a href="mailto:yuhc@korea.ac.kr">yuhc@korea.ac.kr</a></dd>
-
-        <dt class="col-md-2 col-4">Phone</dt>
-        <dd class="col-md-10 col-8"><a href="tel:+80232902392">+82-2-3290-2392</a></dd>
-
-        <dt class="col-md-2 col-4">Fax</dt>
-        <dd class="col-md-10 col-8"><a href="fax:+80.2.929.1917">+82-2-929-1917</a></dd>
-    </dl>
-</div>
-
-
 
 {% include title-container.html title="Education" %}
 
-<div class="content container">
-    <dl class="row ">
-        <dt class="col-md-2 col-4">Ph.D.</dt>
-        <dd class="col-md-10 col-8">
-            Dept. of Computer Science, Korea University, Aug. 1994.
-        </dd>
+<div class="container professor-section">
+    <section class="professor-card">
+        <dl class="professor-detail-list">
+            <dt>Ph.D.</dt>
+            <dd>Dept. of Computer Science, Korea University, Aug. 1994.</dd>
 
-        <dt class="col-md-2 col-4">M.S.</dt>
-        <dd class="col-md-10 col-8">
-            Dept. of Computer Science, Korea University, Feb. 1991.
-        </dd>
+            <dt>M.S.</dt>
+            <dd>Dept. of Computer Science, Korea University, Feb. 1991.</dd>
 
-        <dt class="col-md-2 col-4">B.S.</dt>
-        <dd class="col-md-10 col-8">
-            Dept. of Computer Science, Korea University, Feb. 1989.
-        </dd>
-    </dl>
+            <dt>B.S.</dt>
+            <dd>Dept. of Computer Science, Korea University, Feb. 1989.</dd>
+        </dl>
+    </section>
 </div>
-
-
 
 {% include title-container.html title="Work Experiences" %}
 
-<div class="content container">
-    <ul class="list-unstyled">
-        <li>
-            <p class="h5">Professor, Department of Computer Science and Engineering, College of Informatics, Korea
-                University</p>
-            <p class="lead">Mar. 1998. – present.</p>
+<div class="container professor-section">
+    <ul class="professor-list list-unstyled">
+        <li class="professor-item-current">
+            <p class="professor-item-title">Professor, Department of Computer Science and Engineering, College of Informatics, Korea University</p>
+            <p class="professor-item-meta professor-item-present">Mar. 1998. – present.</p>
         </li>
         <li>
-            <p class="h5">Visiting Professor, Electrical and Computer Engineering, Univ. of Texas at San Antonio</p>
-            <p class="lead">Sep. 2019. – Aug. 2020.</p>
-        </li>        
-        <li>
-            <p class="h5">Associate Dean, College of Informatics, Korea University</p>
-            <p class="lead">Oct. 2014. – Jan. 2019.</p>
+            <p class="professor-item-title">Visiting Professor, Electrical and Computer Engineering, Univ. of Texas at San Antonio</p>
+            <p class="professor-item-meta">Sep. 2019. – Aug. 2020.</p>
         </li>
         <li>
-            <p class="h5">Visiting Professor, College of Computing, Virginia Tech.</p>
-            <p class="lead">Mar. 2011. – Feb. 2012.</p>
+            <p class="professor-item-title">Associate Dean, College of Informatics, Korea University</p>
+            <p class="professor-item-meta">Oct. 2014. – Jan. 2019.</p>
         </li>
         <li>
-            <p class="h5">Associate Dean, College of Education, Korea University</p>
-            <p class="lead">Feb. 2010. – 2011. Jan.</p>
+            <p class="professor-item-title">Visiting Professor, College of Computing, Virginia Tech.</p>
+            <p class="professor-item-meta">Mar. 2011. – Feb. 2012.</p>
         </li>
         <li>
-            <p class="h5">Associate Dean, College of Education, Korea University</p>
-            <p class="lead">Feb. 2005. – Jan. 2006.</p>
+            <p class="professor-item-title">Associate Dean, College of Education, Korea University</p>
+            <p class="professor-item-meta">Feb. 2010. – 2011. Jan.</p>
         </li>
         <li>
-            <p class="h5">Visiting Professor, College of Computing, Georgia Tech.</p>
-            <p class="lead">Feb. 2004. – Jan. 2005.</p>
+            <p class="professor-item-title">Associate Dean, College of Education, Korea University</p>
+            <p class="professor-item-meta">Feb. 2005. – Jan. 2006.</p>
         </li>
         <li>
-            <p class="h5">Assistant Professor, Department of Computer Engineering, Seokyeong University</p>
-            <p class="lead">Mar. 1995. – Feb. 1998.</p>
+            <p class="professor-item-title">Visiting Professor, College of Computing, Georgia Tech.</p>
+            <p class="professor-item-meta">Feb. 2004. – Jan. 2005.</p>
+        </li>
+        <li>
+            <p class="professor-item-title">Assistant Professor, Department of Computer Engineering, Seokyeong University</p>
+            <p class="professor-item-meta">Mar. 1995. – Feb. 1998.</p>
         </li>
     </ul>
 </div>
 
-
-
 {% include title-container.html title="Academic Activities" %}
 
-<div class="content container">
-    <ul class="list-unstyled">
-        <li>
-            <p class="h5">Editor, Korean Institute of Information Scientists and Engineers</p>
-            <p class="lead">Jan. 2007. – present</p>
+<div class="container professor-section">
+    <ul class="professor-list list-unstyled">
+        <li class="professor-item-current">
+            <p class="professor-item-title">Editor, Korean Institute of Information Scientists and Engineers</p>
+            <p class="professor-item-meta professor-item-present">Jan. 2007. – present</p>
         </li>
         <li>
-            <p class="h5">Auditor, The Korean Association of Computer Education</p>
-            <p class="lead">Mar. 2018. – Feb. 2020.</p>
+            <p class="professor-item-title">Auditor, The Korean Association of Computer Education</p>
+            <p class="professor-item-meta">Mar. 2018. – Feb. 2020.</p>
         </li>
         <li>
-            <p class="h5">Vice President, Korea Information Processing Society</p>
-            <p class="lead">Jan. 2015. – Dec. 2020.</p>
+            <p class="professor-item-title">Vice President, Korea Information Processing Society</p>
+            <p class="professor-item-meta">Jan. 2015. – Dec. 2020.</p>
         </li>
         <li>
-            <p class="h5">Vice President, Korean Institute of Information Technology</p>
-            <p class="lead">Jan. 2014. – Dec. 2016.</p>
+            <p class="professor-item-title">Vice President, Korean Institute of Information Technology</p>
+            <p class="professor-item-meta">Jan. 2014. – Dec. 2016.</p>
         </li>
         <li>
-            <p class="h5">Vice President, The Korean Association of Computer Education</p>
-            <p class="lead">Mar. 2014. – Feb. 2018.</p>
+            <p class="professor-item-title">Vice President, The Korean Association of Computer Education</p>
+            <p class="professor-item-meta">Mar. 2014. – Feb. 2018.</p>
         </li>
         <li>
-            <p class="h5">Director, Korea Information Processing Society</p>
-            <p class="lead">Feb. 2010. – Dec. 2014.</p>
+            <p class="professor-item-title">Director, Korea Information Processing Society</p>
+            <p class="professor-item-meta">Feb. 2010. – Dec. 2014.</p>
         </li>
         <li>
-            <p class="h5">Vice President, The Korean Association of Computer Educationy</p>
-            <p class="lead">Mar. 2006. – Feb. 2010.</p>
+            <p class="professor-item-title">Vice President, The Korean Association of Computer Educationy</p>
+            <p class="professor-item-meta">Mar. 2006. – Feb. 2010.</p>
         </li>
         <li>
-            <p class="h5">Director, The Korean Association of Computer Education</p>
-            <p class="lead">Mar. 2002. – Feb. 2005.</p>
+            <p class="professor-item-title">Director, The Korean Association of Computer Education</p>
+            <p class="professor-item-meta">Mar. 2002. – Feb. 2005.</p>
         </li>
         <li>
-            <p class="h5">International Conference on Ubiquitous Information Technologies and Applications,
-                International Advisory Committee</p>
-            <p class="lead">2014, 2015, 2016, 2018, 2019</p>
+            <p class="professor-item-title">International Conference on Ubiquitous Information Technologies and Applications, International Advisory Committee</p>
+            <p class="professor-item-meta">2014, 2015, 2016, 2018, 2019</p>
         </li>
         <li>
-            <p class="h5">International Conference on Future Computer and Communication, Technical Committee</p>
-            <p class="lead">2016</p>
+            <p class="professor-item-title">International Conference on Future Computer and Communication, Technical Committee</p>
+            <p class="professor-item-meta">2016</p>
         </li>
         <li>
-            <p class="h5">International Conference on Advanced Information Networking and Applications, Program Vice
-                Chair</p>
-            <p class="lead">2015</p>
+            <p class="professor-item-title">International Conference on Advanced Information Networking and Applications, Program Vice Chair</p>
+            <p class="professor-item-meta">2015</p>
         </li>
         <li>
-            <p class="h5">International Conference on Multimedia and Ubiquitous Engineering, Program Committee</p>
-            <p class="lead">2015</p>
+            <p class="professor-item-title">International Conference on Multimedia and Ubiquitous Engineering, Program Committee</p>
+            <p class="professor-item-meta">2015</p>
         </li>
         <li>
-            <p class="h5">International Conference on Grid and Pervasive Computing, Session Chair</p>
-            <p class="lead">2012</p>
+            <p class="professor-item-title">International Conference on Grid and Pervasive Computing, Session Chair</p>
+            <p class="professor-item-meta">2012</p>
         </li>
     </ul>
 </div>

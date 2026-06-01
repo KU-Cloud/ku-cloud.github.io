@@ -39,8 +39,8 @@ e.g. `site.time` to `build_date` and `project.end` to `pdate`
 {% assign sorted = site.data.projects | sort: 'start' | reverse %}
 
 {% include title-container.html title="On Going Projects" %}
-<div id="onGoing" class="content container">
-    <ul class="list-unstyled">
+<div id="onGoing" class="project-section project-section-ongoing container">
+    <ul class="project-list list-unstyled">
         {% for project in sorted %}
             {% assign pdate = project.end | date: '%s' | plus: 0 %}
 
@@ -53,8 +53,8 @@ e.g. `site.time` to `build_date` and `project.end` to `pdate`
 
 
 {% include title-container.html title="Past Projects" %}
-<div id="past" class="content container">
-    <ul class="list-unstyled">
+<div id="past" class="project-section project-section-past container">
+    <ul class="project-list list-unstyled">
         {% for project in sorted %}
 
             {% assign pdate = project.end | date: '%s' | plus: 0 %}

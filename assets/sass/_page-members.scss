@@ -99,7 +99,13 @@
 }
 
 .page-students {
+  .row {
+    margin-bottom: 0.25rem;
+  }
+
   .student-col {
+    margin-bottom: 1.2rem;
+
     @include media-breakpoint-up(lg) {
       flex: 0 0 20%;
       max-width: 20%;
@@ -107,19 +113,28 @@
   }
 
   .student-card {
-    margin-bottom: 30px;
+    width: 100%;
     overflow: hidden;
-    border-radius: 0.5rem;
+    border: 1px solid #e2ddd8;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffffff 0%, #fffdfc 100%);
+    box-shadow: 0 8px 22px rgba(34, 34, 34, 0.07);
+    transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+
+    &:hover {
+      border-color: #d6cec7;
+      box-shadow: 0 12px 28px rgba(34, 34, 34, 0.11);
+      transform: translateY(-2px);
+    }
 
     .card-img-top {
       display: block;
       width: 100%;
       aspect-ratio: 7 / 8;
       height: auto;
+      border-bottom: 1px solid #e6ded8;
       object-fit: cover;
       object-position: center 18%;
-      border-top-left-radius: 0.5rem;
-      border-top-right-radius: 0.5rem;
 
       @include media-breakpoint-down(md) {
         aspect-ratio: 7 / 8;
@@ -127,24 +142,98 @@
     }
 
     .card-body {
+      display: flex;
+      flex: 1 1 auto;
+      flex-direction: column;
+      align-items: center;
       min-height: 0;
-      padding: 1rem;
+      padding: 0.95rem 0.85rem 1.05rem;
     }
 
     .card-title {
-      margin-bottom: 0.75rem;
-      font-weight: 600;
       overflow: hidden;
+      width: 100%;
+      margin-bottom: 0.45rem;
+      color: #242424;
+      font-size: 1.02rem;
+      font-weight: 700;
+      line-height: 1.25;
       text-overflow: ellipsis;
       white-space: nowrap;
     }
 
     .card-text {
-      font-size: 0.95rem;
       margin-bottom: 0.5rem;
+      color: #555555;
+      font-size: 0.9rem;
+      line-height: 1.35;
+      overflow-wrap: break-word;
+      white-space: normal;
+      word-break: normal;
+    }
+
+    .student-course {
+      margin-bottom: 0.55rem;
+      color: #6f6662;
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      line-height: 1.2;
+    }
+
+    .student-research {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 2.45rem;
+      margin-bottom: 0.55rem;
+      color: #4f4f4f;
+      font-size: 0.88rem;
+      line-height: 1.35;
+    }
+
+    .student-email {
+      width: 100%;
+      margin-top: auto;
+      color: #666666;
+      font-size: 0.82rem;
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
+
+      a {
+        display: block;
+        overflow: hidden;
+        color: #666666;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+
+        &:hover {
+          color: #7f172b;
+          text-decoration: none;
+        }
+      }
     }
   }
+
+  .student-card-compact {
+    min-height: 5rem;
+
+    .card-body {
+      justify-content: center;
+      padding: 0.75rem 0.85rem;
+    }
+
+    .card-title {
+      margin-bottom: 0.3rem;
+    }
+  }
+}
+
+.student-section-title {
+  margin: 1.7rem 0 0.9rem;
+  color: #303030;
+  font-size: 1.65rem;
+  font-weight: 700;
+  line-height: 1;
 }

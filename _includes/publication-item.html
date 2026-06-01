@@ -1,49 +1,58 @@
-<li>
-    <p class="lead">
-        {% if include.type %}
-        <span class="badge badge-publication-{{ include.type | downcase }}">{{ include.type }}</span>
-        {% endif %}
-
-        {% for name in include.bib.author %}
-            {% if nmae.literal %}
-                {{- name.literal -}},
-            {% else %}
-                {{ name.given }} {{ name.family }},
+<li class="publication-preview-item">
+    <div class="publication-preview{% if include.type %} publication-preview-{{ include.type | downcase }}{% endif %}">
+        <div class="publication-preview-heading">
+            {% if include.type %}
+            <span class="publication-preview-type">{{ include.type }}</span>
             {% endif %}
-        {% endfor %}
+            <div class="publication-preview-title">
+                {{ include.bib.title }}
+            </div>
+        </div>
 
-        "{{ include.bib.title }}"
+        <div class="publication-preview-authors">
+            {% for name in include.bib.author %}
+                {% assign given = name.given | strip %}
+                {% assign family = name.family | strip %}
+                {% if name.literal %}
+                    {{ name.literal | strip }}
+                {% elsif given != "" and family != "" %}
+                    {{ given }} {{ family }}
+                {% else %}
+                    {{ given }}{{ family }}
+                {% endif %}{% unless forloop.last %}, {% endunless %}
+            {% endfor %}
+        </div>
 
-        {%- if include.bib.publisher -%}
-            , {{ include.bib.publisher }}
+        <div class="publication-preview-venue">
+            {% assign hasPublicationMeta = false %}
+            {%- if include.bib.publisher -%}
+                {{ include.bib.publisher }}
+                {% assign hasPublicationMeta = true %}
+            {%- elsif include.bib.container-title -%}
+                {{ include.bib.container-title }}
+                {% assign hasPublicationMeta = true %}
+            {%- endif -%}
+            {%- if include.bib.volume -%}
+                {%- if hasPublicationMeta -%}, {% endif -%}Vol.{{ include.bib.volume }}
+                {% assign hasPublicationMeta = true %}
+            {%- endif -%}
+            {%- if include.bib.issue -%}
+                {%- if hasPublicationMeta -%}, {% endif -%}Issue {{ include.bib.issue }}
+                {% assign hasPublicationMeta = true %}
+            {%- endif -%}
+            {%- if include.bib.page -%}
+                {%- if hasPublicationMeta -%}, {% endif -%}pp.{{ include.bib.page }}
+                {% assign hasPublicationMeta = true %}
+            {%- endif -%}
+            {%- if hasPublicationMeta -%}, {% endif -%}{{ include.bib.issued.date-parts[0][0] }}
+        </div>
+
+        {%- if include.bib.note or include.bib.co-author -%}
+        <div class="publication-preview-highlight">
+            {%- if include.bib.note -%}{{ include.bib.note }}{%- endif -%}
+            {%- if include.bib.note and include.bib.co-author -%}, {% endif -%}
+            {%- if include.bib.co-author -%}{{ include.bib.co-author }}{%- endif -%}
+        </div>
         {%- endif -%}
-
-        {%- if include.bib.container-title -%}
-            , {{ include.bib.container-title }}
-        {%- endif -%}
-
-        {%- if include.bib.volume -%}
-            , Vol.{{ include.bib.volume }}
-        {%- endif -%}
-
-        {%- if include.bib.issue -%}
-            , Issue {{ include.bib.issue }}
-        {%- endif -%}
-
-        , {{ include.bib.issued.date-parts[0][0] }}
-
-        {%- if include.bib.page -%}
-            , pp.{{ include.bib.page }}
-        {%- endif -%}
-
-        <b>
-        {%- if include.bib.note -%}
-            , ({{ include.bib.note }})
-        {%- endif -%}
-        </b>
-        .
-        {%- if include.bib.co-author -%}
-        <br><span style="font-size: 0.8em;">{{ include.bib.co-author }}</span>
-        {%- endif -%}
-    </p>
+    </div>
 </li>

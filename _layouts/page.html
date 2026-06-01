@@ -4,14 +4,28 @@ layout: default
 <div class="min-vh-100">
     <div class="py-5"></div>
 
-    <div class="page-title container mb-3 pt-5 pt-md-0">
+    <div class="page-title container mb-3 pt-5 pt-md-0{% if page.title_actions %} page-title-with-actions{% endif %}">
         {% if page.title %}
         {% assign pageTitle = page.title %}
         {% else %}
         {% assign pageName = page.name | remove: ".html" | split: " " %}
         {% capture pageTitle %} {% for word in pageName %} {{ word | capitalize }} {% endfor %} {% endcapture %}
         {% endif %}
+        {% if page.title_actions == "publication-tabs" %}
+        <div class="page-title-row">
+            <h1 class="display-4">{{ pageTitle }}</h1>
+            <ul class="nav publication-tabs publication-title-tabs no-user-select" id="publication-tabs" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" id="pubs-international-tab" data-toggle="tab" href="#pubs-international" role="tab" aria-controls="pubs-international" aria-selected="true">International</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" id="pubs-domestic-tab" data-toggle="tab" href="#pubs-domestic" role="tab" aria-controls="pubs-domestic" aria-selected="false">Domestic</a>
+                </li>
+            </ul>
+        </div>
+        {% else %}
         <h1 class="display-4">{{ pageTitle }}</h1>
+        {% endif %}
     </div>
 
     <main id="main">

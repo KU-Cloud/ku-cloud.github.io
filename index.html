@@ -58,10 +58,12 @@ layout: default
         {% include title-container.html title="Recent News" %}
 
         <div class="container px-0">
-            <div class="card-columns">
+            <div class="row news-grid">
                 {% assign posts = site.categories.news %}
                 {% for post in posts limit:9 %}
-                {% include news-item.html news=post %}
+                <div class="col-md-4 mb-4 d-flex">
+                    {% include news-item.html news=post %}
+                </div>
                 {% endfor %}
             </div>
         </div>

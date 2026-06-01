@@ -4,20 +4,25 @@
 {% assign cover = "assets/images/members/" | append: member.name | append: ".webp" %}
 {% endunless %}
 
-<div class="student-card card">
+<div class="student-card card h-100">
     <img src="{{ cover }}" class="card-img-top" alt="{{ member.name }}" onerror="this.src='{{ site.defaultCover }}'">
     <div class="card-body text-center">
         <h5 class="card-title">{{ member.name }}</h5>
         {% if member.course %}
-        <p class="card-text">{{ member.course }}</p>
+        <p class="card-text student-course">{{ member.course }}</p>
         {% endif %}
 
         {% if member.research %}
-        <p class="card-text">{{ member.research | slice: 0, 3 | array_to_sentence_string }}</p>
+        {% assign researchText = member.research | slice: 0, 3 | array_to_sentence_string %}
+        {% assign researchWords = researchText | split: " " %}
+        {% assign researchBreak = researchWords.size | plus: 1 | divided_by: 2 %}
+        <p class="card-text student-research">
+            {% for word in researchWords %}{{ word }}{% if forloop.index == researchBreak and researchWords.size > 1 %}<br>{% elsif forloop.last == false %} {% endif %}{% endfor %}
+        </p>
         {% endif %}
 
         {% if member.mail %}
-        <p class="card-text mb-0"><a href="mailto:{{ member.mail }}">{{ member.mail }}</a></p>
+        <p class="card-text student-email mb-0"><a href="mailto:{{ member.mail }}">{{ member.mail }}</a></p>
         {% endif %}
     </div>
 </div>
