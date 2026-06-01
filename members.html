@@ -11,16 +11,34 @@ title: Students
 
 {% include title-container.html title="Graduate Students" %}
 <div class="container">
-    <h4 class="mt-4 mb-3">Full-time</h4>
+    <h4 class="student-section-title">Full-time</h4>
 </div>
 {% include student-member-group.html members=fullTimeStudents %}
 <div class="container">
-    <h4 class="mt-4 mb-3">Part-time</h4>
+    <h4 class="student-section-title">Part-time</h4>
 </div>
 {% include student-member-group.html members=partTimeStudents %}
 
 {% include title-container.html title="Undergraduate Student" %}
-{% include student-member-group.html members=site.data.members.intern %}
+<div class="container">
+    <h4 class="student-section-title">Intern</h4>
+</div>
+<div class="container page-students">
+    <div class="row">
+        {% for member in site.data.members.intern %}
+        <div class="student-col col-md-4 col-sm-6 col-12 d-flex">
+            <div class="student-card student-card-compact card h-100">
+                <div class="card-body text-center">
+                    <h5 class="card-title">{{ member.name }}</h5>
+                    {% if member.mail %}
+                    <p class="card-text student-email mb-0"><a href="mailto:{{ member.mail }}">{{ member.mail }}</a></p>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
 
 <script>
     $(function () {

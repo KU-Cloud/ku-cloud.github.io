@@ -1,51 +1,19 @@
 ---
 layout: page
+title: Publications
+title_actions: publication-tabs
 ---
 
-<div class="position-relative">
-
-    {% include title-container.html id="pubs-international" title="International Publications" %}
-    <div class="content container">
-        {% include publication-mixed-group.html journals=site.data.publications-ji conferences=site.data.publications-ci %}
+<div class="tab-content" id="publication-tab-content">
+    <div class="tab-pane fade show active" id="pubs-international" role="tabpanel" aria-labelledby="pubs-international-tab">
+        <div class="container publication-content">
+            {% include publication-mixed-group.html journals=site.data.publications-ji conferences=site.data.publications-ci %}
+        </div>
     </div>
 
-    {% include title-container.html id="pubs-domestic" title="Domestic Publications" %}
-    <div class="content container">
-        {% include publication-mixed-group.html journals=site.data.publications-jd conferences=site.data.publications-cd %}
+    <div class="tab-pane fade" id="pubs-domestic" role="tabpanel" aria-labelledby="pubs-domestic-tab">
+        <div class="container publication-content">
+            {% include publication-mixed-group.html journals=site.data.publications-jd conferences=site.data.publications-cd %}
+        </div>
     </div>
-
 </div>
-
-<ul class="nav nav-tabs justify-content-center bg-light fixed-top no-user-select" id="scroll-guide">
-    <!-- <ul class=""> -->
-        <li class="nav-item"><a href="#pubs-international" class="nav-link">International</a></li>
-        <li class="nav-item"><a href="#pubs-domestic" class="nav-link">Domestic</a></li>
-    <!-- </ul> -->
-</ul>
-
-<script>
-    $(function () {
-        $('body').scrollspy({
-            target: '#scroll-guide',
-            offset: 400,
-        });
-
-        var $trg = $('html, body')
-
-        function adjustAnchor() {
-            var $anchor = $(':target');
-            var fixedElementHeight = 100;
-
-            if ($anchor.length < 0) return;
-
-            var offset = $anchor.offset();
-            offset && $trg.stop().animate({
-                scrollTop:  offset.top - fixedElementHeight
-            }, 200);
-        };
-
-        $(window).on('hashchange load', function () {
-            adjustAnchor();
-        });
-    })
-</script>

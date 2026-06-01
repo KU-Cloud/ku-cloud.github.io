@@ -2,10 +2,10 @@
 {% assign conferences = include.conferences | sort: 'issued.date-parts' | reverse %}
 {% assign bibs = journals | concat: conferences | sort: 'issued.date-parts' | reverse %}
 {% assign year = bibs[0].issued.date-parts[0][0] %}
-<div style="background-color: rgba(213, 213, 213, 0.678);">
-    <h5>{{ year }}</h5>
+<div class="publication-year">
+    <span>{{ year }}</span>
 </div>
-<ul class="list-unstyled">
+<ul class="publication-list list-unstyled">
     {% for bib in bibs %}
         {% assign y = bib.issued.date-parts[0][0] %}
         {% if y == year %}
@@ -17,13 +17,10 @@
         {% else %}
         {% assign year = y %}
 </ul>
-<div style="margin-top: 20px; margin-bottom: 20px;">
-    <hr>
+<div class="publication-year">
+    <span>{{ year }}</span>
 </div>
-<div style="background-color: rgba(213, 213, 213, 0.678);">
-    <h5>{{ year }}</h5>
-</div>
-<ul class="list-unstyled">
+<ul class="publication-list list-unstyled">
             {% if journals contains bib %}
                 {% include publication-item.html bib=bib type="Journal" %}
             {% else %}

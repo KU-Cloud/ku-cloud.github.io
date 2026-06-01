@@ -1,17 +1,19 @@
 {% assign news=include.news %}
 
-<div class="card">
-    {% if news.cover.src %}
-    <img class="card-img-top" src="{{ news.cover.src }}" {% if news.cover.alt %} alt="{{ news.cover.alt }}" {% endif %}>
-    {% endif %}
-    <div class="card-body">
-        <h5 class="card-title">{{ news.title }}</h5>
-        <div class="card-text text-justify">
-            {{ news.excerpt }}
+<div class="card news-card h-100">
+    <div class="news-card-media{% unless news.cover.src %} news-card-media-placeholder{% endunless %}">
+        {% if news.cover.src %}
+        <img src="{{ news.cover.src }}" {% if news.cover.alt %} alt="{{ news.cover.alt }}" {% endif %}>
+        {% endif %}
+    </div>
+    <div class="card-body news-card-body">
+        <div class="news-card-date">
+            <time datetime="{{ news.date }}">{{ news.date | date: "%b %d, %Y" }}</time>
         </div>
+        <h5 class="card-title news-card-title">{{ news.title }}</h5>
+        <p class="card-text news-card-excerpt">
+            {{ news.excerpt | strip_html | strip_newlines | truncate: 150 }}
+        </p>
     </div>
-    <div class="card-footer text-muted text-right">
-        <small><time datetime="{{ news.date }}">{{ news.date | date: "%b %d, %y" }}</time></small>
-    </div>
-    <a class="stretched-link" href="{{ news.url }}"></a>
+    <a class="stretched-link" href="{{ news.url }}" aria-label="{{ news.title | escape }}"></a>
 </div>
