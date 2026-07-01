@@ -2823,4 +2823,177 @@
       },
     ],
   },
+  {
+    "type": "paper-conference",
+    "id": "park2026coordinating",
+    "citation-key": "park2026coordinating",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          30
+        ]
+      ]
+    },
+    "publisher": "IEEE 46th International Conference on Distributed Computing Systems (ICDCS 2026)",
+    "title": "Coordinating Traffic at Group Granularity for Tail Latency Control in Service Meshes",
+    "note": "SCIE-compatible Top-tier Conference, Acceptance Rate: 18.59%",
+    "author": [
+      {
+        "given": "Hokun",
+        "family": "Park"
+      },
+      {
+        "given": "HyungJun",
+        "family": "Kim"
+      },
+      {
+        "given": "Hwamin",
+        "family": "Lee"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ]
+  },
+  {
+    "type": "paper-conference",
+    "id": "kim2026anchordl",
+    "citation-key": "kim2026anchordl",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7
+        ]
+      ]
+    },
+    "publisher": "IEEE 19th International Conference on Cloud Computing (CLOUD 2026)",
+    "title": "AnchorDL: Dual-Locality-based Scheduling for Serverless Inference Workflows",
+    "note": "SCIE-compatible Top-tier Conference, Acceptance Rate: 23%",
+    "author": [
+      {
+        "given": "Min Chang",
+        "family": "Kim"
+      },
+      {
+        "given": "HyungJun",
+        "family": "Kim"
+      },
+      {
+        "given": "Hokun",
+        "family": "Park"
+      },
+      {
+        "given": "Minjae",
+        "family": "Kang"
+      },
+      {
+        "given": "Hwamin",
+        "family": "Lee"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ]
+  },
+  {
+    "type": "paper-conference",
+    "id": "jung2026bystander",
+    "citation-key": "jung2026bystander",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7
+        ]
+      ]
+    },
+    "publisher": "IEEE 19th International Conference on Cloud Computing (CLOUD 2026)",
+    "title": "BYSTANDER: State-Aware Execution-Time Prediction for Heterogeneous LLM Inference Scheduling",
+    "note": "SCIE-compatible Top-tier Conference, Acceptance Rate: 23%",
+    "author": [
+      {
+        "given": "Minjae",
+        "family": "Jung"
+      },
+      {
+        "given": "HyungJun",
+        "family": "Kim"
+      },
+      {
+        "given": "Hokun",
+        "family": "Park"
+      },
+      {
+        "given": "Hwamin",
+        "family": "Lee"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ]
+  },
+  {
+    "type": "paper-conference",
+    "id": "song2025edgenet",
+    "citation-key": "song2025edgenet",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    },
+    "publisher": "The 11th International Conference on Next Generation Computing (ICNGC 2025)",
+    "title": "EdgeNet: Simulator for Modeling of Network Overhead and Server Clustering Algorithm on Edge Computing",
+    "author": [
+      {
+        "given": "Chunggeon",
+        "family": "Song"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      },
+      {
+        "given": "Joon-Min",
+        "family": "Gil"
+      }
+    ]
+  },
+  {
+    "type": "paper-conference",
+    "id": "kim2025straggler",
+    "citation-key": "kim2025straggler",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    },
+    "publisher": "The 11th International Conference on Next Generation Computing (ICNGC 2025)",
+    "title": "Straggler-Aware Weighted Synchronization for Distributed Deep Learning",
+    "author": [
+      {
+        "given": "HyungJun",
+        "family": "Kim"
+      },
+      {
+        "given": "Joon-Min",
+        "family": "Gil"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ]
+  },
 ]
