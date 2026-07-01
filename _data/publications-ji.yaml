@@ -2812,4 +2812,35 @@
     "note": "JCR 2024 Top 9.9%, IF: 6.1",
     "volume": "180"
   },
+  {
+    "container-title": "Future Generation Computer Systems",
+    "author": [
+      {
+        "given": "HyungJun",
+        "family": "Kim"
+      },
+      {
+        "given": "Hwamin",
+        "family": "Lee"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ],
+    "type": "article-journal",
+    "id": "kim2026rex",
+    "citation-key": "kim2026rex",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "title": "REX: Adaptive distributed training with statistically validated batch scaling and spline-guided Bayesian optimization on heterogeneous GPU clusters",
+    "note": "JCR 2024 Top 9.9%, IF: 6.1",
+    "volume": "185"
+  },
 ]
