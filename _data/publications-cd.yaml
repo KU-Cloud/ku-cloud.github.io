@@ -5783,4 +5783,269 @@
     "publisher": "한국정보기술학회 추계종합학술대회 및 대학생논문경진대회 KIIT2025",
     "title": "쿠버네티스 환경에서 QoS 향상과 로드 밸런싱을 위한 통신 인식 리스케줄링 기법"
   },
+  {
+    "author": [
+      {
+        "family": "노태헌"
+      },
+      {
+        "family": "강태신"
+      },
+      {
+        "family": "김형준"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "노2026쿠버네티스",
+    "citation-key": "노2026쿠버네티스",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7
+        ]
+      ]
+    },
+    "page": "1673-1675",
+    "publisher": "2026 한국컴퓨터종합학술대회(KCC2026)",
+    "title": "쿠버네티스 환경에서 LLM 서빙 엔진의 콜드스타트 지연 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "오준호"
+      },
+      {
+        "family": "박호근"
+      },
+      {
+        "family": "김용근"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "오2026cpu",
+    "citation-key": "오2026cpu",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7
+        ]
+      ]
+    },
+    "page": "2652-2654",
+    "publisher": "2026 한국컴퓨터종합학술대회(KCC2026)",
+    "title": "CPU 이기종 환경에서 통신 구조별 Least Request 후보 수에 따른 성능 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "유나연"
+      },
+      {
+        "family": "김민창"
+      },
+      {
+        "family": "왠민낫"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "유2026쿠버네티스",
+    "citation-key": "유2026쿠버네티스",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7
+        ]
+      ]
+    },
+    "page": "2703-2705",
+    "publisher": "2026 한국컴퓨터종합학술대회(KCC2026)",
+    "title": "쿠버네티스 멀티노드 환경에서의 Istio Sidecar 및 Ambient 모드 성능 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "이유림"
+      },
+      {
+        "family": "김민창"
+      },
+      {
+        "family": "정민재"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "이2026다양한",
+    "citation-key": "이2026다양한",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7
+        ]
+      ]
+    },
+    "page": "2691-2693",
+    "publisher": "2026 한국컴퓨터종합학술대회(KCC2026)",
+    "title": "다양한 Kubernetes HPA 정책에 따른 vLLM기반 LLM 추론 작업의 성능 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "강상구"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "강2026멀티턴",
+    "citation-key": "강2026멀티턴",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "page": "726-728",
+    "publisher": "2026 한국컴퓨터종합학술대회(KCC2026)",
+    "title": "멀티턴 상담 대화의 고정 스키마 상태 추출에서 프롬프트 형식과 정보 밀도의 상호작용 분석"
+  },
+  {
+    "author": [
+      {
+        "family": "허준범"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "허2026오픈소스",
+    "citation-key": "허2026오픈소스",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          31
+        ]
+      ]
+    },
+    "page": "203-206",
+    "publisher": "2026 한국정보처리학회 ASK2026",
+    "title": "오픈소스 CSPM(Prowler)와 Zabbix 연동을 활용한 실시간 클라우드 보안 취약점 대응 시스템 구현"
+  },
+  {
+    "author": [
+      {
+        "family": "백경민"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "백2026원화",
+    "citation-key": "백2026원화",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5
+        ]
+      ]
+    },
+    "page": "760-763",
+    "publisher": "2026 한국정보처리학회 ASK2026",
+    "title": "원화 기준 수입원가 지표를 이용한 미국산 쇠고기 가격 전이 분석: ARDL-ECM 과 딥러닝 예측 비교"
+  },
+  {
+    "author": [
+      {
+        "family": "이유미"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "이2026딥러닝",
+    "citation-key": "이2026딥러닝",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5
+        ]
+      ]
+    },
+    "page": "603-606",
+    "publisher": "2026 한국정보처리학회 ASK2026",
+    "title": "딥러닝 변동성 경로 모델의 확률 분포 재현력 비교 프레임워크 구축"
+  },
+  {
+    "author": [
+      {
+        "family": "최찬영"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "최2026apache",
+    "citation-key": "최2026apache",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5
+        ]
+      ]
+    },
+    "page": "619-622",
+    "publisher": "2026 한국정보처리학회 ASK2026",
+    "title": "Apache Spark 환경에서 IPFS (분산저장소) 기반 대용량 지도 데이터 표기 시 발생하는 OOM (Out-Of-Memory) 최적화"
+  },
+  {
+    "author": [
+      {
+        "family": "이창규"
+      },
+      {
+        "family": "유헌창"
+      }
+    ],
+    "type": "paper-conference",
+    "id": "이2026SMEs",
+    "citation-key": "이2026SMEs",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5
+        ]
+      ]
+    },
+    "page": "228-231",
+    "publisher": "2026 한국정보처리학회 ASK2026",
+    "title": "SMEs 환경에서 프롬프트 유출 방지를 위한 3단계 질의 필터링 프레임워크"
+  },
 ]
