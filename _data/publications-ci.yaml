@@ -2838,6 +2838,7 @@
     },
     "publisher": "IEEE 46th International Conference on Distributed Computing Systems (ICDCS 2026)",
     "title": "Coordinating Traffic at Group Granularity for Tail Latency Control in Service Meshes",
+    "status": "Accepted",
     "note": "SCIE-compatible Top-tier Conference, Acceptance Rate: 18.59%",
     "author": [
       {
@@ -2872,10 +2873,11 @@
     },
     "publisher": "IEEE 19th International Conference on Cloud Computing (CLOUD 2026)",
     "title": "AnchorDL: Dual-Locality-based Scheduling for Serverless Inference Workflows",
+    "status": "Accepted",
     "note": "SCIE-compatible Top-tier Conference, Acceptance Rate: 23%",
     "author": [
       {
-        "given": "Minchang",
+        "given": "Min Chang",
         "family": "Kim"
       },
       {
@@ -2914,6 +2916,7 @@
     },
     "publisher": "IEEE 19th International Conference on Cloud Computing (CLOUD 2026)",
     "title": "BYSTANDER: State-Aware Execution-Time Prediction for Heterogeneous LLM Inference Scheduling",
+    "status": "Accepted",
     "note": "SCIE-compatible Top-tier Conference, Acceptance Rate: 23%",
     "author": [
       {

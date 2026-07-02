@@ -197,6 +197,16 @@ h6 {
   font-weight: 400;
 }
 
+.publication-preview-status {
+  display: inline-flex;
+  align-items: center;
+  margin: 0 0 0.42rem 0.55rem;
+  color: #555;
+  font-size: 0.86rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
 .publication-preview-title {
   margin-bottom: 0.45rem;
   font-size: 1.1rem;
@@ -205,7 +215,8 @@ h6 {
 }
 
 @include media-breakpoint-down(sm) {
-  .publication-preview-type {
+  .publication-preview-type,
+  .publication-preview-status {
     margin-bottom: 0.3rem;
     line-height: 1.2;
   }
