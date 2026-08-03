@@ -4,6 +4,9 @@
             {% if include.type %}
             <span class="publication-preview-type">{{ include.type }}</span>
             {% endif %}
+            {% if include.bib.status %}
+            <span class="publication-preview-status">{{ include.bib.status }}</span>
+            {% endif %}
             <div class="publication-preview-title">
                 {{ include.bib.title }}
             </div>
