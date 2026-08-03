@@ -2913,7 +2913,7 @@
       ]
     },
     "publisher": "IEEE 19th International Conference on Cloud Computing (CLOUD 2026)",
-    "title": "BYSTANDER: State-Aware Execution-Time Prediction for Heterogeneous LLM Inference Scheduling",
+    "title": "BYSTANDER: State-Aware End-to-End Latency Prediction for Heterogeneous LLM Inference Scheduling",
     "note": "SCIE-compatible Top-tier Conference, Acceptance Rate: 23%",
     "author": [
       {
