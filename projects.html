@@ -13,13 +13,13 @@ $(function(){
         if(new Date($self.data('end')) > Date.now()) return;
         $past.prepend($self);
     });
-    
+    /*
     // pull up `rep` project to top
     $onGoing.children().each(function(){
         $self = $(this);
         if($self.data('role') != 'rep') return;
         $onGoing.prepend($self)
-    });
+    });*/
 });
 </script>
 
