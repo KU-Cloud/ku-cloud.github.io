@@ -1179,5 +1179,16 @@
   date: 2026-07-24T19:00:00.00+0900
   speacker: 박호근
   location: 애기능생활관 301호 (Zoom 동시 송출)
-
+- title: 'HotSwap: Enabling Live Dependency Sharing in Serverless Computing'
+  date: 2026-08-28T19:00:00.000+0900
+  speacker: 김민창
+  location: 애기능생활관 301호 (Zoom 동시 송출)
+- title: 'Preble: Efficient Distributed Prompt Scheduling for LLM Serving'
+  date: 2026-09-04T19:00:00.000+0900
+  speacker: 정민재
+  location: 애기능생활관 301호 (Zoom 동시 송출)
+- title: 'SpecServe: Efficient and SLO-Aware Large Language Model Serving with Adaptive Speculative Decoding'
+  date: 2026-10-16T19:00:00.000+0900
+  speacker: 김용근
+  location: 애기능생활관 301호 (Zoom 동시 송출)
 

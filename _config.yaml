@@ -25,6 +25,7 @@ sass:
 
 # Build settings
 exclude:
+  - "hk-*"
   - .vscode
   - .old.zip
   - _publications

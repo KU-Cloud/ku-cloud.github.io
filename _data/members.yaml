@@ -90,22 +90,22 @@ master:
     research:
       - "Distributed Deep Learning"
 intern:
-  - name: Junho Oh
-    mail: hundopsun@korea.ac.kr
-  - name: Nayeon You
-    mail: yxxnxyxxn@korea.ac.kr
-  - name: Yurim Lee
-    mail: yourimmy@korea.ac.kr
   - name: Yeonju Kim
     mail: 2022200052@korea.ac.kr
-  - name: Jonghyun Lee
-    mail: waterbang12@korea.ac.kr
-  - name: Seonghun Moon
-    mail: shmoon337@korea.ac.kr
-  # - name: Seoeun Kwon
-  # - name: Yonggeun Kim
-  # - name: Yeongmin Kim
-  # - name: Jeonghee Lee
+  - name: Jongheon Kim
+    mail: kjh0529@korea.ac.kr
+  - name: Chaerin Noh
+    mail: sinye2002@korea.ac.kr
+  - name: Wooin Shin
+    mail: wishin0605@naver.com
+  - name: Wonjun Lee
+    mail: leewonjunlee@korea.ac.kr
+  - name: Muhammad Hakeemi
+    mail: keira@korea.ac.kr
+  - name: Sydykbekova Sezim
+    mail: 2023320170@korea.ac.kr
+  - name: Yukang Zheng
+    mail: keewiii@korea.ac.kr
 alumniPhd:
   - name: Hwamin Lee
     mail: hwamin77@gmail.com
