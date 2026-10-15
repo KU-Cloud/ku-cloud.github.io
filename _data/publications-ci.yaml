@@ -2996,4 +2996,80 @@
       }
     ]
   },
+  {
+    "type": "paper-conference",
+    "id": "rin2026",
+    "citation-key": "rin2026",
+    "issued": {
+      "date-parts": [
+        [2026, 12, 19]
+      ]
+    },
+    "publisher": "The 12th IEEE International Conference on Edge Computing and Scalable Cloud (IEEE EdgeCom 2026)",
+    "title": "Rin: Prediction-Aware Selective Launch for Supersedable LLM Inference Requests",
+    "author": [
+      {
+        "given": "Minjae",
+        "family": "Jung"
+      },
+      {
+        "given": "Hokun",
+        "family": "Park"
+      },
+      {
+        "given": "Hyungjun",
+        "family": "Kim"
+      },
+      {
+        "given": "Yonggeun",
+        "family": "Kim"
+      },
+      {
+        "given": "Minh Nhat",
+        "family": "Nguyen"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ]
+  },
+  {
+    "type": "paper-conference",
+    "id": "predictivereplica2026",
+    "citation-key": "predictivereplica2026",
+    "issued": {
+      "date-parts": [
+        [2026, 12, 19]
+      ]
+    },
+    "publisher": "The 12th IEEE International Conference on Edge Computing and Scalable Cloud (IEEE EdgeCom 2026)",
+    "title": "Predictive Replica Selection with Load Feedback for Microservices in Edge–Cloud Environments",
+    "author": [
+      {
+        "given": "Hokun",
+        "family": "Park"
+      },
+      {
+        "given": "Minjae",
+        "family": "Jung"
+      },
+      {
+        "given": "Hyungjun",
+        "family": "Kim"
+      },
+      {
+        "given": "Min Chang",
+        "family": "Kim"
+      },
+      {
+        "given": "Tae Heon",
+        "family": "Roh"
+      },
+      {
+        "given": "Heonchang",
+        "family": "Yu"
+      }
+    ]
+  },
 ]
